@@ -1,0 +1,36 @@
+# clip_08_safe_alone - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  573.88 -   576.12] You just said that you spent a lot of time alone.
+[  576.81 -   578.20] Yeah. And sometimes you got to do that
+[  578.34 -   580.60] even with the people you come from.
+[  580.66 -   581.68] Because I feel safe alone.
+[  582.04 -   585.44] I feel like me chilling with you might be a liability for me.
+[  585.62 -   587.86] Just because we just live two different lifestyles
+[  587.86 -   590.30] and I think differently from ground up than you,
+[  590.36 -   592.68] you might put me in harm's way and not even realize it.
+[  592.74 -   594.12] So cut them people off.
+[  594.32 -   595.46] No, but that's you.
+[  596.04 -   598.22] It could be you. It could be you, Charlamagne, right now.
+[  598.76 -   599.98] Charlamagne ain't gonna put you in a place
+[  599.98 -   601.62] where you feel like your life is threatened. No.
+[  601.66 -   602.78] Envy ain't gonna put you in a place
+[  602.78 -   603.98] where you feel like your life is threatened. Intentionally.
+[  604.04 -   605.34] No, we got too much to lose.
+[  606.12 -   607.70] I don't want to sound tough or none of that,
+[  607.76 -   610.98] but I'm dramatically different from the average person. You feel me?
+[  611.28 -   613.52] It's to a certain extent, the security don't even got it
+[  613.52 -   615.94] in him nine times out of ten. Like, you feel me?
+[  616.02 -   617.44] What I'ma do? Like, I'ma put you to the test.
+[  617.54 -   621.18] Go in the street and let me see you in extreme situation. You feel me?
+[  622.28 -   624.90] Sometimes you got to fight fire with fire.
+[  625.00 -   626.98] Sometimes I be around the bros and I be like,
+[  627.20 -   628.66] bro, y'all annoying me. You feel me?
+[  628.74 -   630.28] And they know that. They know that. We talk to them.
+[  630.34 -   632.00] I be like, I love y'all, bro. I want y'all to do better, bro.
+[  632.06 -   634.28] But y'all is annoying. Y'all in the way. You feel me?
+[  634.34 -   638.56] But to a certain extent, you just kind of like, you need to balance it.
+[  638.60 -   641.24] It's just because I can't change. This is like my life.
+[  641.28 -   644.12] Like, this is like, you feel me? You know, but this is how I feel.
+[  644.22 -   647.32] You'll be singing a totally different tune in five years. Guaranteed.
+[  647.78 -   649.22] Hopefully so. You feel me?

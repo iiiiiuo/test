@@ -1,3 +1,17 @@
 input/
 work/*.wav
 work/ref/
+# large media / models / licensed fonts stay local (deliverable videos are copied to the project files folder)
+*.mp4
+*.wav
+*.npy
+*.onnx
+*.ttc
+*.ttf
+work/fonts/
+work/src/
+work/models/
+work/clips/*/pieces/
+work/clips/*/qa/*/
+work/qa/*/
+work/cache/frames*/

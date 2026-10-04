@@ -1,0 +1,123 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.17,0:00:02.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You just said that you spent a lot of
+Dialogue: 0,0:00:00.17,0:00:02.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}time alone.
+Dialogue: 0,0:00:00.17,0:00:02.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}さっき一人で過ごす時間が
+Dialogue: 0,0:00:00.17,0:00:02.91,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}長いって言ってたよね
+Dialogue: 0,0:00:03.10,0:00:04.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. And sometimes you got to
+Dialogue: 0,0:00:03.10,0:00:04.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}do that
+Dialogue: 0,0:00:03.10,0:00:04.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}うん
+Dialogue: 0,0:00:03.10,0:00:04.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}時には地元の仲間とでも
+Dialogue: 0,0:00:04.63,0:00:06.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}even with the people you come from.
+Dialogue: 0,0:00:04.63,0:00:06.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}距離を置かなきゃいけないこともある
+Dialogue: 0,0:00:06.95,0:00:08.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because I feel safe alone.
+Dialogue: 0,0:00:06.95,0:00:08.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}一人の方が安全だと感じるからさ
+Dialogue: 0,0:00:08.33,0:00:11.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel like me chilling with you might
+Dialogue: 0,0:00:08.33,0:00:11.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}be a liability for me.
+Dialogue: 0,0:00:08.33,0:00:11.89,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お前とつるむこと自体が
+Dialogue: 0,0:00:08.33,0:00:11.89,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺にはリスクかもしれねぇ
+Dialogue: 0,0:00:11.91,0:00:14.13,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Just because we just live two
+Dialogue: 0,0:00:11.91,0:00:14.13,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}different lifestyles
+Dialogue: 0,0:00:11.91,0:00:14.13,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}生き方が全然違うし
+Dialogue: 0,0:00:14.15,0:00:16.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I think differently from ground
+Dialogue: 0,0:00:14.15,0:00:16.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}up than you,
+Dialogue: 0,0:00:14.15,0:00:16.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}根本から考え方も違うから
+Dialogue: 0,0:00:16.65,0:00:19.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you might put me in harm's way and
+Dialogue: 0,0:00:16.65,0:00:19.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}not even realize it.
+Dialogue: 0,0:00:16.65,0:00:19.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}知らないうちに俺を
+Dialogue: 0,0:00:16.65,0:00:19.01,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}危険な目に遭わせるかもしれない
+Dialogue: 0,0:00:19.03,0:00:20.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So cut them people off.
+Dialogue: 0,0:00:19.03,0:00:20.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}じゃあそういう奴らとは縁を切ると
+Dialogue: 0,0:00:20.61,0:00:22.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, but that's you.
+Dialogue: 0,0:00:20.61,0:00:22.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いや、お前のことだって
+Dialogue: 0,0:00:22.33,0:00:25.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It could be you. It could be you,
+Dialogue: 0,0:00:22.33,0:00:25.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Charlamagne, right now.
+Dialogue: 0,0:00:22.33,0:00:25.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お前かもしれないし
+Dialogue: 0,0:00:22.33,0:00:25.01,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}今ここにいるシャーラメインかもな
+Dialogue: 0,0:00:25.05,0:00:26.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Charlamagne ain't gonna put you in
+Dialogue: 0,0:00:25.05,0:00:26.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}a place
+Dialogue: 0,0:00:25.05,0:00:26.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}シャーラメインがお前を
+Dialogue: 0,0:00:26.27,0:00:27.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}where you feel like your life is
+Dialogue: 0,0:00:26.27,0:00:27.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}threatened. No.
+Dialogue: 0,0:00:26.27,0:00:27.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}命の危険にさらすことはねぇよ
+Dialogue: 0,0:00:27.95,0:00:29.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Envy ain't gonna put you in a place
+Dialogue: 0,0:00:27.95,0:00:29.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}エンヴィーだって
+Dialogue: 0,0:00:29.07,0:00:30.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}where you feel like your life is
+Dialogue: 0,0:00:29.07,0:00:30.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}threatened. Intentionally.
+Dialogue: 0,0:00:29.07,0:00:30.31,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}命の危険にさらしたりしねぇ
+Dialogue: 0,0:00:29.07,0:00:30.31,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わざとはな
+Dialogue: 0,0:00:30.33,0:00:32.13,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, we got too much to lose.
+Dialogue: 0,0:00:30.33,0:00:32.13,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}しないしない、俺らも失うもんが多すぎる
+Dialogue: 0,0:00:32.41,0:00:34.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I don't want to sound tough or none
+Dialogue: 0,0:00:32.41,0:00:34.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of that,
+Dialogue: 0,0:00:32.41,0:00:34.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}イキってるように
+Dialogue: 0,0:00:32.41,0:00:34.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}聞こえたくはないけど
+Dialogue: 0,0:00:34.05,0:00:37.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but I'm dramatically different from
+Dialogue: 0,0:00:34.05,0:00:37.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the average person. You feel me?
+Dialogue: 0,0:00:34.05,0:00:37.55,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は普通の人とは
+Dialogue: 0,0:00:34.05,0:00:37.55,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}全然違うんだよ
+Dialogue: 0,0:00:37.57,0:00:39.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's to a certain extent, the security
+Dialogue: 0,0:00:37.57,0:00:39.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}don't even got it
+Dialogue: 0,0:00:37.57,0:00:39.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ある程度までいくと
+Dialogue: 0,0:00:37.57,0:00:39.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}セキュリティでさえ
+Dialogue: 0,0:00:39.81,0:00:42.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}in him nine times out of ten. Like,
+Dialogue: 0,0:00:39.81,0:00:42.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you feel me?
+Dialogue: 0,0:00:39.81,0:00:42.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}10回中9回は
+Dialogue: 0,0:00:39.81,0:00:42.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そこまでの覚悟ないからな
+Dialogue: 0,0:00:42.31,0:00:43.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What I'ma do? Like, I'ma put you to
+Dialogue: 0,0:00:42.31,0:00:43.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the test.
+Dialogue: 0,0:00:42.31,0:00:43.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺がどうするかって？
+Dialogue: 0,0:00:42.31,0:00:43.81,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前を試すんだよ
+Dialogue: 0,0:00:43.83,0:00:47.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Go in the street and let me see you
+Dialogue: 0,0:00:43.83,0:00:47.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in extreme situation. You feel me?
+Dialogue: 0,0:00:43.83,0:00:47.97,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ストリートに出て
+Dialogue: 0,0:00:43.83,0:00:47.97,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}極限状態のお前を見せてみろって
+Dialogue: 0,0:00:48.57,0:00:51.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Sometimes you got to fight fire
+Dialogue: 0,0:00:48.57,0:00:51.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with fire.
+Dialogue: 0,0:00:48.57,0:00:51.27,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}時には毒を以て毒を制す
+Dialogue: 0,0:00:48.57,0:00:51.27,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}しかねぇんだよ
+Dialogue: 0,0:00:51.29,0:00:53.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Sometimes I be around the bros and
+Dialogue: 0,0:00:51.29,0:00:53.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I be like,
+Dialogue: 0,0:00:51.29,0:00:53.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}仲間といる時も
+Dialogue: 0,0:00:53.49,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}bro, y'all annoying me. You feel me?
+Dialogue: 0,0:00:53.49,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「お前らうぜぇよ」って言うしな
+Dialogue: 0,0:00:55.03,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And they know that. They know that.
+Dialogue: 0,0:00:55.03,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}We talk to them.
+Dialogue: 0,0:00:55.03,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつらもわかってる
+Dialogue: 0,0:00:55.03,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ちゃんと話してるし
+Dialogue: 0,0:00:56.63,0:00:58.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I be like, I love y'all, bro. I want y'all
+Dialogue: 0,0:00:56.63,0:00:58.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to do better, bro.
+Dialogue: 0,0:00:56.63,0:00:58.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「愛してるよ、お前らには
+Dialogue: 0,0:00:56.63,0:00:58.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もっとちゃんとしてほしいんだよ」
+Dialogue: 0,0:00:58.35,0:01:00.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But y'all is annoying. Y'all in the way.
+Dialogue: 0,0:00:58.35,0:01:00.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}You feel me?
+Dialogue: 0,0:00:58.35,0:01:00.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「でもうぜぇし、邪魔なんだよ」って
+Dialogue: 0,0:01:00.63,0:01:04.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But to a certain extent, you just kind
+Dialogue: 0,0:01:00.63,0:01:04.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of like, you need to balance it.
+Dialogue: 0,0:01:00.63,0:01:04.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもある程度は
+Dialogue: 0,0:01:00.63,0:01:04.87,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}バランス取らなきゃいけない
+Dialogue: 0,0:01:04.89,0:01:07.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's just because I can't change. This
+Dialogue: 0,0:01:04.89,0:01:07.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}is like my life.
+Dialogue: 0,0:01:04.89,0:01:07.55,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は変われないからさ
+Dialogue: 0,0:01:04.89,0:01:07.55,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}これが俺の人生なんだよ
+Dialogue: 0,0:01:07.57,0:01:10.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, this is like, you feel me? You
+Dialogue: 0,0:01:07.57,0:01:10.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know, but this is how I feel.
+Dialogue: 0,0:01:07.57,0:01:10.49,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}わかるだろ？
+Dialogue: 0,0:01:07.57,0:01:10.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}これが俺の気持ちなんだよ
+Dialogue: 0,0:01:10.51,0:01:14.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You'll be singing a totally different
+Dialogue: 0,0:01:10.51,0:01:14.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}tune in five years. Guaranteed.
+Dialogue: 0,0:01:10.51,0:01:14.05,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}5年後には全然違うこと言ってるよ
+Dialogue: 0,0:01:10.51,0:01:14.05,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}絶対な
+Dialogue: 0,0:01:14.07,0:01:15.58,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Hopefully so. You feel me?
+Dialogue: 0,0:01:14.07,0:01:15.58,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だといいけどな

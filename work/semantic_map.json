@@ -1,0 +1,84 @@
+{
+ "source": "SOURCE_INTERVIEW sha256 2bc9e4b5\u20260280f",
+ "coverage": "0.000-747.814 s fully assigned",
+ "units": [
+  {
+   "id": "U01",
+   "start_s": 0.0,
+   "end_s": 61.0,
+   "summary": "Settling into adulthood; crash-out reputation; headlines; leaving courthouse, 'album on the way'"
+  },
+  {
+   "id": "U02",
+   "start_s": 61.06,
+   "end_s": 135.28,
+   "summary": "Host asks why he invites drama (Offset gambling, Kai Cenat streams); Offset owes him 10K, calls him a bum; whole industry in his DMs"
+  },
+  {
+   "id": "U03",
+   "start_s": 135.28,
+   "end_s": 143.1,
+   "summary": "Bridge: Charlamagne follow-up 'y'all cool like that to say here's 10K?'"
+  },
+  {
+   "id": "U04",
+   "start_s": 143.3,
+   "end_s": 229.82,
+   "summary": "Casino story: he lent 10K, Offset begging regular ladies for cash, made it rain in strip club; 'it's about respect'"
+  },
+  {
+   "id": "U05",
+   "start_s": 231.4,
+   "end_s": 267.24,
+   "summary": "Worried what others think? 'most I did was call him a bum'; 10K in the air; could you and Offset be cool"
+  },
+  {
+   "id": "U06",
+   "start_s": 267.68,
+   "end_s": 349.84,
+   "summary": "Is beef too far to squash? A Boogie come give me a hug; Offset hug too; feel bad for Offset's gambling, 'look a little sad'"
+  },
+  {
+   "id": "U07",
+   "start_s": 350.12,
+   "end_s": 423.8,
+   "summary": "Healed from being shot 7 times? PTSD wore off; no therapy, isolated; maybe 8-9 shots, mad holes"
+  },
+  {
+   "id": "U08",
+   "start_s": 424.36,
+   "end_s": 480.76,
+   "summary": "Out of coma, got on feet, almost fought the doctor, 'he spanked you out' hospital gown joke"
+  },
+  {
+   "id": "U09",
+   "start_s": 480.76,
+   "end_s": 546.06,
+   "summary": "Does trauma change people? changed in front of the world; misunderstood; album name They Just Ain't You"
+  },
+  {
+   "id": "U10",
+   "start_s": 546.32,
+   "end_s": 571.92,
+   "summary": "Removed bullet from neck while awake with numbing cream; 'Rambo' joke"
+  },
+  {
+   "id": "U11",
+   "start_s": 573.88,
+   "end_s": 649.22,
+   "summary": "Feels safe alone; friends a liability; different from average person; 'singing a different tune in five years'"
+  },
+  {
+   "id": "U12",
+   "start_s": 649.34,
+   "end_s": 735.56,
+   "summary": "50 Cent: shooting parallel, Many Men remix, different paths, too old for trolling"
+  },
+  {
+   "id": "U13",
+   "start_s": 736.0,
+   "end_s": 747.81,
+   "summary": "Outro/sign-off and network bumper (non-content)"
+  }
+ ]
+}

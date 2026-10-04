@@ -1,0 +1,2309 @@
+[
+{
+"start_frame": 0,
+"end_frame_excl": 1,
+"scores": {
+"G": NaN,
+"W": NaN,
+"E": NaN,
+"W2": NaN,
+"H": NaN
+},
+"cls": "G",
+"mid_frame": 0,
+"start_s": 0.0,
+"end_s": 0.033
+},
+{
+"start_frame": 1,
+"end_frame_excl": 24,
+"scores": {
+"G": -0.006,
+"W": 0.083,
+"E": 1.0,
+"W2": 0.073,
+"H": 0.04
+},
+"cls": "E",
+"mid_frame": 12,
+"start_s": 0.033,
+"end_s": 0.801
+},
+{
+"start_frame": 24,
+"end_frame_excl": 235,
+"scores": {
+"G": 0.966,
+"W": 0.186,
+"E": -0.004,
+"W2": 0.029,
+"H": -0.01
+},
+"cls": "G",
+"mid_frame": 129,
+"start_s": 0.801,
+"end_s": 7.841
+},
+{
+"start_frame": 235,
+"end_frame_excl": 255,
+"scores": {
+"G": -0.013,
+"W": 0.105,
+"E": 0.916,
+"W2": 0.065,
+"H": 0.077
+},
+"cls": "E",
+"mid_frame": 245,
+"start_s": 7.841,
+"end_s": 8.508
+},
+{
+"start_frame": 255,
+"end_frame_excl": 405,
+"scores": {
+"G": 0.178,
+"W": 0.9,
+"E": 0.094,
+"W2": 0.041,
+"H": -0.061
+},
+"cls": "W",
+"mid_frame": 330,
+"start_s": 8.508,
+"end_s": 13.514
+},
+{
+"start_frame": 405,
+"end_frame_excl": 430,
+"transition": true,
+"cls": "T",
+"start_s": 13.514,
+"end_s": 14.348
+},
+{
+"start_frame": 430,
+"end_frame_excl": 477,
+"scores": {
+"G": 0.169,
+"W": 0.172,
+"E": 0.046,
+"W2": 0.07,
+"H": 0.14
+},
+"cls": "W",
+"mid_frame": 453,
+"start_s": 14.348,
+"end_s": 15.916
+},
+{
+"start_frame": 477,
+"end_frame_excl": 495,
+"scores": {
+"G": 0.321,
+"W": 0.129,
+"E": 0.098,
+"W2": 0.103,
+"H": -0.03
+},
+"cls": "G",
+"mid_frame": 486,
+"start_s": 15.916,
+"end_s": 16.517
+},
+{
+"start_frame": 495,
+"end_frame_excl": 831,
+"scores": {
+"G": 0.483,
+"W": 0.187,
+"E": 0.047,
+"W2": 0.081,
+"H": -0.028
+},
+"cls": "G",
+"mid_frame": 663,
+"start_s": 16.517,
+"end_s": 27.728
+},
+{
+"start_frame": 831,
+"end_frame_excl": 880,
+"transition": true,
+"cls": "T",
+"start_s": 27.728,
+"end_s": 29.363
+},
+{
+"start_frame": 880,
+"end_frame_excl": 1254,
+"scores": {
+"G": 0.194,
+"W": 0.946,
+"E": 0.084,
+"W2": 0.075,
+"H": -0.069
+},
+"cls": "W",
+"mid_frame": 1067,
+"start_s": 29.363,
+"end_s": 41.842
+},
+{
+"start_frame": 1254,
+"end_frame_excl": 1274,
+"scores": {
+"G": -0.012,
+"W": -0.07,
+"E": 0.04,
+"W2": -0.026,
+"H": 1.0
+},
+"cls": "H",
+"mid_frame": 1264,
+"start_s": 41.842,
+"end_s": 42.509
+},
+{
+"start_frame": 1274,
+"end_frame_excl": 1484,
+"scores": {
+"G": 0.034,
+"W": 0.1,
+"E": 0.114,
+"W2": 0.577,
+"H": -0.033
+},
+"cls": "W2",
+"mid_frame": 1379,
+"start_s": 42.509,
+"end_s": 49.516
+},
+{
+"start_frame": 1484,
+"end_frame_excl": 1491,
+"transition": true,
+"cls": "T",
+"start_s": 49.516,
+"end_s": 49.75
+},
+{
+"start_frame": 1491,
+"end_frame_excl": 1532,
+"scores": {
+"G": 0.026,
+"W": 0.05,
+"E": 0.073,
+"W2": 1.0,
+"H": -0.026
+},
+"cls": "W2",
+"mid_frame": 1511,
+"start_s": 49.75,
+"end_s": 51.118
+},
+{
+"start_frame": 1532,
+"end_frame_excl": 1706,
+"scores": {
+"G": 0.031,
+"W": 0.072,
+"E": 0.081,
+"W2": 0.835,
+"H": -0.017
+},
+"cls": "W2",
+"mid_frame": 1619,
+"start_s": 51.118,
+"end_s": 56.924
+},
+{
+"start_frame": 1706,
+"end_frame_excl": 1731,
+"transition": true,
+"cls": "T",
+"start_s": 56.924,
+"end_s": 57.758
+},
+{
+"start_frame": 1731,
+"end_frame_excl": 1748,
+"scores": {
+"G": 0.025,
+"W": 0.315,
+"E": 0.063,
+"W2": 0.115,
+"H": 0.057
+},
+"cls": "W",
+"mid_frame": 1739,
+"start_s": 57.758,
+"end_s": 58.325
+},
+{
+"start_frame": 1748,
+"end_frame_excl": 1755,
+"transition": true,
+"cls": "T",
+"start_s": 58.325,
+"end_s": 58.559
+},
+{
+"start_frame": 1755,
+"end_frame_excl": 1811,
+"scores": {
+"G": 0.139,
+"W": 0.523,
+"E": 0.076,
+"W2": 0.063,
+"H": -0.058
+},
+"cls": "W",
+"mid_frame": 1783,
+"start_s": 58.559,
+"end_s": 60.427
+},
+{
+"start_frame": 1811,
+"end_frame_excl": 1832,
+"scores": {
+"G": -0.035,
+"W": -0.068,
+"E": 0.059,
+"W2": -0.038,
+"H": 0.905
+},
+"cls": "H",
+"mid_frame": 1821,
+"start_s": 60.427,
+"end_s": 61.128
+},
+{
+"start_frame": 1832,
+"end_frame_excl": 1849,
+"scores": {
+"G": 0.011,
+"W": 0.101,
+"E": 0.932,
+"W2": 0.075,
+"H": 0.069
+},
+"cls": "E",
+"mid_frame": 1840,
+"start_s": 61.128,
+"end_s": 61.695
+},
+{
+"start_frame": 1849,
+"end_frame_excl": 1862,
+"transition": true,
+"cls": "T",
+"start_s": 61.695,
+"end_s": 62.129
+},
+{
+"start_frame": 1862,
+"end_frame_excl": 2808,
+"scores": {
+"G": 0.015,
+"W": 0.098,
+"E": 0.01,
+"W2": 0.472,
+"H": -0.087
+},
+"cls": "W2",
+"mid_frame": 2335,
+"start_s": 62.129,
+"end_s": 93.694
+},
+{
+"start_frame": 2808,
+"end_frame_excl": 2845,
+"transition": true,
+"cls": "T",
+"start_s": 93.694,
+"end_s": 94.928
+},
+{
+"start_frame": 2845,
+"end_frame_excl": 2874,
+"scores": {
+"G": 0.018,
+"W": 0.227,
+"E": 0.098,
+"W2": 0.122,
+"H": 0.058
+},
+"cls": "W",
+"mid_frame": 2859,
+"start_s": 94.928,
+"end_s": 95.896
+},
+{
+"start_frame": 2874,
+"end_frame_excl": 2946,
+"scores": {
+"G": 0.069,
+"W": 0.28,
+"E": 0.1,
+"W2": 0.093,
+"H": 0.013
+},
+"cls": "W",
+"mid_frame": 2910,
+"start_s": 95.896,
+"end_s": 98.298
+},
+{
+"start_frame": 2946,
+"end_frame_excl": 2977,
+"transition": true,
+"cls": "T",
+"start_s": 98.298,
+"end_s": 99.333
+},
+{
+"start_frame": 2977,
+"end_frame_excl": 3557,
+"scores": {
+"G": 0.502,
+"W": 0.088,
+"E": 0.047,
+"W2": 0.089,
+"H": -0.022
+},
+"cls": "G",
+"mid_frame": 3267,
+"start_s": 99.333,
+"end_s": 118.685
+},
+{
+"start_frame": 3557,
+"end_frame_excl": 3606,
+"transition": true,
+"cls": "T",
+"start_s": 118.685,
+"end_s": 120.32
+},
+{
+"start_frame": 3606,
+"end_frame_excl": 3641,
+"scores": {
+"G": 0.152,
+"W": 0.334,
+"E": 0.052,
+"W2": 0.071,
+"H": -0.035
+},
+"cls": "W",
+"mid_frame": 3623,
+"start_s": 120.32,
+"end_s": 121.488
+},
+{
+"start_frame": 3641,
+"end_frame_excl": 3892,
+"scores": {
+"G": 0.194,
+"W": 0.635,
+"E": 0.09,
+"W2": 0.062,
+"H": -0.063
+},
+"cls": "W",
+"mid_frame": 3766,
+"start_s": 121.488,
+"end_s": 129.863
+},
+{
+"start_frame": 3892,
+"end_frame_excl": 3935,
+"scores": {
+"G": -0.0,
+"W": -0.068,
+"E": 0.051,
+"W2": -0.024,
+"H": 0.969
+},
+"cls": "H",
+"mid_frame": 3913,
+"start_s": 129.863,
+"end_s": 131.298
+},
+{
+"start_frame": 3935,
+"end_frame_excl": 4408,
+"scores": {
+"G": 0.195,
+"W": 0.698,
+"E": 0.088,
+"W2": 0.055,
+"H": -0.029
+},
+"cls": "W",
+"mid_frame": 4171,
+"start_s": 131.298,
+"end_s": 147.08
+},
+{
+"start_frame": 4408,
+"end_frame_excl": 4444,
+"scores": {
+"G": 0.123,
+"W": 0.604,
+"E": 0.079,
+"W2": 0.075,
+"H": -0.047
+},
+"cls": "W",
+"mid_frame": 4426,
+"start_s": 147.08,
+"end_s": 148.281
+},
+{
+"start_frame": 4444,
+"end_frame_excl": 4504,
+"scores": {
+"G": 0.155,
+"W": 0.431,
+"E": 0.069,
+"W2": 0.069,
+"H": -0.006
+},
+"cls": "W",
+"mid_frame": 4474,
+"start_s": 148.281,
+"end_s": 150.283
+},
+{
+"start_frame": 4504,
+"end_frame_excl": 4529,
+"transition": true,
+"cls": "T",
+"start_s": 150.283,
+"end_s": 151.118
+},
+{
+"start_frame": 4529,
+"end_frame_excl": 5613,
+"scores": {
+"G": 0.363,
+"W": 0.227,
+"E": 0.086,
+"W2": 0.09,
+"H": -0.094
+},
+"cls": "G",
+"mid_frame": 5071,
+"start_s": 151.118,
+"end_s": 187.287
+},
+{
+"start_frame": 5613,
+"end_frame_excl": 5648,
+"transition": true,
+"cls": "T",
+"start_s": 187.287,
+"end_s": 188.455
+},
+{
+"start_frame": 5648,
+"end_frame_excl": 5746,
+"scores": {
+"G": -0.006,
+"W": -0.068,
+"E": 0.051,
+"W2": -0.022,
+"H": 0.969
+},
+"cls": "H",
+"mid_frame": 5697,
+"start_s": 188.455,
+"end_s": 191.725
+},
+{
+"start_frame": 5746,
+"end_frame_excl": 5752,
+"transition": true,
+"cls": "T",
+"start_s": 191.725,
+"end_s": 191.925
+},
+{
+"start_frame": 5752,
+"end_frame_excl": 6033,
+"scores": {
+"G": 0.432,
+"W": 0.102,
+"E": 0.073,
+"W2": 0.046,
+"H": -0.068
+},
+"cls": "G",
+"mid_frame": 5892,
+"start_s": 191.925,
+"end_s": 201.301
+},
+{
+"start_frame": 6033,
+"end_frame_excl": 6061,
+"scores": {
+"G": -0.007,
+"W": -0.069,
+"E": 0.052,
+"W2": -0.026,
+"H": 0.972
+},
+"cls": "H",
+"mid_frame": 6047,
+"start_s": 201.301,
+"end_s": 202.235
+},
+{
+"start_frame": 6061,
+"end_frame_excl": 6081,
+"scores": {
+"G": 0.468,
+"W": 0.086,
+"E": 0.065,
+"W2": 0.059,
+"H": -0.059
+},
+"cls": "G",
+"mid_frame": 6071,
+"start_s": 202.235,
+"end_s": 202.903
+},
+{
+"start_frame": 6081,
+"end_frame_excl": 6136,
+"transition": true,
+"cls": "T",
+"start_s": 202.903,
+"end_s": 204.738
+},
+{
+"start_frame": 6136,
+"end_frame_excl": 6154,
+"scores": {
+"G": 0.186,
+"W": 0.366,
+"E": 0.13,
+"W2": 0.161,
+"H": -0.044
+},
+"cls": "W",
+"mid_frame": 6145,
+"start_s": 204.738,
+"end_s": 205.338
+},
+{
+"start_frame": 6154,
+"end_frame_excl": 6187,
+"scores": {
+"G": -0.003,
+"W": -0.071,
+"E": 0.057,
+"W2": -0.024,
+"H": 0.964
+},
+"cls": "H",
+"mid_frame": 6170,
+"start_s": 205.338,
+"end_s": 206.44
+},
+{
+"start_frame": 6187,
+"end_frame_excl": 6406,
+"scores": {
+"G": 0.199,
+"W": 0.428,
+"E": 0.097,
+"W2": 0.12,
+"H": -0.042
+},
+"cls": "W",
+"mid_frame": 6296,
+"start_s": 206.44,
+"end_s": 213.747
+},
+{
+"start_frame": 6406,
+"end_frame_excl": 6465,
+"scores": {
+"G": 0.006,
+"W": 0.123,
+"E": 0.863,
+"W2": 0.049,
+"H": 0.08
+},
+"cls": "E",
+"mid_frame": 6435,
+"start_s": 213.747,
+"end_s": 215.715
+},
+{
+"start_frame": 6465,
+"end_frame_excl": 6701,
+"scores": {
+"G": 0.151,
+"W": 0.339,
+"E": 0.08,
+"W2": 0.112,
+"H": -0.031
+},
+"cls": "W",
+"mid_frame": 6583,
+"start_s": 215.715,
+"end_s": 223.59
+},
+{
+"start_frame": 6701,
+"end_frame_excl": 6726,
+"scores": {
+"G": -0.003,
+"W": -0.065,
+"E": 0.05,
+"W2": -0.026,
+"H": 0.968
+},
+"cls": "H",
+"mid_frame": 6713,
+"start_s": 223.59,
+"end_s": 224.424
+},
+{
+"start_frame": 6726,
+"end_frame_excl": 6753,
+"transition": true,
+"cls": "T",
+"start_s": 224.424,
+"end_s": 225.325
+},
+{
+"start_frame": 6753,
+"end_frame_excl": 6776,
+"scores": {
+"G": 0.006,
+"W": 0.117,
+"E": -0.011,
+"W2": 0.419,
+"H": -0.041
+},
+"cls": "W2",
+"mid_frame": 6764,
+"start_s": 225.325,
+"end_s": 226.093
+},
+{
+"start_frame": 6776,
+"end_frame_excl": 6787,
+"transition": true,
+"cls": "T",
+"start_s": 226.093,
+"end_s": 226.46
+},
+{
+"start_frame": 6787,
+"end_frame_excl": 6839,
+"scores": {
+"G": -0.011,
+"W": 0.099,
+"E": 0.914,
+"W2": 0.055,
+"H": 0.071
+},
+"cls": "E",
+"mid_frame": 6813,
+"start_s": 226.46,
+"end_s": 228.195
+},
+{
+"start_frame": 6839,
+"end_frame_excl": 7094,
+"scores": {
+"G": 0.2,
+"W": 0.621,
+"E": 0.078,
+"W2": 0.1,
+"H": -0.074
+},
+"cls": "W",
+"mid_frame": 6966,
+"start_s": 228.195,
+"end_s": 236.703
+},
+{
+"start_frame": 7094,
+"end_frame_excl": 7274,
+"scores": {
+"G": 0.171,
+"W": 0.605,
+"E": 0.082,
+"W2": 0.132,
+"H": -0.083
+},
+"cls": "W",
+"mid_frame": 7184,
+"start_s": 236.703,
+"end_s": 242.709
+},
+{
+"start_frame": 7274,
+"end_frame_excl": 7879,
+"scores": {
+"G": 0.126,
+"W": 0.408,
+"E": 0.096,
+"W2": 0.112,
+"H": -0.032
+},
+"cls": "W",
+"mid_frame": 7576,
+"start_s": 242.709,
+"end_s": 262.896
+},
+{
+"start_frame": 7879,
+"end_frame_excl": 7933,
+"scores": {
+"G": 0.072,
+"W": 0.358,
+"E": 0.046,
+"W2": 0.099,
+"H": 0.054
+},
+"cls": "W",
+"mid_frame": 7906,
+"start_s": 262.896,
+"end_s": 264.698
+},
+{
+"start_frame": 7933,
+"end_frame_excl": 8021,
+"scores": {
+"G": 0.08,
+"W": 0.381,
+"E": 0.075,
+"W2": 0.101,
+"H": 0.009
+},
+"cls": "W",
+"mid_frame": 7977,
+"start_s": 264.698,
+"end_s": 267.634
+},
+{
+"start_frame": 8021,
+"end_frame_excl": 8063,
+"scores": {
+"G": -0.01,
+"W": -0.073,
+"E": 0.053,
+"W2": -0.021,
+"H": 0.97
+},
+"cls": "H",
+"mid_frame": 8042,
+"start_s": 267.634,
+"end_s": 269.035
+},
+{
+"start_frame": 8063,
+"end_frame_excl": 8095,
+"scores": {
+"G": 0.452,
+"W": 0.155,
+"E": 0.064,
+"W2": 0.008,
+"H": -0.063
+},
+"cls": "G",
+"mid_frame": 8079,
+"start_s": 269.035,
+"end_s": 270.103
+},
+{
+"start_frame": 8095,
+"end_frame_excl": 8335,
+"scores": {
+"G": 0.003,
+"W": 0.097,
+"E": 0.969,
+"W2": 0.08,
+"H": 0.061
+},
+"cls": "E",
+"mid_frame": 8215,
+"start_s": 270.103,
+"end_s": 278.111
+},
+{
+"start_frame": 8335,
+"end_frame_excl": 8668,
+"scores": {
+"G": 0.407,
+"W": 0.115,
+"E": 0.046,
+"W2": 0.079,
+"H": -0.025
+},
+"cls": "G",
+"mid_frame": 8501,
+"start_s": 278.111,
+"end_s": 289.222
+},
+{
+"start_frame": 8668,
+"end_frame_excl": 8765,
+"scores": {
+"G": -0.002,
+"W": 0.098,
+"E": 0.93,
+"W2": 0.071,
+"H": 0.053
+},
+"cls": "E",
+"mid_frame": 8716,
+"start_s": 289.222,
+"end_s": 292.459
+},
+{
+"start_frame": 8765,
+"end_frame_excl": 8882,
+"scores": {
+"G": 0.446,
+"W": 0.074,
+"E": 0.058,
+"W2": 0.015,
+"H": -0.037
+},
+"cls": "G",
+"mid_frame": 8823,
+"start_s": 292.459,
+"end_s": 296.363
+},
+{
+"start_frame": 8882,
+"end_frame_excl": 8923,
+"scores": {
+"G": 0.015,
+"W": 0.102,
+"E": 0.941,
+"W2": 0.087,
+"H": 0.051
+},
+"cls": "E",
+"mid_frame": 8902,
+"start_s": 296.363,
+"end_s": 297.731
+},
+{
+"start_frame": 8923,
+"end_frame_excl": 9229,
+"scores": {
+"G": 0.519,
+"W": 0.103,
+"E": 0.023,
+"W2": 0.032,
+"H": -0.045
+},
+"cls": "G",
+"mid_frame": 9076,
+"start_s": 297.731,
+"end_s": 307.941
+},
+{
+"start_frame": 9229,
+"end_frame_excl": 9274,
+"scores": {
+"G": 0.007,
+"W": 0.093,
+"E": 0.959,
+"W2": 0.079,
+"H": 0.063
+},
+"cls": "E",
+"mid_frame": 9251,
+"start_s": 307.941,
+"end_s": 309.442
+},
+{
+"start_frame": 9274,
+"end_frame_excl": 9383,
+"scores": {
+"G": 0.288,
+"W": 0.08,
+"E": 0.135,
+"W2": 0.029,
+"H": -0.01
+},
+"cls": "G",
+"mid_frame": 9328,
+"start_s": 309.442,
+"end_s": 313.079
+},
+{
+"start_frame": 9383,
+"end_frame_excl": 9513,
+"scores": {
+"G": 0.014,
+"W": 0.102,
+"E": 0.942,
+"W2": 0.077,
+"H": 0.045
+},
+"cls": "E",
+"mid_frame": 9448,
+"start_s": 313.079,
+"end_s": 317.417
+},
+{
+"start_frame": 9513,
+"end_frame_excl": 10478,
+"scores": {
+"G": 0.448,
+"W": 0.148,
+"E": 0.113,
+"W2": 0.029,
+"H": 0.011
+},
+"cls": "G",
+"mid_frame": 9995,
+"start_s": 317.417,
+"end_s": 349.616
+},
+{
+"start_frame": 10478,
+"end_frame_excl": 10510,
+"scores": {
+"G": -0.035,
+"W": -0.072,
+"E": 0.046,
+"W2": -0.025,
+"H": 0.955
+},
+"cls": "H",
+"mid_frame": 10494,
+"start_s": 349.616,
+"end_s": 350.684
+},
+{
+"start_frame": 10510,
+"end_frame_excl": 10534,
+"scores": {
+"G": 0.15,
+"W": 0.692,
+"E": 0.076,
+"W2": 0.061,
+"H": -0.059
+},
+"cls": "W",
+"mid_frame": 10522,
+"start_s": 350.684,
+"end_s": 351.484
+},
+{
+"start_frame": 10534,
+"end_frame_excl": 10803,
+"scores": {
+"G": -0.001,
+"W": 0.093,
+"E": 0.92,
+"W2": 0.071,
+"H": 0.058
+},
+"cls": "E",
+"mid_frame": 10668,
+"start_s": 351.484,
+"end_s": 360.46
+},
+{
+"start_frame": 10803,
+"end_frame_excl": 11068,
+"scores": {
+"G": 0.583,
+"W": 0.155,
+"E": 0.038,
+"W2": 0.04,
+"H": -0.036
+},
+"cls": "G",
+"mid_frame": 10935,
+"start_s": 360.46,
+"end_s": 369.302
+},
+{
+"start_frame": 11068,
+"end_frame_excl": 11099,
+"scores": {
+"G": 0.013,
+"W": 0.097,
+"E": 0.971,
+"W2": 0.084,
+"H": 0.063
+},
+"cls": "E",
+"mid_frame": 11083,
+"start_s": 369.302,
+"end_s": 370.337
+},
+{
+"start_frame": 11099,
+"end_frame_excl": 11103,
+"transition": true,
+"cls": "T",
+"start_s": 370.337,
+"end_s": 370.47
+},
+{
+"start_frame": 11103,
+"end_frame_excl": 11402,
+"scores": {
+"G": 0.489,
+"W": 0.099,
+"E": 0.066,
+"W2": 0.055,
+"H": -0.048
+},
+"cls": "G",
+"mid_frame": 11252,
+"start_s": 370.47,
+"end_s": 380.447
+},
+{
+"start_frame": 11402,
+"end_frame_excl": 11457,
+"transition": true,
+"cls": "T",
+"start_s": 380.447,
+"end_s": 382.282
+},
+{
+"start_frame": 11457,
+"end_frame_excl": 11730,
+"scores": {
+"G": 0.18,
+"W": 0.783,
+"E": 0.091,
+"W2": 0.048,
+"H": -0.056
+},
+"cls": "W",
+"mid_frame": 11593,
+"start_s": 382.282,
+"end_s": 391.391
+},
+{
+"start_frame": 11730,
+"end_frame_excl": 11776,
+"scores": {
+"G": -0.037,
+"W": -0.061,
+"E": 0.061,
+"W2": -0.035,
+"H": 0.918
+},
+"cls": "H",
+"mid_frame": 11753,
+"start_s": 391.391,
+"end_s": 392.926
+},
+{
+"start_frame": 11776,
+"end_frame_excl": 11808,
+"transition": true,
+"cls": "T",
+"start_s": 392.926,
+"end_s": 393.994
+},
+{
+"start_frame": 11808,
+"end_frame_excl": 11853,
+"scores": {
+"G": -0.036,
+"W": -0.062,
+"E": 0.059,
+"W2": -0.035,
+"H": 0.917
+},
+"cls": "H",
+"mid_frame": 11830,
+"start_s": 393.994,
+"end_s": 395.495
+},
+{
+"start_frame": 11853,
+"end_frame_excl": 11910,
+"scores": {
+"G": 0.52,
+"W": 0.141,
+"E": 0.003,
+"W2": 0.031,
+"H": 0.001
+},
+"cls": "G",
+"mid_frame": 11881,
+"start_s": 395.495,
+"end_s": 397.397
+},
+{
+"start_frame": 11910,
+"end_frame_excl": 12110,
+"scores": {
+"G": 0.0,
+"W": 0.094,
+"E": 0.946,
+"W2": 0.072,
+"H": 0.059
+},
+"cls": "E",
+"mid_frame": 12010,
+"start_s": 397.397,
+"end_s": 404.07
+},
+{
+"start_frame": 12110,
+"end_frame_excl": 12313,
+"scores": {
+"G": 0.385,
+"W": 0.215,
+"E": 0.011,
+"W2": 0.032,
+"H": 0.027
+},
+"cls": "G",
+"mid_frame": 12211,
+"start_s": 404.07,
+"end_s": 410.844
+},
+{
+"start_frame": 12313,
+"end_frame_excl": 12347,
+"scores": {
+"G": 0.01,
+"W": 0.096,
+"E": 0.979,
+"W2": 0.083,
+"H": 0.062
+},
+"cls": "E",
+"mid_frame": 12330,
+"start_s": 410.844,
+"end_s": 411.978
+},
+{
+"start_frame": 12347,
+"end_frame_excl": 12374,
+"transition": true,
+"cls": "T",
+"start_s": 411.978,
+"end_s": 412.879
+},
+{
+"start_frame": 12374,
+"end_frame_excl": 12463,
+"scores": {
+"G": 0.191,
+"W": 0.793,
+"E": 0.083,
+"W2": 0.09,
+"H": -0.078
+},
+"cls": "W",
+"mid_frame": 12418,
+"start_s": 412.879,
+"end_s": 415.849
+},
+{
+"start_frame": 12463,
+"end_frame_excl": 12495,
+"scores": {
+"G": -0.036,
+"W": -0.063,
+"E": 0.061,
+"W2": -0.035,
+"H": 0.916
+},
+"cls": "H",
+"mid_frame": 12479,
+"start_s": 415.849,
+"end_s": 416.916
+},
+{
+"start_frame": 12495,
+"end_frame_excl": 12725,
+"scores": {
+"G": 0.155,
+"W": 0.531,
+"E": 0.089,
+"W2": 0.105,
+"H": -0.061
+},
+"cls": "W",
+"mid_frame": 12610,
+"start_s": 416.916,
+"end_s": 424.591
+},
+{
+"start_frame": 12725,
+"end_frame_excl": 12751,
+"scores": {
+"G": 0.007,
+"W": 0.099,
+"E": 0.979,
+"W2": 0.084,
+"H": 0.06
+},
+"cls": "E",
+"mid_frame": 12738,
+"start_s": 424.591,
+"end_s": 425.458
+},
+{
+"start_frame": 12751,
+"end_frame_excl": 12789,
+"scores": {
+"G": 0.547,
+"W": 0.185,
+"E": -0.023,
+"W2": -0.012,
+"H": 0.044
+},
+"cls": "G",
+"mid_frame": 12770,
+"start_s": 425.458,
+"end_s": 426.726
+},
+{
+"start_frame": 12789,
+"end_frame_excl": 12840,
+"scores": {
+"G": -0.017,
+"W": -0.078,
+"E": 0.05,
+"W2": -0.018,
+"H": 0.911
+},
+"cls": "H",
+"mid_frame": 12814,
+"start_s": 426.726,
+"end_s": 428.428
+},
+{
+"start_frame": 12840,
+"end_frame_excl": 12982,
+"scores": {
+"G": 0.297,
+"W": 0.172,
+"E": 0.03,
+"W2": 0.006,
+"H": -0.021
+},
+"cls": "G",
+"mid_frame": 12911,
+"start_s": 428.428,
+"end_s": 433.166
+},
+{
+"start_frame": 12982,
+"end_frame_excl": 13019,
+"transition": true,
+"cls": "T",
+"start_s": 433.166,
+"end_s": 434.401
+},
+{
+"start_frame": 13019,
+"end_frame_excl": 13042,
+"scores": {
+"G": 0.162,
+"W": 0.426,
+"E": 0.056,
+"W2": 0.114,
+"H": -0.039
+},
+"cls": "W",
+"mid_frame": 13030,
+"start_s": 434.401,
+"end_s": 435.168
+},
+{
+"start_frame": 13042,
+"end_frame_excl": 13186,
+"scores": {
+"G": 0.116,
+"W": 0.416,
+"E": 0.084,
+"W2": 0.091,
+"H": 0.008
+},
+"cls": "W",
+"mid_frame": 13114,
+"start_s": 435.168,
+"end_s": 439.973
+},
+{
+"start_frame": 13186,
+"end_frame_excl": 13211,
+"transition": true,
+"cls": "T",
+"start_s": 439.973,
+"end_s": 440.807
+},
+{
+"start_frame": 13211,
+"end_frame_excl": 13595,
+"scores": {
+"G": 0.645,
+"W": 0.148,
+"E": 0.011,
+"W2": 0.025,
+"H": -0.008
+},
+"cls": "G",
+"mid_frame": 13403,
+"start_s": 440.807,
+"end_s": 453.62
+},
+{
+"start_frame": 13595,
+"end_frame_excl": 13628,
+"scores": {
+"G": -0.001,
+"W": 0.096,
+"E": 0.924,
+"W2": 0.071,
+"H": 0.065
+},
+"cls": "E",
+"mid_frame": 13611,
+"start_s": 453.62,
+"end_s": 454.721
+},
+{
+"start_frame": 13628,
+"end_frame_excl": 13791,
+"scores": {
+"G": 0.538,
+"W": 0.141,
+"E": -0.002,
+"W2": 0.007,
+"H": -0.028
+},
+"cls": "G",
+"mid_frame": 13709,
+"start_s": 454.721,
+"end_s": 460.16
+},
+{
+"start_frame": 13791,
+"end_frame_excl": 13828,
+"transition": true,
+"cls": "T",
+"start_s": 460.16,
+"end_s": 461.394
+},
+{
+"start_frame": 13828,
+"end_frame_excl": 13875,
+"scores": {
+"G": 0.152,
+"W": 0.369,
+"E": 0.056,
+"W2": 0.082,
+"H": 0.014
+},
+"cls": "W",
+"mid_frame": 13851,
+"start_s": 461.394,
+"end_s": 462.963
+},
+{
+"start_frame": 13875,
+"end_frame_excl": 13902,
+"scores": {
+"G": -0.001,
+"W": 0.106,
+"E": 0.922,
+"W2": 0.071,
+"H": 0.064
+},
+"cls": "E",
+"mid_frame": 13888,
+"start_s": 462.963,
+"end_s": 463.863
+},
+{
+"start_frame": 13902,
+"end_frame_excl": 14294,
+"scores": {
+"G": 0.083,
+"W": 0.438,
+"E": 0.105,
+"W2": 0.106,
+"H": 0.001
+},
+"cls": "W",
+"mid_frame": 14098,
+"start_s": 463.863,
+"end_s": 476.943
+},
+{
+"start_frame": 14294,
+"end_frame_excl": 14348,
+"scores": {
+"G": 0.003,
+"W": 0.105,
+"E": 0.932,
+"W2": 0.07,
+"H": 0.043
+},
+"cls": "E",
+"mid_frame": 14321,
+"start_s": 476.943,
+"end_s": 478.745
+},
+{
+"start_frame": 14348,
+"end_frame_excl": 14380,
+"scores": {
+"G": 0.177,
+"W": 0.49,
+"E": 0.085,
+"W2": 0.085,
+"H": -0.011
+},
+"cls": "W",
+"mid_frame": 14364,
+"start_s": 478.745,
+"end_s": 479.813
+},
+{
+"start_frame": 14380,
+"end_frame_excl": 14404,
+"scores": {
+"G": -0.011,
+"W": -0.08,
+"E": 0.05,
+"W2": -0.019,
+"H": 0.942
+},
+"cls": "H",
+"mid_frame": 14392,
+"start_s": 479.813,
+"end_s": 480.613
+},
+{
+"start_frame": 14404,
+"end_frame_excl": 15032,
+"scores": {
+"G": 0.126,
+"W": 0.308,
+"E": 0.078,
+"W2": 0.103,
+"H": 0.039
+},
+"cls": "W",
+"mid_frame": 14718,
+"start_s": 480.613,
+"end_s": 501.568
+},
+{
+"start_frame": 15032,
+"end_frame_excl": 15057,
+"transition": true,
+"cls": "T",
+"start_s": 501.568,
+"end_s": 502.402
+},
+{
+"start_frame": 15057,
+"end_frame_excl": 15110,
+"scores": {
+"G": 0.403,
+"W": 0.189,
+"E": 0.032,
+"W2": 0.022,
+"H": 0.056
+},
+"cls": "G",
+"mid_frame": 15083,
+"start_s": 502.402,
+"end_s": 504.17
+},
+{
+"start_frame": 15110,
+"end_frame_excl": 15277,
+"scores": {
+"G": 0.615,
+"W": 0.16,
+"E": 0.039,
+"W2": 0.047,
+"H": -0.051
+},
+"cls": "G",
+"mid_frame": 15193,
+"start_s": 504.17,
+"end_s": 509.743
+},
+{
+"start_frame": 15277,
+"end_frame_excl": 15294,
+"scores": {
+"G": 0.52,
+"W": 0.185,
+"E": 0.036,
+"W2": 0.08,
+"H": -0.078
+},
+"cls": "G",
+"mid_frame": 15285,
+"start_s": 509.743,
+"end_s": 510.31
+},
+{
+"start_frame": 15294,
+"end_frame_excl": 15337,
+"transition": true,
+"cls": "T",
+"start_s": 510.31,
+"end_s": 511.745
+},
+{
+"start_frame": 15337,
+"end_frame_excl": 15541,
+"scores": {
+"G": 0.185,
+"W": 0.566,
+"E": 0.09,
+"W2": 0.085,
+"H": -0.062
+},
+"cls": "W",
+"mid_frame": 15439,
+"start_s": 511.745,
+"end_s": 518.551
+},
+{
+"start_frame": 15541,
+"end_frame_excl": 16408,
+"scores": {
+"G": 0.147,
+"W": 0.47,
+"E": 0.085,
+"W2": 0.077,
+"H": -0.056
+},
+"cls": "W",
+"mid_frame": 15974,
+"start_s": 518.551,
+"end_s": 547.48
+},
+{
+"start_frame": 16408,
+"end_frame_excl": 16439,
+"transition": true,
+"cls": "T",
+"start_s": 547.48,
+"end_s": 548.515
+},
+{
+"start_frame": 16439,
+"end_frame_excl": 16474,
+"scores": {
+"G": 0.346,
+"W": 0.193,
+"E": 0.021,
+"W2": 0.066,
+"H": 0.0
+},
+"cls": "G",
+"mid_frame": 16456,
+"start_s": 548.515,
+"end_s": 549.682
+},
+{
+"start_frame": 16474,
+"end_frame_excl": 16568,
+"scores": {
+"G": 0.684,
+"W": 0.166,
+"E": 0.004,
+"W2": 0.07,
+"H": -0.037
+},
+"cls": "G",
+"mid_frame": 16521,
+"start_s": 549.682,
+"end_s": 552.819
+},
+{
+"start_frame": 16568,
+"end_frame_excl": 16641,
+"scores": {
+"G": -0.016,
+"W": -0.069,
+"E": 0.054,
+"W2": -0.025,
+"H": 0.958
+},
+"cls": "H",
+"mid_frame": 16604,
+"start_s": 552.819,
+"end_s": 555.255
+},
+{
+"start_frame": 16641,
+"end_frame_excl": 16684,
+"scores": {
+"G": 0.523,
+"W": 0.176,
+"E": 0.052,
+"W2": 0.051,
+"H": -0.051
+},
+"cls": "G",
+"mid_frame": 16662,
+"start_s": 555.255,
+"end_s": 556.689
+},
+{
+"start_frame": 16684,
+"end_frame_excl": 16710,
+"scores": {
+"G": -0.012,
+"W": -0.07,
+"E": 0.048,
+"W2": -0.025,
+"H": 0.973
+},
+"cls": "H",
+"mid_frame": 16697,
+"start_s": 556.689,
+"end_s": 557.557
+},
+{
+"start_frame": 16710,
+"end_frame_excl": 16857,
+"scores": {
+"G": 0.46,
+"W": 0.2,
+"E": 0.103,
+"W2": 0.061,
+"H": -0.069
+},
+"cls": "G",
+"mid_frame": 16783,
+"start_s": 557.557,
+"end_s": 562.462
+},
+{
+"start_frame": 16857,
+"end_frame_excl": 16865,
+"transition": true,
+"cls": "T",
+"start_s": 562.462,
+"end_s": 562.729
+},
+{
+"start_frame": 16865,
+"end_frame_excl": 16902,
+"scores": {
+"G": -0.013,
+"W": -0.07,
+"E": 0.05,
+"W2": -0.027,
+"H": 0.975
+},
+"cls": "H",
+"mid_frame": 16883,
+"start_s": 562.729,
+"end_s": 563.963
+},
+{
+"start_frame": 16902,
+"end_frame_excl": 17023,
+"scores": {
+"G": 0.18,
+"W": 0.404,
+"E": 0.081,
+"W2": 0.087,
+"H": -0.022
+},
+"cls": "W",
+"mid_frame": 16962,
+"start_s": 563.963,
+"end_s": 568.001
+},
+{
+"start_frame": 17023,
+"end_frame_excl": 17052,
+"scores": {
+"G": -0.006,
+"W": 0.103,
+"E": 0.925,
+"W2": 0.066,
+"H": 0.067
+},
+"cls": "E",
+"mid_frame": 17037,
+"start_s": 568.001,
+"end_s": 568.968
+},
+{
+"start_frame": 17052,
+"end_frame_excl": 17181,
+"scores": {
+"G": 0.175,
+"W": 0.523,
+"E": 0.089,
+"W2": 0.096,
+"H": -0.037
+},
+"cls": "W",
+"mid_frame": 17116,
+"start_s": 568.968,
+"end_s": 573.273
+},
+{
+"start_frame": 17181,
+"end_frame_excl": 17184,
+"transition": true,
+"cls": "T",
+"start_s": 573.273,
+"end_s": 573.373
+},
+{
+"start_frame": 17184,
+"end_frame_excl": 17214,
+"scores": {
+"G": -0.008,
+"W": -0.073,
+"E": 0.053,
+"W2": -0.026,
+"H": 0.969
+},
+"cls": "H",
+"mid_frame": 17199,
+"start_s": 573.373,
+"end_s": 574.374
+},
+{
+"start_frame": 17214,
+"end_frame_excl": 18000,
+"scores": {
+"G": 0.165,
+"W": 0.457,
+"E": 0.086,
+"W2": 0.116,
+"H": -0.089
+},
+"cls": "W",
+"mid_frame": 17607,
+"start_s": 574.374,
+"end_s": 600.6
+},
+{
+"start_frame": 18000,
+"end_frame_excl": 18049,
+"scores": {
+"G": 0.02,
+"W": 0.103,
+"E": 0.921,
+"W2": 0.072,
+"H": 0.065
+},
+"cls": "E",
+"mid_frame": 18024,
+"start_s": 600.6,
+"end_s": 602.235
+},
+{
+"start_frame": 18049,
+"end_frame_excl": 18153,
+"scores": {
+"G": 0.162,
+"W": 0.588,
+"E": 0.092,
+"W2": 0.065,
+"H": -0.034
+},
+"cls": "W",
+"mid_frame": 18101,
+"start_s": 602.235,
+"end_s": 605.705
+},
+{
+"start_frame": 18153,
+"end_frame_excl": 18169,
+"transition": true,
+"cls": "T",
+"start_s": 605.705,
+"end_s": 606.239
+},
+{
+"start_frame": 18169,
+"end_frame_excl": 18768,
+"scores": {
+"G": 0.139,
+"W": 0.669,
+"E": 0.104,
+"W2": 0.088,
+"H": -0.049
+},
+"cls": "W",
+"mid_frame": 18468,
+"start_s": 606.239,
+"end_s": 626.226
+},
+{
+"start_frame": 18768,
+"end_frame_excl": 18787,
+"transition": true,
+"cls": "T",
+"start_s": 626.226,
+"end_s": 626.86
+},
+{
+"start_frame": 18787,
+"end_frame_excl": 18809,
+"scores": {
+"G": 0.086,
+"W": 0.159,
+"E": 0.028,
+"W2": 0.05,
+"H": 0.113
+},
+"cls": "W",
+"mid_frame": 18798,
+"start_s": 626.86,
+"end_s": 627.594
+},
+{
+"start_frame": 18809,
+"end_frame_excl": 18827,
+"scores": {
+"G": 0.222,
+"W": 0.239,
+"E": 0.001,
+"W2": 0.011,
+"H": 0.143
+},
+"cls": "W",
+"mid_frame": 18818,
+"start_s": 627.594,
+"end_s": 628.194
+},
+{
+"start_frame": 18827,
+"end_frame_excl": 18929,
+"scores": {
+"G": 0.531,
+"W": 0.23,
+"E": 0.002,
+"W2": 0.033,
+"H": -0.02
+},
+"cls": "G",
+"mid_frame": 18878,
+"start_s": 628.194,
+"end_s": 631.598
+},
+{
+"start_frame": 18929,
+"end_frame_excl": 18936,
+"transition": true,
+"cls": "T",
+"start_s": 631.598,
+"end_s": 631.831
+},
+{
+"start_frame": 18936,
+"end_frame_excl": 19211,
+"scores": {
+"G": 0.431,
+"W": 0.08,
+"E": 0.056,
+"W2": 0.057,
+"H": -0.052
+},
+"cls": "G",
+"mid_frame": 19073,
+"start_s": 631.831,
+"end_s": 641.007
+},
+{
+"start_frame": 19211,
+"end_frame_excl": 19326,
+"scores": {
+"G": 0.317,
+"W": 0.055,
+"E": 0.082,
+"W2": 0.026,
+"H": 0.022
+},
+"cls": "G",
+"mid_frame": 19268,
+"start_s": 641.007,
+"end_s": 644.844
+},
+{
+"start_frame": 19326,
+"end_frame_excl": 19363,
+"scores": {
+"G": -0.002,
+"W": 0.106,
+"E": 0.925,
+"W2": 0.065,
+"H": 0.065
+},
+"cls": "E",
+"mid_frame": 19344,
+"start_s": 644.844,
+"end_s": 646.079
+},
+{
+"start_frame": 19363,
+"end_frame_excl": 19380,
+"transition": true,
+"cls": "T",
+"start_s": 646.079,
+"end_s": 646.646
+},
+{
+"start_frame": 19380,
+"end_frame_excl": 19483,
+"scores": {
+"G": 0.153,
+"W": 0.252,
+"E": 0.08,
+"W2": 0.134,
+"H": -0.033
+},
+"cls": "W",
+"mid_frame": 19431,
+"start_s": 646.646,
+"end_s": 650.083
+},
+{
+"start_frame": 19483,
+"end_frame_excl": 19619,
+"scores": {
+"G": -0.004,
+"W": 0.1,
+"E": 0.92,
+"W2": 0.064,
+"H": 0.065
+},
+"cls": "E",
+"mid_frame": 19551,
+"start_s": 650.083,
+"end_s": 654.621
+},
+{
+"start_frame": 19619,
+"end_frame_excl": 19655,
+"scores": {
+"G": 0.765,
+"W": 0.164,
+"E": 0.048,
+"W2": 0.015,
+"H": -0.017
+},
+"cls": "G",
+"mid_frame": 19637,
+"start_s": 654.621,
+"end_s": 655.822
+},
+{
+"start_frame": 19655,
+"end_frame_excl": 19932,
+"scores": {
+"G": 0.001,
+"W": 0.096,
+"E": 0.924,
+"W2": 0.068,
+"H": 0.066
+},
+"cls": "E",
+"mid_frame": 19793,
+"start_s": 655.822,
+"end_s": 665.064
+},
+{
+"start_frame": 19932,
+"end_frame_excl": 19948,
+"scores": {
+"G": 0.47,
+"W": 0.117,
+"E": 0.058,
+"W2": 0.047,
+"H": -0.045
+},
+"cls": "G",
+"mid_frame": 19940,
+"start_s": 665.064,
+"end_s": 665.598
+},
+{
+"start_frame": 19948,
+"end_frame_excl": 20398,
+"scores": {
+"G": 0.531,
+"W": 0.205,
+"E": 0.043,
+"W2": 0.039,
+"H": -0.007
+},
+"cls": "G",
+"mid_frame": 20173,
+"start_s": 665.598,
+"end_s": 680.613
+},
+{
+"start_frame": 20398,
+"end_frame_excl": 20441,
+"transition": true,
+"cls": "T",
+"start_s": 680.613,
+"end_s": 682.048
+},
+{
+"start_frame": 20441,
+"end_frame_excl": 20566,
+"scores": {
+"G": 0.166,
+"W": 0.503,
+"E": 0.085,
+"W2": 0.052,
+"H": -0.029
+},
+"cls": "W",
+"mid_frame": 20503,
+"start_s": 682.048,
+"end_s": 686.219
+},
+{
+"start_frame": 20566,
+"end_frame_excl": 20591,
+"transition": true,
+"cls": "T",
+"start_s": 686.219,
+"end_s": 687.053
+},
+{
+"start_frame": 20591,
+"end_frame_excl": 20889,
+"scores": {
+"G": 0.532,
+"W": 0.096,
+"E": 0.053,
+"W2": 0.041,
+"H": -0.059
+},
+"cls": "G",
+"mid_frame": 20740,
+"start_s": 687.053,
+"end_s": 696.996
+},
+{
+"start_frame": 20889,
+"end_frame_excl": 20934,
+"transition": true,
+"cls": "T",
+"start_s": 696.996,
+"end_s": 698.498
+},
+{
+"start_frame": 20934,
+"end_frame_excl": 20952,
+"scores": {
+"G": -0.01,
+"W": 0.105,
+"E": 0.904,
+"W2": 0.061,
+"H": 0.073
+},
+"cls": "E",
+"mid_frame": 20943,
+"start_s": 698.498,
+"end_s": 699.098
+},
+{
+"start_frame": 20952,
+"end_frame_excl": 20972,
+"transition": true,
+"cls": "T",
+"start_s": 699.098,
+"end_s": 699.766
+},
+{
+"start_frame": 20972,
+"end_frame_excl": 21276,
+"scores": {
+"G": 0.174,
+"W": 0.435,
+"E": 0.089,
+"W2": 0.078,
+"H": -0.039
+},
+"cls": "W",
+"mid_frame": 21124,
+"start_s": 699.766,
+"end_s": 709.909
+},
+{
+"start_frame": 21276,
+"end_frame_excl": 21301,
+"transition": true,
+"cls": "T",
+"start_s": 709.909,
+"end_s": 710.743
+},
+{
+"start_frame": 21301,
+"end_frame_excl": 21673,
+"scores": {
+"G": 0.48,
+"W": 0.102,
+"E": 0.014,
+"W2": 0.024,
+"H": -0.034
+},
+"cls": "G",
+"mid_frame": 21487,
+"start_s": 710.743,
+"end_s": 723.156
+},
+{
+"start_frame": 21673,
+"end_frame_excl": 21702,
+"scores": {
+"G": -0.007,
+"W": -0.073,
+"E": 0.057,
+"W2": -0.025,
+"H": 0.966
+},
+"cls": "H",
+"mid_frame": 21687,
+"start_s": 723.156,
+"end_s": 724.123
+},
+{
+"start_frame": 21702,
+"end_frame_excl": 21776,
+"scores": {
+"G": 0.471,
+"W": 0.094,
+"E": 0.021,
+"W2": 0.041,
+"H": -0.035
+},
+"cls": "G",
+"mid_frame": 21739,
+"start_s": 724.123,
+"end_s": 726.593
+},
+{
+"start_frame": 21776,
+"end_frame_excl": 21838,
+"scores": {
+"G": -0.014,
+"W": -0.072,
+"E": 0.048,
+"W2": -0.033,
+"H": 0.935
+},
+"cls": "H",
+"mid_frame": 21807,
+"start_s": 726.593,
+"end_s": 728.661
+},
+{
+"start_frame": 21838,
+"end_frame_excl": 22074,
+"scores": {
+"G": 0.469,
+"W": 0.143,
+"E": 0.051,
+"W2": 0.039,
+"H": -0.049
+},
+"cls": "G",
+"mid_frame": 21956,
+"start_s": 728.661,
+"end_s": 736.536
+},
+{
+"start_frame": 22074,
+"end_frame_excl": 22117,
+"transition": true,
+"cls": "T",
+"start_s": 736.536,
+"end_s": 737.971
+},
+{
+"start_frame": 22117,
+"end_frame_excl": 22171,
+"scores": {
+"G": 0.223,
+"W": 0.326,
+"E": 0.078,
+"W2": 0.134,
+"H": -0.057
+},
+"cls": "W",
+"mid_frame": 22144,
+"start_s": 737.971,
+"end_s": 739.772
+},
+{
+"start_frame": 22171,
+"end_frame_excl": 22258,
+"transition": true,
+"cls": "T",
+"start_s": 739.772,
+"end_s": 742.675
+},
+{
+"start_frame": 22258,
+"end_frame_excl": 22279,
+"scores": {
+"G": 0.083,
+"W": 0.081,
+"E": -0.01,
+"W2": -0.018,
+"H": -0.048
+},
+"cls": "G",
+"mid_frame": 22268,
+"start_s": 742.675,
+"end_s": 743.376
+},
+{
+"start_frame": 22279,
+"end_frame_excl": 22300,
+"transition": true,
+"cls": "T",
+"start_s": 743.376,
+"end_s": 744.077
+},
+{
+"start_frame": 22300,
+"end_frame_excl": 22412,
+"scores": {
+"G": 0.098,
+"W": 0.063,
+"E": 0.081,
+"W2": -0.017,
+"H": -0.008
+},
+"cls": "G",
+"mid_frame": 22356,
+"start_s": 744.077,
+"end_s": 747.814
+}
+]

@@ -1,0 +1,36 @@
+# clip_05_shot_seven_times - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  350.12 -   352.00] Have you fully healed from, you know, what happened in Jersey
+[  352.10 -   353.30] where you got shot seven times?
+[  353.38 -   354.38] Have you fully healed from that?
+[  354.44 -   356.52] Because that has to be a type of trauma that it's like
+[  356.52 -   358.24] you're continuously looking over your shoulder.
+[  358.26 -   360.18] You're continuously making sure you make the right moves.
+[  360.16 -   360.98] Have you healed?
+[  360.98 -   363.22] It's crazy, though. Like, today, day and age,
+[  363.48 -   367.70] like, yeah, I be catching myself like, oh, that PTSD done worn off.
+[  368.36 -   369.42] It worn off already?
+[  369.68 -   371.70] Yeah, I ain't gonna lie, it got like a lot better.
+[  371.92 -   375.24] It was bad, it was bad, you feel me? It was bad, you feel me?
+[  375.74 -   378.34] And like, it's like, it feels like a lot better right now.
+[  378.38 -   379.66] I'm like a lot more like, you know.
+[  379.84 -   381.32] Did you do something for it? Like therapy?
+[  381.70 -   384.34] I ain't do nothing. Like, I'm like kind of like an introvert.
+[  384.40 -   386.90] I ain't do physical therapy, I ain't do mental therapy.
+[  386.94 -   390.70] I just got the fuck away from everybody and just... figured it out.
+[  390.86 -   392.52] So you just isolated yourself. Yep.
+[  392.78 -   394.36] You were by yourself the whole time?
+[  394.62 -   395.66] Yeah, basically. Yeah.
+[  395.92 -   398.22] Do you move differently now with that situation happening?
+[  398.42 -   399.78] Because that's a scary situation.
+[  399.98 -   401.62] Most people don't live off of one shot,
+[  401.62 -   404.56] but the fact that you were hit seven times is very serious.
+[  404.68 -   406.18] And actually, you know what's crazy, though?
+[  406.40 -   407.80] I actually might have been more.
+[  407.86 -   408.94] You know, in the hospital, they say more.
+[  409.70 -   412.72] The news headline, seven, and I just let it rock.
+[  412.86 -   414.78] I just left it at seven. I ain't fucking with you on seven.
+[  414.80 -   415.54] How many times was it, though?
+[  416.10 -   417.20] It was like eight, nine.
+[  417.28 -   419.98] But you know this? I got fucking mad holes and shit.

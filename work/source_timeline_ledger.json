@@ -1,1 +1,120 @@
-{"source_id": "SOURCE_INTERVIEW", "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f", "interval_convention": "half-open [start_frame, end_frame_exclusive), frame = pts/1001", "reservations": [], "committed": []}
+{
+ "source_id": "SOURCE_INTERVIEW",
+ "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+ "interval_convention": "half-open [start_frame, end_frame_exclusive), frame = pts/1001",
+ "reservations": {
+  "clip_02_offset_owes_10k": [
+   [
+    1828,
+    4054
+   ]
+  ],
+  "clip_03_casino_story": [
+   [
+    4295,
+    6888
+   ]
+  ],
+  "clip_04_beef_offset": [
+   [
+    8021,
+    10489
+   ]
+  ],
+  "clip_05_shot_seven_times": [
+   [
+    10490,
+    12587
+   ]
+  ],
+  "clip_06_hospital_stories": [
+   [
+    12713,
+    14046
+   ],
+   [
+    14113,
+    14409
+   ],
+   [
+    16389,
+    16932
+   ]
+  ],
+  "clip_07_trauma_misunderstood": [
+   [
+    14446,
+    16367
+   ]
+  ],
+  "clip_08_safe_alone": [
+   [
+    17194,
+    19458
+   ]
+  ],
+  "clip_09_50_cent": [
+   [
+    19460,
+    22052
+   ]
+  ]
+ },
+ "committed": {
+  "clip_04_beef_offset": [
+   [
+    8021,
+    10489
+   ]
+  ],
+  "clip_05_shot_seven_times": [
+   [
+    10490,
+    12587
+   ]
+  ],
+  "clip_06_hospital_stories": [
+   [
+    12713,
+    14046
+   ],
+   [
+    14113,
+    14409
+   ],
+   [
+    16389,
+    16932
+   ]
+  ],
+  "clip_07_trauma_misunderstood": [
+   [
+    14477,
+    15253
+   ],
+   [
+    15339,
+    16370
+   ]
+  ],
+  "clip_02_offset_owes_10k": [
+   [
+    1832,
+    3581
+   ],
+   [
+    3685,
+    4054
+   ]
+  ],
+  "clip_08_safe_alone": [
+   [
+    17194,
+    19459
+   ]
+  ]
+ },
+ "source": "SOURCE_INTERVIEW sha256 2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+ "convention": "half-open [start_frame,end_frame_exclusive), frame k pts=k*1001 @1/30000; audio = identical time ranges",
+ "updated": "2026-10-04T15:44:37.839613Z"
+}

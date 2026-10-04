@@ -1,0 +1,131 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.02,0:00:01.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But you had a conversation with 50,
+Dialogue: 0,0:00:00.02,0:00:01.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも50と話したことあるんだろ
+Dialogue: 0,0:00:01.68,0:00:03.64,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I heard you say you speak to him
+Dialogue: 0,0:00:01.68,0:00:03.64,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつと話したって聞いたぜ
+Dialogue: 0,0:00:03.66,0:00:04.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}after you got shot before, right?
+Dialogue: 0,0:00:03.66,0:00:04.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}前に撃たれた後にさ そうだろ？
+Dialogue: 0,0:00:04.62,0:00:05.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:04.62,0:00:05.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ
+Dialogue: 0,0:00:05.90,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He's the perfect example of that,
+Dialogue: 0,0:00:05.90,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}because he had the same thing.
+Dialogue: 0,0:00:05.90,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}まさにそのいい例だよな
+Dialogue: 0,0:00:05.90,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつも同じ状況だったから
+Dialogue: 0,0:00:08.84,0:00:11.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He couldn't, any way he moved, it
+Dialogue: 0,0:00:08.84,0:00:11.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}was on his ass.
+Dialogue: 0,0:00:08.84,0:00:11.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どこへ動こうが
+Dialogue: 0,0:00:08.84,0:00:11.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ずっと付け狙われてた
+Dialogue: 0,0:00:11.40,0:00:13.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And he had to move militant in a way
+Dialogue: 0,0:00:11.40,0:00:13.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}where it protected him.
+Dialogue: 0,0:00:11.40,0:00:13.72,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから身を守るために
+Dialogue: 0,0:00:11.40,0:00:13.72,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}軍隊みたいに動くしかなかった
+Dialogue: 0,0:00:13.74,0:00:16.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}How would those conversations
+Dialogue: 0,0:00:13.74,0:00:16.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}have happened or worked?
+Dialogue: 0,0:00:13.74,0:00:16.06,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その話ってどんな感じで
+Dialogue: 0,0:00:13.74,0:00:16.06,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どう進んだの？
+Dialogue: 0,0:00:16.32,0:00:17.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}With 50 Cent?
+Dialogue: 0,0:00:16.32,0:00:17.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}50セントと？
+Dialogue: 0,0:00:17.32,0:00:18.86,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. You know, I just,
+Dialogue: 0,0:00:17.32,0:00:18.86,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}うん
+Dialogue: 0,0:00:17.32,0:00:18.86,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}なんていうか
+Dialogue: 0,0:00:18.88,0:00:22.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel like me and 50 Cent is a little
+Dialogue: 0,0:00:18.88,0:00:22.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}different, though.
+Dialogue: 0,0:00:18.88,0:00:22.24,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺と50セントって
+Dialogue: 0,0:00:18.88,0:00:22.24,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ちょっと違うと思うんだよね
+Dialogue: 0,0:00:22.26,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You feel me? And it's crazy, though,
+Dialogue: 0,0:00:22.26,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかる？
+Dialogue: 0,0:00:22.26,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもウケるのがさ
+Dialogue: 0,0:00:23.62,0:00:26.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because I did that little old 50 Cent
+Dialogue: 0,0:00:23.62,0:00:26.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Many Men remix.
+Dialogue: 0,0:00:23.62,0:00:26.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺、50セントの“Many Men”の
+Dialogue: 0,0:00:23.62,0:00:26.48,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}リミックスをちょっとやったんだよ
+Dialogue: 0,0:00:26.50,0:00:28.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just went high as f**k.
+Dialogue: 0,0:00:26.50,0:00:28.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}めちゃくちゃハイになって
+Dialogue: 0,0:00:28.40,0:00:29.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I pressed upload.
+Dialogue: 0,0:00:28.40,0:00:29.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}アップしたら
+Dialogue: 0,0:00:29.26,0:00:30.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Ni**as like, "What the f**k is that?"
+Dialogue: 0,0:00:29.26,0:00:30.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}みんな「なんだこれ？」って
+Dialogue: 0,0:00:30.72,0:00:32.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But in reality,
+Dialogue: 0,0:00:30.72,0:00:32.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも実際のところ
+Dialogue: 0,0:00:32.12,0:00:33.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I do feel like we different.
+Dialogue: 0,0:00:32.12,0:00:33.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺らは違うと思うんだ
+Dialogue: 0,0:00:33.42,0:00:35.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's certain things, for example,
+Dialogue: 0,0:00:33.42,0:00:35.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that like,
+Dialogue: 0,0:00:33.42,0:00:35.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}例えばある事とかって
+Dialogue: 0,0:00:33.42,0:00:35.96,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なんていうか
+Dialogue: 0,0:00:35.98,0:00:38.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, it's just like, it's just
+Dialogue: 0,0:00:35.98,0:00:38.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my shoes.
+Dialogue: 0,0:00:35.98,0:00:38.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}結局は俺の立場の
+Dialogue: 0,0:00:35.98,0:00:38.84,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}問題っていうか
+Dialogue: 0,0:00:39.26,0:00:40.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You feel me?
+Dialogue: 0,0:00:39.26,0:00:40.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかる？
+Dialogue: 0,0:00:40.18,0:00:41.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I feel like 50 Cent just did
+Dialogue: 0,0:00:40.18,0:00:41.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}certain things
+Dialogue: 0,0:00:40.18,0:00:41.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}50セントがやってきた事には
+Dialogue: 0,0:00:42.00,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that I just probably wouldn't do in
+Dialogue: 0,0:00:42.00,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my life.
+Dialogue: 0,0:00:42.00,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺ならたぶん
+Dialogue: 0,0:00:42.00,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}一生やらない事もある
+Dialogue: 0,0:00:43.94,0:00:44.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like what?
+Dialogue: 0,0:00:43.94,0:00:44.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}例えば？
+Dialogue: 0,0:00:46.30,0:00:50.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I think that 50 Cent is like the big,
+Dialogue: 0,0:00:46.30,0:00:50.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, gangster image,
+Dialogue: 0,0:00:46.30,0:00:50.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}50セントってさ
+Dialogue: 0,0:00:46.30,0:00:50.04,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}デカいギャングのイメージっていうか
+Dialogue: 0,0:00:50.30,0:00:51.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, you feel me?
+Dialogue: 0,0:00:50.30,0:00:51.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかるだろ？
+Dialogue: 0,0:00:51.58,0:00:53.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}A role model of the rap career.
+Dialogue: 0,0:00:51.58,0:00:53.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ラップのキャリアの
+Dialogue: 0,0:00:51.58,0:00:53.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お手本みたいな存在で
+Dialogue: 0,0:00:53.86,0:00:56.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And it's like almost even me, like,
+Dialogue: 0,0:00:53.86,0:00:56.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}being a younger person,
+Dialogue: 0,0:00:53.86,0:00:56.26,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺ですらさ
+Dialogue: 0,0:00:53.86,0:00:56.26,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}若い頃は
+Dialogue: 0,0:00:56.28,0:00:57.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I was, like, falling into it a little bit.
+Dialogue: 0,0:00:56.28,0:00:57.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ちょっとそれにハマってた
+Dialogue: 0,0:00:57.90,0:00:59.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, you know, I f**k with 50 too.
+Dialogue: 0,0:00:57.90,0:00:59.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺も50は好きだしさ
+Dialogue: 0,0:00:59.30,0:01:00.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You feel me? Like, yeah, yeah.
+Dialogue: 0,0:00:59.30,0:01:00.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかる？
+Dialogue: 0,0:00:59.30,0:01:00.36,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう、そう
+Dialogue: 0,0:01:00.38,0:01:02.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But then when I actually use my own
+Dialogue: 0,0:01:00.38,0:01:02.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}two eyes and I'm like,
+Dialogue: 0,0:01:00.38,0:01:02.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも実際に自分の目で見て
+Dialogue: 0,0:01:00.38,0:01:02.88,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}思ったんだよ
+Dialogue: 0,0:01:02.90,0:01:04.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}all right, a lot of the s**t he do,
+Dialogue: 0,0:01:02.90,0:01:04.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}なるほどな
+Dialogue: 0,0:01:02.90,0:01:04.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつのやる事の多くは
+Dialogue: 0,0:01:04.12,0:01:06.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel like at his age, I would not
+Dialogue: 0,0:01:04.12,0:01:06.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}be doing.
+Dialogue: 0,0:01:04.12,0:01:06.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あの歳なら
+Dialogue: 0,0:01:04.12,0:01:06.52,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺はやってねぇなって
+Dialogue: 0,0:01:06.54,0:01:07.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm trying to say?
+Dialogue: 0,0:01:06.54,0:01:07.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}言いたいことわかる？
+Dialogue: 0,0:01:07.54,0:01:09.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}For me, a lot of the s**t he do, I
+Dialogue: 0,0:01:07.54,0:01:09.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}would not do.
+Dialogue: 0,0:01:07.54,0:01:09.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺だったら
+Dialogue: 0,0:01:07.54,0:01:09.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつのやる事の多くはやらない
+Dialogue: 0,0:01:09.21,0:01:11.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like you said, he too old for the
+Dialogue: 0,0:01:09.21,0:01:11.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}trolling that he does.
+Dialogue: 0,0:01:09.21,0:01:11.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言ってた通り
+Dialogue: 0,0:01:09.21,0:01:11.65,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あの歳であの煽りはないって
+Dialogue: 0,0:01:11.67,0:01:13.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, you feel me?
+Dialogue: 0,0:01:11.67,0:01:13.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、わかる？
+Dialogue: 0,0:01:13.39,0:01:15.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He got me in 25 years.
+Dialogue: 0,0:01:13.39,0:01:15.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺より25も上だぜ
+Dialogue: 0,0:01:15.08,0:01:18.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel like he didn't even come down
+Dialogue: 0,0:01:15.08,0:01:18.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to this level and troll me right now.
+Dialogue: 0,0:01:15.08,0:01:18.28,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今んとこ俺のレベルまで降りてきて
+Dialogue: 0,0:01:15.08,0:01:18.28,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}煽ってはこないけどな

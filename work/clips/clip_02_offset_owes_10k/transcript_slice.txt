@@ -1,0 +1,40 @@
+## source segment 61.13-119.49s (frames 1832-3581)
+61.06-66.80 [HOST_F? auto] Maybe you just got here now, but if I'm listening to you, you're in a space where you kind of want to get away from all the problems and the drama.
+67.12-73.78 [HOST_F? auto] But I've seen you on your streams and stuff when you're talking about the gambling stuff with Offset and just different, even the Kai Cenat stuff.   (low-conf: your, Kai, Cenat)
+74.08-77.70 [HOST_F? auto] And it brings the drama and the conversation to you at the same time.
+77.76-79.50 [HOST_F? auto] Why do you do that if you feel like this?
+79.50-85.08 [GUEST auto] Okay, sometimes I be feeling like so passionate, like people are going to understand me.   (low-conf: Okay,, like, are)
+85.20-88.22 [GUEST auto] And then I'll be like, you know, the team will be like, never speak, never speak.
+88.32-89.34 [GUEST auto] But I'll be like, but I got a point.
+89.74-90.42 [GUEST auto] Like, you feel me?
+90.72-92.68 [GUEST auto] Like, yo, Word 2, I put it like this, right?   (low-conf: Word)
+92.96-93.76 [GUEST auto] I ain't going to lie.
+93.84-96.78 [GUEST auto] What I thought the world was going to be like, Offset, you a bum ass nigga.
+97.02-97.42 [GUEST auto] Feel me?
+97.52-99.44 [GUEST auto] Because, bro, Word 2, I got rappers.
+99.68-101.02 [GUEST auto] Bro, the whole industry is in my DM.
+101.10-102.08 [GUEST auto] You see how a couple niggas came out?
+102.34-103.24 [GUEST auto] Everybody in my DM laughing.
+103.48-104.52 [GUEST auto] Ha ha, Offset owe me bread too.   (low-conf: Ha)
+104.60-105.66 [GUEST auto] The whole world is in my DM.
+105.74-106.52 [GUEST auto] Offset owe me bread.
+106.62-107.06 [GUEST auto] La la la.
+107.32-107.74 [GUEST auto] Feel me?
+107.90-109.48 [GUEST auto] So I'm like, bro, I'm over here.
+109.50-110.18 [GUEST auto] I asked you for my bread.
+110.22-112.28 [GUEST auto] You keep texting me angry texts about getting in blood.
+112.34-113.48 [GUEST auto] I'm like, you wilding, broski.
+113.56-114.30 [GUEST auto] So I'm thinking it's funny.
+114.42-116.72 [GUEST auto] Like, if Offset's a bum, he over here taking people's bread, running off.   (low-conf: if)
+117.10-118.06 [GUEST auto] Hey, bro, I'll get it back in blood.
+118.42-119.24 [GUEST auto] I'm like, damn.
+## source segment 122.96-135.27s (frames 3685-4054)
+123.06-123.80 [GUEST auto] How much did you owe you?   (low-conf: you)
+124.18-124.98 [GUEST auto] It was 10K.
+125.04-125.76 [GUEST auto] It was nothing, bro.
+126.02-128.10 [GUEST auto] I threw it in the strip club whenever I want to.
+128.22-128.30 [GUEST auto] That's a lot of money.
+128.40-129.12 [GUEST auto] That's still 10K.
+129.12-131.94 [GUEST auto] All right, but it's not enough for me to hate you, bro.   (low-conf: All)
+132.04-133.84 [GUEST auto] I just feel like you just maxed disrespecting me.
+133.90-135.28 [GUEST auto] But kudos to you, bro, for me.

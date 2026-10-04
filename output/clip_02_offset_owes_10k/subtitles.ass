@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Maybe you just got here now, but if
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm listening to you,
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今来たばかりかもだけど
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}話を聞いてると
+Dialogue: 0,0:00:02.81,0:00:04.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you're in a space where you kind of
+Dialogue: 0,0:00:02.81,0:00:04.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}want to get away
+Dialogue: 0,0:00:02.81,0:00:04.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}問題とかドラマから
+Dialogue: 0,0:00:04.39,0:00:05.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}from all the problems and the drama.
+Dialogue: 0,0:00:04.39,0:00:05.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}離れたい時期なんだよね
+Dialogue: 0,0:00:05.99,0:00:08.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I've seen you on your streams
+Dialogue: 0,0:00:05.99,0:00:08.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and stuff
+Dialogue: 0,0:00:05.99,0:00:08.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも配信とかで見てると
+Dialogue: 0,0:00:08.05,0:00:10.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}when you're talking about the
+Dialogue: 0,0:00:08.05,0:00:10.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}gambling stuff with Offset
+Dialogue: 0,0:00:08.05,0:00:10.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Offsetとのギャンブルの件とか
+Dialogue: 0,0:00:10.55,0:00:12.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and just different, even the Kai
+Dialogue: 0,0:00:10.55,0:00:12.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Cenat stuff.
+Dialogue: 0,0:00:10.55,0:00:12.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}カイ・セナの件とか話してるじゃん
+Dialogue: 0,0:00:12.95,0:00:14.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And it brings the drama and
+Dialogue: 0,0:00:12.95,0:00:14.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the conversation
+Dialogue: 0,0:00:12.95,0:00:14.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それでドラマも話題も
+Dialogue: 0,0:00:14.95,0:00:16.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to you at the same time.
+Dialogue: 0,0:00:14.95,0:00:16.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}同時に寄ってくる
+Dialogue: 0,0:00:16.63,0:00:18.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Why do you do that if you feel
+Dialogue: 0,0:00:16.63,0:00:18.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like this?
+Dialogue: 0,0:00:16.63,0:00:18.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう思ってるなら
+Dialogue: 0,0:00:16.63,0:00:18.35,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なんでそんなことすんの？
+Dialogue: 0,0:00:18.37,0:00:21.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Okay, sometimes I be feeling like
+Dialogue: 0,0:00:18.37,0:00:21.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}so passionate,
+Dialogue: 0,0:00:18.37,0:00:21.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いや、たまに熱くなっちゃうんだよ
+Dialogue: 0,0:00:21.23,0:00:24.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like people gonna understand me,
+Dialogue: 0,0:00:21.23,0:00:24.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}みんなわかってくれるだろって
+Dialogue: 0,0:00:24.07,0:00:25.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and then I be like, you know,
+Dialogue: 0,0:00:24.07,0:00:25.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、なんていうか
+Dialogue: 0,0:00:25.05,0:00:27.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the team will be like, never speak,
+Dialogue: 0,0:00:25.05,0:00:27.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}never speak,
+Dialogue: 0,0:00:25.05,0:00:27.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}チームには「絶対しゃべるな」って
+Dialogue: 0,0:00:25.05,0:00:27.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われるんだけど
+Dialogue: 0,0:00:27.19,0:00:29.57,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but I be like, but I got a point. Like,
+Dialogue: 0,0:00:27.19,0:00:29.57,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you feel me?
+Dialogue: 0,0:00:27.19,0:00:29.57,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「でも俺にも言い分あるし」って
+Dialogue: 0,0:00:27.19,0:00:29.57,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なるんだよ
+Dialogue: 0,0:00:29.59,0:00:32.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, yo... I put it like this, right? I
+Dialogue: 0,0:00:29.59,0:00:32.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}ain't gonna lie.
+Dialogue: 0,0:00:29.59,0:00:32.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}こう言わせてくれ
+Dialogue: 0,0:00:29.59,0:00:32.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}正直に言うと
+Dialogue: 0,0:00:32.71,0:00:34.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What I thought the world was gonna
+Dialogue: 0,0:00:32.71,0:00:34.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}be like,
+Dialogue: 0,0:00:32.71,0:00:34.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}世間はこうなると思ってた
+Dialogue: 0,0:00:34.25,0:00:36.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Offset, you a bum ass ni**a.
+Dialogue: 0,0:00:34.25,0:00:36.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Feel me?
+Dialogue: 0,0:00:34.25,0:00:36.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「Offset、お前マジで
+Dialogue: 0,0:00:34.25,0:00:36.37,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ダセぇ奴だな」って
+Dialogue: 0,0:00:36.39,0:00:38.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because, bro... I got rappers,
+Dialogue: 0,0:00:36.39,0:00:38.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だってさ、ラッパーたちとか
+Dialogue: 0,0:00:38.55,0:00:39.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}bro, the whole industry is in my DM.
+Dialogue: 0,0:00:38.55,0:00:39.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}業界中から俺のDMに来てんのよ
+Dialogue: 0,0:00:39.97,0:00:42.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You see how a couple ni**as came
+Dialogue: 0,0:00:39.97,0:00:42.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}out? Everybody in my DM laughing.
+Dialogue: 0,0:00:39.97,0:00:42.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}何人か表に出てきたの見ただろ？
+Dialogue: 0,0:00:39.97,0:00:42.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}みんなDMで笑ってんの
+Dialogue: 0,0:00:42.35,0:00:44.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Ha ha, Offset owe me bread too. The
+Dialogue: 0,0:00:42.35,0:00:44.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}whole world is in my DM.
+Dialogue: 0,0:00:42.35,0:00:44.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「ハハ、Offsetは俺にも借りある」って
+Dialogue: 0,0:00:42.35,0:00:44.59,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}世界中からDM来てんだよ
+Dialogue: 0,0:00:44.61,0:00:46.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Offset owe me bread. La la la.
+Dialogue: 0,0:00:44.61,0:00:46.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Feel me?
+Dialogue: 0,0:00:44.61,0:00:46.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「Offsetに金貸してる」とか
+Dialogue: 0,0:00:44.61,0:00:46.75,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なんとかってな
+Dialogue: 0,0:00:46.77,0:00:49.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I'm like, bro, I'm over here asking
+Dialogue: 0,0:00:46.77,0:00:49.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}for my bread.
+Dialogue: 0,0:00:46.77,0:00:49.07,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、俺は金返せって言ってんのに
+Dialogue: 0,0:00:49.09,0:00:51.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You keep texting me angry texts
+Dialogue: 0,0:00:49.09,0:00:51.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}about getting in blood.
+Dialogue: 0,0:00:49.09,0:00:51.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お前は物騒なキレたメッセージ
+Dialogue: 0,0:00:49.09,0:00:51.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ばっか送ってくる
+Dialogue: 0,0:00:51.21,0:00:53.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm like, you wilding, broski. So I'm
+Dialogue: 0,0:00:51.21,0:00:53.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}thinking it's funny.
+Dialogue: 0,0:00:51.21,0:00:53.27,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「お前イカれてんな」って
+Dialogue: 0,0:00:51.21,0:00:53.27,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}笑えてきてさ
+Dialogue: 0,0:00:53.29,0:00:55.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, Offset's a bum, he over here
+Dialogue: 0,0:00:53.29,0:00:55.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}taking people's bread, running off.
+Dialogue: 0,0:00:53.29,0:00:55.95,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Offsetってダセぇな
+Dialogue: 0,0:00:53.29,0:00:55.95,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}人の金持って逃げてんだもん
+Dialogue: 0,0:00:55.97,0:00:57.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Hey, bro, I'll get it back in blood.
+Dialogue: 0,0:00:55.97,0:00:57.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「おい、血ィ見てでも返すわ」って
+Dialogue: 0,0:00:57.29,0:00:58.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm like, damn.
+Dialogue: 0,0:00:57.29,0:00:58.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「マジかよ」って
+Dialogue: 0,0:00:58.46,0:00:59.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}How much did he owe you?
+Dialogue: 0,0:00:58.46,0:00:59.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いくら貸してたの？
+Dialogue: 0,0:00:59.58,0:01:01.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It was 10K. It was nothing, bro.
+Dialogue: 0,0:00:59.58,0:01:01.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}1万ドル。大した額じゃねぇよ
+Dialogue: 0,0:01:01.42,0:01:03.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I threw it in the strip club whenever I
+Dialogue: 0,0:01:01.42,0:01:03.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}want to.
+Dialogue: 0,0:01:01.42,0:01:03.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ストリップクラブで
+Dialogue: 0,0:01:01.42,0:01:03.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}いつでもばら撒ける額だし
+Dialogue: 0,0:01:03.62,0:01:04.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a lot of money. That's
+Dialogue: 0,0:01:03.62,0:01:04.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}still 10K.
+Dialogue: 0,0:01:03.62,0:01:04.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}大金だろ。1万ドルは1万ドルだよ
+Dialogue: 0,0:01:04.52,0:01:07.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}All right, but it's not enough for me
+Dialogue: 0,0:01:04.52,0:01:07.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to hate you, bro.
+Dialogue: 0,0:01:04.52,0:01:07.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}まぁな、でもお前を嫌いになる
+Dialogue: 0,0:01:04.52,0:01:07.42,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ほどの額じゃねぇってこと
+Dialogue: 0,0:01:07.44,0:01:09.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just feel like you just max
+Dialogue: 0,0:01:07.44,0:01:09.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}disrespecting me.
+Dialogue: 0,0:01:07.44,0:01:09.28,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ただ、めちゃくちゃ
+Dialogue: 0,0:01:07.44,0:01:09.28,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ナメられてると思ってさ
+Dialogue: 0,0:01:09.30,0:01:10.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But kudos to you, bro, for me.
+Dialogue: 0,0:01:09.30,0:01:10.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でもまぁ、大したもんだよ

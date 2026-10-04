@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.17,0:00:03.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}How long did it take you to, like, get
+Dialogue: 0,0:00:00.17,0:00:03.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}up and start moving regularly?
+Dialogue: 0,0:00:00.17,0:00:03.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}普通に起き上がって動けるまで
+Dialogue: 0,0:00:00.17,0:00:03.59,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どれくらいかかったの？
+Dialogue: 0,0:00:03.61,0:00:05.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I was, yo, you want to
+Dialogue: 0,0:00:03.61,0:00:05.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know something?
+Dialogue: 0,0:00:03.61,0:00:05.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いや、マジな話していい？
+Dialogue: 0,0:00:05.05,0:00:06.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What? You think I'm lying.
+Dialogue: 0,0:00:05.05,0:00:06.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}何？
+Dialogue: 0,0:00:05.05,0:00:06.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}絶対嘘だと思うじゃん
+Dialogue: 0,0:00:07.43,0:00:09.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}All right, cool. Which means you
+Dialogue: 0,0:00:07.43,0:00:09.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}probably are.
+Dialogue: 0,0:00:07.43,0:00:09.39,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}はいはい
+Dialogue: 0,0:00:07.43,0:00:09.39,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}てことは多分嘘だな
+Dialogue: 0,0:00:11.17,0:00:14.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yo... I know how crazy it's going
+Dialogue: 0,0:00:11.17,0:00:14.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to sound.
+Dialogue: 0,0:00:11.17,0:00:14.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いや、ヤバく聞こえるのは
+Dialogue: 0,0:00:11.17,0:00:14.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかってんだけど
+Dialogue: 0,0:00:14.23,0:00:15.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Look, I was on my feet.
+Dialogue: 0,0:00:14.23,0:00:15.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いいか、俺は自分で立ってたんだよ
+Dialogue: 0,0:00:15.67,0:00:18.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I was on my feet probably, like, from
+Dialogue: 0,0:00:15.67,0:00:18.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the moment I could, like,
+Dialogue: 0,0:00:15.67,0:00:18.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}たぶん立てるようになった
+Dialogue: 0,0:00:15.67,0:00:18.93,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}瞬間から立ってた
+Dialogue: 0,0:00:18.95,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}from the moment I was alert and I
+Dialogue: 0,0:00:18.95,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}just tried to get on my feet,
+Dialogue: 0,0:00:18.95,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}意識が戻った瞬間に
+Dialogue: 0,0:00:18.95,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}立とうとしてさ
+Dialogue: 0,0:00:21.45,0:00:24.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I got on my feet. And I got into, I was
+Dialogue: 0,0:00:21.45,0:00:24.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}going to say a fight, but damn near,
+Dialogue: 0,0:00:21.45,0:00:24.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}実際立ったんだよ。で、ケンカって
+Dialogue: 0,0:00:21.45,0:00:24.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言いかけたけど、ほぼそれくらい
+Dialogue: 0,0:00:25.01,0:00:27.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}with the doctor for getting on my
+Dialogue: 0,0:00:25.01,0:00:27.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}feet. He caught me on my feet.
+Dialogue: 0,0:00:25.01,0:00:27.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}立ったせいで医者と揉めてさ
+Dialogue: 0,0:00:25.01,0:00:27.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}立ってるとこ見つかって
+Dialogue: 0,0:00:28.01,0:00:29.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You were in a coma for five days.
+Dialogue: 0,0:00:28.01,0:00:29.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}5日間昏睡してたのに
+Dialogue: 0,0:00:29.29,0:00:32.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm like, yo, I thought I'd stand up.
+Dialogue: 0,0:00:29.29,0:00:32.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}La, la, la.
+Dialogue: 0,0:00:29.29,0:00:32.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は「立とうと思ってさ」とか
+Dialogue: 0,0:00:29.29,0:00:32.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なんとか言ってたら
+Dialogue: 0,0:00:32.05,0:00:33.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And, ni**a, he spanked me out.
+Dialogue: 0,0:00:32.05,0:00:33.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつにシバかれたんだよ
+Dialogue: 0,0:00:34.85,0:00:36.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He spanked you out?
+Dialogue: 0,0:00:34.85,0:00:36.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}シバかれた？
+Dialogue: 0,0:00:37.29,0:00:39.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What did that mean? The doctor
+Dialogue: 0,0:00:37.29,0:00:39.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}spanked you?
+Dialogue: 0,0:00:37.29,0:00:39.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どういう意味？
+Dialogue: 0,0:00:37.29,0:00:39.63,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}医者にシバかれたの？
+Dialogue: 0,0:00:39.65,0:00:40.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, I got into it with the doctor
+Dialogue: 0,0:00:39.65,0:00:40.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いや、医者と揉めたんだよ
+Dialogue: 0,0:00:40.93,0:00:42.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because I was trying to get up on
+Dialogue: 0,0:00:40.93,0:00:42.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my feet
+Dialogue: 0,0:00:40.93,0:00:42.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}立ち上がろうとしてたから
+Dialogue: 0,0:00:42.67,0:00:44.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and he was telling me to chill, like,
+Dialogue: 0,0:00:42.67,0:00:44.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you feel me?
+Dialogue: 0,0:00:42.67,0:00:44.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}落ち着けって言われてさ
+Dialogue: 0,0:00:44.65,0:00:45.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said he spanked you.
+Dialogue: 0,0:00:44.65,0:00:45.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}シバかれたって言ったぞ
+Dialogue: 0,0:00:45.89,0:00:46.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know when you're in
+Dialogue: 0,0:00:45.89,0:00:46.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the hospital,
+Dialogue: 0,0:00:45.89,0:00:46.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}病院だとさ
+Dialogue: 0,0:00:46.89,0:00:48.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you got the f**king gown on.
+Dialogue: 0,0:00:46.89,0:00:48.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あのガウン着てんじゃん
+Dialogue: 0,0:00:48.87,0:00:51.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You see what he be thinking? You
+Dialogue: 0,0:00:48.87,0:00:51.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}see what he be thinking?
+Dialogue: 0,0:00:48.87,0:00:51.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}こいつが何想像してるか
+Dialogue: 0,0:00:48.87,0:00:51.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ？
+Dialogue: 0,0:00:51.91,0:00:53.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You see what he be thinking?
+Dialogue: 0,0:00:51.91,0:00:53.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}何想像してるかわかるよな？
+Dialogue: 0,0:00:53.25,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He spanked you, bro.
+Dialogue: 0,0:00:53.25,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ケツ叩かれたんだよ
+Dialogue: 0,0:00:54.51,0:00:57.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Did you really remove a bullet out
+Dialogue: 0,0:00:54.51,0:00:57.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}your neck?
+Dialogue: 0,0:00:54.51,0:00:57.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}首から弾を自分で
+Dialogue: 0,0:00:54.51,0:00:57.51,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}取り出したってマジ？
+Dialogue: 0,0:00:57.53,0:00:59.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, while I was wide awoke.
+Dialogue: 0,0:00:57.53,0:00:59.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ、意識ある状態でな
+Dialogue: 0,0:00:59.11,0:01:01.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because you didn't want to go back
+Dialogue: 0,0:00:59.11,0:01:01.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}under anesthesia.
+Dialogue: 0,0:00:59.11,0:01:01.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}また麻酔で
+Dialogue: 0,0:00:59.11,0:01:01.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}眠りたくなかったから？
+Dialogue: 0,0:01:01.73,0:01:04.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. You did it with a scalpel and
+Dialogue: 0,0:01:01.73,0:01:04.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}numbing cream.
+Dialogue: 0,0:01:01.73,0:01:04.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう
+Dialogue: 0,0:01:01.73,0:01:04.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}メスと麻酔クリームでやったの？
+Dialogue: 0,0:01:04.25,0:01:06.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I didn't do it, but the doctor did it
+Dialogue: 0,0:01:04.25,0:01:06.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and I was wide awoke
+Dialogue: 0,0:01:04.25,0:01:06.55,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺じゃねぇよ、医者がやった
+Dialogue: 0,0:01:04.25,0:01:06.55,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺は起きてただけ
+Dialogue: 0,0:01:06.57,0:01:08.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I'm like, nah, I'm not going
+Dialogue: 0,0:01:06.57,0:01:08.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to sleep.
+Dialogue: 0,0:01:06.57,0:01:08.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「いや、寝ねぇよ」ってな
+Dialogue: 0,0:01:09.15,0:01:10.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That changes the whole story.
+Dialogue: 0,0:01:09.15,0:01:10.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それじゃ話が全然違うじゃん
+Dialogue: 0,0:01:10.73,0:01:12.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I thought you was on some
+Dialogue: 0,0:01:10.73,0:01:12.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Rambo s**t.
+Dialogue: 0,0:01:10.73,0:01:12.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ランボーみたいなこと
+Dialogue: 0,0:01:10.73,0:01:12.47,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}したのかと思ったわ

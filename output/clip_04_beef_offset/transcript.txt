@@ -1,0 +1,43 @@
+# clip_04_beef_offset - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  267.68 -   270.56] Is the beef too far with certain people to totally squash?
+[  270.66 -   271.96] Because you said you don't want beef with nobody, right?
+[  272.04 -   275.26] Is it too far to say, you know what? Let's end it right here.
+[  275.36 -   277.18] We all making money. We all going our own way.
+[  277.22 -   278.10] We all got our own crew.
+[  278.18 -   281.16] Pull me up on it. Pull me up on it. I ain't tripping.
+[  281.38 -   284.98] I ain't got no beef with, I don't want, now I'm not going to say I don't got,
+[  284.80 -   286.16] because I don't know how anybody looks at me,
+[  286.34 -   287.54] you know what I'm saying? I don't know how everybody looks at me.
+[  287.68 -   290.24] Because the first beef, they say you and A Boogie, but y'all do so much.
+[  290.24 -   291.16] Y'all so big for New York.
+[  291.74 -   292.02] Boom.
+[  292.78 -   294.16] Tell A Boogie to come give me a hug.
+[  294.20 -   295.54] I ain't tripping on that shit, man.
+[  295.86 -   297.16] Offset, I love that. What about Offset?
+[  297.74 -   300.24] Offset, I'm not tripping on Offset. Offset, you know what's crazy?
+[  300.42 -   303.20] Offset, Offset, I don't know what's up with Offset.
+[  303.26 -   305.64] Offset just need to come give me a hug, too, man. I ain't.
+[  305.86 -   307.14] Now, was that over a gambling thing?
+[  308.36 -   309.36] Nothing happened with us.
+[  309.42 -   311.52] I think that my lawyer got to figure that shit out, right?
+[  311.52 -   312.34] My lawyer told me so.
+[  312.34 -   313.40] Now, I'm not even talking about that.
+[  313.48 -   315.92] I'm just talking about why y'all don't like each other.
+[  315.96 -   316.84] Was that over a gambling thing?
+[  317.04 -   320.20] I think that, yeah, I mean, I think that a lot of people don't like Offset
+[  320.20 -   322.48] because he has some gambling problems.
+[  322.76 -   324.44] Me, I wouldn't even say I don't like him.
+[  324.64 -   327.80] I would say I kind of feel bad for him. He's kind of fucked up.
+[  328.28 -   330.26] I kind of see what's going on, you feel me?
+[  330.34 -   331.76] I see it clear as day, you know?
+[  331.80 -   333.18] And I also look at him, like, you're supposed to be,
+[  333.40 -   334.70] like, a more established, mature,
+[  335.26 -   336.94] in this space artist than me, you feel me?
+[  337.04 -   339.78] And I look at how I maneuver, like, my security.
+[  340.34 -   341.88] I look at everything, kind of, like, everything.
+[  342.34 -   343.30] I can see with my own two eyes.
+[  343.42 -   345.42] And then when we run into each other, like, I realize,
+[  345.42 -   346.68] I'm like, bro, you ain't moving like that.
+[  346.74 -   349.84] God, bro, this shit look, like, a little sad, you know what I mean?

@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.17,0:00:02.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Do you think trauma changes people
+Dialogue: 0,0:00:01.17,0:00:02.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}トラウマって人を変えると思う？
+Dialogue: 0,0:00:02.89,0:00:05.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}or just reveals who they
+Dialogue: 0,0:00:02.89,0:00:05.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}already were?
+Dialogue: 0,0:00:02.89,0:00:05.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それとも元の本性が出るだけ？
+Dialogue: 0,0:00:06.35,0:00:09.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Nah, it can super change you. You
+Dialogue: 0,0:00:06.35,0:00:09.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}feel me?
+Dialogue: 0,0:00:06.35,0:00:09.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いや、マジで人を変えるよ
+Dialogue: 0,0:00:06.35,0:00:09.75,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ？
+Dialogue: 0,0:00:09.77,0:00:12.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It can super change me, change you
+Dialogue: 0,0:00:09.77,0:00:12.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}as a person.
+Dialogue: 0,0:00:09.77,0:00:12.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人としてガラッと変わるんだよ
+Dialogue: 0,0:00:12.39,0:00:13.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:12.39,0:00:13.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかる？
+Dialogue: 0,0:00:13.41,0:00:17.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I feel like what the world's
+Dialogue: 0,0:00:13.41,0:00:17.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}seeing was me go through
+Dialogue: 0,0:00:13.41,0:00:17.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、世間が見てたのは
+Dialogue: 0,0:00:13.41,0:00:17.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺がトラウマを経験して
+Dialogue: 0,0:00:17.19,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}something traumatic and me change
+Dialogue: 0,0:00:17.19,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in front of them.
+Dialogue: 0,0:00:17.19,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}みんなの前で
+Dialogue: 0,0:00:17.19,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}変わっていく姿なんだよ
+Dialogue: 0,0:00:19.81,0:00:23.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And then I feel like they judge me a
+Dialogue: 0,0:00:19.81,0:00:23.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}little cruelly, but it's over now.
+Dialogue: 0,0:00:19.81,0:00:23.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ちょっと残酷にジャッジされたけど
+Dialogue: 0,0:00:19.81,0:00:23.47,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もう終わったことだし
+Dialogue: 0,0:00:23.49,0:00:25.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I think that's kind of what
+Dialogue: 0,0:00:23.49,0:00:25.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}happened, what was going on.
+Dialogue: 0,0:00:23.49,0:00:25.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}まぁ、そういうことだったんだと思う
+Dialogue: 0,0:00:25.92,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But then they'll see the headlines
+Dialogue: 0,0:00:25.92,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with the bulls**t.
+Dialogue: 0,0:00:25.92,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも見出しになるのは
+Dialogue: 0,0:00:25.92,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}クソみたいな話ばっか
+Dialogue: 0,0:00:28.16,0:00:29.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Do you feel misunderstood
+Dialogue: 0,0:00:28.16,0:00:29.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}誤解されてると思う？
+Dialogue: 0,0:00:29.40,0:00:32.58,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}or do you think you've made it easy
+Dialogue: 0,0:00:29.40,0:00:32.58,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}for people to misunderstand you?
+Dialogue: 0,0:00:29.40,0:00:32.58,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それとも自分から
+Dialogue: 0,0:00:29.40,0:00:32.58,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}誤解されやすくしてる？
+Dialogue: 0,0:00:32.60,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I think a lot of people
+Dialogue: 0,0:00:32.60,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}misunderstand me
+Dialogue: 0,0:00:32.60,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺を誤解してる人は多いと思う
+Dialogue: 0,0:00:34.84,0:00:37.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I think a lot of people 100%
+Dialogue: 0,0:00:34.84,0:00:37.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}understand me.
+Dialogue: 0,0:00:34.84,0:00:37.74,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも100%わかってくれてる人も
+Dialogue: 0,0:00:34.84,0:00:37.74,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}たくさんいるんだよ
+Dialogue: 0,0:00:37.76,0:00:40.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And the people that understand me
+Dialogue: 0,0:00:37.76,0:00:40.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}might not have as much of a voice
+Dialogue: 0,0:00:37.76,0:00:40.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ただ、わかってくれてる人たちは
+Dialogue: 0,0:00:37.76,0:00:40.90,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そんなに声が大きくないかもな
+Dialogue: 0,0:00:40.92,0:00:46.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}in a comment section or a headline.
+Dialogue: 0,0:00:40.92,0:00:46.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:40.92,0:00:46.44,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}コメント欄とか見出しではさ
+Dialogue: 0,0:00:46.46,0:00:50.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I think a lot of people
+Dialogue: 0,0:00:46.46,0:00:50.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}understand me to a certain extent.
+Dialogue: 0,0:00:46.46,0:00:50.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもある程度は
+Dialogue: 0,0:00:46.46,0:00:50.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかってくれてると思う
+Dialogue: 0,0:00:50.40,0:00:53.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But the reason why the name of the
+Dialogue: 0,0:00:50.40,0:00:53.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}album is They Just Ain't You,
+Dialogue: 0,0:00:50.40,0:00:53.74,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}アルバム名を
+Dialogue: 0,0:00:50.40,0:00:53.74,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「They Just Ain't You」にしたのは
+Dialogue: 0,0:00:53.90,0:00:56.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}is I realize the way I think from the
+Dialogue: 0,0:00:53.90,0:00:56.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}ground up
+Dialogue: 0,0:00:53.90,0:00:56.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺の根っこからの考え方が
+Dialogue: 0,0:00:56.68,0:01:00.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}is very different to the
+Dialogue: 0,0:00:56.68,0:01:00.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}average person.
+Dialogue: 0,0:00:56.68,0:01:00.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}普通の人とは全然違うって
+Dialogue: 0,0:00:56.68,0:01:00.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}気づいたからなんだ

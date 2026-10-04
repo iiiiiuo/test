@@ -1,0 +1,116 @@
+{
+ "clip": "clip_07_trauma_misunderstood",
+ "source": {
+  "path": "/mnt/project-files/SOURCE_VIDEO.mp4",
+  "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+  "fps": "30000/1001",
+  "timebase": "1/30000",
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=frame*1001 (tb 1/30000)",
+ "video_segments": [
+  {
+   "start_frame": 14477,
+   "end_frame_excl": 15253,
+   "start_pts": 14491477,
+   "end_pts_excl": 15268253,
+   "start_s": 483.049233,
+   "end_s": 508.941767
+  },
+  {
+   "start_frame": 15339,
+   "end_frame_excl": 16370,
+   "start_pts": 15354339,
+   "end_pts_excl": 16386370,
+   "start_s": 511.8113,
+   "end_s": 546.212333
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_44k1": 21302471,
+   "end_sample_excl": 22444332,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_44k1": 22570878,
+   "end_sample_excl": 24087964,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band+blurred_background",
+   "note": "both layers derive from the same source frame at the same timestamp; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 14477,
+   "end_frame_excl": 14497,
+   "framing": "WG",
+   "crop": {
+    "w": 932,
+    "h": 900,
+    "x": 987,
+    "y": 150
+   }
+  },
+  {
+   "start_frame": 14497,
+   "end_frame_excl": 14638,
+   "framing": "WL",
+   "crop": {
+    "w": 932,
+    "h": 900,
+    "x": 0,
+    "y": 150
+   }
+  },
+  {
+   "start_frame": 14638,
+   "end_frame_excl": 15044,
+   "framing": "WG",
+   "crop": {
+    "w": 932,
+    "h": 900,
+    "x": 987,
+    "y": 150
+   }
+  },
+  {
+   "start_frame": 15044,
+   "end_frame_excl": 15253,
+   "framing": "G",
+   "crop": {
+    "w": 1120,
+    "h": 1080,
+    "x": 430,
+    "y": 0
+   }
+  },
+  {
+   "start_frame": 15339,
+   "end_frame_excl": 15537,
+   "framing": "WL",
+   "crop": {
+    "w": 932,
+    "h": 900,
+    "x": 0,
+    "y": 150
+   }
+  },
+  {
+   "start_frame": 15537,
+   "end_frame_excl": 16370,
+   "framing": "WG",
+   "crop": {
+    "w": 932,
+    "h": 900,
+    "x": 987,
+    "y": 150
+   }
+  }
+ ],
+ "edited_duration_frames": 1807
+}

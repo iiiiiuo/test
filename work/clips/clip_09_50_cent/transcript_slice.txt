@@ -1,0 +1,44 @@
+## source segment 649.32-675.68s (frames 19460-20250)
+649.34-652.98 [DJ_ENVY auto] But you had a conversation with 50, and I heard you say you speak to him after you got
+652.98-653.94 [DJ_ENVY auto] shot before, right?
+653.94-654.54 [GUEST auto] Yeah.   (low-conf: Yeah.)
+655.22-658.08 [DJ_ENVY auto] He's the perfect example of that, because he had the same thing.
+658.16-660.62 [DJ_ENVY auto] He couldn't, any way he moved, it was on his ass.
+660.72-663.02 [DJ_ENVY auto] And he had to move militant in a way where it protected him.
+663.06-664.88 [DJ_ENVY auto] How would those conversations have happened or worked?
+665.64-666.48 [GUEST auto] With 50 Cent?
+666.64-666.78 [GUEST auto] Yeah.
+667.00-671.14 [GUEST auto] You know, I just, I feel like me and 50 Cent is a little different, though.
+671.58-672.18 [GUEST auto] You feel me?
+672.24-675.60 [GUEST auto] And it's crazy, though, because I did that little old 50 Cent, Many Men remix.
+## source segment 676.48-680.61s (frames 20274-20398)
+675.96-676.54 [GUEST auto] Niggas gasped me.
+676.62-678.48 [GUEST auto] I just went high as fuck.   (low-conf: just)
+678.52-679.12 [GUEST auto] I pressed upload.
+679.38-680.62 [GUEST auto] Niggas like, what the fuck is that?   (low-conf: like,)
+## source segment 682.31-719.25s (frames 20449-21556)
+682.22-682.54 [GUEST auto] Nigga.
+682.54-683.40 [GUEST auto] But in reality.
+683.94-685.10 [GUEST auto] I do feel like we different.
+685.24-690.16 [GUEST auto] It's certain things, for example, that like, you know, it's just like, it's just my shoes.   (low-conf: like,, like,)
+691.08-691.82 [GUEST auto] You feel me?
+692.00-695.60 [GUEST auto] And I feel like 50 Cent just did certain things that I just probably wouldn't do in my life.
+695.76-696.04 [GUEST auto] Like what?
+698.12-703.28 [GUEST auto] I think that 50 Cent is like the big, like, gangster image, like, you feel me?
+703.40-705.60 [GUEST auto] A role model of the rap career.
+705.68-709.66 [GUEST auto] And it's like almost even me, like, being a younger person, I was, like, falling into it a little bit.
+709.72-710.94 [GUEST auto] Like, you know, I fuck with 50 too.
+711.12-711.66 [GUEST auto] You feel me?
+711.72-712.12 [GUEST auto] Like, yeah, yeah.
+712.20-717.98 [GUEST auto] But then when I actually use my own two eyes and I'm like, all right, a lot of the shit he do, I feel like at his age, I would not be doing.
+718.36-719.10 [GUEST auto] You know what I'm trying to say?
+## source segment 722.25-723.96s (frames 21646-21697)
+722.14-722.62 [GUEST auto] You feel me?   (low-conf: You)
+722.74-724.04 [GUEST auto] A lot of the shit he do, I would not do.   (low-conf: the)
+## source segment 725.12-731.03s (frames 21732-21909)
+725.20-727.58 [GUEST auto] Like you said, he too old for the trolling that he does.   (low-conf: Like)
+727.66-727.98 [GUEST auto] Yeah.
+728.16-728.64 [GUEST auto] You feel me?
+729.38-730.86 [GUEST auto] He got me on 25 years.   (low-conf: on)
+## source segment 732.57-735.80s (frames 21955-22052)
+732.60-735.56 [GUEST auto] I feel like he didn't come down to this level and troll me right now.   (low-conf: come)

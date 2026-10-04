@@ -1,0 +1,35 @@
+# clip_06_hospital_stories - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  424.36 -   427.80] How long did it take you to, like, get up and start moving regularly?
+[  427.80 -   428.94] I was, yo, you want to know something?
+[  429.24 -   430.48] What? You think I'm lying.
+[  431.62 -   433.08] All right, cool. Which means you probably are.
+[  435.36 -   438.08] Yo... I know how crazy it's going to sound.
+[  438.42 -   439.84] Look, I was on my feet.
+[  439.86 -   443.10] I was on my feet probably, like, from the moment I could, like,
+[  443.14 -   445.60] from the moment I was alert and I just tried to get on my feet,
+[  445.64 -   449.08] I got on my feet. And I got into, I was going to say a fight, but damn near,
+[  449.20 -   452.08] with the doctor for getting on my feet. He caught me on my feet.
+[  452.20 -   453.48] You were in a coma for five days.
+[  453.48 -   456.00] I'm like, yo, I thought I'd stand up. La, la, la.
+[  456.24 -   457.66] And, nigga, he spanked me out.
+[  459.04 -   459.94] He spanked you out?
+[  461.48 -   463.84] What did that mean? The doctor spanked you?
+[  463.84 -   465.10] No, I got into it with the doctor
+[  465.12 -   466.86] because I was trying to get up on my feet
+[  466.86 -   468.62] and he was telling me to chill, like, you feel me?
+[  471.08 -   472.22] He said he spanked you.
+[  472.32 -   473.30] You know when you're in the hospital,
+[  473.32 -   474.98] you got the fucking gown on.
+[  475.30 -   477.54] You see what he be thinking? You see what he be thinking?
+[  478.34 -   479.68] You see what he be thinking?
+[  479.68 -   480.76] He spanked you, bro.
+[  547.00 -   549.62] Did you really remove a bullet out your neck?
+[  550.02 -   551.46] Yeah, while I was wide awoke.
+[  551.60 -   554.18] Because you didn't want to go back under anesthesia.
+[  554.22 -   556.54] Yeah. You did it with a scalpel and numbing cream.
+[  556.74 -   559.06] I didn't do it, but the doctor did it and I was wide awoke
+[  559.06 -   560.58] and I'm like, nah, I'm not going to sleep.
+[  561.64 -   563.10] That changes the whole story.
+[  563.22 -   564.58] I thought you was on some Rambo shit.

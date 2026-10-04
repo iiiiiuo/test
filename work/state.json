@@ -1,30 +1,330 @@
 {
-  "schema": 1,
-  "updated": "2026-10-04T11:55:00Z",
-  "inputs": {
-    "SOURCE_INTERVIEW": {"path": "input/SOURCE_INTERVIEW.mp4", "canonical": "/mnt/project-files/SOURCE_VIDEO.mp4", "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
-      "video": {"codec": "h264", "w": 1920, "h": 1080, "sar": "1:1", "fps": "30000/1001", "cfr": true, "timebase": "1/30000", "pts_step": 1001, "frames": 22412, "start_pts": 0, "duration_s": 747.813733},
-      "audio": {"codec": "aac", "rate": 44100, "channels": 2, "duration_s": 747.868299},
-      "extra_streams": ["data bin_data", "attached png 1280x720"], "rotation": null,
-      "frame_to_time": "t = frame * 1001 / 30000", "content": "The Breakfast Club (iHeartRadio) interview; guest in fur trapper hat, hosts Charlamagne / DJ Envy / female co-host"},
-    "REFERENCE_VIDEO": {"path": "input/REFERENCE_VIDEO.mp4", "sha256": "e732296043f27a709e00f18e3e0ccb12ff59248028d4b6342abdf8bb0459fe8a", "w": 720, "h": 1280, "fps": "2997/125", "frames": 1513, "duration_s": 63.125011},
-    "fonts": {"YuGothB.ttc": "d923a57f781f06198167da4f58287be7ac64a954a47aff4295e078a42b4b68b2 (family 'Yu Gothic,游ゴシック' Bold, weight 200)",
-      "YuGothM.ttc": "cb2021bbfe40b21ec564848b8d702125661594e1b4f1eb2e77fd8a98b485cf19", "YuGothR.ttc": "cd24b5617c1e26572b0a7fe7e558f7121ca42c36f7b50e8d9216ac222a1c0a93", "YuGothL.ttc": "0acf409fc61e1560ea0384f8c72bf87c6fa7282077420657979680ee21dad2a4"}
+ "schema": 1,
+ "updated": "2026-10-04T15:44:37.839613Z",
+ "inputs": {
+  "SOURCE_INTERVIEW": {
+   "path": "input/SOURCE_INTERVIEW.mp4",
+   "canonical": "/mnt/project-files/SOURCE_VIDEO.mp4",
+   "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+   "video": {
+    "codec": "h264",
+    "w": 1920,
+    "h": 1080,
+    "sar": "1:1",
+    "fps": "30000/1001",
+    "cfr": true,
+    "timebase": "1/30000",
+    "pts_step": 1001,
+    "frames": 22412,
+    "start_pts": 0,
+    "duration_s": 747.813733
+   },
+   "audio": {
+    "codec": "aac",
+    "rate": 44100,
+    "channels": 2,
+    "duration_s": 747.868299
+   },
+   "extra_streams": [
+    "data bin_data",
+    "attached png 1280x720"
+   ],
+   "rotation": null,
+   "frame_to_time": "t = frame * 1001 / 30000",
+   "content": "The Breakfast Club (iHeartRadio) interview; guest in fur trapper hat, hosts Charlamagne / DJ Envy / female co-host"
   },
-  "tools": {"ffmpeg": "6.1.1 (libass, freetype, fontconfig, harfbuzz)", "whisper_cpp": "/opt/wcpp/src/build/bin/whisper-cli v1.7.6 built from HF space Xenobd/whisper.cpp (container-local, not persisted)",
-    "python": "3.11, no numpy/opencv (pypi blocked)", "pip": "BLOCKED pypi.org 403", "npm": "BLOCKED", "whisper_model": "BLOCKED: huggingface.co reachable but LFS CDN us.aws.cdn.hf.co / cdn-lfs.hf.co / cas-bridge.xethub.hf.co denied 403 by egress policy"},
-  "reference_observations": {
-    "layout": "720x1280; blurred zoomed copy fills top/bottom; sharp 16:9-ish crop of speaker in middle band approx y=293..988 (scaled up ~1.33x, cropped sides)",
-    "subtitles": "centered, over lower part of middle band (~y 640-730 of 1280); EN line(s) above JP line(s); white bold sans, thin black outline + soft shadow; same size EN/JP",
-    "masking_reference_forms": ["s**t", "f**king"],
-    "masking_note": "Reference uses two asterisks (s**t, f**king) while CLAUDE.md examples use one; reference-derived list governs per CLAUDE.md 3. To finalize at calibration.",
-    "evidence": ["work/ref/contact.png", "work/ref/f10.png"]
+  "REFERENCE_VIDEO": {
+   "path": "input/REFERENCE_VIDEO.mp4",
+   "sha256": "e732296043f27a709e00f18e3e0ccb12ff59248028d4b6342abdf8bb0459fe8a",
+   "w": 720,
+   "h": 1280,
+   "fps": "2997/125",
+   "frames": 1513,
+   "duration_s": 63.125011
   },
-  "caches": {"transcript": null, "semantic_map": null},
-  "used_source_ranges": [],
-  "clips": [],
-  "failed_approaches": [{"stage": "transcription", "approach": "download whisper weights from huggingface.co", "result": "redirect to LFS CDN denied by network policy"}, {"stage": "env", "approach": "pip install faster-whisper/opencv", "result": "pypi.org 403"}],
-  "current_task": "transcription",
-  "blockers": ["No speech-recognition model weights reachable. Need network allowlist for HF LFS CDN (us.aws.cdn.hf.co, cas-bridge.xethub.hf.co, cdn-lfs.hf.co) or a ggml whisper model file uploaded to the project."],
-  "next_action": "Once a model is available: whisper-cli -m <ggml-large-v3(-turbo)> on work/source_16k.wav, save work/transcript.json, then semantic map."
+  "fonts": {
+   "YuGothB.ttc": "d923a57f781f06198167da4f58287be7ac64a954a47aff4295e078a42b4b68b2 (family 'Yu Gothic,游ゴシック' Bold, weight 200)",
+   "YuGothM.ttc": "cb2021bbfe40b21ec564848b8d702125661594e1b4f1eb2e77fd8a98b485cf19",
+   "YuGothR.ttc": "cd24b5617c1e26572b0a7fe7e558f7121ca42c36f7b50e8d9216ac222a1c0a93",
+   "YuGothL.ttc": "0acf409fc61e1560ea0384f8c72bf87c6fa7282077420657979680ee21dad2a4"
+  }
+ },
+ "tools": {
+  "ffmpeg": "6.1.1 (libass, freetype, fontconfig, harfbuzz)",
+  "whisper_cpp": "/opt/wcpp/src/build/bin/whisper-cli v1.7.6 built from HF space Xenobd/whisper.cpp (container-local, not persisted)",
+  "python": "3.11 + numpy, opencv-python-headless 4.x, pillow, fonttools, faster-whisper 1.2.1, onnxruntime, kaldi-native-fbank, scikit-learn (pip reachable this session)",
+  "pip": "OK",
+  "npm": "BLOCKED",
+  "whisper_model": "faster-whisper large-v3 / medium.en / small.en (HF CDN reachable this session)",
+  "diarization": "wespeaker voxceleb resnet34-LM onnx (work/models)"
+ },
+ "reference_observations": {
+  "layout": "720x1280; blurred zoomed copy fills top/bottom; sharp 16:9-ish crop of speaker in middle band approx y=293..988 (scaled up ~1.33x, cropped sides)",
+  "subtitles": "centered, over lower part of middle band (~y 640-730 of 1280); EN line(s) above JP line(s); white bold sans, thin black outline + soft shadow; same size EN/JP",
+  "masking_reference_forms": [
+   "s**t",
+   "f**king"
+  ],
+  "masking_note": "Finalized: reference two-asterisk forms govern (s**t, f**king); list in style spec.",
+  "evidence": [
+   "work/ref/contact.png",
+   "work/ref/f10.png"
+  ]
+ },
+ "caches": {
+  "transcript": "work/transcript.json",
+  "transcript_pass1": "work/cache/transcript.json",
+  "pass2": [
+   "work/cache/transcript_pass2.json",
+   "work/cache/transcript_pass2b.json"
+  ],
+  "semantic_map": "work/semantic_map.json",
+  "shots": "work/cache/shots.json",
+  "diarization": [
+   "work/cache/diar_emb.npy",
+   "work/cache/diar_lab.npy"
+  ],
+  "candidates": "work/clip_candidates.json"
+ },
+ "used_source_ranges": [
+  {
+   "clip": "clip_04_beef_offset",
+   "intervals": [
+    [
+     8021,
+     10489
+    ]
+   ]
+  },
+  {
+   "clip": "clip_05_shot_seven_times",
+   "intervals": [
+    [
+     10490,
+     12587
+    ]
+   ]
+  },
+  {
+   "clip": "clip_06_hospital_stories",
+   "intervals": [
+    [
+     12713,
+     14046
+    ],
+    [
+     14113,
+     14409
+    ],
+    [
+     16389,
+     16932
+    ]
+   ]
+  },
+  {
+   "clip": "clip_07_trauma_misunderstood",
+   "intervals": [
+    [
+     14477,
+     15253
+    ],
+    [
+     15339,
+     16370
+    ]
+   ]
+  },
+  {
+   "clip": "clip_02_offset_owes_10k",
+   "intervals": [
+    [
+     1832,
+     3581
+    ],
+    [
+     3685,
+     4054
+    ]
+   ]
+  },
+  {
+   "clip": "clip_08_safe_alone",
+   "intervals": [
+    [
+     17194,
+     19459
+    ]
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "id": "clip_04_beef_offset",
+   "status": "frozen",
+   "render": "work/clips/clip_04_beef_offset/render.mp4",
+   "render_sha256": "bb677a51bcae40e32cb1f85c2e748f7c48482174835cf9194133b9477d09be5e",
+   "subtitles_ass_sha256": "720bd60f5beb191ef78c2656c8b280fbe87f63d2ceadafd81cac507d4d6cc1ed",
+   "spec_sha256": "5901bfdc68cf249d0c65418c6fabc33b7ab0dec1df2b7ac4b5f17b40b8542c9f",
+   "manifest": "work/clips/clip_04_beef_offset/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_04_beef_offset_critic.md",
+    "work/qa/clip_04_beef_offset_critic_r2.md"
+   ],
+   "frames": 2468,
+   "export": {
+    "dir": "output/clip_04_beef_offset",
+    "final_sha256": "b9615f0f0d1a4a14e6501ebca6091d83c5fd8a67a32ffdf5a8c0af796b021352",
+    "framemd5": "5fe847616b08aaf5b0df1606bc2a247e"
+   }
+  },
+  {
+   "id": "clip_05_shot_seven_times",
+   "status": "frozen",
+   "render": "work/clips/clip_05_shot_seven_times/render.mp4",
+   "render_sha256": "31a24356421adc283a38b32512437374540bda698f143d749c0cd0a543b33215",
+   "subtitles_ass_sha256": "cb11936e22988ba7bf2348c2ab9a0c05819c759318e0145474c746b2fa2eada7",
+   "spec_sha256": "dccc21f8a4aeea92dc39dde7849d0852a7f4d930d974659e59727ff02312a65e",
+   "manifest": "work/clips/clip_05_shot_seven_times/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_05_shot_seven_times_critic.md"
+   ],
+   "frames": 2097,
+   "export": {
+    "dir": "output/clip_05_shot_seven_times",
+    "final_sha256": "6a5ae37c3953d20fa9ec837b0b06e54ef434cd9674b30154e732d5cead733664",
+    "framemd5": "3b3c45e1cc0460e5c074869ce43dde21"
+   }
+  },
+  {
+   "id": "clip_06_hospital_stories",
+   "status": "frozen",
+   "render": "work/clips/clip_06_hospital_stories/render.mp4",
+   "render_sha256": "57b8c68c89f572c265882a03fc24a3ed6bb326e48b446cd7818e014083293944",
+   "subtitles_ass_sha256": "a97f822ec283f453ea0362c2bac55b8d38fbc2ffe703f9e12b1a4818135400d3",
+   "spec_sha256": "fe277d03fa7bcf02411dd9ef19976afc5c1a8c869b103bd362248f7c31a7a3f4",
+   "manifest": "work/clips/clip_06_hospital_stories/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_06_hospital_stories_critic.md"
+   ],
+   "frames": 2172,
+   "export": {
+    "dir": "output/clip_06_hospital_stories",
+    "final_sha256": "e53a246dca7357e388fa1eda97daf8662a84735caf021cd0d43c3117d6a91ea0",
+    "framemd5": "ea3802855948f4dab561fb8b83eb1cec"
+   }
+  },
+  {
+   "id": "clip_07_trauma_misunderstood",
+   "status": "frozen",
+   "render": "work/clips/clip_07_trauma_misunderstood/render.mp4",
+   "render_sha256": "1256d0a8e0389b2edbd51152b8d601f23b114b65de4a7fa122c1145f50b29e75",
+   "subtitles_ass_sha256": "74c1a20fcfc6d7b55af335cbe2334384bd651587d3c90446ce98e5edd444cc0b",
+   "spec_sha256": "ea32af8ce7b28ca3ac5ee12eebeb62bf13e78b8111d496ee2b7a8acaa65b5c7b",
+   "manifest": "work/clips/clip_07_trauma_misunderstood/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_07_trauma_misunderstood_critic.md"
+   ],
+   "frames": 1807,
+   "export": {
+    "dir": "output/clip_07_trauma_misunderstood",
+    "final_sha256": "f74ac01b3f98a249d704d6bee9a5bbeb9d5eba6e3a4b2f50dbc0ccf237fcddb3",
+    "framemd5": "9a0bf782018313e24df04852b582fb24"
+   }
+  },
+  {
+   "id": "clip_02_offset_owes_10k",
+   "status": "frozen",
+   "render": "work/clips/clip_02_offset_owes_10k/render.mp4",
+   "render_sha256": "5339c5bf453f76073a6b9f3448965294ec7b13580104ebe3017fd0c766e4f37b",
+   "subtitles_ass_sha256": "384ae99fce720dfafc474847306bd6b546d8fcd12c7d5580a4a63bb73ff41764",
+   "spec_sha256": "052f7c1761b1dddfccab0a70879b00c2a70417b98e5f53ca94e7fcdec188764e",
+   "manifest": "work/clips/clip_02_offset_owes_10k/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_02_offset_owes_10k_critic.md",
+    "work/qa/clip_02_offset_owes_10k_critic_r2.md"
+   ],
+   "frames": 2118,
+   "export": {
+    "dir": "output/clip_02_offset_owes_10k",
+    "final_sha256": "f635277be8c2fd3610d9558ce430a8a203f25f4f413cd19389cd32a266e749a8",
+    "framemd5": "d0f7df46ebb4c5ee15b968612cf51780"
+   }
+  },
+  {
+   "id": "clip_08_safe_alone",
+   "status": "frozen",
+   "render": "work/clips/clip_08_safe_alone/render.mp4",
+   "render_sha256": "3f781371f06ab0f3f308cf4b36e85b7033571ae6eb4ab82c6a77c2845777b0a8",
+   "subtitles_ass_sha256": "ee53e92f054db2c1461daf61dcb0b3aa7140bf4af2347a169eaf698db2ce3dbc",
+   "spec_sha256": "e42db5be7bfac37998c7dad98b6a53fff8d44911452d9fed03d89a86c1a48ce6",
+   "manifest": "work/clips/clip_08_safe_alone/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_08_safe_alone_critic.md",
+    "work/qa/clip_08_safe_alone_critic_r2.md",
+    "work/qa/clip_08_safe_alone_critic_r3.md"
+   ],
+   "frames": 2265,
+   "export": {
+    "dir": "output/clip_08_safe_alone",
+    "final_sha256": "7b2365d0a47551c9483f6ad4cad0f2c18512bf2e087d3cc1de31a93da30c6389",
+    "framemd5": "1520a0f35df661c1ad5e5943160d2d25"
+   }
+  }
+ ],
+ "failed_approaches": [
+  {
+   "stage": "transcription",
+   "approach": "download whisper weights from huggingface.co",
+   "result": "redirect to LFS CDN denied by network policy"
+  },
+  {
+   "stage": "env",
+   "approach": "pip install faster-whisper/opencv",
+   "result": "pypi.org 403"
+  },
+  {
+   "stage": "framing",
+   "approach": "dissolve spans took incoming shot crop incl. left-speaker crop",
+   "result": "showed empty wide-shot area during dissolve; fixed: half/half outgoing/incoming, wide transitions use guest crop"
+  },
+  {
+   "stage": "captions",
+   "approach": "1-word caption split (0.30 s)",
+   "result": "critic FAIL; lint now flags <0.8 s onset gaps"
+  }
+ ],
+ "current_task": "build/critic/freeze per clip",
+ "blockers": [],
+ "next_action": "see clips list",
+ "style": {
+  "spec": "output/shared/subtitle_style_spec.md",
+  "template": "work/style/template_header.ass",
+  "status": "frozen v1",
+  "calibration_qa": "work/qa/calibration_critic.md (PASS)"
+ },
+ "uncertainties": [
+  {
+   "span": "53.9-61.0",
+   "issue": "repeated phrase transcribed 5 different ways across 4 model runs -> UNTRANSLATABLE, excluded; U01 candidate rejected (53 s coherent material < 60 s)"
+  },
+  {
+   "span": "468.7-470.9",
+   "issue": "LOW, cut from clip_06"
+  },
+  {
+   "span": "565.3-572.3",
+   "issue": "LOW, excluded (clip_06 ends at 564.95)"
+  },
+  {
+   "span": "420.0-423.8",
+   "issue": "LOW, excluded (clip_05 ends 419.99)"
+  }
+ ]
 }

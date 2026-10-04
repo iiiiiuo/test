@@ -1,0 +1,51 @@
+## source segment 573.71-649.28s (frames 17194-19459)
+573.88-576.12 [CHARLAMAGNE auto] You just said that you spent a lot of time alone.
+576.12-576.94 [CHARLAMAGNE auto] Alone, right?   (low-conf: Alone,)
+576.94-580.60 [CHARLAMAGNE auto] And sometimes you got to do that even with the people you come from.
+580.66-581.68 [GUEST auto] Because I feel safe alone.
+582.04-585.44 [GUEST auto] I feel like me chilling with you might be a liability for me.
+585.62-587.86 [GUEST auto] Just because we just live two different lifestyles
+587.86-590.30 [GUEST auto] and I think differently from ground up than you,
+590.36-592.68 [GUEST auto] you might put me in harm's way and not even realize it.
+592.74-594.12 [GUEST auto] So cut them people off.
+594.32-595.46 [GUEST auto] No, but that's you.
+596.04-596.86 [GUEST auto] It could be you.
+596.90-598.22 [GUEST auto] It could be you, Charlamagne, right now.
+598.76-599.98 [DJ_ENVY auto] Charlamagne ain't going to put you in a place
+599.98-601.40 [DJ_ENVY auto] where you feel like your life is straightened out.
+601.66-602.78 [DJ_ENVY auto] Envy ain't going to put you in a place
+602.78-603.48 [DJ_ENVY auto] where you feel like your life is straightened out.
+603.62-603.98 [GUEST auto] Intentionally.
+604.04-605.34 [GUEST auto] No, we got too much to lose.
+605.56-606.10 [GUEST auto] I don't know.   (low-conf: know.)
+606.12-607.70 [GUEST auto] I don't want to sound tough or none of that,   (low-conf: I, want)
+607.76-610.58 [GUEST auto] but I'm dramatically different from the average person.
+610.76-610.98 [GUEST auto] You feel me?   (low-conf: You)
+611.28-613.52 [GUEST auto] It's to a certain extent the security don't even got it
+613.52-614.86 [GUEST auto] in him nine times out of ten.   (low-conf: ten.)
+615.34-615.94 [GUEST auto] You feel me?
+616.02-616.44 [GUEST auto] What I'm going to do?
+616.50-617.44 [GUEST auto] I'm going to put you to the test.
+617.54-619.04 [GUEST auto] You'll go in the street and let me see you
+619.50-620.54 [GUEST auto] in an extreme situation.   (low-conf: an)
+620.84-621.18 [GUEST auto] You feel me?
+622.28-624.90 [GUEST auto] Sometimes you got to fight fire with fire.
+625.00-628.30 [GUEST auto] Sometimes I be around the bros and I be like, bro, y'all annoying me.   (low-conf: bro,)
+628.40-628.66 [GUEST auto] You feel me?   (low-conf: You)
+628.74-629.26 [GUEST auto] And they know that.
+629.28-629.80 [GUEST auto] They know that.
+629.86-630.28 [GUEST auto] We talk to them.   (low-conf: to)
+630.34-631.10 [GUEST auto] I be like, I love y'all, bro.
+631.16-632.00 [GUEST auto] I want y'all to do better, bro.
+632.06-633.00 [GUEST auto] But y'all is annoying.
+633.12-633.72 [GUEST auto] Y'all in the way.
+633.86-634.28 [GUEST auto] You feel me?   (low-conf: You)
+634.34-638.56 [GUEST auto] But to a certain extent, you just kind of like, you need to balance it.
+638.60-639.94 [GUEST auto] It's just because I can't change.
+640.06-641.24 [GUEST auto] This is like my life.
+641.28-642.74 [GUEST auto] Like, this is like, you feel me?   (low-conf: Like,)
+642.90-644.12 [GUEST auto] You know, but this is how I feel.   (low-conf: this)
+644.22-646.16 [CHARLAMAGNE auto] You'll be singing a totally different tune in five years.
+647.04-647.32 [CHARLAMAGNE auto] Guaranteed.
+647.78-648.34 [GUEST auto] Hopefully so.
+648.46-649.22 [GUEST auto] You feel me?

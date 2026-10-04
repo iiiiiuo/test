@@ -1,0 +1,41 @@
+## source segment 424.19-468.67s (frames 12713-14046)
+424.36-427.80 [GUEST auto] How long did it take you to, like, get up and start moving regularly?
+427.80-428.94 [GUEST auto] I was, yo, you want to know something?   (low-conf: I)
+429.24-429.36 [GUEST auto] What?
+429.58-430.48 [GUEST auto] You think I'm lying.
+431.62-432.28 [GUEST auto] All right, cool.   (low-conf: All)
+432.36-433.08 [GUEST auto] Which means you probably are.
+435.36-438.08 [GUEST auto] Yo, where's, I know how crazy it's going to sound.   (low-conf: where's,, I)
+438.42-439.84 [GUEST auto] Look, I was on my feet.
+439.86-443.10 [GUEST auto] I was on my feet probably, like, from the moment I could, like,
+443.14-445.60 [GUEST auto] from the moment I was alert and I just tried to get on my feet,
+445.64-446.22 [GUEST auto] I got on my feet.
+446.32-449.08 [GUEST auto] And I got into, I was going to say a fight, but damn near,
+449.20-451.22 [GUEST auto] with the doctor for getting on my feet.
+451.26-452.08 [GUEST auto] He caught me on my feet.
+452.20-453.48 [GUEST auto] You were in a coma for five days.   (low-conf: You)
+453.48-455.14 [GUEST auto] I'm like, yo, I got to stand up.   (low-conf: got)
+455.34-456.00 [GUEST auto] La, la, la.
+456.24-457.66 [GUEST auto] And, nigga, he spanked me out.
+459.04-459.94 [CHARLAMAGNE auto] He spanked you out?
+461.48-462.72 [GUEST auto] What did that mean?   (low-conf: did)
+463.36-463.84 [GUEST auto] The doctor spanked you?
+463.84-466.86 [GUEST auto] No, I got into it with the doctor because I was trying to get up on my feet   (low-conf: No,)
+466.86-468.62 [GUEST auto] and he was telling me, yo, Chev, like, feel me?   (low-conf: and, Chev,, feel)
+## source segment 470.90-480.78s (frames 14113-14409)
+471.08-472.22 [CHARLAMAGNE auto] He said he spanked you.
+472.32-474.98 [CHARLAMAGNE auto] You know when you're in the hospital, you got the fucking gown on.
+475.30-476.22 [GUEST auto] You see what he be thinking?
+476.32-477.54 [GUEST auto] You see what he be thinking?
+478.34-479.68 [GUEST auto] You see what he be thinking?
+479.68-480.76 [GUEST auto] He spanked you, bro.
+480.00-480.74 [GUEST auto] He spanked you, bro.   (low-conf: He)
+## source segment 546.85-564.96s (frames 16389-16932)
+547.00-549.62 [GUEST auto] Did you really remove a bullet out your neck?   (low-conf: Did)
+550.02-551.46 [GUEST auto] Yeah, while I was wide awoke.
+551.60-554.18 [GUEST auto] Because you didn't want to go back under anesthesia.
+554.22-556.54 [GUEST auto] You did it with a scalpel and numbing cream.   (low-conf: You)
+556.74-559.06 [GUEST auto] I didn't do it, but the doctor did it and I was wide awoke
+559.06-560.58 [GUEST auto] and I'm like, nah, I'm not going to sleep.
+561.64-563.10 [CHARLAMAGNE auto] That changes the whole story.
+563.22-564.58 [CHARLAMAGNE auto] I thought you was on some Rambo shit.

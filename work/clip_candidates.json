@@ -1,0 +1,258 @@
+{
+ "candidates": [
+  {
+   "id": "C01",
+   "units": [
+    "U01"
+   ],
+   "iv": [
+    [
+     0.034,
+     61.0
+    ]
+   ],
+   "topic": "Grown up now / headlines",
+   "open_end": "'How you been?' -> 'Courthouse... album on the way'",
+   "standalone": "standalone",
+   "risk": "MEDIUM: end phrase disputed across passes (album on the way)",
+   "q": "MEDIUM",
+   "status": "reserved",
+   "reason": "natural interview opener; 61s",
+   "est_s": 61.0
+  },
+  {
+   "id": "C02",
+   "units": [
+    "U02"
+   ],
+   "iv": [
+    [
+     61.0,
+     135.28
+    ]
+   ],
+   "topic": "Offset owes me 10K",
+   "open_end": "host question -> 'kudos to you, bro'",
+   "standalone": "standalone",
+   "risk": "MEDIUM: fast speech, pass2-resolved",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "clear question+story+punchline; 74s",
+   "est_s": 74.3
+  },
+  {
+   "id": "C03",
+   "units": [
+    "U04"
+   ],
+   "iv": [
+    [
+     143.3,
+     229.82
+    ]
+   ],
+   "topic": "Casino/strip club story",
+   "open_end": "'Was y'all in the casino together?' -> 'I'm the biggest b**ch'",
+   "standalone": "standalone (Offset referred to as 'he')",
+   "risk": "MEDIUM",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "vivid story with resolution; 86.5s in acceptable band",
+   "est_s": 86.5
+  },
+  {
+   "id": "C03b",
+   "units": [
+    "U03",
+    "U04",
+    "U05"
+   ],
+   "iv": [
+    [
+     135.28,
+     267.24
+    ]
+   ],
+   "topic": "Casino + aftermath",
+   "open_end": "",
+   "standalone": "",
+   "risk": "",
+   "q": "MEDIUM",
+   "status": "rejected",
+   "reason": ">120s; splitting gives C03; U05 alone too short",
+   "est_s": 132.0
+  },
+  {
+   "id": "C04",
+   "units": [
+    "U06"
+   ],
+   "iv": [
+    [
+     267.68,
+     349.84
+    ]
+   ],
+   "topic": "Beef with A Boogie & Offset",
+   "open_end": "'Is the beef too far to squash?' -> 'this shit look a little sad'",
+   "standalone": "standalone",
+   "risk": "LOW",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "complete Q&A; 82s",
+   "est_s": 82.2
+  },
+  {
+   "id": "C04b",
+   "units": [
+    "U05",
+    "U06"
+   ],
+   "iv": [
+    [
+     257.28,
+     349.84
+    ]
+   ],
+   "topic": "Offset cool? + beef",
+   "open_end": "",
+   "standalone": "",
+   "risk": "",
+   "q": "MEDIUM",
+   "status": "rejected",
+   "reason": "92.6s; extra opener rambles; C04 tighter",
+   "est_s": 92.6
+  },
+  {
+   "id": "C05",
+   "units": [
+    "U07"
+   ],
+   "iv": [
+    [
+     350.12,
+     423.8
+    ]
+   ],
+   "topic": "Shot 7 times, healing alone",
+   "open_end": "'Have you fully healed?' -> 'some of them was going through me'",
+   "standalone": "standalone",
+   "risk": "LOW",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "strong; 74s",
+   "est_s": 73.7
+  },
+  {
+   "id": "C06",
+   "units": [
+    "U08",
+    "U10"
+   ],
+   "iv": [
+    [
+     424.36,
+     480.76
+    ],
+    [
+     547.38,
+     571.92
+    ]
+   ],
+   "topic": "Hospital stories",
+   "open_end": "'How long to get up?' -> 'I ain't fry like that'",
+   "standalone": "standalone",
+   "risk": "MEDIUM: one cut joining two hospital anecdotes",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "U08 alone 56s (<60); U10 alone 25s; same-topic join, chronological",
+   "est_s": 80.9
+  },
+  {
+   "id": "C07",
+   "units": [
+    "U09"
+   ],
+   "iv": [
+    [
+     482.0,
+     546.06
+    ]
+   ],
+   "topic": "Trauma & being misunderstood",
+   "open_end": "'Does trauma change people?' -> album title meaning",
+   "standalone": "standalone",
+   "risk": "LOW",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "64s",
+   "est_s": 64.1
+  },
+  {
+   "id": "C07b",
+   "units": [
+    "U09",
+    "U10"
+   ],
+   "iv": [
+    [
+     482.0,
+     571.92
+    ]
+   ],
+   "topic": "Trauma + neck bullet",
+   "open_end": "",
+   "standalone": "",
+   "risk": "",
+   "q": "MEDIUM",
+   "status": "rejected",
+   "reason": "would strand U08 (<60s); topic shift",
+   "est_s": 89.9
+  },
+  {
+   "id": "C08",
+   "units": [
+    "U11"
+   ],
+   "iv": [
+    [
+     573.88,
+     649.22
+    ]
+   ],
+   "topic": "Safe alone",
+   "open_end": "'You spend a lot of time alone' -> 'different tune in five years / hopefully'",
+   "standalone": "standalone",
+   "risk": "LOW",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "75s",
+   "est_s": 75.3
+  },
+  {
+   "id": "C09",
+   "units": [
+    "U12"
+   ],
+   "iv": [
+    [
+     649.34,
+     735.56
+    ]
+   ],
+   "topic": "50 Cent",
+   "open_end": "'You talked with 50?' -> 'troll me right now'",
+   "standalone": "standalone",
+   "risk": "MEDIUM: 719-731 age phrase",
+   "q": "HIGH",
+   "status": "reserved",
+   "reason": "86s complete thread",
+   "est_s": 86.2
+  }
+ ],
+ "unused_units": {
+  "U03": "follow-up bridge, depends on U02/U04, 8s",
+  "U05": "aftermath remarks depend on casino story; 36s, no same-topic extension without exceeding limits or overlapping frozen picks",
+  "U13": "outro/bumper, not content"
+ }
+}

@@ -1,0 +1,48 @@
+## source segment 267.63-349.98s (frames 8021-10489)
+267.68-270.56 [DJ_ENVY auto] Is the beef too far with certain people to totally squash?
+270.66-271.96 [DJ_ENVY auto] Because you said you don't want beef with nobody, right?
+272.04-274.32 [DJ_ENVY auto] Is it too far to say, you know what?
+274.38-275.26 [DJ_ENVY auto] Let's end it right here.
+275.36-276.20 [DJ_ENVY auto] We all making money.
+276.26-277.18 [DJ_ENVY auto] We all going our own way.
+277.22-278.10 [DJ_ENVY auto] We all got our own crew.
+278.18-279.26 [GUEST auto] Pull me up on it.
+279.76-280.58 [GUEST auto] Pull me up on it.
+280.66-281.16 [GUEST auto] I ain't tripping.
+281.38-284.98 [GUEST auto] I ain't got no beef with, I don't want, now I'm not going to say I don't got, because   (low-conf: now)
+284.98-286.58 [GUEST auto] I don't know how anybody looks at me, you know what I'm saying?   (low-conf: I)
+286.66-287.54 [GUEST auto] I don't know how everybody looks at me.
+287.68-290.24 [DJ_ENVY auto] Because the first beef, they say you and A Boogie, but y'all do so much.   (low-conf: beef,)
+290.24-291.16 [DJ_ENVY auto] Y'all so big for New York.
+291.74-292.02 [GUEST auto] Boom.
+292.78-294.16 [GUEST auto] Tell A Boogie to come give me a hug.   (low-conf: to)
+294.20-295.54 [GUEST auto] I ain't tripping on that shit, man.
+295.86-296.56 [DJ_ENVY auto] Offset, I love that.
+296.62-297.16 [DJ_ENVY auto] What about Offset?
+297.74-299.38 [GUEST auto] Offset, I'm not tripping on Offset.
+299.50-300.24 [GUEST auto] Offset, you know what's crazy?
+300.42-303.20 [GUEST auto] Offset, Offset, I don't know what's up with Offset.
+303.26-305.20 [GUEST auto] Offset just need to come give me a hug, too, man.
+305.28-305.64 [GUEST auto] I ain't.
+305.86-308.10 [DJ_ENVY auto] Now, was that over a gambling thing?
+308.36-309.36 [GUEST auto] Nothing happened with us.
+309.42-311.52 [GUEST auto] I think that my lawyer got to figure that shit out, right?
+311.60-312.34 [GUEST auto] My lawyer told me so.
+312.34-313.40 [DJ_ENVY auto] Now, I'm not even talking about that.   (low-conf: Now,)
+313.48-315.92 [DJ_ENVY auto] I'm just talking about why y'all don't like each other.
+315.96-316.84 [DJ_ENVY auto] Was that over a gambling thing?   (low-conf: thing?)
+317.04-320.98 [GUEST auto] I think that, yeah, I mean, I think that a lot of people don't like Offset because he
+320.98-322.48 [GUEST auto] has some gambling problems.
+322.76-324.44 [GUEST auto] Me, I wouldn't even say I don't like him.
+324.64-326.48 [GUEST auto] I would say I kind of feel bad for him.
+326.70-327.80 [GUEST auto] He's kind of fucked up.
+328.28-330.26 [GUEST auto] I kind of see what's going on, you feel me?
+330.34-331.76 [GUEST auto] I see it clear as day, you know?
+331.80-335.06 [GUEST auto] And I also look at him, like, you're supposed to be, like, a more established, mature,   (low-conf: like,)
+335.26-336.94 [GUEST auto] in this space artist than me, you feel me?
+337.04-339.78 [GUEST auto] And I look at how I maneuver, like, my security.
+340.34-342.16 [GUEST auto] I look at everything, kind of, like, everything.
+342.34-343.30 [GUEST auto] I can see with my own two eyes.
+343.42-346.28 [GUEST auto] And then when we run into each other, like, I realize, I'm like, bro, you ain't moving   (low-conf: like,)
+346.28-346.68 [GUEST auto] like that.
+346.74-349.84 [GUEST auto] God, bro, this shit look, like, a little sad, you know what I mean?

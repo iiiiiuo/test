@@ -1,0 +1,34 @@
+## source segment 143.14-159.96s (frames 4290-4794)
+143.30-144.98 [GUEST auto] Was y'all in the casino together or something?   (low-conf: Was)
+145.18-146.46 [GUEST auto] Yeah, I wasn't even better than him.
+146.52-147.38 [GUEST auto] Like, he lost his money.   (low-conf: Like,)
+147.44-148.14 [GUEST auto] He was acting.   (low-conf: acting.)
+148.34-148.74 [GUEST auto] Let me tell you what happened.
+148.86-149.50 [GUEST auto] He was acting.
+150.00-154.90 [GUEST auto] A fucking lady. Like, auntie, auntie, let me get you cash. He's calling everybody on his phone. Nobody giving him no bread.   (low-conf: A)
+155.20-159.82 [GUEST auto] He's asking the ladies, like, regular people. Like, they look like they work nine to five jobs, like, not no rich people.   (low-conf: they)
+## source segment 162.40-164.56s (frames 4867-4932)
+160.10-164.52 [GUEST auto] And he getting them, talking about my cash app, you in the morning. I'm like, you fake tweaking, gang.   (low-conf: talking, app,)
+## source segment 169.24-211.95s (frames 5072-6352)
+169.34-171.96 [GUEST auto] I probably hit him back for it for mad long. You feel me?   (low-conf: feel)
+172.08-177.94 [GUEST auto] It was, I swear to God, everybody probably telling me. Everybody telling me, like, yo, bro, he playing with you.
+177.94-185.10 [GUEST auto] I didn't even care. I didn't even care. But then when I fake hit him about it, bro, you fake super tough.
+185.18-186.36 [GUEST auto] I'm like, yo, you tweaking, broski.
+186.94-191.26 [GUEST auto] But was you fake hitting him about it? Were you like, yo, y'all really want my money? You sitting here losing everybody else's money.   (low-conf: y)
+191.50-195.60 [GUEST auto] No, no, no. I fake probably, like, got spun off, like, ten times, blah, blah, blah.
+195.78-197.68 [GUEST auto] And then one day he was in the strip club. He just made it rain on everybody.   (low-conf: he)
+198.32-199.66 [GUEST auto] He made it rain on the whole club.
+200.42-201.06 [GUEST auto] That's the worst.
+201.34-202.68 [GUEST auto] Can I tell you something, broski?
+203.44-205.68 [GUEST auto] I don't really like saying stupid shit, feel me?   (low-conf: feel)
+206.10-207.24 [GUEST auto] But when I tell you, bro.
+208.00-211.84 [GUEST auto] Everybody looking at me like, you going to let him play? I'm like, leave him, bro.   (low-conf: Everybody, going)
+## source segment 214.25-222.09s (frames 6421-6656)
+214.32-214.68 [GUEST auto] It's the image.
+214.90-215.54 [GUEST auto] It's the image.
+215.90-219.32 [CHARLAMAGNE auto] Now, if that story is true, though, it is fucked up when somebody owe you money.   (low-conf: Now,)
+219.38-219.90 [CHARLAMAGNE auto] And you're like, yo, you.
+220.20-222.12 [GUEST auto] Bro, the whole world is telling you.
+## source segment 224.86-227.36s (frames 6739-6814)
+224.96-226.38 [GUEST auto] And at that point, it ain't about the money.
+226.58-227.32 [GUEST auto] It's about the respect.

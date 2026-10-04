@@ -1,0 +1,23 @@
+# clip_07_trauma_misunderstood - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  484.22 -   485.90] Do you think trauma changes people
+[  485.94 -   488.22] or just reveals who they already were?
+[  489.40 -   492.74] Nah, it can super change you. You feel me?
+[  492.82 -   495.36] It can super change me, change you as a person.
+[  495.44 -   495.92] You know what I'm saying?
+[  496.46 -   500.00] And I feel like what the world's seeing was me go through
+[  500.24 -   502.74] something traumatic and me change in front of them.
+[  502.86 -   506.34] And then I feel like they judge me a little cruelly, but it's over now.
+[  506.54 -   508.64] But I think that's kind of what happened, what was going on.
+[  511.84 -   513.88] But then they'll see the headlines with the bullshit.
+[  514.08 -   515.32] Do you feel misunderstood
+[  515.32 -   518.28] or do you think you've made it easy for people to misunderstand you?
+[  518.52 -   520.76] I think a lot of people misunderstand me
+[  520.76 -   523.52] and I think a lot of people 100% understand me.
+[  523.68 -   526.84] And the people that understand me might not have as much of a voice
+[  526.84 -   532.20] in a comment section or a headline. You know what I'm saying?
+[  532.38 -   536.06] But I think a lot of people understand me to a certain extent.
+[  536.32 -   539.16] But the reason why the name of the album is They Just Ain't You,
+[  539.82 -   542.34] is I realize the way I think from the ground up
+[  542.60 -   546.06] is very different to the average person.
