@@ -34,10 +34,7 @@
 ## source segment 722.25-723.96s (frames 21646-21697)
 722.14-722.62 [GUEST auto] You feel me?   (low-conf: You)
 722.74-724.04 [GUEST auto] A lot of the shit he do, I would not do.   (low-conf: the)
-## source segment 725.12-728.13s (frames 21732-21822)
-725.20-727.58 [GUEST auto] Like you said, he too old for the trolling that he does.   (low-conf: Like)
-727.66-727.98 [GUEST auto] Yeah.
-## source segment 728.76-731.03s (frames 21841-21909)
+## source segment 729.30-731.03s (frames 21857-21909)
 729.38-730.86 [GUEST auto] He got me on 25 years.   (low-conf: on)
 ## source segment 732.57-735.80s (frames 21955-22052)
 732.60-735.56 [GUEST auto] I feel like he didn't come down to this level and troll me right now.   (low-conf: come)

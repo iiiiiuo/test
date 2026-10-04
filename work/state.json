@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-04T15:44:37.839613Z",
+ "updated": "2026-10-04T20:13:07.061864Z",
  "inputs": {
   "SOURCE_INTERVIEW": {
    "path": "input/SOURCE_INTERVIEW.mp4",
@@ -156,6 +156,60 @@
      19459
     ]
    ]
+  },
+  {
+   "clip": "clip_03_casino_story",
+   "intervals": [
+    [
+     4290,
+     4794
+    ],
+    [
+     4867,
+     4932
+    ],
+    [
+     5072,
+     6352
+    ],
+    [
+     6421,
+     6656
+    ],
+    [
+     6739,
+     6814
+    ]
+   ]
+  },
+  {
+   "clip": "clip_09_50_cent",
+   "intervals": [
+    [
+     19460,
+     20250
+    ],
+    [
+     20274,
+     20398
+    ],
+    [
+     20457,
+     21556
+    ],
+    [
+     21646,
+     21697
+    ],
+    [
+     21857,
+     21909
+    ],
+    [
+     21955,
+     22052
+    ]
+   ]
   }
  ],
  "clips": [
@@ -276,6 +330,49 @@
     "final_sha256": "7b2365d0a47551c9483f6ad4cad0f2c18512bf2e087d3cc1de31a93da30c6389",
     "framemd5": "1520a0f35df661c1ad5e5943160d2d25"
    }
+  },
+  {
+   "id": "clip_03_casino_story",
+   "status": "frozen",
+   "render": "work/clips/clip_03_casino_story/render.mp4",
+   "render_sha256": "8d9cc8dcf426c734494b0208cfe588bbdf56102864978eabcb5908d709c766ae",
+   "subtitles_ass_sha256": "c20956568b3544d4d870143764374a0ab0cd1fa07fd7ca8b5970eb35dcfe26b1",
+   "spec_sha256": "acb1feb90f457590dcbfa040eea560c966326b2d1fd4efaae127017980137852",
+   "manifest": "work/clips/clip_03_casino_story/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_03_casino_story_critic.md",
+    "work/qa/clip_03_casino_story_critic_r2.md",
+    "work/qa/clip_03_casino_story_critic_r3.md"
+   ],
+   "frames": 2159,
+   "export": {
+    "dir": "output/clip_03_casino_story",
+    "final_sha256": "ab6a69859cf2facfa0fa04bcd3591cc65cbfbdeb1b82fffdce37d819199179b0",
+    "framemd5": "4e5257a86239d5b506e731b377b59146"
+   }
+  },
+  {
+   "id": "clip_09_50_cent",
+   "status": "frozen",
+   "render": "work/clips/clip_09_50_cent/render.mp4",
+   "render_sha256": "d48312ad558f54ca73682513fc3c1c30e417ab0e3f6b1eb0c10962ce676b6867",
+   "subtitles_ass_sha256": "f7524cb7d3f680a0c1fb504ce1ae5e895bade2d58beef2c5b83632a42c5e5d69",
+   "spec_sha256": "17c522d2ba0ad99808739bd8f4c0184e5e28967bc2976c5c829e7e8cbabb2c15",
+   "manifest": "work/clips/clip_09_50_cent/source_manifest.json",
+   "style_version": "frozen v1 (output/shared/subtitle_style_spec.md)",
+   "qa": [
+    "work/qa/clip_09_50_cent_critic.md",
+    "work/qa/clip_09_50_cent_critic_r2.md",
+    "work/qa/clip_09_50_cent_critic_r3.md",
+    "work/qa/clip_09_50_cent_critic_r4.md"
+   ],
+   "frames": 2213,
+   "export": {
+    "dir": "output/clip_09_50_cent",
+    "final_sha256": "f47835f1ff0e8f9e8a7354a9fadde74c9b3d77467ac62737eafb4830f81b8d14",
+    "framemd5": "68cb02c37050270e942a5c9b199bba18"
+   }
   }
  ],
  "failed_approaches": [
@@ -298,11 +395,26 @@
    "stage": "captions",
    "approach": "1-word caption split (0.30 s)",
    "result": "critic FAIL; lint now flags <0.8 s onset gaps"
+  },
+  {
+   "clip": "clip_03_casino_story",
+   "approach": "edited captions.py and rebuilt without re-running make_spec.py; build reads captions from spec.json, so the render kept stale subtitles",
+   "fix": "always run make_spec.py after caption edits, then verify the ASS text contains the edits"
+  },
+  {
+   "clip": "clip_09_50_cent",
+   "approach": "cut the 728 s join at word-timestamp positions (words.py times), twice; 'Yeah' and the unresolvable words form one continuous utterance so both edges landed mid-sound",
+   "fix": "choose join points from 10-20 ms RMS (<= -40 dB or the sibilant tail dip), drop the whole continuous utterance 727.50-729.30"
+  },
+  {
+   "clip": "clip_09_50_cent",
+   "approach": "round 3: ended seg5 at the 727.50 RMS dip; 'does' is co-articulated with the following unresolvable 'Yeah ...' utterance, so every end point either truncates 'does' (727.50-727.56 decode as 'did'/'done') or pulls in the next words",
+   "fix": "drop src 725.74-727.50 entirely (no clean boundary exists); clip goes 'I would not...' -> 'He got me on 25 years.'"
   }
  ],
- "current_task": "build/critic/freeze per clip",
+ "current_task": "COMPLETE: 8 clips exported, series QA PASS",
  "blockers": [],
- "next_action": "see clips list",
+ "next_action": "none",
  "style": {
   "spec": "output/shared/subtitle_style_spec.md",
   "template": "work/style/template_header.ass",
@@ -326,5 +438,10 @@
    "span": "420.0-423.8",
    "issue": "LOW, excluded (clip_05 ends 419.99)"
   }
- ]
+ ],
+ "series_qa": {
+  "verdict": "PASS",
+  "critic": "work/qa/series_critic.md",
+  "audit": "work/qa/series_audit.json"
+ }
 }

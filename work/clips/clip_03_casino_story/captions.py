@@ -17,7 +17,7 @@ C=[
 (186.94,188.24,"But was you fake hitting him about it?","軽く催促してたの？"),
 (188.42,189.48,"Like, yo, y'all really want my money?","「俺の金どうすんだよ」って？"),
 (189.74,191.06,"You sitting here losing everybody else's money.","「人の金ばっかすってんじゃねぇよ」って"),
-(191.50,193.86,"No, no, no. I fake probably, like, got spun off,","いやいや、たぶん"),
+(191.50,193.86,"No, no, no. I think probably, like, got spun off,","いやいや、たぶん"),
 (193.92,195.46,"like, ten times, blah, blah, blah.","10回くらいはぐらかされてさ"),
 (195.78,196.60,"And then one day he was in the strip club.","そしたらある日ストリップクラブで"),
 (196.82,197.46,"He just made it rain on everybody.","みんなに金ばら撒いてたんだよ"),

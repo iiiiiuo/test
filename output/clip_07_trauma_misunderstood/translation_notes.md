@@ -3,3 +3,4 @@
 - Japanese is translated from the unmasked English; asterisks appear only in the displayed English.
 - Register: casual spoken male Japanese (〜だよ / 〜じゃねぇ), no invented dialect. 'You feel me?' is rendered as わかる？ or left implicit where it is only a filler.
 - The album title "They Just Ain't You" is kept in English. The spelling matches the guest's shirt print visible in the source.
+- The first ~1.2 s contains a low-confidence "Listen," that is left uncaptioned rather than guessed. Trimming it would take the clip below 60 s.

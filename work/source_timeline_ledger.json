@@ -112,9 +112,57 @@
     17194,
     19459
    ]
+  ],
+  "clip_03_casino_story": [
+   [
+    4290,
+    4794
+   ],
+   [
+    4867,
+    4932
+   ],
+   [
+    5072,
+    6352
+   ],
+   [
+    6421,
+    6656
+   ],
+   [
+    6739,
+    6814
+   ]
+  ],
+  "clip_09_50_cent": [
+   [
+    19460,
+    20250
+   ],
+   [
+    20274,
+    20398
+   ],
+   [
+    20457,
+    21556
+   ],
+   [
+    21646,
+    21697
+   ],
+   [
+    21857,
+    21909
+   ],
+   [
+    21955,
+    22052
+   ]
   ]
  },
  "source": "SOURCE_INTERVIEW sha256 2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
  "convention": "half-open [start_frame,end_frame_exclusive), frame k pts=k*1001 @1/30000; audio = identical time ranges",
- "updated": "2026-10-04T15:44:37.839613Z"
+ "updated": "2026-10-04T20:13:07.061864Z"
 }

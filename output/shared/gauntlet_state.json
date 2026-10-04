@@ -1,0 +1,281 @@
+{
+ "snapshot_of": "work/state.json + work/source_timeline_ledger.json",
+ "clips": [
+  {
+   "id": "clip_04_beef_offset",
+   "status": "frozen",
+   "frames": 2468,
+   "qa": [
+    "work/qa/clip_04_beef_offset_critic.md",
+    "work/qa/clip_04_beef_offset_critic_r2.md"
+   ],
+   "export": {
+    "dir": "output/clip_04_beef_offset",
+    "final_sha256": "b9615f0f0d1a4a14e6501ebca6091d83c5fd8a67a32ffdf5a8c0af796b021352",
+    "framemd5": "5fe847616b08aaf5b0df1606bc2a247e"
+   }
+  },
+  {
+   "id": "clip_05_shot_seven_times",
+   "status": "frozen",
+   "frames": 2097,
+   "qa": [
+    "work/qa/clip_05_shot_seven_times_critic.md"
+   ],
+   "export": {
+    "dir": "output/clip_05_shot_seven_times",
+    "final_sha256": "6a5ae37c3953d20fa9ec837b0b06e54ef434cd9674b30154e732d5cead733664",
+    "framemd5": "3b3c45e1cc0460e5c074869ce43dde21"
+   }
+  },
+  {
+   "id": "clip_06_hospital_stories",
+   "status": "frozen",
+   "frames": 2172,
+   "qa": [
+    "work/qa/clip_06_hospital_stories_critic.md"
+   ],
+   "export": {
+    "dir": "output/clip_06_hospital_stories",
+    "final_sha256": "e53a246dca7357e388fa1eda97daf8662a84735caf021cd0d43c3117d6a91ea0",
+    "framemd5": "ea3802855948f4dab561fb8b83eb1cec"
+   }
+  },
+  {
+   "id": "clip_07_trauma_misunderstood",
+   "status": "frozen",
+   "frames": 1807,
+   "qa": [
+    "work/qa/clip_07_trauma_misunderstood_critic.md"
+   ],
+   "export": {
+    "dir": "output/clip_07_trauma_misunderstood",
+    "final_sha256": "f74ac01b3f98a249d704d6bee9a5bbeb9d5eba6e3a4b2f50dbc0ccf237fcddb3",
+    "framemd5": "9a0bf782018313e24df04852b582fb24"
+   }
+  },
+  {
+   "id": "clip_02_offset_owes_10k",
+   "status": "frozen",
+   "frames": 2118,
+   "qa": [
+    "work/qa/clip_02_offset_owes_10k_critic.md",
+    "work/qa/clip_02_offset_owes_10k_critic_r2.md"
+   ],
+   "export": {
+    "dir": "output/clip_02_offset_owes_10k",
+    "final_sha256": "f635277be8c2fd3610d9558ce430a8a203f25f4f413cd19389cd32a266e749a8",
+    "framemd5": "d0f7df46ebb4c5ee15b968612cf51780"
+   }
+  },
+  {
+   "id": "clip_08_safe_alone",
+   "status": "frozen",
+   "frames": 2265,
+   "qa": [
+    "work/qa/clip_08_safe_alone_critic.md",
+    "work/qa/clip_08_safe_alone_critic_r2.md",
+    "work/qa/clip_08_safe_alone_critic_r3.md"
+   ],
+   "export": {
+    "dir": "output/clip_08_safe_alone",
+    "final_sha256": "7b2365d0a47551c9483f6ad4cad0f2c18512bf2e087d3cc1de31a93da30c6389",
+    "framemd5": "1520a0f35df661c1ad5e5943160d2d25"
+   }
+  },
+  {
+   "id": "clip_03_casino_story",
+   "status": "frozen",
+   "frames": 2159,
+   "qa": [
+    "work/qa/clip_03_casino_story_critic.md",
+    "work/qa/clip_03_casino_story_critic_r2.md",
+    "work/qa/clip_03_casino_story_critic_r3.md"
+   ],
+   "export": {
+    "dir": "output/clip_03_casino_story",
+    "final_sha256": "ab6a69859cf2facfa0fa04bcd3591cc65cbfbdeb1b82fffdce37d819199179b0",
+    "framemd5": "4e5257a86239d5b506e731b377b59146"
+   }
+  },
+  {
+   "id": "clip_09_50_cent",
+   "status": "frozen",
+   "frames": 2213,
+   "qa": [
+    "work/qa/clip_09_50_cent_critic.md",
+    "work/qa/clip_09_50_cent_critic_r2.md",
+    "work/qa/clip_09_50_cent_critic_r3.md",
+    "work/qa/clip_09_50_cent_critic_r4.md"
+   ],
+   "export": {
+    "dir": "output/clip_09_50_cent",
+    "final_sha256": "f47835f1ff0e8f9e8a7354a9fadde74c9b3d77467ac62737eafb4830f81b8d14",
+    "framemd5": "68cb02c37050270e942a5c9b199bba18"
+   }
+  }
+ ],
+ "committed_ranges": {
+  "clip_04_beef_offset": [
+   [
+    8021,
+    10489
+   ]
+  ],
+  "clip_05_shot_seven_times": [
+   [
+    10490,
+    12587
+   ]
+  ],
+  "clip_06_hospital_stories": [
+   [
+    12713,
+    14046
+   ],
+   [
+    14113,
+    14409
+   ],
+   [
+    16389,
+    16932
+   ]
+  ],
+  "clip_07_trauma_misunderstood": [
+   [
+    14477,
+    15253
+   ],
+   [
+    15339,
+    16370
+   ]
+  ],
+  "clip_02_offset_owes_10k": [
+   [
+    1832,
+    3581
+   ],
+   [
+    3685,
+    4054
+   ]
+  ],
+  "clip_08_safe_alone": [
+   [
+    17194,
+    19459
+   ]
+  ],
+  "clip_03_casino_story": [
+   [
+    4290,
+    4794
+   ],
+   [
+    4867,
+    4932
+   ],
+   [
+    5072,
+    6352
+   ],
+   [
+    6421,
+    6656
+   ],
+   [
+    6739,
+    6814
+   ]
+  ],
+  "clip_09_50_cent": [
+   [
+    19460,
+    20250
+   ],
+   [
+    20274,
+    20398
+   ],
+   [
+    20457,
+    21556
+   ],
+   [
+    21646,
+    21697
+   ],
+   [
+    21857,
+    21909
+   ],
+   [
+    21955,
+    22052
+   ]
+  ]
+ },
+ "failed_approaches": [
+  {
+   "stage": "transcription",
+   "approach": "download whisper weights from huggingface.co",
+   "result": "redirect to LFS CDN denied by network policy"
+  },
+  {
+   "stage": "env",
+   "approach": "pip install faster-whisper/opencv",
+   "result": "pypi.org 403"
+  },
+  {
+   "stage": "framing",
+   "approach": "dissolve spans took incoming shot crop incl. left-speaker crop",
+   "result": "showed empty wide-shot area during dissolve; fixed: half/half outgoing/incoming, wide transitions use guest crop"
+  },
+  {
+   "stage": "captions",
+   "approach": "1-word caption split (0.30 s)",
+   "result": "critic FAIL; lint now flags <0.8 s onset gaps"
+  },
+  {
+   "clip": "clip_03_casino_story",
+   "approach": "edited captions.py and rebuilt without re-running make_spec.py; build reads captions from spec.json, so the render kept stale subtitles",
+   "fix": "always run make_spec.py after caption edits, then verify the ASS text contains the edits"
+  },
+  {
+   "clip": "clip_09_50_cent",
+   "approach": "cut the 728 s join at word-timestamp positions (words.py times), twice; 'Yeah' and the unresolvable words form one continuous utterance so both edges landed mid-sound",
+   "fix": "choose join points from 10-20 ms RMS (<= -40 dB or the sibilant tail dip), drop the whole continuous utterance 727.50-729.30"
+  },
+  {
+   "clip": "clip_09_50_cent",
+   "approach": "round 3: ended seg5 at the 727.50 RMS dip; 'does' is co-articulated with the following unresolvable 'Yeah ...' utterance, so every end point either truncates 'does' (727.50-727.56 decode as 'did'/'done') or pulls in the next words",
+   "fix": "drop src 725.74-727.50 entirely (no clean boundary exists); clip goes 'I would not...' -> 'He got me on 25 years.'"
+  }
+ ],
+ "uncertainties": [
+  {
+   "span": "53.9-61.0",
+   "issue": "repeated phrase transcribed 5 different ways across 4 model runs -> UNTRANSLATABLE, excluded; U01 candidate rejected (53 s coherent material < 60 s)"
+  },
+  {
+   "span": "468.7-470.9",
+   "issue": "LOW, cut from clip_06"
+  },
+  {
+   "span": "565.3-572.3",
+   "issue": "LOW, excluded (clip_06 ends at 564.95)"
+  },
+  {
+   "span": "420.0-423.8",
+   "issue": "LOW, excluded (clip_05 ends 419.99)"
+  }
+ ],
+ "series_qa": {
+  "verdict": "PASS",
+  "critic": "work/qa/series_critic.md",
+  "audit": "work/qa/series_audit.json"
+ },
+ "state_sha256": "2dc64bb03a7dd47c82e5919d90c0068864916c6ba20161438760c0a4333c58a1"
+}

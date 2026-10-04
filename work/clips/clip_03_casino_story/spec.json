@@ -132,9 +132,15 @@
 },
 {
 "s": 191.5,
+"e": 193.86,
+"en": "No, no, no. I think probably, like, got spun off,",
+"ja": "いやいや、たぶん"
+},
+{
+"s": 193.92,
 "e": 195.46,
-"en": "No, no, no. I probably, like, got spun off, like, ten times, blah, blah, blah.",
-"ja": "いやいや、たぶん10回くらい|はぐらかされてさ"
+"en": "like, ten times, blah, blah, blah.",
+"ja": "10回くらいはぐらかされてさ"
 },
 {
 "s": 195.78,
@@ -191,10 +197,10 @@
 "ja": "「ほっとけよ」って感じ"
 },
 {
-"s": 214.32,
-"e": 215.38,
-"en": "It's the image. It's the image.",
-"ja": "イメージだよ、イメージ"
+"s": 214.8,
+"e": 215.8,
+"en": "It's the Emmys!",
+"ja": "エミー賞もんだな！"
 },
 {
 "s": 215.9,
@@ -217,7 +223,7 @@
 {
 "s": 224.96,
 "e": 227.32,
-"en": "And at that point, it ain't about the money. It's about the respect.",
+"en": "At that point, it ain't about the money. It's about the respect.",
 "ja": "そうなると金の問題じゃねぇ|リスペクトの問題なんだよ"
 }
 ],

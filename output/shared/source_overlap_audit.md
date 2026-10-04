@@ -12,7 +12,7 @@ Algorithm: `scripts/series_audit.py` compares every video interval pair across c
 | clip_06_hospital_stories | [(12713, 14046), (14113, 14409), (16389, 16932)] | 2172 |
 | clip_07_trauma_misunderstood | [(14477, 15253), (15339, 16370)] | 1807 |
 | clip_08_safe_alone | [(17194, 19459)] | 2265 |
-| clip_09_50_cent | [(19460, 20250), (20274, 20398), (20449, 21556), (21646, 21697), (21732, 21909), (21955, 22052)] | 2346 |
+| clip_09_50_cent | [(19460, 20250), (20274, 20398), (20457, 21556), (21646, 21697), (21857, 21909), (21955, 22052)] | 2213 |
 
 **Intersecting source frames across clips: 0** (pairs: 0). Audio range overlaps: 0.
 Duplicate-footage runs (dHash <=3 bits, >=4 consecutive samples): 2. Repeated 7-word speech across clips: 0.

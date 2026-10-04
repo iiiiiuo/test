@@ -35,8 +35,6 @@ C=[
 (715.94,717.98,"I feel like at his age, I would not be doing.","あの歳なら|俺はやってねぇなって"),
 (718.36,719.10,"You know what I'm trying to say?","言いたいことわかる？"),
 (722.36,723.90,"For me, a lot of s**t he do, I would not...","俺だったら|あいつのやる事の多くはやらない"),
-(725.20,727.58,"Like you said, he too old for the trolling that he does.","言ってた通り|あの歳であの煽りはないって"),
-(727.66,728.10,"Yeah.","そう"),
-(729.38,730.86,"He got me in 25 years.","俺より25も上だぜ"),
+(729.72,730.86,"He got me on 25 years.","俺より25も上だぜ"),
 (732.60,735.56,"I feel like he didn't even come down to this level and troll me right now.","今んとこ俺のレベルまで降りてきて|煽ってはこないけどな"),
 ]

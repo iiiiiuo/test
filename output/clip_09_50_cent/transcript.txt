@@ -1,0 +1,41 @@
+# clip_09_50_cent - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  649.34 -   650.95] But you had a conversation with 50,
+[  651.00 -   652.95] and I heard you say you speak to him
+[  652.98 -   653.90] after you got shot before, right?
+[  653.94 -   654.54] Yeah.
+[  655.22 -   658.08] He's the perfect example of that, because he had the same thing.
+[  658.16 -   660.62] He couldn't, any way he moved, it was on his ass.
+[  660.72 -   663.02] And he had to move militant in a way where it protected him.
+[  663.06 -   664.88] How would those conversations have happened or worked?
+[  665.64 -   666.48] With 50 Cent?
+[  666.64 -   667.75] Yeah. You know, I just,
+[  668.20 -   671.14] I feel like me and 50 Cent is a little different, though.
+[  671.58 -   672.90] You feel me? And it's crazy, though,
+[  672.94 -   675.62] because I did that little old 50 Cent Many Men remix.
+[  676.62 -   678.48] I just went high as fuck.
+[  678.52 -   679.30] I pressed upload.
+[  679.38 -   680.55] Niggas like, "What the fuck is that?"
+[  682.54 -   683.40] But in reality,
+[  683.94 -   685.10] I do feel like we different.
+[  685.24 -   687.70] It's certain things, for example, that like,
+[  687.80 -   690.16] you know, it's just like, it's just my shoes.
+[  691.08 -   691.82] You feel me?
+[  692.00 -   693.80] And I feel like 50 Cent just did certain things
+[  693.82 -   695.60] that I just probably wouldn't do in my life.
+[  695.76 -   696.04] Like what?
+[  698.12 -   701.36] I think that 50 Cent is like the big, like, gangster image,
+[  702.12 -   703.28] like, you feel me?
+[  703.40 -   705.60] A role model of the rap career.
+[  705.68 -   707.62] And it's like almost even me, like, being a younger person,
+[  708.10 -   709.66] I was, like, falling into it a little bit.
+[  709.72 -   710.94] Like, you know, I fuck with 50 too.
+[  711.12 -   712.12] You feel me? Like, yeah, yeah.
+[  712.20 -   714.52] But then when I actually use my own two eyes and I'm like,
+[  714.72 -   715.90] all right, a lot of the shit he do,
+[  715.94 -   717.98] I feel like at his age, I would not be doing.
+[  718.36 -   719.10] You know what I'm trying to say?
+[  722.36 -   723.90] For me, a lot of shit he do, I would not...
+[  729.72 -   730.86] He got me on 25 years.
+[  732.60 -   735.56] I feel like he didn't even come down to this level and troll me right now.

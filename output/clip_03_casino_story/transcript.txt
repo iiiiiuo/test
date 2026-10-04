@@ -1,0 +1,37 @@
+# clip_03_casino_story - unmasked English speech, SOURCE timestamps (s) of /mnt/project-files/SOURCE_VIDEO.mp4
+# speech in source spans not listed in source_manifest.json was cut; '...' marks a fragment too unclear to transcribe
+
+[  143.30 -   144.98] Was y'all in the casino together or something?
+[  145.18 -   147.38] Yeah, I wasn't even... Like, he lost his money.
+[  147.44 -   148.74] He was axing, let me tell you what happened.
+[  148.86 -   150.72] He was axing a fucking lady.
+[  151.52 -   152.96] Like, auntie, auntie...
+[  152.96 -   154.90] He's calling everybody on his phone. Nobody giving him no bread.
+[  155.20 -   156.78] He's axing the ladies, like, regular people.
+[  157.14 -   159.82] Like, they look like they work nine to five jobs, like, not no rich people.
+[  162.48 -   164.52] I'm like, you fake tweaking, gang.
+[  169.34 -   171.96] I probably hit him back for it for mad long. You feel me?
+[  172.08 -   174.24] It was, I swear to God, everybody probably telling me.
+[  174.74 -   177.80] Everybody telling me, like, yo, bro, he playing with you.
+[  177.94 -   180.04] I didn't even care. I didn't even care.
+[  180.80 -   184.70] But then when I fake hit him about it, bro, you fake super tough.
+[  185.18 -   186.36] I'm like, yo, you tweaking, broski.
+[  186.94 -   188.24] But was you fake hitting him about it?
+[  188.42 -   189.48] Like, yo, y'all really want my money?
+[  189.74 -   191.06] You sitting here losing everybody else's money.
+[  191.50 -   193.86] No, no, no. I think probably, like, got spun off,
+[  193.92 -   195.46] like, ten times, blah, blah, blah.
+[  195.78 -   196.60] And then one day he was in the strip club.
+[  196.82 -   197.46] He just made it rain on everybody.
+[  198.32 -   199.36] He made it rain on the whole club.
+[  200.42 -   201.06] That's the worst.
+[  201.34 -   202.68] Can I tell you something, bro?
+[  203.44 -   205.56] I don't really like saying stupid shit, feel me?
+[  206.10 -   207.24] But when I tell you, bro...
+[  208.00 -   210.16] Everybody looking at me like, you gonna let him play?
+[  210.62 -   211.66] I'm like, leave him, bro.
+[  214.80 -   215.80] It's the Emmys!
+[  215.90 -   217.20] Now, if that story is true, though,
+[  217.34 -   219.08] it is fucked up when somebody owe you money
+[  219.38 -   221.90] and you like, yo, you, bro, the whole world is telling you.
+[  224.96 -   227.32] At that point, it ain't about the money. It's about the respect.
