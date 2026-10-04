@@ -16,8 +16,7 @@
 676.62-678.48 [GUEST auto] I just went high as fuck.   (low-conf: just)
 678.52-679.12 [GUEST auto] I pressed upload.
 679.38-680.62 [GUEST auto] Niggas like, what the fuck is that?   (low-conf: like,)
-## source segment 682.31-719.25s (frames 20449-21556)
-682.22-682.54 [GUEST auto] Nigga.
+## source segment 682.58-719.25s (frames 20457-21556)
 682.54-683.40 [GUEST auto] But in reality.
 683.94-685.10 [GUEST auto] I do feel like we different.
 685.24-690.16 [GUEST auto] It's certain things, for example, that like, you know, it's just like, it's just my shoes.   (low-conf: like,, like,)
@@ -35,10 +34,10 @@
 ## source segment 722.25-723.96s (frames 21646-21697)
 722.14-722.62 [GUEST auto] You feel me?   (low-conf: You)
 722.74-724.04 [GUEST auto] A lot of the shit he do, I would not do.   (low-conf: the)
-## source segment 725.12-731.03s (frames 21732-21909)
+## source segment 725.12-728.13s (frames 21732-21822)
 725.20-727.58 [GUEST auto] Like you said, he too old for the trolling that he does.   (low-conf: Like)
 727.66-727.98 [GUEST auto] Yeah.
-728.16-728.64 [GUEST auto] You feel me?
+## source segment 728.76-731.03s (frames 21841-21909)
 729.38-730.86 [GUEST auto] He got me on 25 years.   (low-conf: on)
 ## source segment 732.57-735.80s (frames 21955-22052)
 732.60-735.56 [GUEST auto] I feel like he didn't come down to this level and troll me right now.   (low-conf: come)
