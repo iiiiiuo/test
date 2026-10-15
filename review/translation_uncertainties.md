@@ -71,7 +71,7 @@
 - **Clip_09_L008** (A billionaire still checks every bill, 0:03:51.380) — EN: "So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib," — Speaker inferred as a host.
 - **Clip_09_L009** (A billionaire still checks every bill, 0:03:57.340) — EN: "and when he got the check, he looked at what the label was charging him, and they were charging him for studio time." — Large-v3 has false starts ('the on the check because he was paying this'). Condensed to the clear meaning.
 - **Clip_09_L010** (A billionaire still checks every bill, 0:04:03.800) — EN: "He was like, the studio's at my crib! And then he got a couple hundred thousand back. But it's funny," — Line ends on 'it's funny' (the next words 'he overlooked that easily' were cut at the clip end); consider ending at 'got a couple hundred thousand back'.
-- **Clip_10_L001** (God put me on a timeout, 0:12:50.500) — EN: "We had Cravo and Takeoff here the other day." — 'Cravo' is the ASR spelling of a name; unverified.
+- **Clip_10_L001** (God put me on a timeout, 0:12:50.500) — EN: "We had Quavo and Takeoff here the other day." — 'Quavo' is the ASR spelling of a name; unverified.
 - **Clip_11_L004** (Never finished a novel, 0:14:57.130) — EN: "Right. That's fantastic. I respect that." — Speaker inferred as a host.
 - **Clip_11_L010** (Never finished a novel, 0:15:37.490) — EN: "Because you don't have to read books to really have knowledge." — Speaker of this line (Ye or the host continuing) is uncertain.
 - **Clip_11_L015** (Never finished a novel, 0:15:55.250) — EN: "You tell us." — Speaker inferred.

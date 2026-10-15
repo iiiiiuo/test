@@ -6,7 +6,7 @@
    "end": 1595.52,
    "speaker": "Ye",
    "en": "Yeah, it's so funny, though, because me and Drake, you know,",
-   "ja": "いや、マジで笑えるんだけどさ\n俺とドレイクがさ",
+   "ja": "いや、マジで笑えるんだけどさ\n俺とDrakeがさ",
    "ctx": "",
    "unc": "",
    "asr": "Yeah, it's so funny, though, because me and Drake, you"
@@ -28,7 +28,7 @@
    "end": 1654.77,
    "speaker": "Ye",
    "en": "So then Drake says to me, yo... no, I need to tell the story like this.",
-   "ja": "で、ドレイクが俺に言うわけ…\nいや、話す順番を変えるわ",
+   "ja": "で、Drakeが俺に言うわけ…\nいや、話す順番を変えるわ",
    "ctx": "Ye stops himself to tell the Kushner part first; the edit removes the spoiler he gave before this.",
    "unc": "",
    "asr": "So then Drake says to me, yo, no, I need to tell the story like this."
@@ -39,7 +39,7 @@
    "end": 1664.74,
    "speaker": "Ye",
    "en": "So basically, you know, Jared Kushner asked Steve Stoute, like, yo, just tell me, did Ye fuck my wife?",
-   "ja": "要するにさ、ジャレッド・クシュナーが\nスティーヴ・スタウトに聞いたんだよ\n「正直に言ってくれ、イェは俺の妻とヤったのか？」って",
+   "ja": "要するにさ、Jared Kushnerが\nSteve Stouteに聞いたんだよ\n「正直に言ってくれ、Yeは俺の妻とヤったのか？」って",
    "ctx": "Jared Kushner (Trump's son-in-law, husband of Ivanka Trump). Steve Stoute = music/marketing executive.",
    "unc": "Name spelled 'Stout' by ASR; standard spelling is Stoute.",
    "asr": "So basically, you know, Jared Kushner asked Steve Stout, like, yo, just tell me, like, did Ye fuck my wife?"
@@ -50,7 +50,7 @@
    "end": 1670.32,
    "speaker": "Ye",
    "en": "And Steve Stoute was like, no, Ye never did nothing.",
-   "ja": "スティーヴは「いや、イェは何もしてない」って",
+   "ja": "Steveは「いや、Yeは何もしてない」って",
    "ctx": "",
    "unc": "",
    "asr": "And Steve Stout was like, no, Ye never did nothing."
@@ -61,7 +61,7 @@
    "end": 1673.86,
    "speaker": "Ye",
    "en": "So when I went to the White House, I saw Jared.",
-   "ja": "で、ホワイトハウスに行った時\nジャレッドに会ったんだよ",
+   "ja": "で、White Houseに行った時\nJaredに会ったんだよ",
    "ctx": "",
    "unc": "",
    "asr": "So when I went to the White House, I saw Jared."
@@ -83,7 +83,7 @@
    "end": 1684.74,
    "speaker": "Ye",
    "en": "I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened.",
-   "ja": "で、俺はあいつの両肩をつかんで\n「ジャレッド、マジで何もなかったから」って",
+   "ja": "で、俺はあいつの両肩をつかんで\n「Jared、マジで何もなかったから」って",
    "ctx": "",
    "unc": "",
    "asr": "about. I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened."
@@ -105,7 +105,7 @@
    "end": 1694.94,
    "speaker": "Ye",
    "en": "Okay, so when I saw Drake, we was in a parking lot, we were talking, and he said, yo, I just want to tell you, yo, nothing ever happened.",
-   "ja": "で、ドレイクに会った時\n駐車場で話してたら、あいつが\n「一応言っとくけど、何もなかったから」って",
+   "ja": "で、Drakeに会った時\n駐車場で話してたら、あいつが\n「一応言っとくけど、何もなかったから」って",
    "ctx": "Implied: nothing happened between Drake and Kim Kardashian (Ye's ex-wife). Drake now plays the role Ye played with Kushner.",
    "unc": "",
    "asr": "Okay, so when I saw Drake, we was in a parking lot, we were talking, and he said, yo, I just want to tell you, yo, nothing ever happened."
@@ -127,7 +127,7 @@
    "end": 1700.68,
    "speaker": "Ye",
    "en": "When did I become Jared Kushner?",
-   "ja": "いつから俺が\nジャレッド・クシュナーになったんだよ",
+   "ja": "いつから俺が\nJared Kushnerになったんだよ",
    "ctx": "Punchline: Ye realizes he is now in Kushner's position.",
    "unc": "Turbo heard 'Jerry Cushman'; large-v3 'Jared Kushner' fits the story.",
    "asr": "When did I become Jared Kushner?"
@@ -173,7 +173,7 @@
    "end": 1756.28,
    "speaker": "Ye",
    "en": "So we're going, because the old man made a call for me — (Host: the old man, which is Larry Hoover?) — yeah,",
-   "ja": "で、俺らが行ったのは\n“親父”が俺のために電話してくれたからで\n（“親父”ってラリー・フーヴァーのこと？）",
+   "ja": "で、俺らが行ったのは\n“親父”が俺のために電話してくれたからで\n（“親父”ってLarry Hooverのこと？）",
    "ctx": "'The old man' = Larry Hoover, imprisoned co-founder of the Gangster Disciples; Ye and Drake did a 2021 benefit concert for his release.",
    "unc": "MEDIUM: the host's interjection is unclear (large-v3 'you see a marriage of my Larry Hoover', turbo 'you said oh man which is my Larry Hoover'). Review the audio around 1752-1756 s.",
    "asr": "so we're going because the old man made a call for me and you see a marriage of my Larry Hoover yeah"
@@ -184,7 +184,7 @@
    "end": 1760.96,
    "speaker": "Ye",
    "en": "Larry Hoover made a call for me and Drake to squash things and to do this concert together.",
-   "ja": "そう、ラリー・フーヴァーが電話して\n俺とドレイクを和解させて\n一緒にライブやらせたんだよ",
+   "ja": "そう、Larry Hooverが電話して\n俺とDrakeを和解させて\n一緒にライブやらせたんだよ",
    "ctx": "",
    "unc": "Large-v3 inserted 'fire' after 'squash things'; turbo has no extra word. Treated as an ASR artifact.",
    "asr": "Larry Hoover made a call for me and Drake to squash things fire and to do this concert together"
@@ -195,7 +195,7 @@
    "end": 1800.91,
    "speaker": "Ye",
    "en": "So anyway, so Dave Chappelle has a concert that night.",
-   "ja": "で、その夜\nデイヴ・シャペルのライブがあって",
+   "ja": "で、その夜\nDave Chappelleのライブがあって",
    "ctx": "",
    "unc": "",
    "asr": "So anyway, so Dave Chappelle has a concert that night."
@@ -206,7 +206,7 @@
    "end": 1808.83,
    "speaker": "Ye",
    "en": "The night where we're going to... so we're seeing like, yo, can we go chop it up with Drake and then make it to the Dave Chappelle joint and go by the house?",
-   "ja": "俺らが行く日の夜にさ\n「ドレイクと話してから\nシャペルのライブにも間に合う？\n家に寄ってけるか？」ってなって",
+   "ja": "俺らが行く日の夜にさ\n「Drakeと話してから\nChappelleのライブにも間に合う？\n家に寄ってけるか？」ってなって",
    "ctx": "",
    "unc": "",
    "asr": "the night where we're going to so we're seeing like yo can we go chop it up with Drake and then make it to the day Chappelle joint and go by the house"
@@ -217,7 +217,7 @@
    "end": 1819.4,
    "speaker": "Ye",
    "en": "And then, so we're on the plane and we're like, well, where's Drake's house in comparison and distance to the concert?",
-   "ja": "で、飛行機の中で\n「ドレイクの家って\n会場からどのくらいの距離だ？」ってなって",
+   "ja": "で、飛行機の中で\n「Drakeの家って\n会場からどのくらいの距離だ？」ってなって",
    "ctx": "",
    "unc": "",
    "asr": "and then so we're on the plane and we're like well where's Drake's house in comparison and distance to the concert and"
@@ -272,7 +272,7 @@
    "end": 1841.92,
    "speaker": "Ye",
    "en": "You know, it just looked like something on Instagram.",
-   "ja": "インスタに載せたから\n大ごとに見えただけでさ",
+   "ja": "Instagramに載せたから\n大ごとに見えただけでさ",
    "ctx": "",
    "unc": "",
    "asr": "You know, it just looked like something on Instagram."
@@ -327,7 +327,7 @@
    "end": 1857.18,
    "speaker": "Host",
    "en": "Your house don't look the same on these Google Maps.",
-   "ja": "Googleマップじゃ\n家の見た目も違うしな",
+   "ja": "Google Mapsじゃ\n家の見た目も違うしな",
    "ctx": "",
    "unc": "LOW: large-v3 'Your house don't look the same on these Google Maps'; turbo 'Don't have something look the same on these Google maps'. Gist is a joke about Google Maps; consider cutting this line if the audio stays unclear.",
    "asr": "Your house don't look the same on these Google Maps."
@@ -340,7 +340,7 @@
    "end": 36.58,
    "speaker": "Ye",
    "en": "Okay, you know, like right now, when me, James Blake, Arca and No I.D. in the studio working on our album,",
-   "ja": "例えば今、俺と\nジェイムス・ブレイク、アルカ、No I.D.で\nスタジオでアルバム作ってる時",
+   "ja": "例えば今、俺と\nJames Blake、Arca、No I.D.で\nスタジオでアルバム作ってる時",
    "ctx": "No I.D. = veteran Chicago producer.",
    "unc": "Names after 'James Blake' are unclear: both models hear 'are and no idea'. 'Arca' is a guess; 'No I.D.' is likely. Please confirm or reduce to 'producers'.",
    "asr": "OK, you know, like right now, when me, James Blake are and no idea in the studio working on our album."
@@ -395,7 +395,7 @@
    "end": 47.73,
    "speaker": "Ye",
    "en": "Not Drake. Who do you think we bring?",
-   "ja": "ドレイクじゃない\n誰だと思う？",
+   "ja": "Drakeじゃない\n誰だと思う？",
    "ctx": "",
    "unc": "",
    "asr": "Not Drake. Who do you think we bring?"
@@ -406,7 +406,7 @@
    "end": 50.41,
    "speaker": "Ye",
    "en": "Anybody else got another Travis Stadium?",
-   "ja": "トラヴィス以外で\nスタジアム埋める奴は？",
+   "ja": "Travis以外で\nスタジアム埋める奴は？",
    "ctx": "",
    "unc": "Large-v3 'another Travis Stadium'; turbo 'another Travis'. Meaning: who besides Travis Scott fills stadiums.",
    "asr": "Anybody else got another Travis Stadium?"
@@ -428,7 +428,7 @@
    "end": 56.12,
    "speaker": "Host",
    "en": "Kodak Black? No, no.",
-   "ja": "コダック・ブラック？\nいや、違う",
+   "ja": "Kodak Black？\nいや、違う",
    "ctx": "Hosts guessing.",
    "unc": "Turbo 'Kodak Black?'; large-v3 'It's called Black'. Turbo reading fits a guess.",
    "asr": "It's called Black. No, no."
@@ -439,7 +439,7 @@
    "end": 64.82,
    "speaker": "Ye",
    "en": "Stadium. Bad Bunny. That's who's on our wall.",
-   "ja": "スタジアム\nバッド・バニーだよ\nあいつが俺らの壁に貼ってある",
+   "ja": "スタジアム\nBad Bunnyだよ\nあいつが俺らの壁に貼ってある",
    "ctx": "Bad Bunny = Puerto Rican superstar who led stadium tours in 2022.",
    "unc": "",
    "asr": "stadium stadium bad bunny that's who's on our wall right that's"
@@ -483,7 +483,7 @@
    "end": 80.9,
    "speaker": "Ye",
    "en": "If it wasn't for me, there might not be no Bad Bunny. I brought reggaeton to America. I'm sorry.",
-   "ja": "俺がいなかったら\nバッド・バニーはいなかったかもな\nアメリカにレゲトンを持ち込んだのは俺だから\n悪いね",
+   "ja": "俺がいなかったら\nBad Bunnyはいなかったかもな\nAmericaにレゲトンを持ち込んだのは俺だから\n悪いね",
    "ctx": "Ye's boast; deliberately over the top. 'I'm sorry' is mock-apologetic.",
    "unc": "",
    "asr": "If it wasn't for me, there might not be no Bad Bunny. I brought reggae tone to America, I'm sorry."
@@ -538,7 +538,7 @@
    "end": 91.72,
    "speaker": "Ye",
    "en": "You know what I'm saying? We're going to do clothes, we're going to look at Supreme,",
-   "ja": "服をやるなら\nシュプリームを見る",
+   "ja": "服をやるなら\nSupremeを見る",
    "ctx": "",
    "unc": "",
    "asr": "You know what I'm saying? We're going to do clothes, we're going to look at Supreme,"
@@ -549,7 +549,7 @@
    "end": 97.34,
    "speaker": "Ye",
    "en": "we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps,",
-   "ja": "バレンシアガを見る\nラルフ・ローレンを見る\nラップも見る",
+   "ja": "Balenciagaを見る\nRalph Laurenを見る\nラップも見る",
    "ctx": "",
    "unc": "",
    "asr": "we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps, you know, we're"
@@ -560,7 +560,7 @@
    "end": 103.2,
    "speaker": "Ye",
    "en": "you know, we're going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny,",
-   "ja": "ドレイクも見るし\nスタジアムも見るし\nバッド・バニーも見る",
+   "ja": "Drakeも見るし\nスタジアムも見るし\nBad Bunnyも見る",
    "ctx": "",
    "unc": "",
    "asr": "going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny, we"
@@ -582,7 +582,7 @@
    "end": 107.28,
    "speaker": "Ye",
    "en": "We're gonna look at money. We're gonna look at Elon.",
-   "ja": "金も見るし\nイーロンも見る",
+   "ja": "金も見るし\nElonも見る",
    "ctx": "",
    "unc": "",
    "asr": "We're gonna look at money. We're gonna look at Elon."
@@ -593,7 +593,7 @@
    "end": 111.34,
    "speaker": "Ye",
    "en": "You know, so we're gonna look at the Saudis. That's how I look at everything.",
-   "ja": "サウジも見る\n俺は何でもそうやって見てる",
+   "ja": "Saudiも見る\n俺は何でもそうやって見てる",
    "ctx": "",
    "unc": "",
    "asr": "You know, so we're gonna look at the Saudis That's how I look at everything"
@@ -606,7 +606,7 @@
    "end": 1660.21,
    "speaker": "Host",
    "en": "All right. Dungeon Family or Wu-Tang Clan?",
-   "ja": "よし\nダンジョン・ファミリーか\nウータン・クランか",
+   "ja": "よし\nDungeon Familyか\nWu-Tang Clanか",
    "ctx": "'Quick Time with Slime' pick-one game. Dungeon Family = Atlanta collective (OutKast, Goodie Mob).",
    "unc": "",
    "asr": "All right. Dungeon Family or Wu -Tang Clan?"
@@ -628,7 +628,7 @@
    "end": 1668.17,
    "speaker": "Ye",
    "en": "Wu-Tang, Wu-Tang.",
-   "ja": "ウータン、ウータン",
+   "ja": "Wu-Tang、Wu-Tang",
    "ctx": "",
    "unc": "",
    "asr": "Wu -Tang, Wu -Tang."
@@ -650,7 +650,7 @@
    "end": 1670.97,
    "speaker": "Ye",
    "en": "This is like Tony Starks.",
-   "ja": "トニー・スタークスだぜ",
+   "ja": "Tony Starksだぜ",
    "ctx": "Tony Starks = Ghostface Killah's alias.",
    "unc": "Turbo 'Tony Starks', large-v3 'Tony Stark's'.",
    "asr": "This is like Tony Stark's."
@@ -672,7 +672,7 @@
    "end": 1677.57,
    "speaker": "Ye",
    "en": "But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to.",
-   "ja": "でもさ、ウータンのMVのせいで\n必要以上に金使っちまったんだよ",
+   "ja": "でもさ、Wu-TangのMVのせいで\n必要以上に金使っちまったんだよ",
    "ctx": "",
    "unc": "",
    "asr": "But I got to say, the Wu -Tang videos had me spending a lot more money than I needed to."
@@ -683,7 +683,7 @@
    "end": 1687.23,
    "speaker": "Ye",
    "en": "Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees.",
-   "ja": "俺とドン・Cで\n新品のティンバーにダウンに\nキャップに白T、ワラビーまで買ってた",
+   "ja": "俺とDon Cで\n新品のTimbsにダウンに\nキャップに白T、Wallabeesまで買ってた",
    "ctx": "Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes.",
    "unc": "",
    "asr": "Me and Don C was buying new Tims, new puffer jackets, fitted hats, white tees, wallabies."
@@ -705,7 +705,7 @@
    "end": 1693.87,
    "speaker": "Ye",
    "en": "And I got to, like, New York and I seen dirty Timbs.",
-   "ja": "で、ニューヨークに着いたら\nみんな汚れたティンバー履いてんの",
+   "ja": "で、New Yorkに着いたら\nみんな汚れたTimbs履いてんの",
    "ctx": "",
    "unc": "",
    "asr": "And I got to like New York and I seen Dirty Tims."
@@ -716,7 +716,7 @@
    "end": 1696.6,
    "speaker": "Ye",
    "en": "I called Free up.",
-   "ja": "フリーに電話して",
+   "ja": "Freeに電話して",
    "ctx": "",
    "unc": "LOW: 'Free' is unclear in both models (possibly a friend's name, e.g. Free from 106 & Park). Check the audio at ~1695 s.",
    "asr": "I called free up."
@@ -727,7 +727,7 @@
    "end": 1701.56,
    "speaker": "Ye",
    "en": "I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs.",
-   "ja": "「NYの奴らが汚れたティンバー\n履いてるなんて知らなかったぞ\n新品にこんだけ金かけたのに」って",
+   "ja": "「NYの奴らが汚れたTimbs\n履いてるなんて知らなかったぞ\n新品にこんだけ金かけたのに」って",
    "ctx": "",
    "unc": "Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'.",
    "asr": "I said, I didn't know niggas had Dirty Tims in New York. I spent all this money on my freshman Tims."
@@ -738,7 +738,7 @@
    "end": 1703.86,
    "speaker": "Ye",
    "en": "I couldn't let my Timbs go more than three days.",
-   "ja": "俺は3日以上\n同じティンバー履けなかったからな",
+   "ja": "俺は3日以上\n同じTimbs履けなかったからな",
    "ctx": "",
    "unc": "Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'.",
    "asr": "I can't remember if my Tims go more than three days."
@@ -749,7 +749,7 @@
    "end": 1707.44,
    "speaker": "Ye",
    "en": "If my Timbs got a scuff on them, I'm in the meeting,",
-   "ja": "ティンバーに傷がついたら\n会議中でも",
+   "ja": "Timbsに傷がついたら\n会議中でも",
    "ctx": "",
    "unc": "",
    "asr": "If my Tims got a scuff on them, I'm in the meeting."
@@ -760,7 +760,7 @@
    "end": 1710.52,
    "speaker": "Ye",
    "en": "meeting adjourned. I need a new pair of Timbs.",
-   "ja": "「会議は中断\n新しいティンバー買ってくる」",
+   "ja": "「会議は中断\n新しいTimbs買ってくる」",
    "ctx": "",
    "unc": "",
    "asr": "Meeting adjourned. I need a new pair of Timbs."
@@ -782,7 +782,7 @@
    "end": 1713.22,
    "speaker": "Ye",
    "en": "And I carried the Timbs in a plastic bag.",
-   "ja": "で、ティンバーを\nビニール袋に入れて持ってきて",
+   "ja": "で、Timbsを\nビニール袋に入れて持ってきて",
    "ctx": "",
    "unc": "",
    "asr": "And I carried the Timbs in a plastic bag."
@@ -850,7 +850,7 @@
    "end": 1110.12,
    "speaker": "Host / Ye",
    "en": "Kool G Rap or Big Pun? — (Ye:) I like both.",
-   "ja": "クール・G・ラップか\nビッグ・パンか\n（イェ）どっちも好き",
+   "ja": "Kool G Rapか\nBig Punか\n（Ye）どっちも好き",
    "ctx": "Pick-one game. Kool G Rap and Big Pun are New York rap legends.",
    "unc": "Large-v3 'I like both'; turbo 'I like boof'. 'Both' fits the next answer.",
    "asr": "Coogee rap or big pun I like both"
@@ -883,7 +883,7 @@
    "end": 1157.44,
    "speaker": "Ye",
    "en": "So when I compare the greatness of Kool G Rap and the greatness of Big Pun,",
-   "ja": "だからクール・G・ラップの偉大さと\nビッグ・パンの偉大さを比べるのは",
+   "ja": "だからKool G Rapの偉大さと\nBig Punの偉大さを比べるのは",
    "ctx": "",
    "unc": "",
    "asr": "So when I compare the greatness of Coogee Rap and the greatness of Big Pun."
@@ -894,7 +894,7 @@
    "end": 1158.98,
    "speaker": "Ye",
    "en": "which was inspired by Kool G Rap,",
-   "ja": "しかもパンはG・ラップに\n影響受けてるわけで",
+   "ja": "しかもBig PunはKool G Rapに\n影響受けてるわけで",
    "ctx": "",
    "unc": "",
    "asr": "Which was inspired by Coogee Rap."
@@ -927,7 +927,7 @@
    "end": 1164.58,
    "speaker": "Ye",
    "en": "I know Ross said God forgives, I don't.",
-   "ja": "リック・ロスは\n「神は許すが俺は許さない」って\n言ってたけど",
+   "ja": "Rick Rossは\n「神は許すが俺は許さない」って\n言ってたけど",
    "ctx": "Rick Ross album title 'God Forgives, I Don't' (2012).",
    "unc": "",
    "asr": "I know Ross said God forgives, I don't."
@@ -938,7 +938,7 @@
    "end": 1171.24,
    "speaker": "Ye",
    "en": "I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive",
-   "ja": "俺は許す\n全員許す\nクリントン夫妻も許す",
+   "ja": "俺は許す\n全員許す\nClinton夫妻も許す",
    "ctx": "",
    "unc": "Turbo 'I'm forgiven'; large-v3 'I'm forgiving'.",
    "asr": "I'm forgiving I forgive everybody I forgive the Clintons I forgive"
@@ -949,7 +949,7 @@
    "end": 1180.1,
    "speaker": "Ye",
    "en": "John Legend for wearing them bum-ass sweaters. I forgive... I forgive him. He's forgiven.",
-   "ja": "ジョン・レジェンドも許す\nあのダサいセーター着てたことをな\n許す…許してやる\nあいつは許された",
+   "ja": "John Legendも許す\nあのダサいセーター着てたことをな\n許す…許してやる\nあいつは許された",
    "ctx": "John Legend = singer, formerly close to Ye; they fell out over politics.",
    "unc": "",
    "asr": "John Legend for wearing them bum ass sweaters I forgive I forgive him he's forgiven"
@@ -960,7 +960,7 @@
    "end": 1190.92,
    "speaker": "Ye",
    "en": "Big Sean. May they all be forgiven. I forgive Big Sean",
-   "ja": "ビッグ・ショーン\nみんな許されますように\nビッグ・ショーンも許す",
+   "ja": "Big Sean\nみんな許されますように\nBig Seanも許す",
    "ctx": "Big Sean = rapper signed to Ye's G.O.O.D. Music.",
    "unc": "",
    "asr": "Big Sean may they all be forgiven I forgive Big Sean"
@@ -1037,7 +1037,7 @@
    "end": 1214.77,
    "speaker": "Ye",
    "en": "I forgive Bob Iger.",
-   "ja": "ボブ・アイガーも許す",
+   "ja": "Bob Igerも許す",
    "ctx": "Bob Iger = Disney CEO.",
    "unc": "",
    "asr": "I forgive Bob Iger."
@@ -1083,7 +1083,7 @@
    "end": 1768.04,
    "speaker": "Ye",
    "en": "uh, when my kids came on a plane, after they was on a plane, Kim texted me and said North's not on a plane.",
-   "ja": "子どもたちが飛行機に乗ってきた時\nもう乗ってたのに\nキムから「ノースは乗ってない」ってメールが来た",
+   "ja": "子どもたちが飛行機に乗ってきた時\nもう乗ってたのに\nKimから「Northは乗ってない」ってメールが来た",
    "ctx": "North = Ye and Kim Kardashian's eldest daughter.",
    "unc": "Exact meaning of 'after they was on a plane' is unclear (possibly: the text came after they had already boarded).",
    "asr": "uh when my kids came on a plane after they was on a plane kim texted me and said north's not on a plane and"
@@ -1127,7 +1127,7 @@
    "end": 1790.55,
    "speaker": "Ye",
    "en": "all the time when I thought me and Kim were going to get a divorce, like, throughout our relationship, I always thought about",
-   "ja": "キムと離婚するかもって\n思うたびに\n付き合ってる間ずっと\n頭に浮かんでたのが",
+   "ja": "Kimと離婚するかもって\n思うたびに\n付き合ってる間ずっと\n頭に浮かんでたのが",
    "ctx": "",
    "unc": "",
    "asr": "all the time when I thought me and Kim were going to get a divorce like throughout our relationship I always thought about"
@@ -1138,7 +1138,7 @@
    "end": 1796.18,
    "speaker": "Ye",
    "en": "Big Boi, man. He really told me what it really was on 'I Choose You.'",
-   "ja": "ビッグ・ボーイだよ\n『I Choose You』で\n本当のことを教えてくれてた",
+   "ja": "Big Boiだよ\n『I Choose You』で\n本当のことを教えてくれてた",
    "ctx": "Big Boi of OutKast; 'I Choose You' is on Speakerboxxx (2003).",
    "unc": "ASR spells 'Big Boy'; context (OutKast) shows Big Boi.",
    "asr": "Big Boy man he really told me what it really was on I Choose You"
@@ -1149,7 +1149,7 @@
    "end": 1799.46,
    "speaker": "Host / Ye",
    "en": "Oh, it's about OutKast? I was thinking about Big Boy Radio.",
-   "ja": "あ、アウトキャストの話か\nビッグ・ボーイのラジオかと思った",
+   "ja": "あ、OutKastの話か\nBig Boiのラジオかと思った",
    "ctx": "A host mixes up Big Boi with radio host Big Boy.",
    "unc": "MEDIUM: speaker of this line inferred as a host.",
    "asr": "oh it's about OutKast I was thinking about Big Boy Radio"
@@ -1217,7 +1217,7 @@
    "end": 192.84,
    "speaker": "Ye",
    "en": "Like, you know, and I don't like somebody saying, well, I'm gonna be the voice of Ye, the only voice of Ye, the only manager of Ye.",
-   "ja": "「俺がイェの代弁者だ」とか\n「イェの唯一の声だ」\n「唯一のマネージャーだ」とか\n言われるのが嫌なんだよ",
+   "ja": "「俺がYeの代弁者だ」とか\n「Yeの唯一の声だ」\n「唯一のマネージャーだ」とか\n言われるのが嫌なんだよ",
    "ctx": "Answer to a question about who runs Ye's business now.",
    "unc": "Opening 'like you know I mean' is filler; clip could start at 'I don't like'.",
    "asr": "like you know i mean and i don't like somebody saying well i'm gonna be the voice of yay yay the only voice of yay yay the only manager yay like i"
@@ -1294,7 +1294,7 @@
    "end": 237.34,
    "speaker": "Host",
    "en": "So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib,",
-   "ja": "それで思い出したのが\nシャックの話でさ\n契約してた時\n家にスタジオがあったのに",
+   "ja": "それで思い出したのが\nShaqの話でさ\n契約してた時\n家にスタジオがあったのに",
    "ctx": "Host anecdote about Shaquille O'Neal's rap career.",
    "unc": "Speaker inferred as a host.",
    "asr": "so it reminded me of that what shaq said when he had the the deal and he had the studio in his crib"
@@ -1328,10 +1328,10 @@
    "start": 770.5,
    "end": 774.71,
    "speaker": "Host",
-   "en": "We had Cravo and Takeoff here the other day.",
-   "ja": "この前クラボと\nテイクオフが来てたんだけど",
+   "en": "We had Quavo and Takeoff here the other day.",
+   "ja": "この前Quavoと\nTakeoffが来てたんだけど",
    "ctx": "Takeoff (Migos) and an associate visited the show earlier.",
-   "unc": "'Cravo' is the ASR spelling of a name; unverified.",
+   "unc": "'Quavo' is the ASR spelling of a name; unverified.",
    "asr": "We had Cravo and Takeoff here the other day."
   },
   {
@@ -1350,8 +1350,8 @@
    "start": 778.81,
    "end": 786.53,
    "speaker": "Host",
-   "en": "They said, Cravo said that you asked to borrow his Twitter during the blockout. Is this true?",
-   "ja": "クラボが言うには\nあんたがアカウント停止中に\nあいつのツイッターを\n借りようとしたって\n本当？",
+   "en": "They said, Quavo said that you asked to borrow his Twitter during the blockout. Is this true?",
+   "ja": "Quavoが言うには\nあんたがアカウント停止中に\nあいつのTwitterを\n借りようとしたって\n本当？",
    "ctx": "Ye's Twitter was locked in Oct 2022.",
    "unc": "",
    "asr": "They said, Cravo said that you asked to borrow his Twitter during the blockout. Is this true?"
@@ -1406,7 +1406,7 @@
    "end": 813.86,
    "speaker": "Ye",
    "en": "Yeah. Because my dad was like, I feel where you coming from, Ye, I understand,",
-   "ja": "親父に言われたんだよ\n「言いたいことはわかる\nイェ、理解はできる",
+   "ja": "親父に言われたんだよ\n「言いたいことはわかる\nYe、理解はできる",
    "ctx": "",
    "unc": "",
    "asr": "yeah because my my dad was like i feel what you're coming from yay i understand"
@@ -1485,7 +1485,7 @@
    "end": 892.19,
    "speaker": "Ye",
    "en": "Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right?",
-   "ja": "モーセに4つの章があったように\n俺にもある\n意外かもしれないけど\nモーセの4章は読んだぜ",
+   "ja": "Mosesに4つの章があったように\n俺にもある\n意外かもしれないけど\nMosesの4章は読んだぜ",
    "ctx": "Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses).",
    "unc": "",
    "asr": "like moses have four chapters like i have contrary to popular belief i did read the four chapters of moses"
@@ -1685,7 +1685,7 @@
    "end": 1403.39,
    "speaker": "Ye",
    "en": "I always thought, like, you know what I'm saying, it's like, I always thought, when I would speak to rap, like somebody like Pimp C,",
-   "ja": "ずっと思ってたんだけど\nピンプ・Cみたいな\nラッパーと話すと",
+   "ja": "ずっと思ってたんだけど\nPimp Cみたいな\nラッパーと話すと",
    "ctx": "Pimp C = UGK member, Houston rap legend (died 2007).",
    "unc": "",
    "asr": "i always thought like you know i'm saying it's like i always thought when i would when i would speak to rap like somebody like pimp c"
@@ -1729,7 +1729,7 @@
    "end": 1429.63,
    "speaker": "Ye",
    "en": "But I remember Pimp C had a conversation, like, man, I like the way you had your vocals turned up so they could hear what you saying.",
-   "ja": "でもピンプ・Cに\n言われたことがあって\n「ボーカルを上げてるのがいい\nちゃんと言ってることが聞こえる」って",
+   "ja": "でもPimp Cに\n言われたことがあって\n「ボーカルを上げてるのがいい\nちゃんと言ってることが聞こえる」って",
    "ctx": "",
    "unc": "",
    "asr": "I remember Pimp C had a conversation like man I like the way you had your vocals turned up so they could hear what you saying"
@@ -1751,7 +1751,7 @@
    "end": 1443.77,
    "speaker": "Ye",
    "en": "You know, like, it was a guy that came to one of my 60,000-square-foot spaces, and he was in the band the Strokes.",
-   "ja": "前に俺の6万平方フィートの\nスペースに来た奴がいて\nザ・ストロークスの\nメンバーだったんだけど",
+   "ja": "前に俺の6万平方フィートの\nスペースに来た奴がいて\nThe Strokesの\nメンバーだったんだけど",
    "ctx": "The Strokes = New York rock band known for low, distorted vocals.",
    "unc": "",
    "asr": "You know, like it was a guy that came to one of my 60 ,000 square foot spaces and he was in the band of Strokes."
@@ -1762,7 +1762,7 @@
    "end": 1444.69,
    "speaker": "Ye",
    "en": "He's in the band the Strokes.",
-   "ja": "ストロークスのメンバーだよ",
+   "ja": "Strokesのメンバーだよ",
    "ctx": "",
    "unc": "",
    "asr": "He's in the band of Strokes."
@@ -1806,7 +1806,7 @@
    "end": 1460.58,
    "speaker": "Ye",
    "en": "And they canceled me this week. There's no... not Tucker Carlson, no platform would carry me this week either.",
-   "ja": "で、今週は\nキャンセルされた\nタッカー・カールソンも\nどこも今週は\n俺を出してくれなかった",
+   "ja": "で、今週は\nキャンセルされた\nTucker Carlsonも\nどこも今週は\n俺を出してくれなかった",
    "ctx": "Tucker Carlson = Fox News host who interviewed Ye earlier in Oct 2022.",
    "unc": "",
    "asr": "they cancel me this week there's no, not Tucker Carlson no platform would carry me this week either"
@@ -1828,7 +1828,7 @@
    "end": 1473.9,
    "speaker": "Ye",
    "en": "I said, you understand that our numbers did three times the numbers of when Kim was on SNL, right? You understand that?",
-   "ja": "俺は言ったよ\n「俺らの再生数\nキムがSNLに出た時の\n3倍だったんだぞ\nわかってる？」って",
+   "ja": "俺は言ったよ\n「俺らの再生数\nKimがSNLに出た時の\n3倍だったんだぞ\nわかってる？」って",
    "ctx": "Kim Kardashian hosted Saturday Night Live in Oct 2021; Ye's previous Drink Champs episode is meant.",
    "unc": "",
    "asr": "I said you understand that our numbers did three times the numbers of when Kim was on SNL right you understand"
@@ -1852,7 +1852,7 @@
    "end": 356.14,
    "speaker": "Ye",
    "en": "I'll be having, like, 12 writers in the studio that don't add up to Drake, God's version, and be like, oh, Drake just...",
-   "ja": "スタジオに12人ライターがいても\nドレイク一人に及ばない\n神バージョンのドレイクには\n「ドレイクって…」ってなる",
+   "ja": "スタジオに12人ライターがいても\nDrake一人に及ばない\n神バージョンのDrakeには\n「Drakeって…」ってなる",
    "ctx": "",
    "unc": "MEDIUM: 'Drake, God's version' is how both models hear it; exact phrase uncertain.",
    "asr": "i'll be having like 12 writers in the studio that don't add up to drake god's version and be like oh drake just"
@@ -1863,7 +1863,7 @@
    "end": 360.1,
    "speaker": "Ye",
    "en": "That's why I was interested when he heard '30 Hours,' because Drake wrote that for me.",
-   "ja": "だから『30 Hours』を\nあいつが聴いた時\n気になったんだよ\nあれはドレイクが\n書いてくれたから",
+   "ja": "だから『30 Hours』を\nあいつが聴いた時\n気になったんだよ\nあれはDrakeが\n書いてくれたから",
    "ctx": "'30 Hours' = track on The Life of Pablo (2016).",
    "unc": "Ye's claim that Drake wrote '30 Hours' is his own account.",
    "asr": "that's why i was interested when he heard 30 hours because drake wrote that for me"
@@ -1885,7 +1885,7 @@
    "end": 372.95,
    "speaker": "Ye",
    "en": "I had, like, I was nervous to do the Victoria's Secret show until I pictured everybody with no clothes.",
-   "ja": "「ヴィクトリアズ・シークレットの\nショーは緊張したけど\nみんな裸だと思ったら\n平気だった」ってやつ",
+   "ja": "「Victoria's Secretの\nショーは緊張したけど\nみんな裸だと思ったら\n平気だった」ってやつ",
    "ctx": "Ye performed at the 2011 Victoria's Secret Fashion Show; the line plays on the models' outfits.",
    "unc": "",
    "asr": "I had like I Had I was nervous to do Victoria Secret show until I pictured everybody with no clothes"
@@ -1929,7 +1929,7 @@
    "end": 390.33,
    "speaker": "Ye",
    "en": "So we flipped it, like, I was nervous to do Victoria's Secret until I pictured everybody naked, and I sent it to Drake,",
-   "ja": "それをひっくり返して\n「ヴィクトリアズ・シークレットで\n緊張したけど\nみんな裸だと思ったら…」\nってのをドレイクに送ったら",
+   "ja": "それをひっくり返して\n「Victoria's Secretで\n緊張したけど\nみんな裸だと思ったら…」\nってのをDrakeに送ったら",
    "ctx": "",
    "unc": "",
    "asr": "So we flipped it like I was nervous to do Victoria's Secret until I pictured everybody naked and I sent it to Drake"
@@ -1940,7 +1940,7 @@
    "end": 394.76,
    "speaker": "Ye",
    "en": "and Drake took it and barred it out and wrote the whole rap.",
-   "ja": "ドレイクがそれを\nバースに仕上げて\nラップ全部書いたんだよ",
+   "ja": "Drakeがそれを\nバースに仕上げて\nラップ全部書いたんだよ",
    "ctx": "",
    "unc": "",
    "asr": "and Drake Drake took it and barred it out and wrote the whole rap."
@@ -1951,7 +1951,7 @@
    "end": 401.46,
    "speaker": "Ye",
    "en": "You understand, like, how much easier my life would be if Drake would just, like, write my raps for me? You know what I'm saying?",
-   "ja": "ドレイクが俺のラップ\n全部書いてくれたら\nどんだけ楽か\nわかる？",
+   "ja": "Drakeが俺のラップ\n全部書いてくれたら\nどんだけ楽か\nわかる？",
    "ctx": "",
    "unc": "",
    "asr": "You understand like how much easier my life would be if Drake would just like write my raps for me. You know what I'm saying?"
@@ -1997,7 +1997,7 @@
    "end": 1831.44,
    "speaker": "Ye",
    "en": "When I was having the funny thing, the issues with Puff I was having,",
-   "ja": "パフと揉めてた時\nおかしなことがあってさ",
+   "ja": "Puff Daddyと揉めてた時\nおかしなことがあってさ",
    "ctx": "Puff = Sean 'Diddy' Combs. In Oct 2022 they argued publicly over Ye's 'White Lives Matter' shirt.",
    "unc": "",
    "asr": "When I was having, the funny thing with the issues with Puff I was having."
@@ -2008,7 +2008,7 @@
    "end": 1834.86,
    "speaker": "Ye",
    "en": "Thank you. I went to the Waldorf and I saw a couple people.",
-   "ja": "どうも\nウォルドーフに行ったら\n何人か人がいて",
+   "ja": "どうも\nWaldorfに行ったら\n何人か人がいて",
    "ctx": "",
    "unc": "",
    "asr": "Thank you. I went to the Waldorf and I saw a couple people."
@@ -2019,7 +2019,7 @@
    "end": 1836.46,
    "speaker": "Host",
    "en": "Waldorf where?",
-   "ja": "どこのウォルドーフ？",
+   "ja": "どこのWaldorf？",
    "ctx": "",
    "unc": "",
    "asr": "Waldorf where?"
@@ -2030,7 +2030,7 @@
    "end": 1839.92,
    "speaker": "Ye",
    "en": "Because I visited... the Waldorf in California. I love it.",
-   "ja": "行ったのは\nカリフォルニアのウォルドーフ\n大好きなんだよ",
+   "ja": "行ったのは\nCaliforniaのWaldorf\n大好きなんだよ",
    "ctx": "Waldorf Astoria Beverly Hills.",
    "unc": "Turbo heard 'the wall of golf'; large-v3 'The Waldorf in California'.",
    "asr": "Because I visit. The Waldorf in California. I love it."
@@ -2052,7 +2052,7 @@
    "end": 1848.85,
    "speaker": "Ye",
    "en": "And I was like, oh man, Puff really does this, right?",
-   "ja": "で、「うわ、パフは\nマジでこういうことやるのか」\nって思って",
+   "ja": "で、「うわ、Puff Daddyは\nマジでこういうことやるのか」\nって思って",
    "ctx": "Ye read the people outside as Puff's doing (intimidation or surveillance); this is his impression.",
    "unc": "",
    "asr": "And I was like, oh man, Puff really does this. Right?"
@@ -2074,7 +2074,7 @@
    "end": 1860.59,
    "speaker": "Ye",
    "en": "and I Maybach'd the fleet out. Because I was like, yo, I can't be walking around homeless,",
-   "ja": "車も全部マイバッハにした\nだってホームレスみたいに\nうろついてたらダメだろ",
+   "ja": "車も全部Maybachにした\nだってホームレスみたいに\nうろついてたらダメだろ",
    "ctx": "'Made back the fleet out' is heard as 'Maybach'd the fleet out' (Maybach cars); Ye mentions a Maybach fleet elsewhere in the interview.",
    "unc": "MEDIUM: 'made back the fleet out' in both models; 'Maybach' is an inference.",
    "asr": "and I made back the fleet out because I was like yo I'm not gonna I can't be walking around homeless"
@@ -2085,7 +2085,7 @@
    "end": 1864.75,
    "speaker": "Ye",
    "en": "like, beefing with Puff. You got to, like, you know what I mean?",
-   "ja": "パフとビーフしてるのにさ\nわかるだろ？",
+   "ja": "Puff Daddyとビーフしてるのにさ\nわかるだろ？",
    "ctx": "",
    "unc": "",
    "asr": "like beefing with Puff you got to like you know what I mean"
@@ -2107,7 +2107,7 @@
    "end": 1875.33,
    "speaker": "Ye",
    "en": "And so what I really did get out of it is that, like, Puff, like, stay rich, never gonna... you know what I'm saying?",
-   "ja": "で、そこから学んだのは\nパフはいつでも金持ちってこと\nわかる？",
+   "ja": "で、そこから学んだのは\nPuff Daddyはいつでも金持ちってこと\nわかる？",
    "ctx": "",
    "unc": "",
    "asr": "and so what I really did get out of it is that like Puff like stay rich never gonna you know what I'm saying"
@@ -2118,7 +2118,7 @@
    "end": 1878.45,
    "speaker": "Ye",
    "en": "You never seen this man in no Vans. You know what I'm saying?",
-   "ja": "あの人がヴァンズ履いてるとこなんか\n見たことないだろ",
+   "ja": "あの人がVans履いてるとこなんか\n見たことないだろ",
    "ctx": "Vans = casual skate shoes; i.e., Puff never dresses down.",
    "unc": "",
    "asr": "you never seen this man in no vans you know what I'm saying"
@@ -2164,7 +2164,7 @@
    "end": 1887.22,
    "speaker": "Ye",
    "en": "Puff is my idol, bro.",
-   "ja": "パフは俺のアイドルなんだよ",
+   "ja": "Puff Daddyは俺のアイドルなんだよ",
    "ctx": "Puff = Sean 'Diddy' Combs.",
    "unc": "",
    "asr": "Puff is my idol, bro."
@@ -2175,7 +2175,7 @@
    "end": 1896.5,
    "speaker": "Ye",
    "en": "Yeah, that's why I said, I was like, yo, I know how Virgil feels now, on the times that I scream at Virgil, especially if I scream at Virgil in front of somebody.",
-   "ja": "だから言ったんだよ\n今ならヴァージルの気持ちがわかるって\n俺がヴァージルを怒鳴った時\n特に人前で怒鳴った時のな",
+   "ja": "だから言ったんだよ\n今ならVirgilの気持ちがわかるって\n俺がVirgilを怒鳴った時\n特に人前で怒鳴った時のな",
    "ctx": "Virgil Abloh, Ye's longtime creative director, later Louis Vuitton menswear artistic director; died Nov 2021.",
    "unc": "",
    "asr": "Yeah, that's why I said, I was like, yo, I know how Virgil feels now on the times that I scream at Virgil, especially if I scream at Virgil in front of somebody."
@@ -2197,7 +2197,7 @@
    "end": 1903.6,
    "speaker": "Ye",
    "en": "Well, for Puff to call me and say anybody with a White Lives Matter t-shirt is getting greenlit,",
-   "ja": "パフが電話してきて\n「White Lives MatterのTシャツ\n着てる奴は誰でも狙われる」って\n言われた時",
+   "ja": "Puff Daddyが電話してきて\n「White Lives MatterのTシャツ\n着てる奴は誰でも狙われる」って\n言われた時",
    "ctx": "Ye says Puff told him wearers of the shirt were 'getting greenlit' (slang: marked as a target). This is Ye's account.",
    "unc": "'Greenlit' here is slang for being targeted; meaning inferred from context.",
    "asr": "Well, for Puff to call me and say anybody with a White Lives Matter t -shirt is getting greenlit,"
@@ -2208,7 +2208,7 @@
    "end": 1910.22,
    "speaker": "Ye",
    "en": "I know how Virgil felt at that moment, if I ever said something where his idol said something that hurt his feelings.",
-   "ja": "あの時のヴァージルの気持ちがわかった\n憧れの人に\n傷つくことを言われた気持ちがな",
+   "ja": "あの時のVirgilの気持ちがわかった\n憧れの人に\n傷つくことを言われた気持ちがな",
    "ctx": "",
    "unc": "",
    "asr": "I know how Virgil felt at that moment. If I ever said something where his idol said something that hurt his feelings."
@@ -2219,7 +2219,7 @@
    "end": 1918.06,
    "speaker": "Ye",
    "en": "And, you know, and that's why Virgil took the watch to Drake. You know what I'm saying? He knew that would hurt my feelings.",
-   "ja": "だからヴァージルは\nドレイクに時計を作ったんだよ\n俺が傷つくって\nわかっててな",
+   "ja": "だからVirgilは\nDrakeに時計を作ったんだよ\n俺が傷つくって\nわかっててな",
    "ctx": "Virgil designed a custom Patek Philippe for Drake in 2021.",
    "unc": "ASR 'took the watch from Drake'; the host corrects the facts in the next lines.",
    "asr": "and you know and that's why Virgil took the watch from Drake you gonna say he knew that would hurt my feelings"
@@ -2241,7 +2241,7 @@
    "end": 1928.1,
    "speaker": "Host",
    "en": "I want to address that. You said Virgil took the watch from Drake, because Virgil actually designed a Patek.",
-   "ja": "そこ確認したいんだけど\nヴァージルがドレイクから\n時計を取ったって言った？\n実際はヴァージルが\nパテックをデザインしたんだよな",
+   "ja": "そこ確認したいんだけど\nVirgilがDrakeから\n時計を取ったって言った？\n実際はVirgilが\nPatekをデザインしたんだよな",
    "ctx": "Patek Philippe watch.",
    "unc": "ASR 'paddock' = Patek.",
    "asr": "I want to address that you said Virgil took the watch from Drake because Virgil actually designed a paddock"
@@ -2252,7 +2252,7 @@
    "end": 1935.94,
    "speaker": "Ye",
    "en": "Oh, well, Virgil, I'm sorry. Virgil took the watch, sent the watch to Drake and all that type of stuff, because he knew that, like, you know, that would hurt my feelings.",
-   "ja": "ああ、悪い\nヴァージルが時計を\nドレイクに送ったとか\nそういうことだよ\n俺が傷つくって\nわかっててな",
+   "ja": "ああ、悪い\nVirgilが時計を\nDrakeに送ったとか\nそういうことだよ\n俺が傷つくって\nわかっててな",
    "ctx": "",
    "unc": "Turbo 'Oh well, Virgil, I'm sorry'; large-v3 'oh well Virgil'.",
    "asr": "oh well Virgil took the watch sent the watch to Drake and all that type of stuff because he know that like you know that would hurt my feelings"
@@ -2263,7 +2263,7 @@
    "end": 1939.32,
    "speaker": "Ye",
    "en": "I work with Balenciaga because I knew it would hurt Drake's feelings.",
-   "ja": "俺がバレンシアガと組んだのも\nドレイクが傷つくって\nわかってたからだよ",
+   "ja": "俺がBalenciagaと組んだのも\nDrakeが傷つくって\nわかってたからだよ",
    "ctx": "Drake was closely tied to Balenciaga; Ye's tit-for-tat.",
    "unc": "",
    "asr": "I work with Balenciaga because I knew it would hurt Drake's feelings."
@@ -2307,7 +2307,7 @@
    "end": 1949.64,
    "speaker": "Ye",
    "en": "This is psychological. Like, Virgil was a psychological warrior.",
-   "ja": "心理戦だよ\nヴァージルは\n心理戦の戦士だった",
+   "ja": "心理戦だよ\nVirgilは\n心理戦の戦士だった",
    "ctx": "",
    "unc": "Large-v3 'This is like a lot like Virgil is a psychological Warrior'; turbo 'This is psycholog, like Virgil was a psychological warrior'.",
    "asr": "This is like a lot like Virgil is a psychological Warrior."
@@ -2329,7 +2329,7 @@
    "end": 1956.25,
    "speaker": "Ye",
    "en": "That man made it from being Ye's assistant to the head of Louis Vuitton.",
-   "ja": "イェのアシスタントから\nルイ・ヴィトンのトップまで\n上り詰めたんだぜ",
+   "ja": "Yeのアシスタントから\nLouis Vuittonのトップまで\n上り詰めたんだぜ",
    "ctx": "",
    "unc": "",
    "asr": "That man made it from being Ye's assistant to the head of Louis Vuitton."
@@ -2353,7 +2353,7 @@
    "end": 1148.18,
    "speaker": "Ye",
    "en": "So I went to Adidas meeting, and I took out... I had a laptop. I don't have laptops anymore, I just use my phone.",
-   "ja": "で、アディダスの会議に行って\n取り出したのが…\nノートPCだった\n今はもう持ってない\nスマホしか使わない",
+   "ja": "で、Adidasの会議に行って\n取り出したのが…\nノートPCだった\n今はもう持ってない\nスマホしか使わない",
    "ctx": "Context: the hosts asked about a reported Adidas meeting.",
    "unc": "Large-v3 dropped 'I don't'; turbo has it.",
    "asr": "So I went to Adidas meeting and I took out I had a laptop have laptops anymore I just use my phone"
@@ -2364,7 +2364,7 @@
    "end": 1155.7,
    "speaker": "Host / Ye",
    "en": "But it's just... and it's during the beef, between what's going on recently? — (Ye:) No, no, this is the beginning of the Adidas relationship, before I even put out anything.",
-   "ja": "それって最近の\n揉め事の最中の話？\n（イェ）いや、アディダスとの関係が\n始まったばかりの頃\nまだ何も出す前",
+   "ja": "それって最近の\n揉め事の最中の話？\n（Ye）いや、Adidasとの関係が\n始まったばかりの頃\nまだ何も出す前",
    "ctx": "",
    "unc": "MEDIUM: speakers of the question/answer inferred. 'pull anything' heard; read as 'put out anything'.",
    "asr": "but it's just and it's during the the beef between what's going on recently No, no, this is the beginning of the Adidas relationship before I even pull anything."
@@ -2375,7 +2375,7 @@
    "end": 1161.8,
    "speaker": "Ye",
    "en": "Oh, and I was like, look, nobody's getting pussy in Adidas. People get pussy at Nike.",
-   "ja": "で、言ったんだよ\n「いいか、アディダス履いて\nモテてる奴なんかいない\nモテるのはナイキだ」って",
+   "ja": "で、言ったんだよ\n「いいか、Adidas履いて\nモテてる奴なんかいない\nモテるのはNikeだ」って",
    "ctx": "Ye's crude sales pitch: Adidas lacked sex appeal.",
    "unc": "",
    "asr": "Oh, and I was like look Nobody's getting pussy and Adidas people get pussy at Nike"
@@ -2419,7 +2419,7 @@
    "end": 1180.85,
    "speaker": "Ye",
    "en": "How many times, if you think about a situation where somebody got some pussy, how many times you think some Four Swans is on the side of that bed?",
-   "ja": "誰かがヤってる場面を\n想像してみろよ\nベッドの横に\nアディダスが脱いである\nことなんてあるか？",
+   "ja": "誰かがヤってる場面を\n想像してみろよ\nベッドの横に\nAdidasが脱いである\nことなんてあるか？",
    "ctx": "'Four Swans' = ASR spelling; likely an Adidas shoe (e.g. 'Forum' or 'Superstars'). Meaning: Adidas shoes by the bed.",
    "unc": "LOW: 'four swans' is unclear in both models. The Japanese avoids naming the model.",
    "asr": "how many times if you think about a situation where somebody got some pussy How many times you think some four swans is on the side of that bed?"
@@ -2463,7 +2463,7 @@
    "end": 1199.54,
    "speaker": "Ye",
    "en": "And actually, this is something only me and Steve Stoute know.",
-   "ja": "実はこれ\n俺とスティーヴ・スタウトしか\n知らないんだけど",
+   "ja": "実はこれ\n俺とSteve Stouteしか\n知らないんだけど",
    "ctx": "",
    "unc": "",
    "asr": "And actually, this is something only me and Steve Stout know."
@@ -2485,7 +2485,7 @@
    "end": 1212.96,
    "speaker": "Ye",
    "en": "Steve Stoute, if you ask him what that's called, it's called a get-pussy toe.",
-   "ja": "スティーヴに\nあれの名前を聞いたら\n「モテるつま先」って言うよ",
+   "ja": "Steveに\nあれの名前を聞いたら\n「モテるつま先」って言うよ",
    "ctx": "Japanese renders the name by meaning rather than literally.",
    "unc": "",
    "asr": "Steve Stout, if you ask him what that's called, it's called a get pussy toe."
@@ -2507,7 +2507,7 @@
    "end": 1220.47,
    "speaker": "Ye",
    "en": "Bring Stoute here and ask him. That's what it's actually called.",
-   "ja": "スタウト呼んで聞いてみろよ\nマジでそういう名前なんだから",
+   "ja": "Stoute呼んで聞いてみろよ\nマジでそういう名前なんだから",
    "ctx": "",
    "unc": "Turbo 'I asked Brain Stop here and ask them'; large-v3 'Bring Stout here and ask him'.",
    "asr": "Bring Stout here and ask him. That's what it's actually called."
@@ -2529,7 +2529,7 @@
    "end": 1224.81,
    "speaker": "Ye",
    "en": "I came up, because I said no one's getting pussy in Adidas, bro.",
-   "ja": "俺だよ\nアディダスじゃ誰も\nモテないって言ったからな",
+   "ja": "俺だよ\nAdidasじゃ誰も\nモテないって言ったからな",
    "ctx": "",
    "unc": "",
    "asr": "I came up because I said no one's getting pussy in Adidas, bro."
@@ -2542,7 +2542,7 @@
    "end": 1183.46,
    "speaker": "Ye",
    "en": "I still... Bernard Arnault is still one of my heroes, so I gotta say that, though. That's the guy, Louis — head of LVMH. Yeah.",
-   "ja": "今でも\nベルナール・アルノーは\n俺のヒーローなんだよ\nそこは言っとく\nLVMHのトップだよ",
+   "ja": "今でも\nBernard Arnaultは\n俺のヒーローなんだよ\nそこは言っとく\nLVMHのトップだよ",
    "ctx": "Bernard Arnault = chairman of LVMH (Louis Vuitton), among the world's richest people.",
    "unc": "",
    "asr": "i still bernard arnault is still one of my heroes so i gotta say that though that's the guy louis had a lvmh yeah yeah"
@@ -2564,7 +2564,7 @@
    "end": 1196.24,
    "speaker": "Ye",
    "en": "I performed at Bernard Arnault's son's wedding, Alexandre Arnault, and I said, man, you know, when I'm the richest man in the world, I hope my son is cool enough to hang out with Ye.",
-   "ja": "アルノーの息子\nアレクサンドルの結婚式で\nライブした時に言ったんだ\n「俺が世界一の金持ちになったら\nうちの息子がイェとつるめるくらい\nイケてるといいな」って",
+   "ja": "Arnaultの息子\nAlexandreの結婚式で\nライブした時に言ったんだ\n「俺が世界一の金持ちになったら\nうちの息子がYeとつるめるくらい\nイケてるといいな」って",
    "ctx": "Ye is quoting what he imagines Arnault thinking; delivered as a joke on stage.",
    "unc": "Turbo 'my son that's cool enough'. Same meaning.",
    "asr": "i took i i performed at bernard arnault son's wedding alexander arnault and i said man you know when when i'm the richest man in the world I hope my son is cool enough to hang out with yay."
@@ -2586,7 +2586,7 @@
    "end": 1201.68,
    "speaker": "Ye",
    "en": "I'm saying this on stage for them, but I told him afterwards, I said, yo, Bernard, you're my favorite.",
-   "ja": "ステージで言ったんだけど\n後で本人にも言ったよ\n「ベルナール、あんたが一番だ」って",
+   "ja": "ステージで言ったんだけど\n後で本人にも言ったよ\n「Bernard、あんたが一番だ」って",
    "ctx": "",
    "unc": "",
    "asr": "I'm saying this on stage for them, but I told him afterwards. I said yo Bernard. You're my favorite"
@@ -2597,7 +2597,7 @@
    "end": 1204.84,
    "speaker": "Ye",
    "en": "Jeff Bezos is commodity.",
-   "ja": "ジェフ・ベゾスは\nただの量産品だよ",
+   "ja": "Jeff Bezosは\nただの量産品だよ",
    "ctx": "",
    "unc": "",
    "asr": "Jeff Bezos is commodity"
@@ -2619,7 +2619,7 @@
    "end": 1209.2,
    "speaker": "Ye",
    "en": "Jeff Bezos don't have no opinion.",
-   "ja": "ベゾスには\n自分の意見がない",
+   "ja": "Bezosには\n自分の意見がない",
    "ctx": "",
    "unc": "",
    "asr": "Jeff Bezos don't have no opinion."
@@ -2630,7 +2630,7 @@
    "end": 1212.9,
    "speaker": "Ye",
    "en": "He don't got no taste. Jeff Bezos ain't got no taste.",
-   "ja": "センスがないんだよ\nベゾスにはセンスがない",
+   "ja": "センスがないんだよ\nBezosにはセンスがない",
    "ctx": "",
    "unc": "Large-v3 'You don't got no taste'; context is 'He'.",
    "asr": "You don't got no taste Jeff Bezos ain't got no taste"
@@ -2641,7 +2641,7 @@
    "end": 1218.28,
    "speaker": "Ye",
    "en": "You wouldn't ask him to pick out what you want for Christmas. You know what I'm saying? Jeff Bezos can't pick.",
-   "ja": "クリスマスプレゼントを\nあいつに選ばせないだろ？\nベゾスには選べないんだよ",
+   "ja": "クリスマスプレゼントを\nあいつに選ばせないだろ？\nBezosには選べないんだよ",
    "ctx": "",
    "unc": "Large-v3 'can't pay'; turbo 'can't pick'.",
    "asr": "You wouldn't ask him to pick out what you want for Christmas. You know saying Jeff Bezos can't pay"
@@ -2652,7 +2652,7 @@
    "end": 1219.96,
    "speaker": "Ye",
    "en": "Would you let Jeff Bezos pick your bag?",
-   "ja": "ベゾスにバッグ選ばせる？",
+   "ja": "Bezosにバッグ選ばせる？",
    "ctx": "",
    "unc": "",
    "asr": "Would you let Jeff Bezos pick your bag?"
@@ -2663,7 +2663,7 @@
    "end": 1224.24,
    "speaker": "Ye",
    "en": "You know what I'm saying? So he just learned how to go to Vegas and break the machine.",
-   "ja": "あいつはラスベガスで\nマシンをぶっ壊す方法を\n覚えただけなんだよ",
+   "ja": "あいつはLas Vegasで\nマシンをぶっ壊す方法を\n覚えただけなんだよ",
    "ctx": "Metaphor: Bezos 'beat the system' (like breaking a slot machine) rather than having taste.",
    "unc": "",
    "asr": "you know I'm saying so he just learned how to go to Vegas and break the machine"
@@ -2674,7 +2674,7 @@
    "end": 1227.36,
    "speaker": "Ye / Host",
    "en": "It's Amazon, right? — Yeah, and they respected him.",
-   "ja": "アマゾンだろ？\n（ホスト）そう、それで評価された",
+   "ja": "Amazonだろ？\n（ホスト）そう、それで評価された",
    "ctx": "",
    "unc": "MEDIUM: speaker split inferred.",
    "asr": "it's Amazon right yeah and they respected him"
@@ -2685,7 +2685,7 @@
    "end": 1231.28,
    "speaker": "Host",
    "en": "I came from a Cuban family, I got to represent. What's up, Cuban people?",
-   "ja": "うちはキューバ系の家族だから\nレペゼンしないとな\nキューバのみんな、元気か？",
+   "ja": "うちはCuba系の家族だから\nレペゼンしないとな\nCubaのみんな、元気か？",
    "ctx": "A host (Cuban-American) shouting out Cuban viewers.",
    "unc": "MEDIUM: large-v3 'I can't front as you like even my Cuban family'; turbo 'I came from a Cuban family'. Turbo used.",
    "asr": "I can't front as you like even my Cuban family I gotta represent what's up cute people"
@@ -2696,7 +2696,7 @@
    "end": 1238.8,
    "speaker": "Ye",
    "en": "Yeah, but I'm saying, and by the way, it's like, okay, you broke the machine, but Bernard Arnault, you know what I'm saying,",
-   "ja": "でもさ\n確かにマシンは壊したけど\nベルナール・アルノーは\nわかるだろ",
+   "ja": "でもさ\n確かにマシンは壊したけど\nBernard Arnaultは\nわかるだろ",
    "ctx": "",
    "unc": "",
    "asr": "yeah but I'm saying and by the way it's like okay you broke the machine but but Bernard are no you know saying"
@@ -2707,7 +2707,7 @@
    "end": 1249.82,
    "speaker": "Ye",
    "en": "it's like, put it like this: you know, at the end of the day, if someone's gonna colonize, I would like it to be Bernard. If I had to deal with a colonizer, I would deal with it being Bernard Arnault.",
-   "ja": "こう言えばいいか\n結局のところ\n誰かに植民地化されるなら\nベルナールがいい\n支配者と付き合うなら\nベルナール・アルノーがいいね",
+   "ja": "こう言えばいいか\n結局のところ\n誰かに植民地化されるなら\nBernardがいい\n支配者と付き合うなら\nBernard Arnaultがいいね",
    "ctx": "Ye's provocative joke: if he must be ruled by someone, he'd pick the one with taste.",
    "unc": "Large-v3 'I would like it to be but not if'; turbo 'I would like it to be Bernard. If'.",
    "asr": "it's like put it like this you know at the end of the day if someone's gonna colonize I would like it to be but not if I had to deal with with a colonizer, I would deal with it being Bernard Arnault."
@@ -2720,7 +2720,7 @@
    "end": 1743.69,
    "speaker": "Ye",
    "en": "In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste.",
-   "ja": "少なくとも\nセンスのある奴はいたんだよ\nスティーブ・ジョブズは\n最高のセンスを持ってた",
+   "ja": "少なくとも\nセンスのある奴はいたんだよ\nSteve Jobsは\n最高のセンスを持ってた",
    "ctx": "",
    "unc": "Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM.",
    "asr": "a way they gotta gotta have to taste though bro you know saying steve jobs had the best taste"
@@ -2742,7 +2742,7 @@
    "end": 1753.27,
    "speaker": "Ye",
    "en": "I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys.",
-   "ja": "俺が次のフロンティアだ\nラルフ・ローレン、ジョブズ\nその次が俺\n他の連中じゃない",
+   "ja": "俺が次のフロンティアだ\nRalph Lauren、Jobs\nその次が俺\n他の連中じゃない",
    "ctx": "",
    "unc": "",
    "asr": "i'm the next frontier you got ralph steve and then it's me you know what i'm saying it's like none of these guys"
@@ -2753,7 +2753,7 @@
    "end": 1758.85,
    "speaker": "Ye",
    "en": "Even Elon flew me... you know what I'm saying? Vory, Wack 100,",
-   "ja": "イーロンですら\n俺を呼んだんだぜ\nヴォリー、ワック100と",
+   "ja": "Elonですら\n俺を呼んだんだぜ\nVory、Wack 100と",
    "ctx": "Vory = singer on Ye's team; Wack 100 = music manager.",
    "unc": "Name 'Vory' heard as 'fory'/'Vorey'.",
    "asr": "even elon flew uh me you know i'm saying fory whack 100"
@@ -2764,7 +2764,7 @@
    "end": 1764.0,
    "speaker": "Ye",
    "en": "it was like a team that went to SpaceX. He flew me in his new jet out there.",
-   "ja": "チームでスペースXに行ったんだよ\n新しいジェットで\n連れてってくれて",
+   "ja": "チームでSpaceXに行ったんだよ\n新しいジェットで\n連れてってくれて",
    "ctx": "",
    "unc": "",
    "asr": "it's like a team was like went to spacex he flew me in his new jet out there"
@@ -2775,7 +2775,7 @@
    "end": 1766.08,
    "speaker": "Ye",
    "en": "He said, I want you to design SpaceX for me.",
-   "ja": "「スペースXを\nデザインしてほしい」って",
+   "ja": "「SpaceXを\nデザインしてほしい」って",
    "ctx": "",
    "unc": "",
    "asr": "he said i want you to design spacex for me"
@@ -2786,7 +2786,7 @@
    "end": 1770.3,
    "speaker": "Ye",
    "en": "We're sitting there, Grimes there, he just had a newborn. We watched a rocket take off.",
-   "ja": "グライムスもいて\n子どもが生まれたばっかりで\nロケットの打ち上げを見たんだ",
+   "ja": "Grimesもいて\n子どもが生まれたばっかりで\nロケットの打ち上げを見たんだ",
    "ctx": "Grimes = musician, Elon Musk's then-partner.",
    "unc": "",
    "asr": "we're sitting there grimes there he just had a newborn we watched a rock and take off"
@@ -2841,7 +2841,7 @@
    "end": 1798.24,
    "speaker": "Ye",
    "en": "Man, how can, like, Jay-Z be my brother, right, Kim, like, be my baby mama type shit?",
-   "ja": "じゃなきゃ\nジェイ・Zが兄弟になったり\nキムが子どもの母親に\nなったりしないだろ",
+   "ja": "じゃなきゃ\nJay-Zが兄弟になったり\nKimが子どもの母親に\nなったりしないだろ",
    "ctx": "",
    "unc": "",
    "asr": "man how can like jay -z be my brother right kim like be my baby mama I'm a type shit."
@@ -2874,7 +2874,7 @@
    "end": 1808.84,
    "speaker": "Host",
    "en": "The same way that you connected with Pharrell, and in ways you indemnified him, is the way you connected with me.",
-   "ja": "ファレルとつながったみたいに\nある意味で守ってきたみたいに\n俺ともつながってくれた",
+   "ja": "Pharrellとつながったみたいに\nある意味で守ってきたみたいに\n俺ともつながってくれた",
    "ctx": "",
    "unc": "MEDIUM: 'indemnified' heard by large-v3; meaning unclear (possibly 'identified with').",
    "asr": "The same way that you connected with Pharrell and in ways you indemnified him is the way you connected with me."
@@ -2920,7 +2920,7 @@
    "end": 1205.89,
    "speaker": "Ye",
    "en": "Our world is a symphony. We're playing on different notes, but like Quincy Jones, we have to bring it together and have us all play on one accord.",
-   "ja": "世界は交響曲なんだ\nみんな違う音を\n鳴らしてるけど\nクインシー・ジョーンズみたいに\nひとつにまとめなきゃいけない",
+   "ja": "世界は交響曲なんだ\nみんな違う音を\n鳴らしてるけど\nQuincy Jonesみたいに\nひとつにまとめなきゃいけない",
    "ctx": "Quincy Jones = legendary producer/arranger.",
    "unc": "",
    "asr": "our world is a symphony we're playing on different notes but like quincy jones we have to bring it together and have us all play on one accord"
@@ -2931,7 +2931,7 @@
    "end": 1212.47,
    "speaker": "Ye",
    "en": "We're at the beginning of this album, and even if you go back, like, even J. Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right?",
-   "ja": "俺らはまだ\nアルバムの1曲目にいるんだ\n例えば『Workout Plan』\nJ・コールもサンプリングしたけど\nあの曲から始まるわけ",
+   "ja": "俺らはまだ\nアルバムの1曲目にいるんだ\n例えば『Workout Plan』\nJ. Coleもサンプリングしたけど\nあの曲から始まるわけ",
    "ctx": "'The New Workout Plan' = Ye's 2004 single, later sampled by J. Cole.",
    "unc": "Large-v3 'jay cole sample workout plan'; reading as 'J. Cole sampled'.",
    "asr": "we're at the beginning of this album and even if you go back like even jay cole sample workout plan we could play workout plan right"
@@ -2975,7 +2975,7 @@
    "end": 1238.91,
    "speaker": "Ye",
    "en": "was weird, because, like, Mos Def wasn't talking about that, Common wasn't talking about that, because it's not positive, it's not backpack, right?",
-   "ja": "変だったんだよ\nモス・デフも\nコモンも\nそんな話しなかった\nポジティブじゃないし\nバックパックっぽくないからな",
+   "ja": "変だったんだよ\nMos Defも\nCommonも\nそんな話しなかった\nポジティブじゃないし\nバックパックっぽくないからな",
    "ctx": "Mos Def and Common = conscious rappers.",
    "unc": "MEDIUM: ASR 'most deaf' / 'quality' = Mos Def / Common (Common's name is a strong guess).",
    "asr": "was weird because like most deaf wasn't talking about that quality was talking about because it's not positive it's not backpack right"
@@ -2986,7 +2986,7 @@
    "end": 1246.71,
    "speaker": "Ye",
    "en": "But I leaned into my truth. I found that Playboy when I was five years old, and now I'm calling Irina Shayk, and you know what I'm saying.",
-   "ja": "でも俺は自分の本音に\n正直になった\n5歳でプレイボーイを見つけて\n今じゃイリーナ・シェイクに\n電話してるんだから",
+   "ja": "でも俺は自分の本音に\n正直になった\n5歳でPlayboyを見つけて\n今じゃIrina Shaykに\n電話してるんだから",
    "ctx": "Irina Shayk = model Ye dated in 2021.",
    "unc": "",
    "asr": "but i i leaned into my truth i found that playboy when i was five years old and now i'm calling irena shake and you know what i'm saying"
@@ -3021,7 +3021,7 @@
    "end": 647.3,
    "speaker": "Ye",
    "en": "But right now in America, say, one of the laws that I would change is, it's illegal to collect rainwater in America.",
-   "ja": "でも今のアメリカで\n俺が変えたい法律のひとつが\n雨水を集めるのが\n違法だってことだ",
+   "ja": "でも今のAmericaで\n俺が変えたい法律のひとつが\n雨水を集めるのが\n違法だってことだ",
    "ctx": "Ye's claim. In reality most US states allow rainwater collection; a few restrict it. The translation keeps his claim as spoken.",
    "unc": "Factual accuracy of the claim is not ours to fix; flagging so the reviewer knows.",
    "asr": "But right now in America, say one of the laws that I would change is it's illegal to collect rainwater in America."
@@ -3043,7 +3043,7 @@
    "end": 652.76,
    "speaker": "Ye",
    "en": "It's illegal to collect rainwater in America.",
-   "ja": "アメリカじゃ雨水を集めるのは\n違法なんだよ",
+   "ja": "Americaじゃ雨水を集めるのは\n違法なんだよ",
    "ctx": "",
    "unc": "",
    "asr": "It's illegal to collect rainwater in America."
@@ -3232,7 +3232,7 @@
    "end": 1242.04,
    "speaker": "Ye",
    "en": "You know, we'll walk over a homeless person to get to the Gucci store.",
-   "ja": "グッチの店に行くために\nホームレスをまたいで\n歩くんだから",
+   "ja": "Gucciの店に行くために\nホームレスをまたいで\n歩くんだから",
    "ctx": "",
    "unc": "",
    "asr": "You know, we'll walk over a homeless person to get to the Gucci store."
@@ -3243,7 +3243,7 @@
    "end": 1249.8,
    "speaker": "Ye",
    "en": "Ray Kurzweil said a utopia is possible where we're led by the least noble and the greediest people.",
-   "ja": "レイ・カーツワイルは\n最も高潔じゃなく\n最も強欲な連中に\n率いられたユートピアが\nあり得るって言ってた",
+   "ja": "Ray Kurzweilは\n最も高潔じゃなく\n最も強欲な連中に\n率いられたユートピアが\nあり得るって言ってた",
    "ctx": "Ray Kurzweil = futurist. Attribution and wording are Ye's.",
    "unc": "MEDIUM: the quote's meaning is ambiguous as spoken; translated literally. Ye repeats 'the world is led by the least noble and the most greedy' later in the interview.",
    "asr": "Ray Kurzweil said, a utopia is possible where we're led by the least noble and the greediest people."
@@ -3254,7 +3254,7 @@
    "end": 1257.72,
    "speaker": "Ye",
    "en": "I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna.",
-   "ja": "俺はバレンシアガの\nヘッドデザイナーを連れてきた\n今この星で最高のデザイナー\nデムナだ",
+   "ja": "俺はBalenciagaの\nヘッドデザイナーを連れてきた\n今この星で最高のデザイナー\nDemnaだ",
    "ctx": "Demna = Balenciaga creative director.",
    "unc": "",
    "asr": "I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna."
@@ -3265,7 +3265,7 @@
    "end": 1262.04,
    "speaker": "Ye",
    "en": "Demna is the Ye of clothing.",
-   "ja": "デムナは\n服の世界のイェだ",
+   "ja": "Demnaは\n服の世界のYeだ",
    "ctx": "",
    "unc": "",
    "asr": "Demna is the yay of clothing."
@@ -3276,7 +3276,7 @@
    "end": 1265.02,
    "speaker": "Ye",
    "en": "Demna is the Drake of clothing.",
-   "ja": "デムナは\n服の世界のドレイクだ",
+   "ja": "Demnaは\n服の世界のDrakeだ",
    "ctx": "",
    "unc": "",
    "asr": "Demna is the Drake of clothing."
@@ -3287,7 +3287,7 @@
    "end": 1269.7,
    "speaker": "Ye",
    "en": "Drake is the greatest rapper ever.",
-   "ja": "ドレイクは\n史上最高のラッパーだよ",
+   "ja": "Drakeは\n史上最高のラッパーだよ",
    "ctx": "Notable because of their long feud.",
    "unc": "",
    "asr": "Drake is the greatest rapper ever."
@@ -3311,7 +3311,7 @@
    "end": 1035.72,
    "speaker": "Ye",
    "en": "Yeah. I remember I was at Roscoe's, you know, earlier this year, and I love Roscoe's and stuff,",
-   "ja": "そう\n今年の初めに\nロスコーズに行ったんだけど\nロスコーズは好きなんだよ",
+   "ja": "そう\n今年の初めに\nRoscoe'sに行ったんだけど\nRoscoe'sは好きなんだよ",
    "ctx": "Roscoe's House of Chicken and Waffles (LA).",
    "unc": "",
    "asr": "yeah i remember i was at roscoe's you know earlier this year and i'm i love i love roscoe's stuff"
@@ -3322,7 +3322,7 @@
    "end": 1040.48,
    "speaker": "Ye",
    "en": "but they're playing the music, and it's like Usher saying, 'You got it bad.'",
-   "ja": "でも店でかかってた曲が\nアッシャーの\n『You Got It Bad』で",
+   "ja": "でも店でかかってた曲が\nUsherの\n『You Got It Bad』で",
    "ctx": "Usher's 2001 hit.",
    "unc": "",
    "asr": "but they're playing the music and it's like us you're saying you got it bad"
@@ -3445,7 +3445,7 @@
    "end": 223.98,
    "speaker": "Ye",
    "en": "And they say some real shit, but they ain't said it until they had the D'Usse.",
-   "ja": "本音をぶちまけるけど\nそれもドゥッセを\n飲むまでは言わなかった",
+   "ja": "本音をぶちまけるけど\nそれもD'Usseを\n飲むまでは言わなかった",
    "ctx": "D'Usse = cognac brand co-owned by Jay-Z, sponsor on the table.",
    "unc": "ASR 'do say' = D'Usse.",
    "asr": "And they say some real shit. But they ain't said it until they had the do say."
@@ -3467,7 +3467,7 @@
    "end": 233.9,
    "speaker": "Ye",
    "en": "And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy.",
-   "ja": "言っとくけど\n本音を言うなら\nドゥッセで酔って言えよ\nヘネシーで酔って\n言うんじゃなくてな",
+   "ja": "言っとくけど\n本音を言うなら\nD'Usseで酔って言えよ\nHennessyで酔って\n言うんじゃなくてな",
    "ctx": "Hennessy = rival cognac, long associated with hip-hop.",
    "unc": "",
    "asr": "And I'm telling you, the whole difference is when people come and speak their truth, They need to speak their truth off to do say they don't need to speak their truth off of Hennessy"
@@ -3478,7 +3478,7 @@
    "end": 244.24,
    "speaker": "Ye",
    "en": "So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it.",
-   "ja": "だから今日言いたいのは\n…BLMの話には後で戻るけど\n世界中の酒屋から\nヘネシーを撤去して\nドゥッセを置いてほしい",
+   "ja": "だから今日言いたいのは\n…BLMの話には後で戻るけど\n世界中の酒屋から\nHennessyを撤去して\nD'Usseを置いてほしい",
    "ctx": "",
    "unc": "Mid-sentence aside about returning to the Black Lives Matter topic.",
    "asr": "So I want to say today is I need every single and we can get back to the black lives matter But I need every single liquor store in the world to remove the Hennessy and put the do say in it"
@@ -3522,7 +3522,7 @@
    "end": 263.15,
    "speaker": "Ye",
    "en": "do it off the D'Usse. Don't do it off the Hennessy.",
-   "ja": "ドゥッセでやれ\nヘネシーじゃなくて",
+   "ja": "D'Usseでやれ\nHennessyじゃなくて",
    "ctx": "",
    "unc": "",
    "asr": "Do it off the Duce Don't do it off the Hennessy"
@@ -3533,7 +3533,7 @@
    "end": 264.85,
    "speaker": "Ye",
    "en": "Don't do it off the Hennessy.",
-   "ja": "ヘネシーはやめとけ",
+   "ja": "Hennessyはやめとけ",
    "ctx": "",
    "unc": "",
    "asr": "Don't do it off the Hennessy"
@@ -3544,7 +3544,7 @@
    "end": 273.29,
    "speaker": "Ye",
    "en": "Go full Ye off the D'Usse. Go Ye! Go full Ye off the D'Usse. Go full Ye off the D'Usse. Go full Ye off the D'Usse.",
-   "ja": "ドゥッセで\nフルにイェになれ\nドゥッセでフル・イェだ",
+   "ja": "D'Usseで\nフルにYeになれ\nD'UsseでフルYeだ",
    "ctx": "A chant; Ye repeats it several times.",
    "unc": "Number of repetitions differs between models (large-v3 four, turbo five).",
    "asr": "Go full yay off the Duce Go yay Go full yay off the Duce Go full yay off the Duce Go full yay off the Duce But"
@@ -3566,7 +3566,7 @@
    "end": 281.79,
    "speaker": "Ye",
    "en": "This is delicious. This D'Usse is good.",
-   "ja": "これうまいな\nこのドゥッセいいわ",
+   "ja": "これうまいな\nこのD'Usseいいわ",
    "ctx": "",
    "unc": "",
    "asr": "This is delicious This Duce is good"

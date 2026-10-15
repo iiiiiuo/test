@@ -1,6 +1,6 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-15T10:10:21Z",
+ "updated": "2026-10-15T10:21:32Z",
  "status": "AWAITING_TRANSLATION_APPROVAL",
  "phase": "A_COMPLETE",
  "inputs": {
@@ -63,15 +63,23 @@
   "uncertainties": "review/translation_uncertainties.md",
   "manifest": "review/approval_manifest.json",
   "approved_dir": "review/approved/",
-  "csv_sha256": "5ae67420de83d4e9e81478702f974bb94c22f707dab399b0119f769665415b30",
-  "revision": 1,
+  "csv_sha256": "46d7c972d1b426293e1fc6fa6abd0e8cd94e044e102fc5ef792ac170e22255a3",
+  "revision": 2,
   "line_count": 322,
   "uncertain_counts": {
    "LOW": 16,
    "MEDIUM": 17,
    "NOTE": 66
   },
-  "shared_mirror": "/mnt/project-files/review/"
+  "shared_mirror": "/mnt/project-files/review/",
+  "previous_revisions": [
+   {
+    "revision": 1,
+    "csv_sha256": "5ae67420de83d4e9e81478702f974bb94c22f707dab399b0119f769665415b30",
+    "backup": "work/legacy/review_rev1/"
+   }
+  ],
+  "revision_note": "Rev 2 (user request): proper nouns in Japanese use English spelling; Cravo->Quavo; パフ->Puff Daddy. Applied to ja_draft and ja_final (ja_final had no human edits). Not an approval."
  },
  "approval": {
   "approved": false,
@@ -101,5 +109,12 @@
  ],
  "blockers": [],
  "next_action": "Await human approval message in thread; do not render.",
- "legacy": "work/legacy/state.SOURCE_INTERVIEW.json"
+ "legacy": "work/legacy/state.SOURCE_INTERVIEW.json",
+ "translation_style": {
+  "proper_nouns": "English spelling in Japanese subtitles (people, places, brands, artists); generic loanwords stay katakana",
+  "names": {
+   "Quavo": "not Cravo (ASR error)",
+   "Puff": "Puff Daddy in Japanese"
+  }
+ }
 }

@@ -2,9 +2,9 @@ from review_src_a import E
 CLIPS = {}
 
 CLIPS['C23'] = [
- E([1, 2], 'Ye', "But right now in America, say, one of the laws that I would change is, it's illegal to collect rainwater in America.", "でも今のアメリカで\n俺が変えたい法律のひとつが\n雨水を集めるのが\n違法だってことだ", "Ye's claim. In reality most US states allow rainwater collection; a few restrict it. The translation keeps his claim as spoken.", "Factual accuracy of the claim is not ours to fix; flagging so the reviewer knows."),
+ E([1, 2], 'Ye', "But right now in America, say, one of the laws that I would change is, it's illegal to collect rainwater in America.", "でも今のAmericaで\n俺が変えたい法律のひとつが\n雨水を集めるのが\n違法だってことだ", "Ye's claim. In reality most US states allow rainwater collection; a few restrict it. The translation keeps his claim as spoken.", "Factual accuracy of the claim is not ours to fix; flagging so the reviewer knows."),
  E([3], 'Host', "What? Illegal? It's illegal?", "は？違法？\n違法なの？"),
- E([4], 'Ye', "It's illegal to collect rainwater in America.", "アメリカじゃ雨水を集めるのは\n違法なんだよ"),
+ E([4], 'Ye', "It's illegal to collect rainwater in America.", "Americaじゃ雨水を集めるのは\n違法なんだよ"),
  E([5], 'Ye', "You go to every other country, they're collecting rainwater.", "他の国じゃ\nどこでも雨水を集めてる"),
  E([6], 'Ye', "You know, people are controlling the water.", "水を支配してる\n連中がいるんだよ"),
  E([7, 8, 9, 10], 'Ye', "You know, it's going to be fuck what t-shirt you wear, what political opinion, and who got beef with who. You ain't got no water,", "どんなTシャツ着てるかとか\n政治的な意見とか\n誰と誰がビーフしてるとか\nどうでもよくなる\n水がなかったら", "Reference to his 'White Lives Matter' shirt controversy.", "", e='got no water'),
@@ -24,18 +24,18 @@ CLIPS['C24'] = [
  E([9], 'Ye', "We should degrade the rich.", "金持ちなんか\n落としてやればいいんだよ"),
  E([10, 11], 'Ye', "Everybody is dirt. Everybody on the same level beneath God.", "みんな土だよ\n神の下では\nみんな同じレベル"),
  E([12, 13, 14], 'Ye / Host', "Because we'll hop over... (Host: That was a good one.)", "だって俺らは\nまたいで行くんだよ…", "", "LOW: crosstalk; large-v3 'That was all. That was very good.', turbo has nothing. Host reaction not translated.", e='was very good'),
- E([15, 16], 'Ye', "You know, we'll walk over a homeless person to get to the Gucci store.", "グッチの店に行くために\nホームレスをまたいで\n歩くんだから"),
- E([17, 18], 'Ye', "Ray Kurzweil said a utopia is possible where we're led by the least noble and the greediest people.", "レイ・カーツワイルは\n最も高潔じゃなく\n最も強欲な連中に\n率いられたユートピアが\nあり得るって言ってた", "Ray Kurzweil = futurist. Attribution and wording are Ye's.", "MEDIUM: the quote's meaning is ambiguous as spoken; translated literally. Ye repeats 'the world is led by the least noble and the most greedy' later in the interview."),
- E([19, 20], 'Ye', "I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna.", "俺はバレンシアガの\nヘッドデザイナーを連れてきた\n今この星で最高のデザイナー\nデムナだ", "Demna = Balenciaga creative director."),
- E([21], 'Ye', "Demna is the Ye of clothing.", "デムナは\n服の世界のイェだ"),
- E([22], 'Ye', "Demna is the Drake of clothing.", "デムナは\n服の世界のドレイクだ"),
- E([23], 'Ye', "Drake is the greatest rapper ever.", "ドレイクは\n史上最高のラッパーだよ", "Notable because of their long feud."),
+ E([15, 16], 'Ye', "You know, we'll walk over a homeless person to get to the Gucci store.", "Gucciの店に行くために\nホームレスをまたいで\n歩くんだから"),
+ E([17, 18], 'Ye', "Ray Kurzweil said a utopia is possible where we're led by the least noble and the greediest people.", "Ray Kurzweilは\n最も高潔じゃなく\n最も強欲な連中に\n率いられたユートピアが\nあり得るって言ってた", "Ray Kurzweil = futurist. Attribution and wording are Ye's.", "MEDIUM: the quote's meaning is ambiguous as spoken; translated literally. Ye repeats 'the world is led by the least noble and the most greedy' later in the interview."),
+ E([19, 20], 'Ye', "I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna.", "俺はBalenciagaの\nヘッドデザイナーを連れてきた\n今この星で最高のデザイナー\nDemnaだ", "Demna = Balenciaga creative director."),
+ E([21], 'Ye', "Demna is the Ye of clothing.", "Demnaは\n服の世界のYeだ"),
+ E([22], 'Ye', "Demna is the Drake of clothing.", "Demnaは\n服の世界のDrakeだ"),
+ E([23], 'Ye', "Drake is the greatest rapper ever.", "Drakeは\n史上最高のラッパーだよ", "Notable because of their long feud."),
 ]
 
 CLIPS['C25'] = [
  E([1], 'Host', "Taking God out of music, you said?", "音楽から神を\n取り除いたって？", "Recap of Ye's earlier point that R&B took God out of the music.", "", e='taking god out of music'),
- E([1, 2, 3], 'Ye', "Yeah. I remember I was at Roscoe's, you know, earlier this year, and I love Roscoe's and stuff,", "そう\n今年の初めに\nロスコーズに行ったんだけど\nロスコーズは好きなんだよ", "Roscoe's House of Chicken and Waffles (LA).", "", s='yeah i remember', e='roscoes stuff'),
- E([3, 4], 'Ye', "but they're playing the music, and it's like Usher saying, 'You got it bad.'", "でも店でかかってた曲が\nアッシャーの\n『You Got It Bad』で", "Usher's 2001 hit.", "", s='but theyre playing', e='you got it bad'),
+ E([1, 2, 3], 'Ye', "Yeah. I remember I was at Roscoe's, you know, earlier this year, and I love Roscoe's and stuff,", "そう\n今年の初めに\nRoscoe'sに行ったんだけど\nRoscoe'sは好きなんだよ", "Roscoe's House of Chicken and Waffles (LA).", "", s='yeah i remember', e='roscoes stuff'),
+ E([3, 4], 'Ye', "but they're playing the music, and it's like Usher saying, 'You got it bad.'", "でも店でかかってた曲が\nUsherの\n『You Got It Bad』で", "Usher's 2001 hit.", "", s='but theyre playing', e='you got it bad'),
  E([4, 5], 'Ye', "'You got it, you got it bad.'", "「お前は重症だ」ってさ", s='you got it you'),
  E([5], 'Ye', "Yeah, that messaging is not uplifting.", "そういうメッセージは\n前向きじゃないだろ", s='yeah that messaging'),
  E([5, 6], 'Host', "Some niggas got it bad.", "重症な奴も\nいるけどな", "Host joke.", "Speaker inferred.", s='some', e='got it bad'),
@@ -49,17 +49,17 @@ CLIPS['C25'] = [
 
 CLIPS['C26'] = [
  E([1, 2], 'Ye', "Like, you at somebody's wedding, and somebody get into a fight with a family member at the end.", "誰かの結婚式で\n最後に親戚と\nケンカになる奴いるだろ", "Context: Ye is talking about speaking his mind after drinking D'Usse, the cognac on the table."),
- E([3, 4], 'Ye', "And they say some real shit, but they ain't said it until they had the D'Usse.", "本音をぶちまけるけど\nそれもドゥッセを\n飲むまでは言わなかった", "D'Usse = cognac brand co-owned by Jay-Z, sponsor on the table.", "ASR 'do say' = D'Usse."),
+ E([3, 4], 'Ye', "And they say some real shit, but they ain't said it until they had the D'Usse.", "本音をぶちまけるけど\nそれもD'Usseを\n飲むまでは言わなかった", "D'Usse = cognac brand co-owned by Jay-Z, sponsor on the table.", "ASR 'do say' = D'Usse."),
  E([5], 'Ye', "They say some real shit.", "マジな本音をな"),
- E([6, 7, 8, 9], 'Ye', "And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy.", "言っとくけど\n本音を言うなら\nドゥッセで酔って言えよ\nヘネシーで酔って\n言うんじゃなくてな", "Hennessy = rival cognac, long associated with hip-hop.", e='off of hennessy'),
- E([9, 10, 11, 12], 'Ye', "So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it.", "だから今日言いたいのは\n…BLMの話には後で戻るけど\n世界中の酒屋から\nヘネシーを撤去して\nドゥッセを置いてほしい", "", "Mid-sentence aside about returning to the Black Lives Matter topic.", s='so i want to say', e='do say in it'),
+ E([6, 7, 8, 9], 'Ye', "And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy.", "言っとくけど\n本音を言うなら\nD'Usseで酔って言えよ\nHennessyで酔って\n言うんじゃなくてな", "Hennessy = rival cognac, long associated with hip-hop.", e='off of hennessy'),
+ E([9, 10, 11, 12], 'Ye', "So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it.", "だから今日言いたいのは\n…BLMの話には後で戻るけど\n世界中の酒屋から\nHennessyを撤去して\nD'Usseを置いてほしい", "", "Mid-sentence aside about returning to the Black Lives Matter topic.", s='so i want to say', e='do say in it'),
  E([13], 'Ye', "I'm asking and calling for every...", "全員に呼びかける…", "", "Large-v3 'I'm asking a good day every'; turbo 'I'm asking and calling for every'.", s='im asking'),
  E([14], 'Ye', "I'm asking every black person,", "黒人のみんなに頼みたい"),
  E([15, 16], 'Ye', "when you want to drink and you want to go full the-uncle-that-don't-give-a-fuck level at the wedding,", "結婚式で飲んで\n何も気にしない\nおじさんレベルまで\n振り切りたい時は", "", "ASR 'go fool' = 'go full'."),
- E([17], 'Ye', "do it off the D'Usse. Don't do it off the Hennessy.", "ドゥッセでやれ\nヘネシーじゃなくて"),
- E([18], 'Ye', "Don't do it off the Hennessy.", "ヘネシーはやめとけ", e='off the hennessy'),
- E([18, 19, 20, 21], 'Ye', "Go full Ye off the D'Usse. Go Ye! Go full Ye off the D'Usse. Go full Ye off the D'Usse. Go full Ye off the D'Usse.", "ドゥッセで\nフルにイェになれ\nドゥッセでフル・イェだ", "A chant; Ye repeats it several times.", "Number of repetitions differs between models (large-v3 four, turbo five).", s='go full yay', e='yay off the duce but'),
+ E([17], 'Ye', "do it off the D'Usse. Don't do it off the Hennessy.", "D'Usseでやれ\nHennessyじゃなくて"),
+ E([18], 'Ye', "Don't do it off the Hennessy.", "Hennessyはやめとけ", e='off the hennessy'),
+ E([18, 19, 20, 21], 'Ye', "Go full Ye off the D'Usse. Go Ye! Go full Ye off the D'Usse. Go full Ye off the D'Usse. Go full Ye off the D'Usse.", "D'Usseで\nフルにYeになれ\nD'UsseでフルYeだ", "A chant; Ye repeats it several times.", "Number of repetitions differs between models (large-v3 four, turbo five).", s='go full yay', e='yay off the duce but'),
  E([21, 22], 'Ye', "Let me just be clear real quick. Respect. Because this is the only time...", "ちょっとはっきりさせとくと\nリスペクトはしてるよ\nこれは今回だけ…", "", "MEDIUM: sentence trails off.", s='let me just', e='the only time'),
- E([22], 'Ye', "This is delicious. This D'Usse is good.", "これうまいな\nこのドゥッセいいわ", s='this is delicious'),
+ E([22], 'Ye', "This is delicious. This D'Usse is good.", "これうまいな\nこのD'Usseいいわ", s='this is delicious'),
  E([23, 24], 'Ye', "Also for an evening nightcap. A nightcap is well recommended, my friend.", "夜の寝酒にもいい\n寝酒にオススメだぜ", "Joking ad-read tone."),
 ]
