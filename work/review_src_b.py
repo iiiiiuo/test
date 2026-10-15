@@ -48,7 +48,7 @@ CLIPS['C07'] = [
  E([8, 9], 'Ye', "Now one of my biggest jobs is keeping my money,", "今じゃ一番の仕事は\n自分の金を守ることだよ", s='now one of my'),
  E([9, 10, 11], 'Ye', "because there's a lot of people that's on a full-time job to take my money, right?", "だって俺の金を取ることを\nフルタイムでやってる奴が\nいっぱいいるからな", s='because theres a lot'),
  E([11, 12], 'Ye', "And I've literally lost hundreds of millions of dollars by not looking close enough.", "ちゃんと見てなかったせいで\nマジで何億ドルも\n失ってきたんだよ", "'Hundreds of millions of dollars' = 数億ドル.", s='and ive literally'),
- E([13, 14, 15], 'Host', "So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib,", "それで思い出したのが\nShaqの話でさ\n契約してた時\n家にスタジオがあったのに", "Host anecdote about Shaquille O'Neal's rap career.", "Speaker inferred as a host."),
+ E([13, 14, 15], 'Host', "So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib,", "それで思い出したのが\nシャキールオニールの話でさ\n契約してた時\n家にスタジオがあったのに", "Host anecdote about Shaquille O'Neal's rap career.", "Speaker inferred as a host."),
  E([15, 16, 17], 'Host', "and when he got the check, he looked at what the label was charging him, and they were charging him for studio time.", "明細を見たら\nレーベルがスタジオ代を\n請求してたんだって", "", "Large-v3 has false starts ('the on the check because he was paying this'). Condensed to the clear meaning.", s='and when he got'),
  E([18, 19], 'Host', "He was like, the studio's at my crib! And then he got a couple hundred thousand back. But it's funny,", "「スタジオ俺ん家だぞ！」って\nで、数十万ドル取り返した\n笑えるよな", "", "Line ends on 'it's funny' (the next words 'he overlooked that easily' were cut at the clip end); consider ending at 'got a couple hundred thousand back'.", s='hes like'),
 ]

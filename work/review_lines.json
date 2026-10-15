@@ -582,7 +582,7 @@
    "end": 107.28,
    "speaker": "Ye",
    "en": "We're gonna look at money. We're gonna look at Elon.",
-   "ja": "金も見るし\nElonも見る",
+   "ja": "金も見るし\nイーロンも見る",
    "ctx": "",
    "unc": "",
    "asr": "We're gonna look at money. We're gonna look at Elon."
@@ -683,7 +683,7 @@
    "end": 1687.23,
    "speaker": "Ye",
    "en": "Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees.",
-   "ja": "俺とDon Cで\n新品のTimbsにダウンに\nキャップに白T、Wallabeesまで買ってた",
+   "ja": "俺とDon Cで\n新品のティンバーランドにダウンに\nキャップに白T、Wallabeesまで買ってた",
    "ctx": "Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes.",
    "unc": "",
    "asr": "Me and Don C was buying new Tims, new puffer jackets, fitted hats, white tees, wallabies."
@@ -705,7 +705,7 @@
    "end": 1693.87,
    "speaker": "Ye",
    "en": "And I got to, like, New York and I seen dirty Timbs.",
-   "ja": "で、New Yorkに着いたら\nみんな汚れたTimbs履いてんの",
+   "ja": "で、New Yorkに着いたら\nみんな汚れたティンバーランド履いてんの",
    "ctx": "",
    "unc": "",
    "asr": "And I got to like New York and I seen Dirty Tims."
@@ -727,7 +727,7 @@
    "end": 1701.56,
    "speaker": "Ye",
    "en": "I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs.",
-   "ja": "「NYの奴らが汚れたTimbs\n履いてるなんて知らなかったぞ\n新品にこんだけ金かけたのに」って",
+   "ja": "「NYの奴らが汚れたティンバーランド\n履いてるなんて知らなかったぞ\n新品にこんだけ金かけたのに」って",
    "ctx": "",
    "unc": "Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'.",
    "asr": "I said, I didn't know niggas had Dirty Tims in New York. I spent all this money on my freshman Tims."
@@ -738,7 +738,7 @@
    "end": 1703.86,
    "speaker": "Ye",
    "en": "I couldn't let my Timbs go more than three days.",
-   "ja": "俺は3日以上\n同じTimbs履けなかったからな",
+   "ja": "俺は3日以上\n同じティンバーランド履けなかったからな",
    "ctx": "",
    "unc": "Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'.",
    "asr": "I can't remember if my Tims go more than three days."
@@ -749,7 +749,7 @@
    "end": 1707.44,
    "speaker": "Ye",
    "en": "If my Timbs got a scuff on them, I'm in the meeting,",
-   "ja": "Timbsに傷がついたら\n会議中でも",
+   "ja": "ティンバーランドに傷がついたら\n会議中でも",
    "ctx": "",
    "unc": "",
    "asr": "If my Tims got a scuff on them, I'm in the meeting."
@@ -760,7 +760,7 @@
    "end": 1710.52,
    "speaker": "Ye",
    "en": "meeting adjourned. I need a new pair of Timbs.",
-   "ja": "「会議は中断\n新しいTimbs買ってくる」",
+   "ja": "「会議は中断\n新しいティンバーランド買ってくる」",
    "ctx": "",
    "unc": "",
    "asr": "Meeting adjourned. I need a new pair of Timbs."
@@ -782,7 +782,7 @@
    "end": 1713.22,
    "speaker": "Ye",
    "en": "And I carried the Timbs in a plastic bag.",
-   "ja": "で、Timbsを\nビニール袋に入れて持ってきて",
+   "ja": "で、ティンバーランドを\nビニール袋に入れて持ってきて",
    "ctx": "",
    "unc": "",
    "asr": "And I carried the Timbs in a plastic bag."
@@ -1294,7 +1294,7 @@
    "end": 237.34,
    "speaker": "Host",
    "en": "So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib,",
-   "ja": "それで思い出したのが\nShaqの話でさ\n契約してた時\n家にスタジオがあったのに",
+   "ja": "それで思い出したのが\nシャキールオニールの話でさ\n契約してた時\n家にスタジオがあったのに",
    "ctx": "Host anecdote about Shaquille O'Neal's rap career.",
    "unc": "Speaker inferred as a host.",
    "asr": "so it reminded me of that what shaq said when he had the the deal and he had the studio in his crib"
@@ -1485,7 +1485,7 @@
    "end": 892.19,
    "speaker": "Ye",
    "en": "Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right?",
-   "ja": "Mosesに4つの章があったように\n俺にもある\n意外かもしれないけど\nMosesの4章は読んだぜ",
+   "ja": "モーゼに4つの章があったように\n俺にもある\n意外かもしれないけど\nモーゼの4章は読んだぜ",
    "ctx": "Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses).",
    "unc": "",
    "asr": "like moses have four chapters like i have contrary to popular belief i did read the four chapters of moses"
@@ -2597,7 +2597,7 @@
    "end": 1204.84,
    "speaker": "Ye",
    "en": "Jeff Bezos is commodity.",
-   "ja": "Jeff Bezosは\nただの量産品だよ",
+   "ja": "ジェフ・ベゾスは\nただの量産品だよ",
    "ctx": "",
    "unc": "",
    "asr": "Jeff Bezos is commodity"
@@ -2619,7 +2619,7 @@
    "end": 1209.2,
    "speaker": "Ye",
    "en": "Jeff Bezos don't have no opinion.",
-   "ja": "Bezosには\n自分の意見がない",
+   "ja": "ベゾスには\n自分の意見がない",
    "ctx": "",
    "unc": "",
    "asr": "Jeff Bezos don't have no opinion."
@@ -2630,7 +2630,7 @@
    "end": 1212.9,
    "speaker": "Ye",
    "en": "He don't got no taste. Jeff Bezos ain't got no taste.",
-   "ja": "センスがないんだよ\nBezosにはセンスがない",
+   "ja": "センスがないんだよ\nベゾスにはセンスがない",
    "ctx": "",
    "unc": "Large-v3 'You don't got no taste'; context is 'He'.",
    "asr": "You don't got no taste Jeff Bezos ain't got no taste"
@@ -2641,7 +2641,7 @@
    "end": 1218.28,
    "speaker": "Ye",
    "en": "You wouldn't ask him to pick out what you want for Christmas. You know what I'm saying? Jeff Bezos can't pick.",
-   "ja": "クリスマスプレゼントを\nあいつに選ばせないだろ？\nBezosには選べないんだよ",
+   "ja": "クリスマスプレゼントを\nあいつに選ばせないだろ？\nベゾスには選べないんだよ",
    "ctx": "",
    "unc": "Large-v3 'can't pay'; turbo 'can't pick'.",
    "asr": "You wouldn't ask him to pick out what you want for Christmas. You know saying Jeff Bezos can't pay"
@@ -2652,7 +2652,7 @@
    "end": 1219.96,
    "speaker": "Ye",
    "en": "Would you let Jeff Bezos pick your bag?",
-   "ja": "Bezosにバッグ選ばせる？",
+   "ja": "ベゾスにバッグ選ばせる？",
    "ctx": "",
    "unc": "",
    "asr": "Would you let Jeff Bezos pick your bag?"
@@ -2720,7 +2720,7 @@
    "end": 1743.69,
    "speaker": "Ye",
    "en": "In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste.",
-   "ja": "少なくとも\nセンスのある奴はいたんだよ\nSteve Jobsは\n最高のセンスを持ってた",
+   "ja": "少なくとも\nセンスのある奴はいたんだよ\nスティーブ・ジョブズは\n最高のセンスを持ってた",
    "ctx": "",
    "unc": "Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM.",
    "asr": "a way they gotta gotta have to taste though bro you know saying steve jobs had the best taste"
@@ -2742,7 +2742,7 @@
    "end": 1753.27,
    "speaker": "Ye",
    "en": "I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys.",
-   "ja": "俺が次のフロンティアだ\nRalph Lauren、Jobs\nその次が俺\n他の連中じゃない",
+   "ja": "俺が次のフロンティアだ\nRalph Lauren、ジョブズ\nその次が俺\n他の連中じゃない",
    "ctx": "",
    "unc": "",
    "asr": "i'm the next frontier you got ralph steve and then it's me you know what i'm saying it's like none of these guys"
@@ -2753,7 +2753,7 @@
    "end": 1758.85,
    "speaker": "Ye",
    "en": "Even Elon flew me... you know what I'm saying? Vory, Wack 100,",
-   "ja": "Elonですら\n俺を呼んだんだぜ\nVory、Wack 100と",
+   "ja": "イーロンですら\n俺を呼んだんだぜ\nVory、Wack 100と",
    "ctx": "Vory = singer on Ye's team; Wack 100 = music manager.",
    "unc": "Name 'Vory' heard as 'fory'/'Vorey'.",
    "asr": "even elon flew uh me you know i'm saying fory whack 100"
@@ -2964,7 +2964,7 @@
    "end": 1232.35,
    "speaker": "Ye",
    "en": "'Workout Plan' was, for me as a backpack rapper, to have that song, or even, like, be cursing or talking about the addictions I was dealing with, and my addiction to girls and all this type of shit,",
-   "ja": "バックパック系ラッパーの俺が\n『Workout Plan』を出したり\n汚い言葉を使ったり\n女好きとか\n自分の依存症の話をしたりするのは",
+   "ja": "リュック系ラッパーの俺が\n『Workout Plan』を出したり\n汚い言葉を使ったり\n女好きとか\n自分の依存症の話をしたりするのは",
    "ctx": "'Backpack rapper' = conscious/underground rapper image.",
    "unc": "",
    "asr": "workout plan was for me as a backpack rapper to have that song or even like be cursing or talking about the addictions i was dealing with and my addiction to girls and all this type of"
@@ -2975,7 +2975,7 @@
    "end": 1238.91,
    "speaker": "Ye",
    "en": "was weird, because, like, Mos Def wasn't talking about that, Common wasn't talking about that, because it's not positive, it's not backpack, right?",
-   "ja": "変だったんだよ\nMos Defも\nCommonも\nそんな話しなかった\nポジティブじゃないし\nバックパックっぽくないからな",
+   "ja": "変だったんだよ\nMos Defも\nCommonも\nそんな話しなかった\nポジティブじゃないし\nリュック系っぽくないからな",
    "ctx": "Mos Def and Common = conscious rappers.",
    "unc": "MEDIUM: ASR 'most deaf' / 'quality' = Mos Def / Common (Common's name is a strong guess).",
    "asr": "was weird because like most deaf wasn't talking about that quality was talking about because it's not positive it's not backpack right"
@@ -3467,7 +3467,7 @@
    "end": 233.9,
    "speaker": "Ye",
    "en": "And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy.",
-   "ja": "言っとくけど\n本音を言うなら\nD'Usseで酔って言えよ\nHennessyで酔って\n言うんじゃなくてな",
+   "ja": "言っとくけど\n本音を言うなら\nD'Usseで酔って言えよ\nヘネシーで酔って\n言うんじゃなくてな",
    "ctx": "Hennessy = rival cognac, long associated with hip-hop.",
    "unc": "",
    "asr": "And I'm telling you, the whole difference is when people come and speak their truth, They need to speak their truth off to do say they don't need to speak their truth off of Hennessy"
@@ -3478,7 +3478,7 @@
    "end": 244.24,
    "speaker": "Ye",
    "en": "So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it.",
-   "ja": "だから今日言いたいのは\n…BLMの話には後で戻るけど\n世界中の酒屋から\nHennessyを撤去して\nD'Usseを置いてほしい",
+   "ja": "だから今日言いたいのは\n…ブラックライブスマターの話には後で戻るけど\n世界中の酒屋から\nヘネシーを撤去して\nD'Usseを置いてほしい",
    "ctx": "",
    "unc": "Mid-sentence aside about returning to the Black Lives Matter topic.",
    "asr": "So I want to say today is I need every single and we can get back to the black lives matter But I need every single liquor store in the world to remove the Hennessy and put the do say in it"
@@ -3522,7 +3522,7 @@
    "end": 263.15,
    "speaker": "Ye",
    "en": "do it off the D'Usse. Don't do it off the Hennessy.",
-   "ja": "D'Usseでやれ\nHennessyじゃなくて",
+   "ja": "D'Usseでやれ\nヘネシーじゃなくて",
    "ctx": "",
    "unc": "",
    "asr": "Do it off the Duce Don't do it off the Hennessy"
@@ -3533,7 +3533,7 @@
    "end": 264.85,
    "speaker": "Ye",
    "en": "Don't do it off the Hennessy.",
-   "ja": "Hennessyはやめとけ",
+   "ja": "ヘネシーはやめとけ",
    "ctx": "",
    "unc": "",
    "asr": "Don't do it off the Hennessy"

@@ -1,11 +1,11 @@
 {
  "status": "AWAITING_TRANSLATION_APPROVAL",
- "generated_at": "2026-10-15T10:21:20Z",
+ "generated_at": "2026-10-15T10:41:17Z",
  "editable_file": "review/translations_review.csv",
  "editable_column": "ja_final",
- "review_file_sha256": "46d7c972d1b426293e1fc6fa6abd0e8cd94e044e102fc5ef792ac170e22255a3",
- "review_revision": 2,
- "revision_note": "Rev 2: proper nouns in Japanese use English spelling; Cravo->Quavo; パフ->Puff Daddy (user request 2026-10-15). Timing and line_ids unchanged.",
+ "review_file_sha256": "3beddae29a1713a0574601306acb3cd79ca0574cd06cff1739e7c06b0f7044f9",
+ "review_revision": 3,
+ "revision_note": "Rev 3: ティンバーランド, シャキールオニール, モーゼ, ブラックライブスマター, リュック系ラッパー; Steve Jobs, Jeff Bezos, Elon, Hennessy back to katakana (user request 2026-10-15). Timing and line_ids unchanged.",
  "sources": {
   "part_1": {
    "file": "part_1.mp4",

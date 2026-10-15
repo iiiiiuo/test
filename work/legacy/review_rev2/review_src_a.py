@@ -1,0 +1,95 @@
+# Review line sources, batch A. Each entry: auto-line numbers (work/lines_auto/<clip>.json),
+# speaker, verified English (unmasked), Japanese draft, context note, uncertainty.
+# Optional s/e override line start/end (seconds, source file time).
+def E(nums, spk, en, ja, ctx='', unc='', s=None, e=None):
+    return dict(nums=nums, spk=spk, en=en, ja=ja, ctx=ctx, unc=unc, s=s, e=e)
+
+CLIPS = {}
+
+CLIPS['C01'] = [
+ E([1], 'Ye', "Yeah, it's so funny, though, because me and Drake, you know,", "いや、マジで笑えるんだけどさ\n俺とDrakeがさ", s=1592.52),
+ E([2], 'Ye', "before Donda came out, we met up at the studio.", "『Donda』が出る前に\nスタジオで会ったんだよ", "Donda = Ye's 2021 album."),
+ E([3, 4], 'Ye', "So then Drake says to me, yo... no, I need to tell the story like this.", "で、Drakeが俺に言うわけ…\nいや、話す順番を変えるわ", "Ye stops himself to tell the Kushner part first; the edit removes the spoiler he gave before this."),
+ E([5, 6], 'Ye', "So basically, you know, Jared Kushner asked Steve Stoute, like, yo, just tell me, did Ye fuck my wife?", "要するにさ、Jared Kushnerが\nSteve Stouteに聞いたんだよ\n「正直に言ってくれ、Yeは俺の妻とヤったのか？」って", "Jared Kushner (Trump's son-in-law, husband of Ivanka Trump). Steve Stoute = music/marketing executive.", "Name spelled 'Stout' by ASR; standard spelling is Stoute."),
+ E([7], 'Ye', "And Steve Stoute was like, no, Ye never did nothing.", "Steveは「いや、Yeは何もしてない」って"),
+ E([8], 'Ye', "So when I went to the White House, I saw Jared.", "で、White Houseに行った時\nJaredに会ったんだよ"),
+ E([9, 10], 'Ye', "I was like, yo, I want to just tell you, nothing ever happened. He's like, yo, I don't know what you're talking about.", "俺は「一応言っとくけど、何もなかったから」\nあいつは「何の話かわからない」って"),
+ E([11, 12], 'Ye', "I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened.", "で、俺はあいつの両肩をつかんで\n「Jared、マジで何もなかったから」って"),
+ E([13], 'Ye', "And he said, yo, thank you for saying that.", "そしたら「言ってくれてありがとう」って"),
+ E([14, 15, 16], 'Ye', "Okay, so when I saw Drake, we was in a parking lot, we were talking, and he said, yo, I just want to tell you, yo, nothing ever happened.", "で、Drakeに会った時\n駐車場で話してたら、あいつが\n「一応言っとくけど、何もなかったから」って", "Implied: nothing happened between Drake and Kim Kardashian (Ye's ex-wife). Drake now plays the role Ye played with Kushner."),
+ E([17], 'Ye', "And then I said, yo, thank you for saying that.", "で、俺が「言ってくれてありがとう」って"),
+ E([18], 'Ye', "When did I become Jared Kushner?", "いつから俺が\nJared Kushnerになったんだよ", "Punchline: Ye realizes he is now in Kushner's position.", "Turbo heard 'Jerry Cushman'; large-v3 'Jared Kushner' fits the story."),
+ E([19], 'Host', "I didn't know where this was going.", "どこに向かう話かと思ったわ", "", "Large-v3 'I didn't know this was going'; turbo 'where this was going'. Speaker inferred as a host from content.", ),
+ E([20, 21], 'Host', "I did not know where this was going.", "マジでどうなるかと思った"),
+ E([22], 'Host', "You had me scared for a second.", "一瞬ビビったわ", "", "Turbo 'You had me scared'; large-v3 'I was scared'. Same meaning."),
+]
+
+CLIPS['C02'] = [
+ E([1, 2], 'Ye', "So we're going, because the old man made a call for me — (Host: the old man, which is Larry Hoover?) — yeah,", "で、俺らが行ったのは\n“親父”が俺のために電話してくれたからで\n（“親父”ってLarry Hooverのこと？）", "'The old man' = Larry Hoover, imprisoned co-founder of the Gangster Disciples; Ye and Drake did a 2021 benefit concert for his release.", "MEDIUM: the host's interjection is unclear (large-v3 'you see a marriage of my Larry Hoover', turbo 'you said oh man which is my Larry Hoover'). Review the audio around 1752-1756 s."),
+ E([3, 4], 'Ye', "Larry Hoover made a call for me and Drake to squash things and to do this concert together.", "そう、Larry Hooverが電話して\n俺とDrakeを和解させて\n一緒にライブやらせたんだよ", "", "Large-v3 inserted 'fire' after 'squash things'; turbo has no extra word. Treated as an ASR artifact."),
+ E([5], 'Ye', "So anyway, so Dave Chappelle has a concert that night.", "で、その夜\nDave Chappelleのライブがあって"),
+ E([6, 7, 8], 'Ye', "The night where we're going to... so we're seeing like, yo, can we go chop it up with Drake and then make it to the Dave Chappelle joint and go by the house?", "俺らが行く日の夜にさ\n「Drakeと話してから\nChappelleのライブにも間に合う？\n家に寄ってけるか？」ってなって"),
+ E([9, 10], 'Ye', "And then, so we're on the plane and we're like, well, where's Drake's house in comparison and distance to the concert?", "で、飛行機の中で\n「Drakeの家って\n会場からどのくらいの距離だ？」ってなって"),
+ E([11, 12], 'Ye', "And I look up, I say, Google it. That's the whole thing, you can Google it.", "俺は顔上げて「ググれ」って\nそれが全てなんだよ\nググれば出てくんの", e='can google it'),
+ E([12, 13, 14], 'Ye', "I can set it up differently. Remember, the whole thing was, yo, I gave his address. And my whole thing is, you could Google the address.", "前置きを変えるわ\n覚えてるだろ、俺があいつの住所を\nバラしたって騒ぎになったの\nでも俺の言い分は「住所なんかググれば出る」", "Refers to Ye posting a screenshot of Drake's Toronto address in 2018 during their feud.", s='i can set it'),
+ E([15], 'Ye', "And everybody on the plane started laughing.", "そしたら機内の全員が爆笑"),
+ E([16], 'Ye', "Because you could Google the address.", "だって住所はググれば出るんだから"),
+ E([17], 'Ye', "You know, it just looked like something on Instagram.", "Instagramに載せたから\n大ごとに見えただけでさ"),
+ E([18], 'Ye', "And I was like, oh, I got the address.", "で、俺が「住所わかったぞ」って"),
+ E([19], 'Ye', "And guess how I found it?", "どうやって見つけたと思う？"),
+ E([20], 'Ye', "I Googled it.", "ググったんだよ"),
+ E([21, 22], 'Host', "That's crazy.", "ヤバすぎだろ", "", "Speaker inferred as a host."),
+ E([23], 'Host', "Your house don't look the same on these Google Maps.", "Google Mapsじゃ\n家の見た目も違うしな", "", "LOW: large-v3 'Your house don't look the same on these Google Maps'; turbo 'Don't have something look the same on these Google maps'. Gist is a joke about Google Maps; consider cutting this line if the audio stays unclear."),
+]
+
+CLIPS['C03'] = [
+ E([1, 2], 'Ye', "Okay, you know, like right now, when me, James Blake, Arca and No I.D. in the studio working on our album,", "例えば今、俺と\nJames Blake、Arca、No I.D.で\nスタジオでアルバム作ってる時", "No I.D. = veteran Chicago producer.", "Names after 'James Blake' are unclear: both models hear 'are and no idea'. 'Arca' is a guess; 'No I.D.' is likely. Please confirm or reduce to 'producers'."),
+ E([3, 4], 'Ye', "who do you think we'd be bringing up when we're talking about songs?", "曲の話で誰の名前が\n出てくると思う？"),
+ E([5], 'Ye', "Stadium artists. Who do you think we bring up?", "スタジアム級のアーティストだよ\n誰だと思う？"),
+ E([6, 7], 'Ye', "And we ain't got no problem, we don't beef.", "別に揉めてるわけじゃないぜ\nビーフはない", "", "Large-v3 'We don't beef'; turbo 'we do it so beefy'. MEDIUM."),
+ E([8], 'Ye', "No problem. It's just like, yo, we competing.", "問題なし\nただ競い合ってるってこと"),
+ E([9], 'Ye', "Not Drake. Who do you think we bring?", "Drakeじゃない\n誰だと思う？"),
+ E([10], 'Ye', "Anybody else got another Travis Stadium?", "Travis以外で\nスタジアム埋める奴は？", "", "Large-v3 'another Travis Stadium'; turbo 'another Travis'. Meaning: who besides Travis Scott fills stadiums."),
+ E([11], 'Host', "Think down here.", "このへんで考えてみろ", "", "LOW: short host aside; meaning unclear (possibly a hint about Miami/Latin artists)."),
+ E([12, 13], 'Host', "Kodak Black? No, no.", "Kodak Black？\nいや、違う", "Hosts guessing.", "Turbo 'Kodak Black?'; large-v3 'It's called Black'. Turbo reading fits a guess."),
+ E([14], 'Ye', "Stadium. Bad Bunny. That's who's on our wall.", "スタジアム\nBad Bunnyだよ\nあいつが俺らの壁に貼ってある", "Bad Bunny = Puerto Rican superstar who led stadium tours in 2022."),
+ E([15, 16], 'Ye', "That's who's on our wall when we make music. We loading up concert footage.", "曲作ってる時に\n壁に映してんのはあいつ\nライブ映像を流してんだよ", e='concert footage'),
+ E([16, 17], 'Host', "Are you talking about the aesthetics of the stadium and what it's looking for?", "スタジアムの見せ方とか\n雰囲気の話？", "", "Large-v3 'what would it look'; turbo 'what it's looking for'. Same gist.", s='are you talking', e='would it look'),
+ E([17], 'Ye', "Yeah, not just the aesthetics. And in retrospect,", "見た目だけじゃない\nそれに、振り返ってみれば", "", "Large-v3 'not just the respect'; turbo 'not just the aesthetics. And in retrospect'. Turbo used.", s='yeah not just', e='the respect'),
+ E([18, 19], 'Ye', "If it wasn't for me, there might not be no Bad Bunny. I brought reggaeton to America. I'm sorry.", "俺がいなかったら\nBad Bunnyはいなかったかもな\nAmericaにレゲトンを持ち込んだのは俺だから\n悪いね", "Ye's boast; deliberately over the top. 'I'm sorry' is mock-apologetic.", s='if it wasnt for me'),
+ E([20], 'Ye', "Let's make some noise for me.", "俺に拍手してくれよ", "", "LOW: speaker and words unclear (turbo: 'I was making you know it. You're making me.')."),
+ E([21], 'Host', "I'm sorry, I didn't mean to grab you. Cool.", "ごめん、つかんじゃった\nオッケー", "", "LOW: crosstalk; turbo heard 'You're cool.' only."),
+ E([22], 'Host', "Come on, let's go.", "よし、いこう"),
+ E([23], 'Ye', "So the thing is, it depends on what we're doing.", "要するに\n何をやるかによるんだよ"),
+ E([24, 25], 'Ye', "You know what I'm saying? We're going to do clothes, we're going to look at Supreme,", "服をやるなら\nSupremeを見る"),
+ E([26, 27], 'Ye', "we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps,", "Balenciagaを見る\nRalph Laurenを見る\nラップも見る"),
+ E([28, 29], 'Ye', "you know, we're going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny,", "Drakeも見るし\nスタジアムも見るし\nBad Bunnyも見る"),
+ E([30], 'Ye', "we got to look at everything, that's what we have.", "全部を見なきゃいけない\nそれが俺らのやり方"),
+ E([31, 32], 'Ye', "We're gonna look at money. We're gonna look at Elon.", "金も見るし\nElonも見る"),
+ E([33, 34], 'Ye', "You know, so we're gonna look at the Saudis. That's how I look at everything.", "Saudiも見る\n俺は何でもそうやって見てる"),
+]
+
+CLIPS['C04'] = [
+ E([1], 'Host', "All right. Dungeon Family or Wu-Tang Clan?", "よし\nDungeon Familyか\nWu-Tang Clanか", "'Quick Time with Slime' pick-one game. Dungeon Family = Atlanta collective (OutKast, Goodie Mob)."),
+ E([2, 3], 'Ye', "Oh, you know, see, it's ungodly.", "いや、それは\n比べるもんじゃないって"),
+ E([4], 'Ye', "Wu-Tang, Wu-Tang.", "Wu-Tang、Wu-Tang"),
+ E([5], 'Host', "What? Come on, man.", "は？マジかよ"),
+ E([6], 'Ye', "This is like Tony Starks.", "Tony Starksだぜ", "Tony Starks = Ghostface Killah's alias.", "Turbo 'Tony Starks', large-v3 'Tony Stark's'."),
+ E([7, 8], 'Ye', "This is the drip. You know what I'm saying?", "これがファッションなんだよ\nわかる？"),
+ E([9, 10], 'Ye', "But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to.", "でもさ、Wu-TangのMVのせいで\n必要以上に金使っちまったんだよ"),
+ E([11, 12], 'Ye', "Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees.", "俺とDon Cで\n新品のTimbsにダウンに\nキャップに白T、Wallabeesまで買ってた", "Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes."),
+ E([13], 'Ye', "And then, because it looked like every day was a video.", "だって毎日がMVみたいに\n見えてたからさ"),
+ E([14, 15], 'Ye', "And I got to, like, New York and I seen dirty Timbs.", "で、New Yorkに着いたら\nみんな汚れたTimbs履いてんの"),
+ E([16], 'Ye', "I called Free up.", "Freeに電話して", "", "LOW: 'Free' is unclear in both models (possibly a friend's name, e.g. Free from 106 & Park). Check the audio at ~1695 s."),
+ E([17, 18], 'Ye', "I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs.", "「NYの奴らが汚れたTimbs\n履いてるなんて知らなかったぞ\n新品にこんだけ金かけたのに」って", "", "Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'."),
+ E([19], 'Ye', "I couldn't let my Timbs go more than three days.", "俺は3日以上\n同じTimbs履けなかったからな", "", "Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'."),
+ E([20, 21], 'Ye', "If my Timbs got a scuff on them, I'm in the meeting,", "Timbsに傷がついたら\n会議中でも"),
+ E([22], 'Ye', "meeting adjourned. I need a new pair of Timbs.", "「会議は中断\n新しいTimbs買ってくる」"),
+ E([23], 'Ye', "I'll be back.", "「すぐ戻る」って"),
+ E([24], 'Ye', "And I carried the Timbs in a plastic bag.", "で、Timbsを\nビニール袋に入れて持ってきて"),
+ E([25], 'Ye', "Put them on in the meeting.", "会議中に履き替えて"),
+ E([26], 'Ye', "Now let's continue the conversation.", "「さあ、話の続きをしよう」ってな"),
+ E([27, 28], 'Host', "Yeah, yeah, yeah. Okay. No, I was like the DJ.", "なるほどな\nオッケー\nいや、DJの番だと思って", "", "LOW: crosstalk about who reads the next question; both models differ. Consider ending the clip at line 26 if this stays unclear (the clip would then be 57.7 s, so the start would need extending)."),
+ E([29, 30], 'Host', "Well, I got to do the DJ... You got to do this.", "DJの番だろ…\nお前がやれよ", "", "LOW: crosstalk."),
+ E([31], 'Host', "I'm sorry. You're correct.", "ごめん、その通りだわ"),
+]

@@ -110,7 +110,7 @@
 | Clip_04_L020 | 0:01:32.520 | Ye | we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps, | Balenciagaを見る<br>Ralph Laurenを見る<br>ラップも見る |  |
 | Clip_04_L021 | 0:01:37.340 | Ye | you know, we're going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny, | Drakeも見るし<br>スタジアムも見るし<br>Bad Bunnyも見る |  |
 | Clip_04_L022 | 0:01:43.200 | Ye | we got to look at everything, that's what we have. | 全部を見なきゃいけない<br>それが俺らのやり方 |  |
-| Clip_04_L023 | 0:01:44.840 | Ye | We're gonna look at money. We're gonna look at Elon. | 金も見るし<br>Elonも見る |  |
+| Clip_04_L023 | 0:01:44.840 | Ye | We're gonna look at money. We're gonna look at Elon. | 金も見るし<br>イーロンも見る |  |
 | Clip_04_L024 | 0:01:47.940 | Ye | You know, so we're gonna look at the Saudis. That's how I look at everything. | Saudiも見る<br>俺は何でもそうやって見てる |  |
 
 ## Clip_05 — Water, rainwater and the marathon
@@ -181,16 +181,16 @@
 | Clip_07_L005 | 0:27:49.070 | Ye | This is like Tony Starks. | Tony Starksだぜ | Tony Starks = Ghostface Killah's alias. / Turbo 'Tony Starks', large-v3 'Tony Stark's'. |
 | Clip_07_L006 | 0:27:51.250 | Ye | This is the drip. You know what I'm saying? | これがファッションなんだよ<br>わかる？ |  |
 | Clip_07_L007 | 0:27:53.050 | Ye | But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to. | でもさ、Wu-TangのMVのせいで<br>必要以上に金使っちまったんだよ |  |
-| Clip_07_L008 | 0:27:57.570 | Ye | Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees. | 俺とDon Cで<br>新品のTimbsにダウンに<br>キャップに白T、Wallabeesまで買ってた | Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes. |
+| Clip_07_L008 | 0:27:57.570 | Ye | Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees. | 俺とDon Cで<br>新品のティンバーランドにダウンに<br>キャップに白T、Wallabeesまで買ってた | Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes. |
 | Clip_07_L009 | 0:28:07.370 | Ye | And then, because it looked like every day was a video. | だって毎日がMVみたいに<br>見えてたからさ |  |
-| Clip_07_L010 | 0:28:10.050 | Ye | And I got to, like, New York and I seen dirty Timbs. | で、New Yorkに着いたら<br>みんな汚れたTimbs履いてんの |  |
+| Clip_07_L010 | 0:28:10.050 | Ye | And I got to, like, New York and I seen dirty Timbs. | で、New Yorkに着いたら<br>みんな汚れたティンバーランド履いてんの |  |
 | ⚠ Clip_07_L011 | 0:28:15.280 | Ye | I called Free up. | Freeに電話して | LOW: 'Free' is unclear in both models (possibly a friend's name, e.g. Free from 106 & Park). Check the audio at ~1695 s. |
-| Clip_07_L012 | 0:28:16.600 | Ye | I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs. | 「NYの奴らが汚れたTimbs<br>履いてるなんて知らなかったぞ<br>新品にこんだけ金かけたのに」って | Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'. |
-| Clip_07_L013 | 0:28:21.760 | Ye | I couldn't let my Timbs go more than three days. | 俺は3日以上<br>同じTimbs履けなかったからな | Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'. |
-| Clip_07_L014 | 0:28:24.560 | Ye | If my Timbs got a scuff on them, I'm in the meeting, | Timbsに傷がついたら<br>会議中でも |  |
-| Clip_07_L015 | 0:28:28.300 | Ye | meeting adjourned. I need a new pair of Timbs. | 「会議は中断<br>新しいTimbs買ってくる」 |  |
+| Clip_07_L012 | 0:28:16.600 | Ye | I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs. | 「NYの奴らが汚れたティンバーランド<br>履いてるなんて知らなかったぞ<br>新品にこんだけ金かけたのに」って | Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'. |
+| Clip_07_L013 | 0:28:21.760 | Ye | I couldn't let my Timbs go more than three days. | 俺は3日以上<br>同じティンバーランド履けなかったからな | Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'. |
+| Clip_07_L014 | 0:28:24.560 | Ye | If my Timbs got a scuff on them, I'm in the meeting, | ティンバーランドに傷がついたら<br>会議中でも |  |
+| Clip_07_L015 | 0:28:28.300 | Ye | meeting adjourned. I need a new pair of Timbs. | 「会議は中断<br>新しいティンバーランド買ってくる」 |  |
 | Clip_07_L016 | 0:28:30.560 | Ye | I'll be back. | 「すぐ戻る」って |  |
-| Clip_07_L017 | 0:28:31.480 | Ye | And I carried the Timbs in a plastic bag. | で、Timbsを<br>ビニール袋に入れて持ってきて |  |
+| Clip_07_L017 | 0:28:31.480 | Ye | And I carried the Timbs in a plastic bag. | で、ティンバーランドを<br>ビニール袋に入れて持ってきて |  |
 | Clip_07_L018 | 0:28:33.340 | Ye | Put them on in the meeting. | 会議中に履き替えて |  |
 | Clip_07_L019 | 0:28:34.620 | Ye | Now let's continue the conversation. | 「さあ、話の続きをしよう」ってな |  |
 | ⚠ Clip_07_L020 | 0:28:36.100 | Host | Yeah, yeah, yeah. Okay. No, I was like the DJ. | なるほどな<br>オッケー<br>いや、DJの番だと思って | LOW: crosstalk about who reads the next question; both models differ. Consider ending the clip at line 26 if this stays unclear (the clip would then be 57.7 s, so the start would need extending). |
@@ -237,7 +237,7 @@
 | Clip_09_L005 | 0:03:32.090 | Ye | Now one of my biggest jobs is keeping my money, | 今じゃ一番の仕事は<br>自分の金を守ることだよ |  |
 | Clip_09_L006 | 0:03:36.480 | Ye | because there's a lot of people that's on a full-time job to take my money, right? | だって俺の金を取ることを<br>フルタイムでやってる奴が<br>いっぱいいるからな |  |
 | Clip_09_L007 | 0:03:42.500 | Ye | And I've literally lost hundreds of millions of dollars by not looking close enough. | ちゃんと見てなかったせいで<br>マジで何億ドルも<br>失ってきたんだよ | 'Hundreds of millions of dollars' = 数億ドル. |
-| Clip_09_L008 | 0:03:51.380 | Host | So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib, | それで思い出したのが<br>Shaqの話でさ<br>契約してた時<br>家にスタジオがあったのに | Host anecdote about Shaquille O'Neal's rap career. / Speaker inferred as a host. |
+| Clip_09_L008 | 0:03:51.380 | Host | So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib, | それで思い出したのが<br>シャキールオニールの話でさ<br>契約してた時<br>家にスタジオがあったのに | Host anecdote about Shaquille O'Neal's rap career. / Speaker inferred as a host. |
 | Clip_09_L009 | 0:03:57.340 | Host | and when he got the check, he looked at what the label was charging him, and they were charging him for studio time. | 明細を見たら<br>レーベルがスタジオ代を<br>請求してたんだって | Large-v3 has false starts ('the on the check because he was paying this'). Condensed to the clear meaning. |
 | Clip_09_L010 | 0:04:03.800 | Host | He was like, the studio's at my crib! And then he got a couple hundred thousand back. But it's funny, | 「スタジオ俺ん家だぞ！」って<br>で、数十万ドル取り返した<br>笑えるよな | Line ends on 'it's funny' (the next words 'he overlooked that easily' were cut at the clip end); consider ending at 'got a couple hundred thousand back'. |
 
@@ -274,7 +274,7 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_11_L001 | 0:14:44.850 | Ye | Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right? | Mosesに4つの章があったように<br>俺にもある<br>意外かもしれないけど<br>Mosesの4章は読んだぜ | Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses). |
+| Clip_11_L001 | 0:14:44.850 | Ye | Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right? | モーゼに4つの章があったように<br>俺にもある<br>意外かもしれないけど<br>モーゼの4章は読んだぜ | Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses). |
 | ⚠ Clip_11_L002 | 0:14:52.570 | Host | You say you ain't read something? | 何か読んでないって<br>言ってたよな？ | LOW: large-v3 'You say you ain't read somewhere'; turbo 'You say you ain't read somewhere, no?'. Gist: host recalls Ye saying he doesn't read. |
 | Clip_11_L003 | 0:14:53.850 | Ye | No, what I'm saying, yeah, I've never actually finished a novel. | そう、つまり<br>小説を最後まで<br>読んだことは一度もない |  |
 | Clip_11_L004 | 0:14:57.130 | Host | Right. That's fantastic. I respect that. | なるほど<br>最高じゃん<br>リスペクトするわ | Said with a laugh. / Speaker inferred as a host. |
@@ -456,12 +456,12 @@
 | Clip_18_L003 | 0:19:46.160 | Ye | I performed at Bernard Arnault's son's wedding, Alexandre Arnault, and I said, man, you know, when I'm the richest man in the world, I hope my son is cool enough to hang out with Ye. | Arnaultの息子<br>Alexandreの結婚式で<br>ライブした時に言ったんだ<br>「俺が世界一の金持ちになったら<br>うちの息子がYeとつるめるくらい<br>イケてるといいな」って | Ye is quoting what he imagines Arnault thinking; delivered as a joke on stage. / Turbo 'my son that's cool enough'. Same meaning. |
 | Clip_18_L004 | 0:19:56.700 | Host | Yeah. | なるほど |  |
 | Clip_18_L005 | 0:19:57.780 | Ye | I'm saying this on stage for them, but I told him afterwards, I said, yo, Bernard, you're my favorite. | ステージで言ったんだけど<br>後で本人にも言ったよ<br>「Bernard、あんたが一番だ」って |  |
-| Clip_18_L006 | 0:20:03.340 | Ye | Jeff Bezos is commodity. | Jeff Bezosは<br>ただの量産品だよ |  |
+| Clip_18_L006 | 0:20:03.340 | Ye | Jeff Bezos is commodity. | ジェフ・ベゾスは<br>ただの量産品だよ |  |
 | Clip_18_L007 | 0:20:04.840 | Host | Your opinion. | それはお前の意見な | Speaker inferred as a host. |
-| Clip_18_L008 | 0:20:07.460 | Ye | Jeff Bezos don't have no opinion. | Bezosには<br>自分の意見がない |  |
-| Clip_18_L009 | 0:20:09.380 | Ye | He don't got no taste. Jeff Bezos ain't got no taste. | センスがないんだよ<br>Bezosにはセンスがない | Large-v3 'You don't got no taste'; context is 'He'. |
-| Clip_18_L010 | 0:20:12.900 | Ye | You wouldn't ask him to pick out what you want for Christmas. You know what I'm saying? Jeff Bezos can't pick. | クリスマスプレゼントを<br>あいつに選ばせないだろ？<br>Bezosには選べないんだよ | Large-v3 'can't pay'; turbo 'can't pick'. |
-| Clip_18_L011 | 0:20:18.280 | Ye | Would you let Jeff Bezos pick your bag? | Bezosにバッグ選ばせる？ |  |
+| Clip_18_L008 | 0:20:07.460 | Ye | Jeff Bezos don't have no opinion. | ベゾスには<br>自分の意見がない |  |
+| Clip_18_L009 | 0:20:09.380 | Ye | He don't got no taste. Jeff Bezos ain't got no taste. | センスがないんだよ<br>ベゾスにはセンスがない | Large-v3 'You don't got no taste'; context is 'He'. |
+| Clip_18_L010 | 0:20:12.900 | Ye | You wouldn't ask him to pick out what you want for Christmas. You know what I'm saying? Jeff Bezos can't pick. | クリスマスプレゼントを<br>あいつに選ばせないだろ？<br>ベゾスには選べないんだよ | Large-v3 'can't pay'; turbo 'can't pick'. |
+| Clip_18_L011 | 0:20:18.280 | Ye | Would you let Jeff Bezos pick your bag? | ベゾスにバッグ選ばせる？ |  |
 | Clip_18_L012 | 0:20:19.960 | Ye | You know what I'm saying? So he just learned how to go to Vegas and break the machine. | あいつはLas Vegasで<br>マシンをぶっ壊す方法を<br>覚えただけなんだよ | Metaphor: Bezos 'beat the system' (like breaking a slot machine) rather than having taste. |
 | ⚠ Clip_18_L013 | 0:20:24.860 | Ye / Host | It's Amazon, right? — Yeah, and they respected him. | Amazonだろ？<br>（ホスト）そう、それで評価された | MEDIUM: speaker split inferred. |
 | ⚠ Clip_18_L014 | 0:20:27.360 | Host | I came from a Cuban family, I got to represent. What's up, Cuban people? | うちはCuba系の家族だから<br>レペゼンしないとな<br>Cubaのみんな、元気か？ | A host (Cuban-American) shouting out Cuban viewers. / MEDIUM: large-v3 'I can't front as you like even my Cuban family'; turbo 'I came from a Cuban family'. Turbo used. |
@@ -477,10 +477,10 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_19_L001 | 0:28:59.450 | Ye | In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste. | 少なくとも<br>センスのある奴はいたんだよ<br>Steve Jobsは<br>最高のセンスを持ってた | Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM. |
+| Clip_19_L001 | 0:28:59.450 | Ye | In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste. | 少なくとも<br>センスのある奴はいたんだよ<br>スティーブ・ジョブズは<br>最高のセンスを持ってた | Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM. |
 | Clip_19_L002 | 0:29:03.690 | Ye | I've yet to meet a tech guy with better taste than me. | 俺よりセンスのある<br>テック系には<br>まだ会ったことない |  |
-| Clip_19_L003 | 0:29:06.630 | Ye | I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys. | 俺が次のフロンティアだ<br>Ralph Lauren、Jobs<br>その次が俺<br>他の連中じゃない |  |
-| Clip_19_L004 | 0:29:13.270 | Ye | Even Elon flew me... you know what I'm saying? Vory, Wack 100, | Elonですら<br>俺を呼んだんだぜ<br>Vory、Wack 100と | Vory = singer on Ye's team; Wack 100 = music manager. / Name 'Vory' heard as 'fory'/'Vorey'. |
+| Clip_19_L003 | 0:29:06.630 | Ye | I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys. | 俺が次のフロンティアだ<br>Ralph Lauren、ジョブズ<br>その次が俺<br>他の連中じゃない |  |
+| Clip_19_L004 | 0:29:13.270 | Ye | Even Elon flew me... you know what I'm saying? Vory, Wack 100, | イーロンですら<br>俺を呼んだんだぜ<br>Vory、Wack 100と | Vory = singer on Ye's team; Wack 100 = music manager. / Name 'Vory' heard as 'fory'/'Vorey'. |
 | Clip_19_L005 | 0:29:18.850 | Ye | it was like a team that went to SpaceX. He flew me in his new jet out there. | チームでSpaceXに行ったんだよ<br>新しいジェットで<br>連れてってくれて |  |
 | Clip_19_L006 | 0:29:24.000 | Ye | He said, I want you to design SpaceX for me. | 「SpaceXを<br>デザインしてほしい」って |  |
 | Clip_19_L007 | 0:29:26.080 | Ye | We're sitting there, Grimes there, he just had a newborn. We watched a rocket take off. | Grimesもいて<br>子どもが生まれたばっかりで<br>ロケットの打ち上げを見たんだ | Grimes = musician, Elon Musk's then-partner. |
@@ -507,13 +507,13 @@
 | Clip_20_L001 | 0:03:35.460 | Ye | Like, you at somebody's wedding, and somebody get into a fight with a family member at the end. | 誰かの結婚式で<br>最後に親戚と<br>ケンカになる奴いるだろ | Context: Ye is talking about speaking his mind after drinking D'Usse, the cognac on the table. |
 | Clip_20_L002 | 0:03:40.300 | Ye | And they say some real shit, but they ain't said it until they had the D'Usse. | 本音をぶちまけるけど<br>それもD'Usseを<br>飲むまでは言わなかった | D'Usse = cognac brand co-owned by Jay-Z, sponsor on the table. / ASR 'do say' = D'Usse. |
 | Clip_20_L003 | 0:03:44.140 | Ye | They say some real shit. | マジな本音をな |  |
-| Clip_20_L004 | 0:03:45.220 | Ye | And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy. | 言っとくけど<br>本音を言うなら<br>D'Usseで酔って言えよ<br>Hennessyで酔って<br>言うんじゃなくてな | Hennessy = rival cognac, long associated with hip-hop. |
-| Clip_20_L005 | 0:03:53.900 | Ye | So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it. | だから今日言いたいのは<br>…BLMの話には後で戻るけど<br>世界中の酒屋から<br>Hennessyを撤去して<br>D'Usseを置いてほしい | Mid-sentence aside about returning to the Black Lives Matter topic. |
+| Clip_20_L004 | 0:03:45.220 | Ye | And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy. | 言っとくけど<br>本音を言うなら<br>D'Usseで酔って言えよ<br>ヘネシーで酔って<br>言うんじゃなくてな | Hennessy = rival cognac, long associated with hip-hop. |
+| Clip_20_L005 | 0:03:53.900 | Ye | So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it. | だから今日言いたいのは<br>…ブラックライブスマターの話には後で戻るけど<br>世界中の酒屋から<br>ヘネシーを撤去して<br>D'Usseを置いてほしい | Mid-sentence aside about returning to the Black Lives Matter topic. |
 | Clip_20_L006 | 0:04:04.240 | Ye | I'm asking and calling for every... | 全員に呼びかける… | Large-v3 'I'm asking a good day every'; turbo 'I'm asking and calling for every'. |
 | Clip_20_L007 | 0:04:09.910 | Ye | I'm asking every black person, | 黒人のみんなに頼みたい |  |
 | Clip_20_L008 | 0:04:13.450 | Ye | when you want to drink and you want to go full the-uncle-that-don't-give-a-fuck level at the wedding, | 結婚式で飲んで<br>何も気にしない<br>おじさんレベルまで<br>振り切りたい時は | ASR 'go fool' = 'go full'. |
-| Clip_20_L009 | 0:04:19.530 | Ye | do it off the D'Usse. Don't do it off the Hennessy. | D'Usseでやれ<br>Hennessyじゃなくて |  |
-| Clip_20_L010 | 0:04:23.150 | Ye | Don't do it off the Hennessy. | Hennessyはやめとけ |  |
+| Clip_20_L009 | 0:04:19.530 | Ye | do it off the D'Usse. Don't do it off the Hennessy. | D'Usseでやれ<br>ヘネシーじゃなくて |  |
+| Clip_20_L010 | 0:04:23.150 | Ye | Don't do it off the Hennessy. | ヘネシーはやめとけ |  |
 | Clip_20_L011 | 0:04:24.850 | Ye | Go full Ye off the D'Usse. Go Ye! Go full Ye off the D'Usse. Go full Ye off the D'Usse. Go full Ye off the D'Usse. | D'Usseで<br>フルにYeになれ<br>D'UsseでフルYeだ | A chant; Ye repeats it several times. / Number of repetitions differs between models (large-v3 four, turbo five). |
 | ⚠ Clip_20_L012 | 0:04:34.030 | Ye | Let me just be clear real quick. Respect. Because this is the only time... | ちょっとはっきりさせとくと<br>リスペクトはしてるよ<br>これは今回だけ… | MEDIUM: sentence trails off. |
 | Clip_20_L013 | 0:04:39.090 | Ye | This is delicious. This D'Usse is good. | これうまいな<br>このD'Usseいいわ |  |
@@ -533,8 +533,8 @@
 | Clip_21_L003 | 0:20:05.890 | Ye | We're at the beginning of this album, and even if you go back, like, even J. Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right? | 俺らはまだ<br>アルバムの1曲目にいるんだ<br>例えば『Workout Plan』<br>J. Coleもサンプリングしたけど<br>あの曲から始まるわけ | 'The New Workout Plan' = Ye's 2004 single, later sampled by J. Cole. / Large-v3 'jay cole sample workout plan'; reading as 'J. Cole sampled'. |
 | Clip_21_L004 | 0:20:12.470 | Ye | But by the time we got to 'Stronger,' it was a diamond record. | でも『Stronger』の頃には<br>ダイヤモンド・レコードに<br>なってた | 'Stronger' (2007) was certified Diamond (10 million units). |
 | Clip_21_L005 | 0:20:15.950 | Ye | We are in line for a diamond record, but we have to do some unorthodox things. | 俺らは今<br>ダイヤモンドに向かってる<br>でも型破りなことも<br>やらなきゃいけない |  |
-| Clip_21_L006 | 0:20:22.250 | Ye | 'Workout Plan' was, for me as a backpack rapper, to have that song, or even, like, be cursing or talking about the addictions I was dealing with, and my addiction to girls and all this type of shit, | バックパック系ラッパーの俺が<br>『Workout Plan』を出したり<br>汚い言葉を使ったり<br>女好きとか<br>自分の依存症の話をしたりするのは | 'Backpack rapper' = conscious/underground rapper image. |
-| ⚠ Clip_21_L007 | 0:20:32.350 | Ye | was weird, because, like, Mos Def wasn't talking about that, Common wasn't talking about that, because it's not positive, it's not backpack, right? | 変だったんだよ<br>Mos Defも<br>Commonも<br>そんな話しなかった<br>ポジティブじゃないし<br>バックパックっぽくないからな | Mos Def and Common = conscious rappers. / MEDIUM: ASR 'most deaf' / 'quality' = Mos Def / Common (Common's name is a strong guess). |
+| Clip_21_L006 | 0:20:22.250 | Ye | 'Workout Plan' was, for me as a backpack rapper, to have that song, or even, like, be cursing or talking about the addictions I was dealing with, and my addiction to girls and all this type of shit, | リュック系ラッパーの俺が<br>『Workout Plan』を出したり<br>汚い言葉を使ったり<br>女好きとか<br>自分の依存症の話をしたりするのは | 'Backpack rapper' = conscious/underground rapper image. |
+| ⚠ Clip_21_L007 | 0:20:32.350 | Ye | was weird, because, like, Mos Def wasn't talking about that, Common wasn't talking about that, because it's not positive, it's not backpack, right? | 変だったんだよ<br>Mos Defも<br>Commonも<br>そんな話しなかった<br>ポジティブじゃないし<br>リュック系っぽくないからな | Mos Def and Common = conscious rappers. / MEDIUM: ASR 'most deaf' / 'quality' = Mos Def / Common (Common's name is a strong guess). |
 | Clip_21_L008 | 0:20:38.910 | Ye | But I leaned into my truth. I found that Playboy when I was five years old, and now I'm calling Irina Shayk, and you know what I'm saying. | でも俺は自分の本音に<br>正直になった<br>5歳でPlayboyを見つけて<br>今じゃIrina Shaykに<br>電話してるんだから | Irina Shayk = model Ye dated in 2021. |
 | Clip_21_L009 | 0:20:46.710 | Ye | So it's, it was my truth, but by the time we got to 'Stronger,' 'work it harder, make it better, faster, stronger,' that's my only diamond record, right? | それが俺の本音だった<br>でも『Stronger』<br>「Work it harder, make it better」<br>あれが俺の唯一の<br>ダイヤモンド・レコードなんだよ | 'Stronger' hook (from Daft Punk's 'Harder, Better, Faster, Stronger'). |
 | Clip_21_L010 | 0:20:58.140 | Ye | You know what I'm saying? You know what I'm saying? | わかるだろ？ |  |

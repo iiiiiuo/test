@@ -2,7 +2,7 @@ from review_src_a import E
 CLIPS = {}
 
 CLIPS['C09'] = [
- E([1, 2], 'Ye', "Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right?", "Mosesに4つの章があったように\n俺にもある\n意外かもしれないけど\nMosesの4章は読んだぜ", "Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses).", "", e='chapters of moses'),
+ E([1, 2], 'Ye', "Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right?", "モーゼに4つの章があったように\n俺にもある\n意外かもしれないけど\nモーゼの4章は読んだぜ", "Ye compares himself to Moses ('four chapters' = his own phrase for the books of Moses).", "", e='chapters of moses'),
  E([2, 3], 'Host', "You say you ain't read something?", "何か読んでないって\n言ってたよな？", "", "LOW: large-v3 'You say you ain't read somewhere'; turbo 'You say you ain't read somewhere, no?'. Gist: host recalls Ye saying he doesn't read.", s='you say', e='read somewhere'),
  E([3, 4], 'Ye', "No, what I'm saying, yeah, I've never actually finished a novel.", "そう、つまり\n小説を最後まで\n読んだことは一度もない", s='no what im saying', e='finished a novel'),
  E([4], 'Host', "Right. That's fantastic. I respect that.", "なるほど\n最高じゃん\nリスペクトするわ", "Said with a laugh.", "Speaker inferred as a host.", s='right thats fantastic'),
