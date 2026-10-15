@@ -1,30 +1,105 @@
 {
-  "schema": 1,
-  "updated": "2026-10-04T11:55:00Z",
-  "inputs": {
-    "SOURCE_INTERVIEW": {"path": "input/SOURCE_INTERVIEW.mp4", "canonical": "/mnt/project-files/SOURCE_VIDEO.mp4", "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
-      "video": {"codec": "h264", "w": 1920, "h": 1080, "sar": "1:1", "fps": "30000/1001", "cfr": true, "timebase": "1/30000", "pts_step": 1001, "frames": 22412, "start_pts": 0, "duration_s": 747.813733},
-      "audio": {"codec": "aac", "rate": 44100, "channels": 2, "duration_s": 747.868299},
-      "extra_streams": ["data bin_data", "attached png 1280x720"], "rotation": null,
-      "frame_to_time": "t = frame * 1001 / 30000", "content": "The Breakfast Club (iHeartRadio) interview; guest in fur trapper hat, hosts Charlamagne / DJ Envy / female co-host"},
-    "REFERENCE_VIDEO": {"path": "input/REFERENCE_VIDEO.mp4", "sha256": "e732296043f27a709e00f18e3e0ccb12ff59248028d4b6342abdf8bb0459fe8a", "w": 720, "h": 1280, "fps": "2997/125", "frames": 1513, "duration_s": 63.125011},
-    "fonts": {"YuGothB.ttc": "d923a57f781f06198167da4f58287be7ac64a954a47aff4295e078a42b4b68b2 (family 'Yu Gothic,游ゴシック' Bold, weight 200)",
-      "YuGothM.ttc": "cb2021bbfe40b21ec564848b8d702125661594e1b4f1eb2e77fd8a98b485cf19", "YuGothR.ttc": "cd24b5617c1e26572b0a7fe7e558f7121ca42c36f7b50e8d9216ac222a1c0a93", "YuGothL.ttc": "0acf409fc61e1560ea0384f8c72bf87c6fa7282077420657979680ee21dad2a4"}
+ "schema": "multi-clip-approval-v1",
+ "updated": "2026-10-15T10:10:21Z",
+ "status": "AWAITING_TRANSLATION_APPROVAL",
+ "phase": "A_COMPLETE",
+ "inputs": {
+  "sources": {
+   "part_1": {
+    "file": "part_1.mp4",
+    "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+    "start_pts": 0
+   },
+   "part_2_2": {
+    "file": "part_2 2.mp4",
+    "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+    "start_pts": 984
+   },
+   "part_3": {
+    "file": "part_3.mp4",
+    "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+    "start_pts": 0
+   },
+   "part_4": {
+    "file": "part_4.mp4",
+    "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+    "start_pts": 0
+   },
+   "part_5": {
+    "file": "part_5.mp4",
+    "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+    "start_pts": 984
+   },
+   "part_6": {
+    "file": "part_6.mp4",
+    "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+    "start_pts": 984
+   }
   },
-  "tools": {"ffmpeg": "6.1.1 (libass, freetype, fontconfig, harfbuzz)", "whisper_cpp": "/opt/wcpp/src/build/bin/whisper-cli v1.7.6 built from HF space Xenobd/whisper.cpp (container-local, not persisted)",
-    "python": "3.11, no numpy/opencv (pypi blocked)", "pip": "BLOCKED pypi.org 403", "npm": "BLOCKED", "whisper_model": "BLOCKED: huggingface.co reachable but LFS CDN us.aws.cdn.hf.co / cdn-lfs.hf.co / cas-bridge.xethub.hf.co denied 403 by egress policy"},
-  "reference_observations": {
-    "layout": "720x1280; blurred zoomed copy fills top/bottom; sharp 16:9-ish crop of speaker in middle band approx y=293..988 (scaled up ~1.33x, cropped sides)",
-    "subtitles": "centered, over lower part of middle band (~y 640-730 of 1280); EN line(s) above JP line(s); white bold sans, thin black outline + soft shadow; same size EN/JP",
-    "masking_reference_forms": ["s**t", "f**king"],
-    "masking_note": "Reference uses two asterisks (s**t, f**king) while CLAUDE.md examples use one; reference-derived list governs per CLAUDE.md 3. To finalize at calibration.",
-    "evidence": ["work/ref/contact.png", "work/ref/f10.png"]
+  "excluded_inputs": {
+   "part_2.mp4": "duplicate: part_2 2.mp4 from 995.4 s + start of part_3.mp4 (audio cross-correlation)"
   },
-  "caches": {"transcript": null, "semantic_map": null},
-  "used_source_ranges": [],
-  "clips": [],
-  "failed_approaches": [{"stage": "transcription", "approach": "download whisper weights from huggingface.co", "result": "redirect to LFS CDN denied by network policy"}, {"stage": "env", "approach": "pip install faster-whisper/opencv", "result": "pypi.org 403"}],
-  "current_task": "transcription",
-  "blockers": ["No speech-recognition model weights reachable. Need network allowlist for HF LFS CDN (us.aws.cdn.hf.co, cas-bridge.xethub.hf.co, cdn-lfs.hf.co) or a ggml whisper model file uploaded to the project."],
-  "next_action": "Once a model is available: whisper-cli -m <ggml-large-v3(-turbo)> on work/source_16k.wav, save work/transcript.json, then semantic map."
+  "reference": null,
+  "relation_to_SOURCE_VIDEO": "new material (Drink Champs w/ Ye, 23.976 fps); SOURCE_VIDEO is Breakfast Club / Lil Tjay 29.97 fps; no overlap with existing clip_02-09"
+ },
+ "caches": {
+  "transcript": "work/transcript.json",
+  "semantic_map": "work/semantic_map.json",
+  "review_lines": "work/review_lines.json",
+  "lines_auto": "work/lines_auto/"
+ },
+ "transcript_status": "COMPLETE (all 6 parts turbo; large-v3 on selected spans)",
+ "candidates": "work/clip_candidates.json",
+ "selected_clips": "work/selected_clips.json",
+ "used_source_ranges": {
+  "status": "RESERVED (not committed; nothing rendered)",
+  "ledger": "work/source_timeline_ledger.json",
+  "count": 24
+ },
+ "review": {
+  "csv": "review/translations_review.csv",
+  "md": "review/translations_review.md",
+  "summary": "review/clip_selection_summary.md",
+  "uncertainties": "review/translation_uncertainties.md",
+  "manifest": "review/approval_manifest.json",
+  "approved_dir": "review/approved/",
+  "csv_sha256": "5ae67420de83d4e9e81478702f974bb94c22f707dab399b0119f769665415b30",
+  "revision": 1,
+  "line_count": 322,
+  "uncertain_counts": {
+   "LOW": 16,
+   "MEDIUM": 17,
+   "NOTE": 66
+  },
+  "shared_mirror": "/mnt/project-files/review/"
+ },
+ "approval": {
+  "approved": false,
+  "approved_by": null,
+  "approved_at": null,
+  "rule": "Only an explicit human message (e.g. 「翻訳を承認しました。動画制作を再開してください」) approves. CSV existence or edits are not approval."
+ },
+ "pending_actions": [
+  "WAIT for explicit human translation approval (HARD STOP)",
+  "On approval: re-read CSV ja_final, hash it, diff vs ja_draft, freeze to review/approved/",
+  "PHASE B: subtitle generation from approved ja_final + masked EN, render 9:16, Fresh Clip Critic per clip, series QA"
+ ],
+ "failed_approaches": [
+  {
+   "stage": "transcription",
+   "approach": "download whisper weights from huggingface.co",
+   "result": "redirect to LFS CDN denied by network policy"
+  },
+  {
+   "stage": "env",
+   "approach": "pip install faster-whisper/opencv",
+   "result": "pypi.org 403"
+  },
+  "PyAV open(metadata_errors) incompatibility: load wav via wave+numpy",
+  "Changing an interval after line authoring renumbers auto lines: freeze intervals before authoring",
+  "Auto-segmented lines mixed speakers; numeric s/e guesses drifted: use anchor phrases with advancing search bound"
+ ],
+ "blockers": [],
+ "next_action": "Await human approval message in thread; do not render.",
+ "legacy": "work/legacy/state.SOURCE_INTERVIEW.json"
 }

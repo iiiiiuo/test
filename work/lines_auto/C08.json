@@ -1,0 +1,245 @@
+[
+{
+"n": 1,
+"start": 770.5,
+"end": 771.4,
+"text": "We had Cravo and",
+"turbo": "we had cravo and",
+"agree": 1.0,
+"minp": 0.786
+},
+{
+"n": 2,
+"start": 773.39,
+"end": 774.71,
+"text": "Takeoff here the other day.",
+"turbo": "take off here the other day",
+"agree": 0.73,
+"minp": 0.81
+},
+{
+"n": 3,
+"start": 774.87,
+"end": 775.69,
+"text": "What they were saying?",
+"turbo": "what they were saying",
+"agree": 1.0,
+"minp": 0.636
+},
+{
+"n": 4,
+"start": 776.91,
+"end": 777.55,
+"text": "Real shit.",
+"turbo": "shit",
+"agree": 0.67,
+"minp": 0.998
+},
+{
+"n": 5,
+"start": 778.81,
+"end": 783.21,
+"text": "They said, Cravo said that you asked to borrow his Twitter",
+"turbo": "said um cravo said that you asked to borrow his Twitter",
+"agree": 0.91,
+"minp": 0.413
+},
+{
+"n": 6,
+"start": 783.21,
+"end": 785.33,
+"text": "during the blockout.",
+"turbo": "Twitter during the blockout.",
+"agree": 0.86,
+"minp": 0.938
+},
+{
+"n": 7,
+"start": 785.69,
+"end": 786.53,
+"text": "Is this true?",
+"turbo": "Is this true?",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 8,
+"start": 787.68,
+"end": 789.84,
+"text": "Yeah. He said",
+"turbo": "Yeah. He, uh...",
+"agree": 0.67,
+"minp": 0.467
+},
+{
+"n": 9,
+"start": 791.18,
+"end": 792.06,
+"text": "he offered it.",
+"turbo": "He said he offered it.",
+"agree": 0.75,
+"minp": 0.998
+},
+{
+"n": 10,
+"start": 792.2,
+"end": 793.38,
+"text": "He said he offered it.",
+"turbo": "it. He said he offered it. He",
+"agree": 0.83,
+"minp": 0.809
+},
+{
+"n": 11,
+"start": 794.26,
+"end": 794.66,
+"text": "But,",
+"turbo": "offered",
+"agree": 0.0,
+"minp": 0.496
+},
+{
+"n": 12,
+"start": 795.72,
+"end": 796.38,
+"text": "you know what I'm saying?",
+"turbo": "you know what I'm saying? I",
+"agree": 0.91,
+"minp": 0.999
+},
+{
+"n": 13,
+"start": 796.44,
+"end": 798.22,
+"text": "I just said, let me take this time as just like",
+"turbo": "I'm saying? I just said, let me take this time as just like a",
+"agree": 0.88,
+"minp": 0.758
+},
+{
+"n": 14,
+"start": 798.22,
+"end": 800.02,
+"text": "a breather. They put me like like it's a technical foul",
+"turbo": "just like a breather. They put me like it's a technical foul.",
+"agree": 0.87,
+"minp": 0.403
+},
+{
+"n": 15,
+"start": 800.02,
+"end": 803.24,
+"text": "right because oh here goes another",
+"turbo": "foul. Right. Because, oh, here goes",
+"agree": 0.83,
+"minp": 0.102
+},
+{
+"n": 16,
+"start": 803.88,
+"end": 805.1,
+"text": "thing i",
+"turbo": "thing.",
+"agree": 0.67,
+"minp": 0.418
+},
+{
+"n": 17,
+"start": 806.6,
+"end": 809.28,
+"text": "feel like god put me on a little time out yeah",
+"turbo": "feel like God put me on a little timeout. Yeah.",
+"agree": 0.86,
+"minp": 0.945
+},
+{
+"n": 18,
+"start": 809.28,
+"end": 812.26,
+"text": "because my my dad was like i feel what you're coming",
+"turbo": "Yeah. Because my dad was like, I feel where you coming",
+"agree": 0.73,
+"minp": 0.866
+},
+{
+"n": 19,
+"start": 812.26,
+"end": 813.86,
+"text": "from yay i understand",
+"turbo": "coming from, yay. I understand,",
+"agree": 0.89,
+"minp": 0.983
+},
+{
+"n": 20,
+"start": 816.74,
+"end": 817.22,
+"text": "but",
+"turbo": "",
+"agree": 0.0,
+"minp": 1.0
+},
+{
+"n": 21,
+"start": 817.92,
+"end": 822.06,
+"text": "you got to be more sophisticated with your words you have",
+"turbo": "got to be more sophisticated with your words. You have to",
+"agree": 0.91,
+"minp": 0.823
+},
+{
+"n": 22,
+"start": 822.06,
+"end": 824.68,
+"text": "to be more sophisticated i agree with that was that was",
+"turbo": "have to be more sophisticated. I agree with God. That was less",
+"agree": 0.78,
+"minp": 0.919
+},
+{
+"n": 23,
+"start": 824.68,
+"end": 827.92,
+"text": "less sophisticated than i needed to be you said god text",
+"turbo": "was less sophisticated than I needed to be. You said God texted you",
+"agree": 0.83,
+"minp": 0.561
+},
+{
+"n": 24,
+"start": 827.92,
+"end": 830.56,
+"text": "you that no his his father yeah second to god my",
+"turbo": "texted you that? No, his father. Yeah, second to God, my dad.",
+"agree": 0.87,
+"minp": 0.152
+},
+{
+"n": 25,
+"start": 830.56,
+"end": 835.56,
+"text": "dad yeah yeah yeah because i know for a fact",
+"turbo": "my dad. Yeah, yeah, yeah. Because I know for a fact,",
+"agree": 0.95,
+"minp": 0.253
+},
+{
+"n": 26,
+"start": 836.96,
+"end": 841.22,
+"text": "um you know pissing off jewish people and pissing off black",
+"turbo": "know, pissing off Jewish people and pissing off black",
+"agree": 0.9,
+"minp": 0.936
+},
+{
+"n": 27,
+"start": 841.22,
+"end": 842.0,
+"text": "people i know that",
+"turbo": "off black people, I know that.",
+"agree": 0.8,
+"minp": 0.589
+}
+]

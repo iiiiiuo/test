@@ -1,0 +1,207 @@
+{
+ "created": "2026-10-15T10:10:21Z",
+ "selected": [
+  {
+   "candidate": "C24",
+   "clip_id": "Clip_01",
+   "title": "Degrade the rich, Demna and Drake"
+  },
+  {
+   "candidate": "C01",
+   "clip_id": "Clip_02",
+   "title": "Drake told me 'nothing ever happened'"
+  },
+  {
+   "candidate": "C02",
+   "clip_id": "Clip_03",
+   "title": "I Googled Drake's address"
+  },
+  {
+   "candidate": "C03",
+   "clip_id": "Clip_04",
+   "title": "Bad Bunny is on our wall"
+  },
+  {
+   "candidate": "C23",
+   "clip_id": "Clip_05",
+   "title": "Water, rainwater and the marathon"
+  },
+  {
+   "candidate": "C05",
+   "clip_id": "Clip_06",
+   "title": "I forgive everybody"
+  },
+  {
+   "candidate": "C04",
+   "clip_id": "Clip_07",
+   "title": "Wu-Tang videos and fresh Timbs"
+  },
+  {
+   "candidate": "C06",
+   "clip_id": "Clip_08",
+   "title": "Divorce and Big Boi's 'I Choose You'"
+  },
+  {
+   "candidate": "C07",
+   "clip_id": "Clip_09",
+   "title": "A billionaire still checks every bill"
+  },
+  {
+   "candidate": "C08",
+   "clip_id": "Clip_10",
+   "title": "God put me on a timeout"
+  },
+  {
+   "candidate": "C09",
+   "clip_id": "Clip_11",
+   "title": "Never finished a novel"
+  },
+  {
+   "candidate": "C25",
+   "clip_id": "Clip_12",
+   "title": "R&B took God out of the music"
+  },
+  {
+   "candidate": "C10",
+   "clip_id": "Clip_13",
+   "title": "Pimp C told me to turn my vocals up"
+  },
+  {
+   "candidate": "C11",
+   "clip_id": "Clip_14",
+   "title": "Drake wrote that verse for me"
+  },
+  {
+   "candidate": "C14",
+   "clip_id": "Clip_15",
+   "title": "The 'get p*ssy toe' Adidas pitch"
+  },
+  {
+   "candidate": "C12",
+   "clip_id": "Clip_16",
+   "title": "Beefing with Puff, so I bought a penthouse"
+  },
+  {
+   "candidate": "C13",
+   "clip_id": "Clip_17",
+   "title": "Virgil, Drake and 4D chess"
+  },
+  {
+   "candidate": "C16",
+   "clip_id": "Clip_18",
+   "title": "Jeff Bezos ain't got no taste"
+  },
+  {
+   "candidate": "C17",
+   "clip_id": "Clip_19",
+   "title": "Elon: best EQ on the planet"
+  },
+  {
+   "candidate": "C26",
+   "clip_id": "Clip_20",
+   "title": "Speak your truth off D'Usse, not Hennessy"
+  },
+  {
+   "candidate": "C18",
+   "clip_id": "Clip_21",
+   "title": "Life is an album: Workout Plan to Stronger"
+  }
+ ],
+ "rejected": [
+  {
+   "candidate": "C15",
+   "topic": "Future / diamond flip-flops",
+   "reason": "speech unclear; too short without it"
+  },
+  {
+   "candidate": "C19",
+   "topic": "Are you single / Stassie / Chaney",
+   "reason": "lyric uncertainty; 160 s"
+  },
+  {
+   "candidate": "C22",
+   "topic": "\"baby B\"",
+   "reason": "24 s gap / padding; too short"
+  },
+  {
+   "candidate": "P2_2-LateReg",
+   "topic": "Late Registration / Power",
+   "reason": "56 s, below 60 s"
+  },
+  {
+   "candidate": "P4-LarryDavid",
+   "topic": "Larry David",
+   "reason": "50 s"
+  },
+  {
+   "candidate": "P5-birthday",
+   "topic": "Kids birthday party",
+   "reason": "custody allegations against named people; long"
+  },
+  {
+   "candidate": "P5-Virgil-funeral",
+   "topic": "Virgil funeral",
+   "reason": "56 s; runs into antisemitic content"
+  },
+  {
+   "candidate": "P3-GD",
+   "topic": "Gangster Disciples",
+   "reason": "54 s"
+  },
+  {
+   "candidate": "P2_2/P3-WuMobb",
+   "topic": "Wu-Tang was Mobb Deep's Drake",
+   "reason": "crosses file boundary (part_2 2 1953+ / part_3 0-90)"
+  }
+ ],
+ "excluded_content": [
+  {
+   "source": "part_1",
+   "start_s": 285,
+   "end_s": 1000,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_2_2",
+   "start_s": 343,
+   "end_s": 1040,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_3",
+   "start_s": 248,
+   "end_s": 760,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_3",
+   "start_s": 1515,
+   "end_s": 1770,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_4",
+   "start_s": 23,
+   "end_s": 330,
+   "disposition": "excluded: Ray J sex-tape / lie-detector allegations about named people"
+  },
+  {
+   "source": "part_5",
+   "start_s": 1950,
+   "end_s": null,
+   "disposition": "excluded: George Floyd misinformation"
+  },
+  {
+   "source": "part_6",
+   "start_s": 1040,
+   "end_s": 1080,
+   "disposition": "excluded: violent statement (\"kill me in seven days\")"
+  },
+  {
+   "source": "mahomes",
+   "start_s": null,
+   "end_s": null,
+   "disposition": "excluded: Mahomes conspiracy with \"Jewish media\" framing"
+  }
+ ]
+}

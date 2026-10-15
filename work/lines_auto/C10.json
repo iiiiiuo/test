@@ -1,0 +1,236 @@
+[
+{
+"n": 1,
+"start": 1395.45,
+"end": 1399.13,
+"text": "i always thought like you know i'm saying it's like i",
+"turbo": "I always thought like, you know what I'm saying? It's like, I always",
+"agree": 0.92,
+"minp": 0.703
+},
+{
+"n": 2,
+"start": 1399.13,
+"end": 1400.93,
+"text": "always thought when i would when i would speak to",
+"turbo": "I always thought, when I would speak to",
+"agree": 0.78,
+"minp": 0.517
+},
+{
+"n": 3,
+"start": 1401.61,
+"end": 1404.77,
+"text": "rap like somebody like pimp c always made me like feel",
+"turbo": "Like somebody like Pimp C always made me like feel",
+"agree": 0.95,
+"minp": 0.695
+},
+{
+"n": 4,
+"start": 1404.77,
+"end": 1408.19,
+"text": "like for me it's like the pink polo rapper I always",
+"turbo": "feel like for me is like the pink polo rapper I always felt",
+"agree": 0.83,
+"minp": 0.714
+},
+{
+"n": 5,
+"start": 1408.19,
+"end": 1410.31,
+"text": "felt like less of myself so I get on the phone",
+"turbo": "always felt like less of myself, so I get on the phone with",
+"agree": 0.92,
+"minp": 0.687
+},
+{
+"n": 6,
+"start": 1410.31,
+"end": 1412.95,
+"text": "when I was something because they did it almost like everything",
+"turbo": "the phone with them or something You know they could they did it almost like everything they",
+"agree": 0.5,
+"minp": 0.128
+},
+{
+"n": 7,
+"start": 1412.95,
+"end": 1416.11,
+"text": "they rapped about was like dissing everything that I ever did",
+"turbo": "everything they rapped about was like dissing everything that I ever did You",
+"agree": 0.92,
+"minp": 0.588
+},
+{
+"n": 8,
+"start": 1416.11,
+"end": 1418.65,
+"text": "you know I'm saying like they was like very not tight",
+"turbo": "ever did You know I'm saying like they was like very not tight",
+"agree": 0.92,
+"minp": 0.565
+},
+{
+"n": 9,
+"start": 1418.65,
+"end": 1422.43,
+"text": "jeans very not close you know I'm saying but I remember",
+"turbo": "tight jeans very not close You know I'm saying, but I remember",
+"agree": 0.96,
+"minp": 0.517
+},
+{
+"n": 10,
+"start": 1422.43,
+"end": 1424.75,
+"text": "Pimp C had a conversation like man I like the way",
+"turbo": "I remember Pimp C had a conversation like man I like the way you",
+"agree": 0.88,
+"minp": 0.709
+},
+{
+"n": 11,
+"start": 1424.75,
+"end": 1429.05,
+"text": "you had your vocals turned up so they could hear what",
+"turbo": "the way you had your vocals turned up so they could You know, so they can hear what you",
+"agree": 0.73,
+"minp": 0.304
+},
+{
+"n": 12,
+"start": 1429.05,
+"end": 1434.01,
+"text": "you saying your vocals turned up that's a very big thing",
+"turbo": "what you saying, you know what I'm saying, you got your vocals turned up. That's a very big thing,",
+"agree": 0.73,
+"minp": 0.416
+},
+{
+"n": 13,
+"start": 1434.01,
+"end": 1435.75,
+"text": "you You know, like it was a guy that came to",
+"turbo": "thing, you know, like it was a guy that came to",
+"agree": 0.91,
+"minp": 0.66
+},
+{
+"n": 14,
+"start": 1435.75,
+"end": 1440.71,
+"text": "one of my 60 ,000 square foot spaces and he was",
+"turbo": "to one of my 60 ,000 square foot spaces and",
+"agree": 0.86,
+"minp": 0.419
+},
+{
+"n": 15,
+"start": 1440.71,
+"end": 1443.77,
+"text": "in the band of Strokes.",
+"turbo": "was in the band of Strokes. He's in",
+"agree": 0.77,
+"minp": 0.949
+},
+{
+"n": 16,
+"start": 1443.79,
+"end": 1444.69,
+"text": "He's in the band of Strokes.",
+"turbo": "Strokes. He's in the band of Strokes",
+"agree": 0.92,
+"minp": 0.817
+},
+{
+"n": 17,
+"start": 1444.91,
+"end": 1447.25,
+"text": "And I remember they had this song where their vocals were",
+"turbo": "and I remember they had this song where their vocals were",
+"agree": 1.0,
+"minp": 0.993
+},
+{
+"n": 18,
+"start": 1447.25,
+"end": 1450.45,
+"text": "low and I wanted to make my vocals low on All",
+"turbo": "were low and I wanted to make my vocals low on All",
+"agree": 0.96,
+"minp": 0.826
+},
+{
+"n": 19,
+"start": 1450.45,
+"end": 1451.95,
+"text": "Falls Down. It didn't work for me.",
+"turbo": "on All Falls Down. It didn't work for me.",
+"agree": 0.88,
+"minp": 0.996
+},
+{
+"n": 20,
+"start": 1452.0,
+"end": 1453.41,
+"text": "I had to speak up.",
+"turbo": "for me. I had to speak up,",
+"agree": 0.83,
+"minp": 0.956
+},
+{
+"n": 21,
+"start": 1453.38,
+"end": 1455.36,
+"text": "you You know what I'm I'm saying they cancel me this",
+"turbo": "up, you know what I'm saying? and they canceled me this",
+"agree": 0.73,
+"minp": 0.08
+},
+{
+"n": 22,
+"start": 1455.36,
+"end": 1459.54,
+"text": "week there's no, not Tucker Carlson no platform would carry me",
+"turbo": "me this week. There's no, not Tucker Carlson, no platform would carry me this",
+"agree": 0.88,
+"minp": 0.795
+},
+{
+"n": 23,
+"start": 1459.54,
+"end": 1462.92,
+"text": "this week either and even a publicist that I'm working with",
+"turbo": "me this week either. And even a publicist that I'm working with",
+"agree": 0.96,
+"minp": 0.866
+},
+{
+"n": 24,
+"start": 1462.92,
+"end": 1467.54,
+"text": "was like I don't know why you would go on drink",
+"turbo": "with was like, I don't know why you would go on drink",
+"agree": 0.96,
+"minp": 0.739
+},
+{
+"n": 25,
+"start": 1467.54,
+"end": 1471.22,
+"text": "chance I said you understand that our numbers did three times",
+"turbo": "drink channel. I said, you understand that our numbers did three times the",
+"agree": 0.83,
+"minp": 0.503
+},
+{
+"n": 26,
+"start": 1471.22,
+"end": 1473.9,
+"text": "the numbers of when Kim was on SNL right you understand",
+"turbo": "times the numbers of when Kim was on SNL, right? You understand",
+"agree": 0.96,
+"minp": 0.961
+}
+]

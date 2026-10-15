@@ -1,0 +1,187 @@
+## C09
+C09_L001 884.85-892.19
+   EN : Like Moses had four chapters, like I have. Contrary to popular belief, I did read the four chapters of Moses, right?
+   ASR: like moses have four chapters like i have contrary to popular belief i did read the four chapters of moses
+C09_L002 892.57-893.85
+   EN : You say you ain't read something?
+   ASR: you say you ain't read somewhere
+C09_L003 893.85-897.13
+   EN : No, what I'm saying, yeah, I've never actually finished a novel.
+   ASR: no what i'm saying yeah i've never actually finished a novel
+C09_L004 897.13-899.51
+   EN : Right. That's fantastic. I respect that.
+   ASR: right that's fantastic i respect that
+C09_L005 899.51-904.41
+   EN : Yeah, because by the way, you know, one thing is that there's nothing whiter than English itself.
+   ASR: yeah because by the way you know one thing is that there's nothing whiter than english itself
+C09_L006 904.41-918.28
+   EN : I do not like to read, like I do not like to work out, like I do not like, you know... there's certain stuff in life that is currently necessary that I don't like.
+   ASR: i do not like to read like i do not like to work out like i do not like you know certain certain there's certain stuff in life that is currently necessary that i don't like
+C09_L007 918.28-923.02
+   EN : That don't make... I'm not disregarding people.
+   ASR: that don't make i'm i'm not disregarding people
+C09_L008 923.02-928.76
+   EN : Some people are more... How many people do you know that can read very well that can't dance very well?
+   ASR: some people are more how many people do you know that can read very well that can't dance very well
+C09_L009 928.76-937.49
+   EN : But see, look — talking about articulation — could it be said that it's misunderstood that reading equals knowledge? That's another thing.
+   ASR: but see look yeah talking about articulation could it be said that it's misunderstood that reading equals knowledge that's another thing
+C09_L010 937.49-941.03
+   EN : Because you don't have to read books to really have knowledge.
+   ASR: because you don't have to read books to really have knowledge
+C09_L011 941.03-942.01
+   EN : That's right.
+   ASR: that's right
+C09_L012 942.01-951.39
+   EN : And if... and the information isn't there... You know where the information, the knowledge is from?
+   ASR: and if and the information isn't there you know what the information the knowledge is from
+C09_L013 951.39-954.15
+   EN : The knowledge is from the two fathers.
+   ASR: the knowledge is from the two fathers
+C09_L014 954.15-955.25
+   EN : Who are the two fathers?
+   ASR: who are the two fathers
+C09_L015 955.25-956.75
+   EN : You tell us.
+   ASR: you tell us
+C09_L016 956.75-960.89
+   EN : Your father and the Father above. Your father and the Father above.
+   ASR: your father and the father above your father and the father above
+C09_L017 961.81-966.63
+   EN : Now what, now what has happened to the black community? They erased the father.
+   ASR: now what now what has happened to the black community they erased the father
+C09_L018 966.63-970.89
+   EN : So all you have is the Father above, but they've erased that, even that.
+   ASR: so all you have is the father above but they've erased that even that they
+## C10
+C10_L001 1395.45-1403.39
+   EN : I always thought, like, you know what I'm saying, it's like, I always thought, when I would speak to rap, like somebody like Pimp C,
+   ASR: i always thought like you know i'm saying it's like i always thought when i would when i would speak to rap like somebody like pimp c
+C10_L002 1403.39-1409.19
+   EN : always made me, like, feel like, for me, it's like the pink polo rapper. I always felt like less of myself.
+   ASR: always made me like feel like for me it's like the pink polo rapper I always felt like less of myself
+C10_L003 1409.19-1416.11
+   EN : So I get on the phone with them or something, you know, they did it, almost like everything they rapped about was like dissing everything that I ever did.
+   ASR: so I get on the phone when I was something because they did it almost like everything they rapped about was like dissing everything that I ever did
+C10_L004 1416.11-1422.13
+   EN : You know what I'm saying? Like, they was like very not tight jeans, very not polo, you know what I'm saying?
+   ASR: you know I'm saying like they was like very not tight jeans very not close you know I'm saying but
+C10_L005 1422.13-1429.63
+   EN : But I remember Pimp C had a conversation, like, man, I like the way you had your vocals turned up so they could hear what you saying.
+   ASR: I remember Pimp C had a conversation like man I like the way you had your vocals turned up so they could hear what you saying
+C10_L006 1429.63-1434.01
+   EN : Your vocals turned up. That's a very big thing.
+   ASR: your vocals turned up that's a very big thing
+C10_L007 1434.29-1443.77
+   EN : You know, like, it was a guy that came to one of my 60,000-square-foot spaces, and he was in the band the Strokes.
+   ASR: You know, like it was a guy that came to one of my 60 ,000 square foot spaces and he was in the band of Strokes.
+C10_L008 1443.79-1444.69
+   EN : He's in the band the Strokes.
+   ASR: He's in the band of Strokes.
+C10_L009 1444.91-1451.05
+   EN : And I remember they had this song where their vocals were low, and I wanted to make my vocals low on 'All Falls Down.'
+   ASR: And I remember they had this song where their vocals were low and I wanted to make my vocals low on All Falls Down.
+C10_L010 1451.15-1451.95
+   EN : It didn't work for me.
+   ASR: It didn't work for me.
+C10_L011 1452.00-1454.48
+   EN : I had to speak up, you know what I'm saying?
+   ASR: I had to speak up. you You know what I'm I'm saying
+C10_L012 1454.48-1460.58
+   EN : And they canceled me this week. There's no... not Tucker Carlson, no platform would carry me this week either.
+   ASR: they cancel me this week there's no, not Tucker Carlson no platform would carry me this week either
+C10_L013 1460.58-1467.76
+   EN : And even a publicist that I'm working with was like, I don't know why you would go on Drink Champs.
+   ASR: and even a publicist that I'm working with was like I don't know why you would go on drink chance
+C10_L014 1467.76-1473.90
+   EN : I said, you understand that our numbers did three times the numbers of when Kim was on SNL, right? You understand that?
+   ASR: I said you understand that our numbers did three times the numbers of when Kim was on SNL right you understand
+## C11
+C11_L001 343.12-348.60
+   EN : Right? We get on our jealousy stuff, like, you know what I'm saying,
+   ASR: right we get on our our jealousy stuff like you know what i'm saying
+C11_L002 348.60-356.14
+   EN : I'll be having, like, 12 writers in the studio that don't add up to Drake, God's version, and be like, oh, Drake just...
+   ASR: i'll be having like 12 writers in the studio that don't add up to drake god's version and be like oh drake just
+C11_L003 356.14-360.10
+   EN : That's why I was interested when he heard '30 Hours,' because Drake wrote that for me.
+   ASR: that's why i was interested when he heard 30 hours because drake wrote that for me
+C11_L004 360.10-363.76
+   EN : I said, I'm like, boom, here, I got, like, this many ideas, like the line I had.
+   ASR: i said i'm like boom here I got like this many ideas like the line.
+C11_L005 363.80-372.95
+   EN : I had, like, I was nervous to do the Victoria's Secret show until I pictured everybody with no clothes.
+   ASR: I had like I Had I was nervous to do Victoria Secret show until I pictured everybody with no clothes
+C11_L006 373.67-377.13
+   EN : Right? Was like a line I had. And like, it's like a stripper line.
+   ASR: Right was like a line. I had and like it's like a stripper line
+C11_L007 377.69-379.27
+   EN : Like, yeah, but you don't think about it.
+   ASR: Like yeah, but you don't think about it
+C11_L008 379.27-383.51
+   EN : Yeah, you could be nervous to do, like, a speech, and they say what they say: picture everybody naked.
+   ASR: Yeah, you could be nervous to do like a speech and they say what they say picture everybody naked
+C11_L009 383.93-390.33
+   EN : So we flipped it, like, I was nervous to do Victoria's Secret until I pictured everybody naked, and I sent it to Drake,
+   ASR: So we flipped it like I was nervous to do Victoria's Secret until I pictured everybody naked and I sent it to Drake
+C11_L010 390.33-394.76
+   EN : and Drake took it and barred it out and wrote the whole rap.
+   ASR: and Drake Drake took it and barred it out and wrote the whole rap.
+C11_L011 394.96-401.46
+   EN : You understand, like, how much easier my life would be if Drake would just, like, write my raps for me? You know what I'm saying?
+   ASR: You understand like how much easier my life would be if Drake would just like write my raps for me. You know what I'm saying?
+C11_L012 401.48-403.62
+   EN : I'm sure everyone wished they had that luxury, but...
+   ASR: I'm sure everyone wished they had that luxury, but uh.
+## C12
+C12_L001 1820.62-1821.16
+   EN : Can I continue?
+   ASR: Can I continue?
+C12_L002 1821.62-1826.72
+   EN : Yeah. But I feel like, you know what I'm saying?
+   ASR: Yeah. But I feel like, you know what I'm saying?
+C12_L003 1827.16-1831.44
+   EN : When I was having the funny thing, the issues with Puff I was having,
+   ASR: When I was having, the funny thing with the issues with Puff I was having.
+C12_L004 1831.56-1834.86
+   EN : Thank you. I went to the Waldorf and I saw a couple people.
+   ASR: Thank you. I went to the Waldorf and I saw a couple people.
+C12_L005 1835.82-1836.46
+   EN : Waldorf where?
+   ASR: Waldorf where?
+C12_L006 1836.52-1839.92
+   EN : Because I visited... the Waldorf in California. I love it.
+   ASR: Because I visit. The Waldorf in California. I love it.
+C12_L007 1839.98-1844.18
+   EN : And I saw a couple people just standing out in front of the space. Just standing there.
+   ASR: And I saw a couple people just standing out in front of the space. Just standing there.
+C12_L008 1845.77-1848.85
+   EN : And I was like, oh man, Puff really does this, right?
+   ASR: And I was like, oh man, Puff really does this. Right?
+C12_L009 1849.35-1855.37
+   EN : And it just made me think, I got to really get on my billionaire shit. So I went and bought a 50 million dollar penthouse,
+   ASR: and it just made me think I got to really get on my billionaire shit so I went and bought a 50 million dollar penthouse
+C12_L010 1855.87-1860.59
+   EN : and I Maybach'd the fleet out. Because I was like, yo, I can't be walking around homeless,
+   ASR: and I made back the fleet out because I was like yo I'm not gonna I can't be walking around homeless
+C12_L011 1861.33-1864.75
+   EN : like, beefing with Puff. You got to, like, you know what I mean?
+   ASR: like beefing with Puff you got to like you know what I mean
+C12_L012 1864.75-1867.91
+   EN : I don't think that would have been an issue.
+   ASR: I don't think that would have been an issue
+C12_L013 1869.29-1875.33
+   EN : And so what I really did get out of it is that, like, Puff, like, stay rich, never gonna... you know what I'm saying?
+   ASR: and so what I really did get out of it is that like Puff like stay rich never gonna you know what I'm saying
+C12_L014 1875.33-1878.45
+   EN : You never seen this man in no Vans. You know what I'm saying?
+   ASR: you never seen this man in no vans you know what I'm saying
+C12_L015 1878.45-1880.63
+   EN : This nigga's just keeping it rich. He's good.
+   ASR: man, this nigga's just keeping it rich. He's good.
+C12_L016 1880.77-1882.27
+   EN : He wasn't rich at all times.
+   ASR: He's been rich at all times.
+C12_L017 1882.71-1884.85
+   EN : He was like this. He was doing the Puppy dance, you remember?
+   ASR: He was like this. He was doing the puppy dance. You remember?

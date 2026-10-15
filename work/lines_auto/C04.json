@@ -1,0 +1,281 @@
+[
+{
+"n": 1,
+"start": 1658.17,
+"end": 1660.21,
+"text": "All right. Dungeon Family or Wu -Tang Clan?",
+"turbo": "too. All right. Dungeon family or Wu -Tang Clan?",
+"agree": 0.94,
+"minp": 0.598
+},
+{
+"n": 2,
+"start": 1661.03,
+"end": 1662.25,
+"text": "Oh, you know, see,",
+"turbo": "Oh, you know.",
+"agree": 0.86,
+"minp": 0.559
+},
+{
+"n": 3,
+"start": 1663.23,
+"end": 1664.41,
+"text": "it's ungodly.",
+"turbo": "it's ungodly.",
+"agree": 1.0,
+"minp": 1.0
+},
+{
+"n": 4,
+"start": 1666.23,
+"end": 1668.17,
+"text": "Wu -Tang, Wu -Tang.",
+"turbo": "Wu -Tang. Wu -Tang.",
+"agree": 1.0,
+"minp": 0.993
+},
+{
+"n": 5,
+"start": 1668.23,
+"end": 1669.05,
+"text": "What? Come on, man.",
+"turbo": "Come on, man. This",
+"agree": 0.75,
+"minp": 0.579
+},
+{
+"n": 6,
+"start": 1669.07,
+"end": 1670.97,
+"text": "This is like Tony Stark's.",
+"turbo": "man. This is like Tony Starks.",
+"agree": 0.73,
+"minp": 0.975
+},
+{
+"n": 7,
+"start": 1671.25,
+"end": 1672.23,
+"text": "This is a drip.",
+"turbo": "This is the drip.",
+"agree": 0.75,
+"minp": 0.732
+},
+{
+"n": 8,
+"start": 1672.39,
+"end": 1672.89,
+"text": "You know what I'm saying?",
+"turbo": "You know what I'm saying?",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 9,
+"start": 1673.05,
+"end": 1675.57,
+"text": "But I got to say, the Wu -Tang videos had me",
+"turbo": "I'm saying? But I got to say, the Wu -Tang videos had me",
+"agree": 0.92,
+"minp": 0.958
+},
+{
+"n": 10,
+"start": 1675.57,
+"end": 1677.57,
+"text": "spending a lot more money than I needed to.",
+"turbo": "me spending a lot more money than I needed to.",
+"agree": 0.95,
+"minp": 1.0
+},
+{
+"n": 11,
+"start": 1677.57,
+"end": 1682.79,
+"text": "Me and Don C was buying new Tims, new puffer jackets,",
+"turbo": "to. Me and Don C was buying new Tims, new puffer",
+"agree": 0.91,
+"minp": 0.631
+},
+{
+"n": 12,
+"start": 1683.59,
+"end": 1687.23,
+"text": "fitted hats, white tees, wallabies.",
+"turbo": "fitted hats, white tees, wallabies.",
+"agree": 1.0,
+"minp": 0.917
+},
+{
+"n": 13,
+"start": 1687.37,
+"end": 1689.87,
+"text": "And then because it looked like every day was a video.",
+"turbo": "And then because it looked like every day was a video.",
+"agree": 1.0,
+"minp": 0.405
+},
+{
+"n": 14,
+"start": 1690.05,
+"end": 1693.31,
+"text": "And I got to like New York and I seen Dirty",
+"turbo": "And I got to like New York and I seen Dirty",
+"agree": 1.0,
+"minp": 0.683
+},
+{
+"n": 15,
+"start": 1693.31,
+"end": 1693.87,
+"text": "Tims.",
+"turbo": "Timbs.",
+"agree": 0.0,
+"minp": 0.987
+},
+{
+"n": 16,
+"start": 1695.28,
+"end": 1696.6,
+"text": "I called free up.",
+"turbo": "I called free up. I",
+"agree": 0.89,
+"minp": 0.357
+},
+{
+"n": 17,
+"start": 1696.6,
+"end": 1698.96,
+"text": "I said, I didn't know niggas had Dirty Tims in New",
+"turbo": "up. I said, I didn't know niggas had a new Timbs in New",
+"agree": 0.75,
+"minp": 0.858
+},
+{
+"n": 18,
+"start": 1698.96,
+"end": 1701.56,
+"text": "York. I spent all this money on my freshman Tims.",
+"turbo": "New York. I just spent all this money on my fresh beer, Timbs.",
+"agree": 0.7,
+"minp": 0.538
+},
+{
+"n": 19,
+"start": 1701.76,
+"end": 1703.86,
+"text": "I can't remember if my Tims go more than three days.",
+"turbo": "I couldn't let my Timbs go more than three days.",
+"agree": 0.67,
+"minp": 0.669
+},
+{
+"n": 20,
+"start": 1704.56,
+"end": 1707.12,
+"text": "If my Tims got a scuff on them, I'm in the",
+"turbo": "If my Timbs got a scuff on them, I'm in the",
+"agree": 0.91,
+"minp": 0.835
+},
+{
+"n": 21,
+"start": 1707.12,
+"end": 1707.44,
+"text": "meeting.",
+"turbo": "in the meeting.",
+"agree": 0.5,
+"minp": 0.999
+},
+{
+"n": 22,
+"start": 1708.3,
+"end": 1710.52,
+"text": "Meeting adjourned. I need a new pair of Timbs.",
+"turbo": "Meeting adjourned. I need a new pair of Timbs.",
+"agree": 1.0,
+"minp": 0.45
+},
+{
+"n": 23,
+"start": 1710.56,
+"end": 1711.4,
+"text": "I'll be back.",
+"turbo": "Timbs. I'll be back.",
+"agree": 0.86,
+"minp": 0.944
+},
+{
+"n": 24,
+"start": 1711.48,
+"end": 1713.22,
+"text": "And I carried the Timbs in a plastic bag.",
+"turbo": "And I carry the Timbs in a plastic bag.",
+"agree": 0.89,
+"minp": 0.424
+},
+{
+"n": 25,
+"start": 1713.34,
+"end": 1714.54,
+"text": "Put them on in the meeting.",
+"turbo": "Put them on in the meeting.",
+"agree": 1.0,
+"minp": 0.587
+},
+{
+"n": 26,
+"start": 1714.62,
+"end": 1715.82,
+"text": "Now let's continue the conversation.",
+"turbo": "Now let's continue the conversation.",
+"agree": 1.0,
+"minp": 0.943
+},
+{
+"n": 27,
+"start": 1716.1,
+"end": 1716.7,
+"text": "Yeah, yeah, yeah.",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.395
+},
+{
+"n": 28,
+"start": 1716.86,
+"end": 1718.56,
+"text": "Okay. No, it was the DJ.",
+"turbo": "Okay. No, I was like the DJ.",
+"agree": 0.77,
+"minp": 0.39
+},
+{
+"n": 29,
+"start": 1718.72,
+"end": 1719.32,
+"text": "Well, I got to do the DJ.",
+"turbo": "You",
+"agree": 0.0,
+"minp": 0.465
+},
+{
+"n": 30,
+"start": 1719.32,
+"end": 1720.12,
+"text": "You got to do this.",
+"turbo": "You got to do this. I'm",
+"agree": 0.91,
+"minp": 0.994
+},
+{
+"n": 31,
+"start": 1720.16,
+"end": 1721.2,
+"text": "I'm sorry. You're correct.",
+"turbo": "do this. I'm sorry. You're correct.",
+"agree": 0.8,
+"minp": 0.874
+}
+]

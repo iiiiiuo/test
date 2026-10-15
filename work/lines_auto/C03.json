@@ -1,0 +1,308 @@
+[
+{
+"n": 1,
+"start": 30.54,
+"end": 34.04,
+"text": "OK, you know, like right now, when me, James Blake are",
+"turbo": "okay yes a like right now when me James Blake are",
+"agree": 0.73,
+"minp": 0.582
+},
+{
+"n": 2,
+"start": 34.04,
+"end": 36.58,
+"text": "and no idea in the studio working on our album.",
+"turbo": "and no idea in the studio working on our album",
+"agree": 1.0,
+"minp": 0.809
+},
+{
+"n": 3,
+"start": 36.72,
+"end": 38.96,
+"text": "Who do you think we'd be bringing up when we're talking",
+"turbo": "who do you think we'd be bringing up when we talking",
+"agree": 0.91,
+"minp": 0.79
+},
+{
+"n": 4,
+"start": 38.96,
+"end": 39.54,
+"text": "about songs?",
+"turbo": "talking about songs",
+"agree": 0.8,
+"minp": 0.994
+},
+{
+"n": 5,
+"start": 40.14,
+"end": 41.82,
+"text": "Stadium artists. Who do you think we bring up?",
+"turbo": "artists who do you think we bring up",
+"agree": 0.94,
+"minp": 0.829
+},
+{
+"n": 6,
+"start": 42.37,
+"end": 43.55,
+"text": "And we ain't got no problem.",
+"turbo": "and we ain't got no problem",
+"agree": 1.0,
+"minp": 0.817
+},
+{
+"n": 7,
+"start": 43.73,
+"end": 44.49,
+"text": "We don't beef.",
+"turbo": "we do it so beefy",
+"agree": 0.25,
+"minp": 0.339
+},
+{
+"n": 8,
+"start": 44.65,
+"end": 46.23,
+"text": "No problem. It's just like, yo, we competing.",
+"turbo": "beefy no problem it's just like yo we competing",
+"agree": 0.94,
+"minp": 0.887
+},
+{
+"n": 9,
+"start": 46.39,
+"end": 47.73,
+"text": "Not Drake. Who do you think we bring?",
+"turbo": "not Drake who you think we bring",
+"agree": 0.93,
+"minp": 0.691
+},
+{
+"n": 10,
+"start": 47.79,
+"end": 50.41,
+"text": "Anybody else got another Travis Stadium?",
+"turbo": "we bring anybody else got another Travis What is?",
+"agree": 0.67,
+"minp": 0.713
+},
+{
+"n": 11,
+"start": 51.9,
+"end": 52.96,
+"text": "Think down here.",
+"turbo": "Think down here.",
+"agree": 1.0,
+"minp": 0.894
+},
+{
+"n": 12,
+"start": 54.48,
+"end": 55.14,
+"text": "It's called Black.",
+"turbo": "Kodak Black?",
+"agree": 0.4,
+"minp": 0.456
+},
+{
+"n": 13,
+"start": 55.42,
+"end": 56.12,
+"text": "No, no.",
+"turbo": "Black? No, no.",
+"agree": 0.8,
+"minp": 0.997
+},
+{
+"n": 14,
+"start": 58.42,
+"end": 64.82,
+"text": "stadium stadium bad bunny that's who's on our wall right that's",
+"turbo": "Stadium. Bad Bunny. That's who's on our wall. That's who's",
+"agree": 0.86,
+"minp": 0.046
+},
+{
+"n": 15,
+"start": 64.82,
+"end": 67.92,
+"text": "who's our wall when we make music we loading up concert",
+"turbo": "who's on our wall when we make music. We loading up concert",
+"agree": 0.96,
+"minp": 0.553
+},
+{
+"n": 16,
+"start": 67.92,
+"end": 71.78,
+"text": "footage are you talking about the aesthetics of the stadium and",
+"turbo": "concert footage. Are you talking about the aesthetics of the stadium and what",
+"agree": 0.92,
+"minp": 0.453
+},
+{
+"n": 17,
+"start": 71.78,
+"end": 75.02,
+"text": "what would it look yeah not just the respect if it",
+"turbo": "and what it's looking for? Yeah, not just the aesthetics. And in retrospect, if it",
+"agree": 0.54,
+"minp": 0.154
+},
+{
+"n": 18,
+"start": 75.02,
+"end": 77.98,
+"text": "If it wasn't for me, there might not be no Bad",
+"turbo": "if it wasn't for me, there might not be no Bad",
+"agree": 1.0,
+"minp": 0.236
+},
+{
+"n": 19,
+"start": 77.98,
+"end": 80.9,
+"text": "Bunny. I brought reggae tone to America, I'm sorry.",
+"turbo": "Bad Bunny. I brought Reggaeton to America. I'm sorry.",
+"agree": 0.78,
+"minp": 0.34
+},
+{
+"n": 20,
+"start": 81.34,
+"end": 82.32,
+"text": "Let's make some noise for me.",
+"turbo": "I was making you know it. You're",
+"agree": 0.0,
+"minp": 0.551
+},
+{
+"n": 21,
+"start": 84.34,
+"end": 86.08,
+"text": "I'm sorry, yeah, I didn't mean to grab you, cool.",
+"turbo": "making me. You're cool. Come",
+"agree": 0.13,
+"minp": 0.135
+},
+{
+"n": 22,
+"start": 86.18,
+"end": 86.6,
+"text": "Come on, let's go.",
+"turbo": "Come on, let's go.",
+"agree": 1.0,
+"minp": 0.832
+},
+{
+"n": 23,
+"start": 86.76,
+"end": 89.06,
+"text": "So the thing is, it depends on what we're doing.",
+"turbo": "let's go. So the thing is, it depends on what we're doing. You know",
+"agree": 0.83,
+"minp": 0.315
+},
+{
+"n": 24,
+"start": 89.22,
+"end": 89.5,
+"text": "You know what I'm saying?",
+"turbo": "doing. You know what I'm saying?",
+"agree": 0.91,
+"minp": 0.681
+},
+{
+"n": 25,
+"start": 89.52,
+"end": 91.72,
+"text": "We're going to do clothes, we're going to look at Supreme,",
+"turbo": "You know what I'm saying? We're going to do clothes. We're going to look at Supreme.",
+"agree": 0.81,
+"minp": 0.514
+},
+{
+"n": 26,
+"start": 92.52,
+"end": 94.66,
+"text": "we're going to look at Balenciaga, we're going to look at",
+"turbo": "Right. We're going to look at Balenciaga. We're going to look at",
+"agree": 0.96,
+"minp": 0.985
+},
+{
+"n": 27,
+"start": 94.66,
+"end": 97.34,
+"text": "Ralph, we're going to look at these raps, you know, we're",
+"turbo": "to look at Ralph. Are we looking at these raps? Right. You know, we're going",
+"agree": 0.62,
+"minp": 0.416
+},
+{
+"n": 28,
+"start": 97.34,
+"end": 100.26,
+"text": "going to look at Drake, you know what I'm saying, we're",
+"turbo": "know, we're going to look at Drake. You know what I'm saying? We're looking",
+"agree": 0.88,
+"minp": 0.976
+},
+{
+"n": 29,
+"start": 100.26,
+"end": 103.2,
+"text": "looking at stadiums, we're going to look at Bad Bunny, we",
+"turbo": "We're looking at stadiums. Right. We're going to look at Bad Bunny. We've got to",
+"agree": 0.77,
+"minp": 0.714
+},
+{
+"n": 30,
+"start": 103.2,
+"end": 104.84,
+"text": "got to look at everything, that's what we have.",
+"turbo": "We've got to look at everything. That's what we have. We're going",
+"agree": 0.86,
+"minp": 0.406
+},
+{
+"n": 31,
+"start": 104.84,
+"end": 105.62,
+"text": "We're gonna look at money.",
+"turbo": "what we have. We're going to look at money.",
+"agree": 0.57,
+"minp": 0.427
+},
+{
+"n": 32,
+"start": 106.06,
+"end": 107.28,
+"text": "We're gonna look at Elon.",
+"turbo": "We're going to look at Elon.",
+"agree": 0.73,
+"minp": 0.631
+},
+{
+"n": 33,
+"start": 107.94,
+"end": 109.64,
+"text": "You know, so we're gonna look at the Saudis",
+"turbo": "You know what I'm saying? then we're gonna look at the Saudis.",
+"agree": 0.76,
+"minp": 0.591
+},
+{
+"n": 34,
+"start": 110.26,
+"end": 111.34,
+"text": "That's how I look at everything",
+"turbo": "That's how I look at everything.",
+"agree": 1.0,
+"minp": 0.736
+}
+]

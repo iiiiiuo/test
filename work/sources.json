@@ -1,0 +1,50 @@
+{
+ "part_1": {
+  "file": "part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "start_pts": 0,
+  "order": 1,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ },
+ "part_2_2": {
+  "file": "part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "start_pts": 984,
+  "order": 2,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ },
+ "part_3": {
+  "file": "part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "start_pts": 0,
+  "order": 3,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ },
+ "part_4": {
+  "file": "part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "start_pts": 0,
+  "order": 4,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ },
+ "part_5": {
+  "file": "part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "start_pts": 984,
+  "order": 5,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ },
+ "part_6": {
+  "file": "part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "start_pts": 984,
+  "order": 6,
+  "fps": "24000/1001",
+  "timebase": "1/24000"
+ }
+}

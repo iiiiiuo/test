@@ -1,0 +1,182 @@
+[
+{
+"n": 1,
+"start": 641.22,
+"end": 643.36,
+"text": "But right now in America, say one of the laws that",
+"turbo": "atmosphere. But right now in America, say one of the laws that I would",
+"agree": 0.88,
+"minp": 0.88
+},
+{
+"n": 2,
+"start": 643.36,
+"end": 647.3,
+"text": "I would change is it's illegal to collect rainwater in America.",
+"turbo": "that I would change is it's illegal to collect rainwater in America.",
+"agree": 0.96,
+"minp": 0.869
+},
+{
+"n": 3,
+"start": 647.64,
+"end": 649.46,
+"text": "What? Illegal? It's illegal?",
+"turbo": "What? Illegal? It's",
+"agree": 0.86,
+"minp": 0.99
+},
+{
+"n": 4,
+"start": 649.86,
+"end": 652.76,
+"text": "It's illegal to collect rainwater in America.",
+"turbo": "It's illegal to collect rainwater in America. You go",
+"agree": 0.88,
+"minp": 0.961
+},
+{
+"n": 5,
+"start": 652.76,
+"end": 654.64,
+"text": "You go to every other country, they're collecting rainwater.",
+"turbo": "in America. You go to every other country, they're collecting rainwater.",
+"agree": 0.9,
+"minp": 0.884
+},
+{
+"n": 6,
+"start": 655.26,
+"end": 658.24,
+"text": "You know, people are controlling the water.",
+"turbo": "You know, people are controlling the water.",
+"agree": 1.0,
+"minp": 0.951
+},
+{
+"n": 7,
+"start": 658.24,
+"end": 659.04,
+"text": "you",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.186
+},
+{
+"n": 8,
+"start": 659.78,
+"end": 662.3,
+"text": "know it's going to be fuck what t -shirt you wear",
+"turbo": "You know, it's going to be fuck what T -shirt you wear,",
+"agree": 0.96,
+"minp": 0.37
+},
+{
+"n": 9,
+"start": 662.3,
+"end": 665.66,
+"text": "what political opinion and who got beef or who you ain't",
+"turbo": "wear, what political opinion, and who got beef for who. You ain't got",
+"agree": 0.83,
+"minp": 0.489
+},
+{
+"n": 10,
+"start": 665.66,
+"end": 667.38,
+"text": "got no water you",
+"turbo": "ain't got no water.",
+"agree": 0.75,
+"minp": 0.75
+},
+{
+"n": 11,
+"start": 669.2,
+"end": 673.16,
+"text": "ain't got no life i'm trying to tell you because",
+"turbo": "ain't got no life i'm trying to tell you",
+"agree": 0.95,
+"minp": 0.771
+},
+{
+"n": 12,
+"start": 674.44,
+"end": 679.79,
+"text": "you know a lot of people call me they want to",
+"turbo": "you know a lot of people call me they want to call",
+"agree": 0.96,
+"minp": 0.996
+},
+{
+"n": 13,
+"start": 679.79,
+"end": 681.57,
+"text": "call me crazy it's",
+"turbo": "want to call me crazy it's",
+"agree": 0.8,
+"minp": 0.999
+},
+{
+"n": 14,
+"start": 683.43,
+"end": 687.32,
+"text": "like it's like running a marathon if i got some short",
+"turbo": "like it's like running a marathon if i got some short",
+"agree": 1.0,
+"minp": 0.983
+},
+{
+"n": 15,
+"start": 687.32,
+"end": 690.74,
+"text": "shorts on and a tank top and i'm sweating hard as",
+"turbo": "short shorts on and a tank top and i'm sweating hard as",
+"agree": 0.96,
+"minp": 0.998
+},
+{
+"n": 16,
+"start": 690.74,
+"end": 696.01,
+"text": "hell um running down the street running the wrong way down",
+"turbo": "as hell um running down a street running the wrong way down",
+"agree": 0.87,
+"minp": 0.222
+},
+{
+"n": 17,
+"start": 696.01,
+"end": 699.21,
+"text": "a freeway then you're going to say that person is crazy",
+"turbo": "down a freeway then they you're gonna say that person is crazy",
+"agree": 0.78,
+"minp": 0.191
+},
+{
+"n": 18,
+"start": 699.21,
+"end": 702.49,
+"text": "but if a hundred other people do it with me then",
+"turbo": "crazy but if a hundred other people do it with me, then",
+"agree": 0.96,
+"minp": 0.311
+},
+{
+"n": 19,
+"start": 702.49,
+"end": 704.85,
+"text": "it's a marathon that's",
+"turbo": "then it's a marathon.",
+"agree": 0.75,
+"minp": 0.604
+},
+{
+"n": 20,
+"start": 705.72,
+"end": 706.14,
+"text": "a good way to",
+"turbo": "a good way to put it.",
+"agree": 0.8,
+"minp": 0.985
+}
+]

@@ -1,0 +1,200 @@
+[
+{
+"n": 1,
+"start": 1592.48,
+"end": 1595.52,
+"text": "time. Yeah, it's so funny, though, because me and Drake, you",
+"turbo": "though. Because me and Drake, you know,",
+"agree": 0.67,
+"minp": 0.748
+},
+{
+"n": 2,
+"start": 1595.52,
+"end": 1598.44,
+"text": "know, before Donda came out, we met up at the studio.",
+"turbo": "you know, before Donda came out, we met up at the studio.",
+"agree": 0.96,
+"minp": 0.946
+},
+{
+"n": 3,
+"start": 1646.82,
+"end": 1650.18,
+"text": "So then Drake says to me, yo,",
+"turbo": "so so then drake says to me yo",
+"agree": 0.93,
+"minp": 0.608
+},
+{
+"n": 4,
+"start": 1651.05,
+"end": 1654.77,
+"text": "no, I need to tell the story like this.",
+"turbo": "no no i need to tell the story like this",
+"agree": 0.95,
+"minp": 0.666
+},
+{
+"n": 5,
+"start": 1656.68,
+"end": 1662.62,
+"text": "So basically, you know, Jared Kushner asked Steve Stout, like, yo,",
+"turbo": "uh you know jared kushner asked steve style like yo",
+"agree": 0.76,
+"minp": 0.893
+},
+{
+"n": 6,
+"start": 1662.62,
+"end": 1664.74,
+"text": "just tell me, like, did Ye fuck my wife?",
+"turbo": "yo just tell me like did yay fuck my wife",
+"agree": 0.84,
+"minp": 0.957
+},
+{
+"n": 7,
+"start": 1665.1,
+"end": 1670.32,
+"text": "And Steve Stout was like, no, Ye never did nothing.",
+"turbo": "and steve stout was like no yay never never never did nothing so",
+"agree": 0.78,
+"minp": 0.798
+},
+{
+"n": 8,
+"start": 1670.32,
+"end": 1673.86,
+"text": "So when I went to the White House, I saw Jared.",
+"turbo": "nothing so when i went to the white house um i saw jared i was",
+"agree": 0.85,
+"minp": 0.74
+},
+{
+"n": 9,
+"start": 1673.92,
+"end": 1676.02,
+"text": "I was like, yo, I want to just tell you, nothing",
+"turbo": "jared i was like yeah i want to just tell you nothing",
+"agree": 0.87,
+"minp": 0.477
+},
+{
+"n": 10,
+"start": 1676.02,
+"end": 1678.34,
+"text": "ever happened. He's like, yo, I don't know what you're talking",
+"turbo": "ever happened he's like yo i don't know what you're talking",
+"agree": 1.0,
+"minp": 0.992
+},
+{
+"n": 11,
+"start": 1678.34,
+"end": 1680.34,
+"text": "about. I was like, yo, and I grabbed him by both",
+"turbo": "talking about i was like yo and i grabbed him by both",
+"agree": 0.96,
+"minp": 0.997
+},
+{
+"n": 12,
+"start": 1680.34,
+"end": 1684.74,
+"text": "shoulders, and I was like, yo, Jared, nothing has ever happened.",
+"turbo": "by both shoulders and i was like yo jared nothing has nothing's ever happened",
+"agree": 0.88,
+"minp": 0.545
+},
+{
+"n": 13,
+"start": 1685.02,
+"end": 1686.74,
+"text": "And he said, yo, thank you for saying that.",
+"turbo": "and he said yo thank you for saying that",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 14,
+"start": 1687.42,
+"end": 1690.64,
+"text": "Okay, so when I saw Drake, we was in a parking",
+"turbo": "so when i saw drake we was in the parking lot",
+"agree": 0.82,
+"minp": 0.69
+},
+{
+"n": 15,
+"start": 1690.64,
+"end": 1692.66,
+"text": "lot, we were talking, and he said, yo, I just want",
+"turbo": "parking lot we're talking and he said Yo, I just want to",
+"agree": 0.78,
+"minp": 0.715
+},
+{
+"n": 16,
+"start": 1692.66,
+"end": 1694.94,
+"text": "to tell you, yo, nothing ever happened.",
+"turbo": "I just want to tell you, yo, nothing ever happened.",
+"agree": 0.82,
+"minp": 0.99
+},
+{
+"n": 17,
+"start": 1695.92,
+"end": 1698.8,
+"text": "And then I said, yo, thank you for saying that.",
+"turbo": "And then I said, yo, thank you for saying that.",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 18,
+"start": 1698.8,
+"end": 1700.68,
+"text": "When did I become Jared Kushner?",
+"turbo": "that. When did I become Jerry Cushman?",
+"agree": 0.62,
+"minp": 0.148
+},
+{
+"n": 19,
+"start": 1705.15,
+"end": 1706.85,
+"text": "I didn't know this was going.",
+"turbo": "I didn't know where this was going.",
+"agree": 0.92,
+"minp": 0.612
+},
+{
+"n": 20,
+"start": 1707.41,
+"end": 1707.93,
+"text": "I",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.946
+},
+{
+"n": 21,
+"start": 1711.51,
+"end": 1712.83,
+"text": "did not know this was going.",
+"turbo": "I did not know where this was going.",
+"agree": 0.86,
+"minp": 0.924
+},
+{
+"n": 22,
+"start": 1713.05,
+"end": 1714.51,
+"text": "I was scared for a second.",
+"turbo": "You had me scared for a second.",
+"agree": 0.62,
+"minp": 0.26
+}
+]

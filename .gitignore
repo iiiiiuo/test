@@ -1,3 +1,5 @@
 input/
 work/*.wav
 work/ref/
+work/audio/
+work/__pycache__/

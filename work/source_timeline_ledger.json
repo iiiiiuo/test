@@ -1,1 +1,387 @@
-{"source_id": "SOURCE_INTERVIEW", "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f", "interval_convention": "half-open [start_frame, end_frame_exclusive), frame = pts/1001", "reservations": [], "committed": []}
+{
+ "schema": "multi-source-v2",
+ "updated": "2026-10-15T10:10:21Z",
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); frame=ceil((t*24000-start_pts)/1001); timebase 1/24000",
+ "sources": {
+  "part_1": {
+   "file": "part_1.mp4",
+   "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+   "start_pts": 0
+  },
+  "part_2_2": {
+   "file": "part_2 2.mp4",
+   "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+   "start_pts": 984
+  },
+  "part_3": {
+   "file": "part_3.mp4",
+   "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+   "start_pts": 0
+  },
+  "part_4": {
+   "file": "part_4.mp4",
+   "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+   "start_pts": 0
+  },
+  "part_5": {
+   "file": "part_5.mp4",
+   "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+   "start_pts": 984
+  },
+  "part_6": {
+   "file": "part_6.mp4",
+   "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+   "start_pts": 984
+  }
+ },
+ "reservations": [
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_01",
+   "candidate": "C24",
+   "status": "RESERVED",
+   "start_frame": 28860,
+   "end_frame_excl": 30445,
+   "start_s": 1203.7,
+   "end_s": 1269.8,
+   "audio_48k": [
+    57777600,
+    60950400
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_02",
+   "candidate": "C01",
+   "status": "RESERVED",
+   "start_frame": 38183,
+   "end_frame_excl": 38372,
+   "start_s": 1592.52,
+   "end_s": 1600.4,
+   "audio_48k": [
+    76440960,
+    76819200
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_02",
+   "candidate": "C01",
+   "status": "RESERVED",
+   "start_frame": 39484,
+   "end_frame_excl": 41110,
+   "start_s": 1646.8,
+   "end_s": 1714.6,
+   "audio_48k": [
+    79046400,
+    82300800
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_03",
+   "candidate": "C02",
+   "status": "RESERVED",
+   "start_frame": 41937,
+   "end_frame_excl": 42227,
+   "start_s": 1749.1,
+   "end_s": 1761.2,
+   "audio_48k": [
+    83956800,
+    84537600
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_03",
+   "candidate": "C02",
+   "status": "RESERVED",
+   "start_frame": 43073,
+   "end_frame_excl": 44531,
+   "start_s": 1796.5,
+   "end_s": 1857.3,
+   "audio_48k": [
+    86232000,
+    89150400
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_04",
+   "candidate": "C03",
+   "status": "RESERVED",
+   "start_frame": 731,
+   "end_frame_excl": 2670,
+   "start_s": 30.5,
+   "end_s": 111.4,
+   "audio_48k": [
+    1464000,
+    5347200
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_05",
+   "candidate": "C23",
+   "status": "RESERVED",
+   "start_frame": 15371,
+   "end_frame_excl": 16929,
+   "start_s": 641.1,
+   "end_s": 706.1,
+   "audio_48k": [
+    30772800,
+    33892800
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_06",
+   "candidate": "C05",
+   "status": "RESERVED",
+   "start_frame": 26512,
+   "end_frame_excl": 26656,
+   "start_s": 1105.8,
+   "end_s": 1111.8,
+   "audio_48k": [
+    53078400,
+    53366400
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_06",
+   "candidate": "C05",
+   "status": "RESERVED",
+   "start_frame": 27514,
+   "end_frame_excl": 29171,
+   "start_s": 1147.6,
+   "end_s": 1216.7,
+   "audio_48k": [
+    55084800,
+    58401600
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_07",
+   "candidate": "C04",
+   "status": "RESERVED",
+   "start_frame": 39754,
+   "end_frame_excl": 41269,
+   "start_s": 1658.1,
+   "end_s": 1721.3,
+   "audio_48k": [
+    79588800,
+    82622400
+   ]
+  },
+  {
+   "source_id": "part_2_2",
+   "clip_id": "Clip_08",
+   "candidate": "C06",
+   "status": "RESERVED",
+   "start_frame": 42010,
+   "end_frame_excl": 43950,
+   "start_s": 1752.2,
+   "end_s": 1833.1,
+   "audio_48k": [
+    84105600,
+    87988800
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_09",
+   "candidate": "C07",
+   "status": "RESERVED",
+   "start_frame": 4371,
+   "end_frame_excl": 5949,
+   "start_s": 182.3,
+   "end_s": 248.1,
+   "audio_48k": [
+    8750400,
+    11908800
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_10",
+   "candidate": "C08",
+   "status": "RESERVED",
+   "start_frame": 18474,
+   "end_frame_excl": 20191,
+   "start_s": 770.5,
+   "end_s": 842.1,
+   "audio_48k": [
+    36984000,
+    40420800
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_11",
+   "candidate": "C09",
+   "status": "RESERVED",
+   "start_frame": 21216,
+   "end_frame_excl": 23276,
+   "start_s": 884.85,
+   "end_s": 970.8,
+   "audio_48k": [
+    42472800,
+    46598400
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_12",
+   "candidate": "C25",
+   "status": "RESERVED",
+   "start_frame": 24636,
+   "end_frame_excl": 26206,
+   "start_s": 1027.5,
+   "end_s": 1093.0,
+   "audio_48k": [
+    49320000,
+    52464000
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_13",
+   "candidate": "C10",
+   "status": "RESERVED",
+   "start_frame": 33458,
+   "end_frame_excl": 35341,
+   "start_s": 1395.45,
+   "end_s": 1474.0,
+   "audio_48k": [
+    66981600,
+    70752000
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_14",
+   "candidate": "C11",
+   "status": "RESERVED",
+   "start_frame": 8227,
+   "end_frame_excl": 9711,
+   "start_s": 343.1,
+   "end_s": 405.0,
+   "audio_48k": [
+    16468800,
+    19440000
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_15",
+   "candidate": "C14",
+   "status": "RESERVED",
+   "start_frame": 27407,
+   "end_frame_excl": 29371,
+   "start_s": 1143.06,
+   "end_s": 1225.0,
+   "audio_48k": [
+    54866880,
+    58800000
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_16",
+   "candidate": "C12",
+   "status": "RESERVED",
+   "start_frame": 43651,
+   "end_frame_excl": 45212,
+   "start_s": 1820.6,
+   "end_s": 1885.7,
+   "audio_48k": [
+    87388800,
+    90513600
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_17",
+   "candidate": "C13",
+   "status": "RESERVED",
+   "start_frame": 45212,
+   "end_frame_excl": 46960,
+   "start_s": 1885.7,
+   "end_s": 1958.6,
+   "audio_48k": [
+    90513600,
+    94012800
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_18",
+   "candidate": "C16",
+   "status": "RESERVED",
+   "start_frame": 28226,
+   "end_frame_excl": 29967,
+   "start_s": 1177.26,
+   "end_s": 1249.9,
+   "audio_48k": [
+    56508480,
+    59995200
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_19",
+   "candidate": "C17",
+   "status": "RESERVED",
+   "start_frame": 41705,
+   "end_frame_excl": 43514,
+   "start_s": 1739.45,
+   "end_s": 1814.9,
+   "audio_48k": [
+    83493600,
+    87115200
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_20",
+   "candidate": "C26",
+   "status": "RESERVED",
+   "start_frame": 5165,
+   "end_frame_excl": 6953,
+   "start_s": 215.46,
+   "end_s": 290.0,
+   "audio_48k": [
+    10342080,
+    13920000
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_21",
+   "candidate": "C18",
+   "status": "RESERVED",
+   "start_frame": 28555,
+   "end_frame_excl": 30193,
+   "start_s": 1191.0,
+   "end_s": 1259.3,
+   "audio_48k": [
+    57168000,
+    60446400
+   ]
+  }
+ ],
+ "committed": [],
+ "overlap_check": {
+  "pairs_with_overlap": 0,
+  "checked_by": "scripts/make_review.py"
+ },
+ "legacy": {
+  "source_id": "SOURCE_INTERVIEW",
+  "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+  "reservations": [],
+  "committed": [],
+  "note": "SOURCE_INTERVIEW / SOURCE_VIDEO ledger kept as is; different programme (29.97 fps) so no cross-source overlap possible. Full copy: work/legacy/"
+ }
+}

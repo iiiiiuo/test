@@ -1,0 +1,169 @@
+## C23
+C23_L001 641.22-647.30
+   EN : But right now in America, say, one of the laws that I would change is, it's illegal to collect rainwater in America.
+   ASR: But right now in America, say one of the laws that I would change is it's illegal to collect rainwater in America.
+C23_L002 647.64-649.46
+   EN : What? Illegal? It's illegal?
+   ASR: What? Illegal? It's illegal?
+C23_L003 649.86-652.76
+   EN : It's illegal to collect rainwater in America.
+   ASR: It's illegal to collect rainwater in America.
+C23_L004 652.76-654.64
+   EN : You go to every other country, they're collecting rainwater.
+   ASR: America. You go to every other country, they're collecting rainwater.
+C23_L005 655.26-658.24
+   EN : You know, people are controlling the water.
+   ASR: You know, people are controlling the water.
+C23_L006 658.24-666.32
+   EN : You know, it's going to be fuck what t-shirt you wear, what political opinion, and who got beef with who. You ain't got no water,
+   ASR: you know it's going to be fuck what t -shirt you wear what political opinion and who got beef or who you ain't got no water
+C23_L007 666.32-671.96
+   EN : you ain't got no life. I'm trying to tell you.
+   ASR: you ain't got no life i'm trying to tell you
+C23_L008 671.96-680.51
+   EN : Because, you know, a lot of people call me... they want to call me crazy.
+   ASR: because you know a lot of people call me they want to call me crazy
+C23_L009 680.51-684.87
+   EN : It's like, it's like running a marathon.
+   ASR: it's like it's like running a marathon
+C23_L010 684.87-696.83
+   EN : If I got some short shorts on and a tank top, and I'm sweating hard as hell, um, running down the street, running the wrong way down a freeway,
+   ASR: if i got some short shorts on and a tank top and i'm sweating hard as hell um running down the street running the wrong way down a freeway
+C23_L011 696.01-699.21
+   EN : then you're going to say that person is crazy.
+   ASR: a freeway then you're going to say that person is crazy
+C23_L012 699.21-703.21
+   EN : But if a hundred other people do it with me, then it's a marathon.
+   ASR: but if a hundred other people do it with me then it's a marathon
+C23_L013 703.21-706.14
+   EN : That's a good way to put it.
+   ASR: that's a good way to
+## C24
+C24_L001 1203.66-1211.62
+   EN : Because as a person that, when we first seen the Gap deal, right, um, we understand that rich motherfuckers ain't going in the Gap.
+   ASR: because as a person that when we first seen the gap deal right um we understand that rich motherfuckers ain't going in
+C24_L002 1211.96-1219.06
+   EN : But you know what, they was going in the Gap because of you. It was going. And they say 'powered by Balenciaga,' but then you walk into the store,
+   ASR: but you know what they was going in the gap because of you it was going and they said powered by balenciaga but then you walk into the to the store
+C24_L003 1219.06-1226.76
+   EN : and then the clothes is just on the floor. Is that degrading to somebody that's rich that want to come in there and support you?
+   ASR: and then this is closed that's just on the floor is that is that degrading to somebody that's rich that That want to come in there and support you?
+C24_L004 1226.80-1227.94
+   EN : We should degrade the rich.
+   ASR: We should degrade the rich.
+C24_L005 1228.26-1232.10
+   EN : Everybody is dirt. Everybody on the same level beneath God.
+   ASR: Everybody is dirt. Everybody on the same level beneath God.
+C24_L006 1232.34-1237.04
+   EN : Because we'll hop over... — (Host:) That was a good one. — 
+   ASR: Because we'll hop over. That was all. That was very good.
+C24_L007 1237.28-1242.04
+   EN : You know, we'll walk over a homeless person to get to the Gucci store.
+   ASR: You know, we'll walk over a homeless person to get to the Gucci store.
+C24_L008 1242.96-1249.80
+   EN : Ray Kurzweil said a utopia is possible where we're led by the least noble and the greediest people.
+   ASR: Ray Kurzweil said, a utopia is possible where we're led by the least noble and the greediest people.
+C24_L009 1249.80-1257.72
+   EN : I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna.
+   ASR: I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna.
+C24_L010 1258.08-1262.04
+   EN : Demna is the Ye of clothing.
+   ASR: Demna is the yay of clothing.
+C24_L011 1262.10-1265.02
+   EN : Demna is the Drake of clothing.
+   ASR: Demna is the Drake of clothing.
+C24_L012 1265.54-1269.70
+   EN : Drake is the greatest rapper ever.
+   ASR: Drake is the greatest rapper ever.
+C24_L013 1270.78-1272.16
+   EN : And you said in 'War'...?
+   ASR: And you say in war?
+C24_L014 1272.40-1273.80
+   EN : And I don't apologize about it.
+   ASR: I don't apologize about it.
+C24_L015 1273.98-1276.94
+   EN : You said in 'War,' he'll fuck your baby's mother's mother?
+   ASR: You say in war he held your baby's mother's mother?
+C24_L016 1277.44-1280.14
+   EN : Yeah, that was hard. That was hard. That was hard.
+   ASR: Yeah, that was hard. That was hard. That was hard.
+## C25
+C25_L001 1027.54-1028.90
+   EN : Taking God out of music, you said?
+   ASR: taking god out of music
+C25_L002 1028.90-1035.72
+   EN : Yeah. I remember I was at Roscoe's, you know, earlier this year, and I love Roscoe's and stuff,
+   ASR: yeah i remember i was at roscoe's you know earlier this year and i'm i love i love roscoe's stuff
+C25_L003 1035.72-1040.48
+   EN : but they're playing the music, and it's like Usher saying, 'You got it bad.'
+   ASR: but they're playing the music and it's like us you're saying you got it bad
+C25_L004 1040.48-1042.36
+   EN : 'You got it, you got it bad.'
+   ASR: you got it you got it bad
+C25_L005 1042.36-1045.78
+   EN : Yeah, that messaging is not uplifting.
+   ASR: yeah that messaging is not uplifting
+C25_L006 1045.78-1048.32
+   EN : Some niggas got it bad.
+   ASR: some niggas got it bad
+C25_L007 1048.32-1058.66
+   EN : Yeah, yeah. But there's... when we sing... God created music solely for the purpose of worshiping God.
+   ASR: yeah yeah but there's when we sing god created music solely for the purpose of worshiping god
+C25_L008 1059.70-1066.63
+   EN : Now, if you listen to the majority of the music, it's not worshiping God. No, it's going into the dark holes.
+   ASR: now if you listen to the majority of the music it's not worshiping god no it's going into dark dark holes
+C25_L009 1066.63-1073.39
+   EN : It's like, sweat to my... yeah, but it's saying, I want to fuck your bitch, I want to fuck your girlfriend,
+   ASR: it's like for the sweat to my nuts yeah it's saying i want to fuck your bitch i want to fuck your girlfriend
+C25_L010 1073.39-1077.05
+   EN : I want to fuck your mom, like, it's like, and I want to do drugs while I'm fucking your mom.
+   ASR: i want to fuck your mom like it's like and i want to do drugs while i'm fucking your mom
+C25_L011 1077.05-1080.93
+   EN : Like, it's, it just takes you into that, that place.
+   ASR: like it's it just takes you into that that place
+C25_L012 1080.93-1092.75
+   EN : And God has... God has a place for us in a promised land that can't be defined by man. It's not the 40 acres that the oppressors can take away.
+   ASR: and god has a god has a place for us in a promised land that can't be defined by man it's not the 400 acres that the oppressors can take away
+## C26
+C26_L001 215.46-220.30
+   EN : Like, you at somebody's wedding, and somebody get into a fight with a family member at the end.
+   ASR: Like you at somebody's wedding, and somebody get into a fight with a family member at the end. And
+C26_L002 220.30-223.98
+   EN : And they say some real shit, but they ain't said it until they had the D'Usse.
+   ASR: And they say some real shit. But they ain't said it until they had the do say.
+C26_L003 224.14-225.00
+   EN : They say some real shit.
+   ASR: They say some real shit.
+C26_L004 225.22-233.90
+   EN : And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy.
+   ASR: And I'm telling you, the whole difference is when people come and speak their truth, They need to speak their truth off to do say they don't need to speak their truth off of Hennessy
+C26_L005 233.90-244.24
+   EN : So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it.
+   ASR: So I want to say today is I need every single and we can get back to the black lives matter But I need every single liquor store in the world to remove the Hennessy and put the do say in it
+C26_L006 244.24-246.70
+   EN : I'm asking and calling for every...
+   ASR: I'm asking a good day every
+C26_L007 249.91-252.75
+   EN : I'm asking every black person,
+   ASR: I'm asking every black person
+C26_L008 253.45-258.27
+   EN : when you want to drink and you want to go full the-uncle-that-don't-give-a-fuck level at the wedding,
+   ASR: When you want to drink and you want to go fool the uncle that don't give a fuck level at the wedding
+C26_L009 259.53-263.15
+   EN : do it off the D'Usse. Don't do it off the Hennessy.
+   ASR: Do it off the Duce Don't do it off the Hennessy
+C26_L010 263.15-264.85
+   EN : Don't do it off the Hennessy.
+   ASR: Don't do it off the Hennessy
+C26_L011 264.85-273.29
+   EN : Go full Ye off the D'Usse. Go Ye! Go full Ye off the D'Usse. Go full Ye off the D'Usse. Go full Ye off the D'Usse.
+   ASR: Go full yay off the Duce Go yay Go full yay off the Duce Go full yay off the Duce Go full yay off the Duce But
+C26_L012 274.03-279.09
+   EN : Let me just be clear real quick. Respect. Because this is the only time...
+   ASR: Let me just be clear real quick Respect Because this is the only time
+C26_L013 279.09-281.79
+   EN : This is delicious. This D'Usse is good.
+   ASR: This is delicious This Duce is good
+C26_L014 282.65-289.40
+   EN : Also for an evening nightcap. A nightcap is well recommended, my friend.
+   ASR: Also for an evening nightcap A nightcap is Well recommended my friend

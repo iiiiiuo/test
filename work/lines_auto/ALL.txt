@@ -1,0 +1,553 @@
+## C01 Drake told me 'nothing ever happened' dur=75.7s lines=22
+01 1592.48-1595.52 time. Yeah, it's so funny, though, because me and Drake, you   <<T: though. Because me and Drake, you know,  (ag=0.67 p=0.748)
+02 1595.52-1598.44 know, before Donda came out, we met up at the studio.
+03 1646.82-1650.18 So then Drake says to me, yo,
+04 1651.05-1654.77 no, I need to tell the story like this.
+05 1656.68-1662.62 So basically, you know, Jared Kushner asked Steve Stout, like, yo,
+06 1662.62-1664.74 just tell me, like, did Ye fuck my wife?
+07 1665.10-1670.32 And Steve Stout was like, no, Ye never did nothing.
+08 1670.32-1673.86 So when I went to the White House, I saw Jared.
+09 1673.92-1676.02 I was like, yo, I want to just tell you, nothing
+10 1676.02-1678.34 ever happened. He's like, yo, I don't know what you're talking
+11 1678.34-1680.34 about. I was like, yo, and I grabbed him by both
+12 1680.34-1684.74 shoulders, and I was like, yo, Jared, nothing has ever happened.
+13 1685.02-1686.74 And he said, yo, thank you for saying that.
+14 1687.42-1690.64 Okay, so when I saw Drake, we was in a parking
+15 1690.64-1692.66 lot, we were talking, and he said, yo, I just want
+16 1692.66-1694.94 to tell you, yo, nothing ever happened.
+17 1695.92-1698.80 And then I said, yo, thank you for saying that.
+18 1698.80-1700.68 When did I become Jared Kushner?   <<T: that. When did I become Jerry Cushman?  (ag=0.62 p=0.148)
+19 1705.15-1706.85 I didn't know this was going.
+20 1707.41-1707.93 I   <<T:   (ag=0.0 p=0.946)
+21 1711.51-1712.83 did not know this was going.
+22 1713.05-1714.51 I was scared for a second.   <<T: You had me scared for a second.  (ag=0.62 p=0.26)
+## C02 I Googled Drake's address dur=75.3s lines=24
+01 1749.08-1752.54 so we're going because the old man made a call for
+02 1752.54-1756.28 me and you see a marriage of my Larry Hoover yeah   <<T: for me and uh you said oh man which is my larry hoover yeah  (ag=0.56 p=0.131)
+03 1756.28-1758.80 Larry Hoover made a call for me and Drake to squash
+04 1758.80-1762.32 things fire and to do this concert together just like Farrakhan   <<T: squash things and to do this concert together just like fair con  (ag=0.78 p=0.298)
+05 1762.32-1763.64 says something to me and   <<T: con said something to me and  (ag=0.73 p=0.735)
+06 1796.57-1800.91 So anyway, so Dave Chappelle has a concert that night.
+07 1800.91-1803.71 the night where we're going to so we're seeing like yo   <<T: night the night where we're going to So we're seeing like, yo, can  (ag=0.92 p=0.299)
+08 1803.71-1806.15 can we go chop it up with Drake and then make
+09 1806.15-1808.83 it to the day Chappelle joint and go by the house
+10 1808.83-1813.78 and then so we're on the plane and we're like well
+11 1813.78-1819.40 where's Drake's house in comparison and distance to the concert and
+12 1819.40-1822.86 I and I look up I say Google it that's the
+13 1822.86-1827.30 whole thing you can Google it I can set it up
+14 1827.30-1830.62 differently remember the The whole thing was, yo, I gave his   <<T: it up differently. Remember the whole thing was, yo, I gave his  (ag=0.87 p=0.18)
+15 1830.62-1833.52 address. And my whole thing is, you could Google the address.   <<T: his address. And my whole thing is, you could Google the address.  (ag=0.96 p=0.381)
+16 1833.98-1836.10 And everybody on the plane started laughing.
+17 1836.22-1837.66 Because you could Google the address.
+18 1838.36-1841.92 You know, it just looked like something on Instagram.
+19 1842.04-1844.46 You know, it was like, oh, I got the address.   <<T: And I was like, oh, I got the address.  (ag=0.74 p=0.459)
+20 1844.76-1846.66 And guess how I found it?
+21 1846.76-1847.72 I Googled it.   <<T: it? I Googled  (ag=0.67 p=0.999)
+22 1848.72-1849.20 That's   <<T:   (ag=0.0 p=0.698)
+23 1851.03-1851.19 crazy.   <<T: Googled it. That's crazy.  (ag=0.4 p=0.98)
+24 1854.68-1857.18 Your house don't look the same on these Google Maps.   <<T: shit. Don't have something look the same on these Google maps.  (ag=0.76 p=0.004)
+## C03 Bad Bunny is on our wall dur=80.9s lines=34
+01 30.54-34.04 OK, you know, like right now, when me, James Blake are   <<T: okay yes a like right now when me James Blake are  (ag=0.73 p=0.582)
+02 34.04-36.58 and no idea in the studio working on our album.
+03 36.72-38.96 Who do you think we'd be bringing up when we're talking
+04 38.96-39.54 about songs?
+05 40.14-41.82 Stadium artists. Who do you think we bring up?
+06 42.37-43.55 And we ain't got no problem.
+07 43.73-44.49 We don't beef.   <<T: we do it so beefy  (ag=0.25 p=0.339)
+08 44.65-46.23 No problem. It's just like, yo, we competing.
+09 46.39-47.73 Not Drake. Who do you think we bring?
+10 47.79-50.41 Anybody else got another Travis Stadium?   <<T: we bring anybody else got another Travis What is?  (ag=0.67 p=0.713)
+11 51.90-52.96 Think down here.
+12 54.48-55.14 It's called Black.   <<T: Kodak Black?  (ag=0.4 p=0.456)
+13 55.42-56.12 No, no.
+14 58.42-64.82 stadium stadium bad bunny that's who's on our wall right that's   <<T: Stadium. Bad Bunny. That's who's on our wall. That's who's  (ag=0.86 p=0.046)
+15 64.82-67.92 who's our wall when we make music we loading up concert
+16 67.92-71.78 footage are you talking about the aesthetics of the stadium and
+17 71.78-75.02 what would it look yeah not just the respect if it   <<T: and what it's looking for? Yeah, not just the aesthetics. And in retrospect, if it  (ag=0.54 p=0.154)
+18 75.02-77.98 If it wasn't for me, there might not be no Bad   <<T: if it wasn't for me, there might not be no Bad  (ag=1.0 p=0.236)
+19 77.98-80.90 Bunny. I brought reggae tone to America, I'm sorry.   <<T: Bad Bunny. I brought Reggaeton to America. I'm sorry.  (ag=0.78 p=0.34)
+20 81.34-82.32 Let's make some noise for me.   <<T: I was making you know it. You're  (ag=0.0 p=0.551)
+21 84.34-86.08 I'm sorry, yeah, I didn't mean to grab you, cool.   <<T: making me. You're cool. Come  (ag=0.13 p=0.135)
+22 86.18-86.60 Come on, let's go.
+23 86.76-89.06 So the thing is, it depends on what we're doing.   <<T: let's go. So the thing is, it depends on what we're doing. You know  (ag=0.83 p=0.315)
+24 89.22-89.50 You know what I'm saying?
+25 89.52-91.72 We're going to do clothes, we're going to look at Supreme,
+26 92.52-94.66 we're going to look at Balenciaga, we're going to look at
+27 94.66-97.34 Ralph, we're going to look at these raps, you know, we're   <<T: to look at Ralph. Are we looking at these raps? Right. You know, we're going  (ag=0.62 p=0.416)
+28 97.34-100.26 going to look at Drake, you know what I'm saying, we're
+29 100.26-103.20 looking at stadiums, we're going to look at Bad Bunny, we
+30 103.20-104.84 got to look at everything, that's what we have.
+31 104.84-105.62 We're gonna look at money.   <<T: what we have. We're going to look at money.  (ag=0.57 p=0.427)
+32 106.06-107.28 We're gonna look at Elon.   <<T: We're going to look at Elon.  (ag=0.73 p=0.631)
+33 107.94-109.64 You know, so we're gonna look at the Saudis
+34 110.26-111.34 That's how I look at everything
+## C04 Wu-Tang videos and fresh Timbs dur=63.2s lines=31
+01 1658.17-1660.21 All right. Dungeon Family or Wu -Tang Clan?
+02 1661.03-1662.25 Oh, you know, see,
+03 1663.23-1664.41 it's ungodly.
+04 1666.23-1668.17 Wu -Tang, Wu -Tang.
+05 1668.23-1669.05 What? Come on, man.
+06 1669.07-1670.97 This is like Tony Stark's.   <<T: man. This is like Tony Starks.  (ag=0.73 p=0.975)
+07 1671.25-1672.23 This is a drip.
+08 1672.39-1672.89 You know what I'm saying?
+09 1673.05-1675.57 But I got to say, the Wu -Tang videos had me
+10 1675.57-1677.57 spending a lot more money than I needed to.
+11 1677.57-1682.79 Me and Don C was buying new Tims, new puffer jackets,
+12 1683.59-1687.23 fitted hats, white tees, wallabies.
+13 1687.37-1689.87 And then because it looked like every day was a video.
+14 1690.05-1693.31 And I got to like New York and I seen Dirty
+15 1693.31-1693.87 Tims.   <<T: Timbs.  (ag=0.0 p=0.987)
+16 1695.28-1696.60 I called free up.   <<T: I called free up. I  (ag=0.89 p=0.357)
+17 1696.60-1698.96 I said, I didn't know niggas had Dirty Tims in New
+18 1698.96-1701.56 York. I spent all this money on my freshman Tims.   <<T: New York. I just spent all this money on my fresh beer, Timbs.  (ag=0.7 p=0.538)
+19 1701.76-1703.86 I can't remember if my Tims go more than three days.   <<T: I couldn't let my Timbs go more than three days.  (ag=0.67 p=0.669)
+20 1704.56-1707.12 If my Tims got a scuff on them, I'm in the
+21 1707.12-1707.44 meeting.   <<T: in the meeting.  (ag=0.5 p=0.999)
+22 1708.30-1710.52 Meeting adjourned. I need a new pair of Timbs.
+23 1710.56-1711.40 I'll be back.
+24 1711.48-1713.22 And I carried the Timbs in a plastic bag.
+25 1713.34-1714.54 Put them on in the meeting.
+26 1714.62-1715.82 Now let's continue the conversation.
+27 1716.10-1716.70 Yeah, yeah, yeah.   <<T:   (ag=0.0 p=0.395)
+28 1716.86-1718.56 Okay. No, it was the DJ.   <<T: Okay. No, I was like the DJ.  (ag=0.77 p=0.39)
+29 1718.72-1719.32 Well, I got to do the DJ.   <<T: You  (ag=0.0 p=0.465)
+30 1719.32-1720.12 You got to do this.
+31 1720.16-1721.20 I'm sorry. You're correct.
+## C05 I forgive everybody dur=75.1s lines=25
+01 1105.86-1108.22 Coogee rap or big pun I   <<T: Cool G rap or big pun?  (ag=0.67 p=0.683)
+02 1109.66-1110.12 like both   <<T: I like boof.  (ag=0.4 p=0.911)
+03 1110.86-1111.70 take a shot
+04 1147.62-1150.46 So, you know, God said for us to not compare each
+05 1150.46-1151.38 other amongst ourselves.
+06 1151.84-1155.30 So when I compare the greatness of Coogee Rap and the
+07 1155.30-1157.44 greatness of Big Pun.   <<T: and the greatness of uh big pun  (ag=0.73 p=0.908)
+08 1157.58-1158.98 Which was inspired by Coogee Rap.
+09 1159.14-1159.32 Yeah.
+10 1160.06-1161.34 It's not godly.
+11 1161.78-1162.50 You know what I'm saying?
+12 1162.56-1164.58 I know Ross said God forgives, I don't.
+13 1164.58-1171.24 I'm forgiving I forgive everybody I forgive the Clintons I forgive   <<T: You know, I'm forgiven. I forgive everybody. I forgive the Clintons. I  (ag=0.78 p=0.207)
+14 1171.24-1177.64 John Legend for wearing them bum ass sweaters I forgive I
+15 1177.64-1180.10 forgive him he's forgiven
+16 1183.16-1190.92 Big Sean may they all be forgiven I forgive Big Sean
+17 1192.14-1195.30 for not being able to make the choice between braids or
+18 1195.30-1196.62 a beard. Choose one.
+19 1196.94-1199.56 Um, I forgive, uh...   <<T: I forgive...  (ag=0.67 p=0.095)
+20 1204.10-1205.44 Who loves you again?   <<T: Who else is you again?  (ag=0.67 p=0.292)
+21 1208.76-1209.12 That's it?
+22 1209.97-1212.57 Everybody. Everybody I ever, you know what I'm saying?
+23 1212.65-1213.37 I forgive everyone.
+24 1213.53-1214.77 I forgive Bob Iger.
+25 1214.91-1216.65 I forgive the left party.
+## C06 Divorce and Big Boi's 'I Choose You' dur=80.9s lines=27
+01 1752.20-1755.06 anybody that's ever been through a divorce it's a difficult thing
+02 1755.06-1758.34 you know because your baby mama gonna play with you like
+03 1758.34-1762.40 when we did the don the two thing uh when my   <<T: When we did the Donda 2 thing When my  (ag=0.7 p=0.84)
+04 1762.40-1765.08 kids came on a plane after they was on a plane
+05 1765.08-1768.04 kim texted me and said north's not on a plane and
+06 1768.23-1771.91 knowing my personality you know i'm saying that could affect my
+07 1771.91-1775.57 show so baby mama's across the world not just me like
+08 1775.57-1778.11 on some billionaire that's the Gemini shit yeah I can attest
+09 1778.11-1781.47 to that and like but everybody goes through a lot of
+10 1781.47-1784.07 that type of I just thought about you know
+11 1784.75-1786.83 all the time when I thought me and Kim were going
+12 1786.83-1790.11 to get a divorce like throughout our relationship I always thought
+13 1790.11-1790.55 about   <<T: thought about  (ag=0.67 p=1.0)
+14 1792.13-1795.34 Big Boy man he really told me what it really was
+15 1795.34-1796.18 on I Choose You
+16 1796.82-1799.46 oh it's about OutKast I was thinking about Big Boy Radio
+17 1799.46-1803.52 like your baby's mama mama don't like me they try to
+18 1803.52-1805.32 come to the studio try to come and fight me and   <<T: try to come to the studio try to kind of fight me and blah  (ag=0.72 p=0.832)
+19 1805.32-1807.46 blah blah Oh, that's sorry, Miss Jackson, right?   <<T: me and blah blah and then he said sorry miss jackson right  (ag=0.6 p=0.065)
+20 1807.56-1808.32 Yeah, yeah, yeah.   <<T: right yeah yeah okay  (ag=0.57 p=0.94)
+21 1808.32-1811.50 Okay, but then also he says, better pick the right one
+22 1811.50-1812.92 or pick the kiddies up.   <<T: one to pick pick the kitties up  (ag=0.5 p=0.828)
+23 1813.88-1817.46 And the whole time, I'm like, this rap is just coming,
+24 1817.60-1821.32 rolling through my head like a mantra of what it, you
+25 1821.32-1825.76 know. So, and I still be in my head like, you
+26 1825.76-1827.44 know, maybe, you
+27 1828.49-1833.04 know, maybe one day our family could get back together.
+## C07 A billionaire still checks every bill dur=65.8s lines=19
+01 182.31-186.78 like you know i mean and i don't like somebody saying   <<T: like you know i mean and i don't like somebody saying well  (ag=0.96 p=0.059)
+02 186.78-189.52 well i'm gonna be the voice of yay yay the only
+03 189.52-193.20 voice of yay yay the only manager yay like i like
+04 193.20-196.38 i look at every single bill i pay i only pay
+05 196.38-200.24 bills on a friday and i look at everyone one by
+06 200.24-205.06 one by one by one like i was thinking getting
+07 206.66-208.88 to be a billionaire would
+08 209.55-213.09 take me out of having to do work now
+09 213.80-217.34 one of my biggest his jobs is keeping my money because   <<T: one of my biggest jobs is keeping my money because  (ag=0.95 p=0.34)
+10 217.34-220.90 there's a lot of people that's on a full -time job
+11 220.90-226.20 to take my money right and i've literally lost hundreds of
+12 226.20-229.46 millions of dollars by not looking close enough
+13 231.38-235.00 so it reminded me of that what shaq said when he
+14 235.00-237.08 had the the deal and he had the studio in his
+15 237.08-240.14 crib and when he got the on the check because he   <<T: in his crib and when he got the check  (ag=0.7 p=0.323)
+16 240.14-241.84 was paying this and then he looked at what they were
+17 241.84-243.34 were charging him the label and they were charging him for   <<T: they were charging him the label and they were charging him for  (ag=0.96 p=0.323)
+18 243.34-246.02 studio time he's like studios at my crib and then he   <<T: him for studio time he was like the studio's at my crib and then he got  (ag=0.67 p=0.031)
+19 246.02-248.20 got a couple hundred thousand back but it's funny
+## C08 God put me on a timeout dur=71.6s lines=27
+01 770.50-771.40 We had Cravo and
+02 773.39-774.71 Takeoff here the other day.   <<T: take off here the other day  (ag=0.73 p=0.81)
+03 774.87-775.69 What they were saying?
+04 776.91-777.55 Real shit.   <<T: shit  (ag=0.67 p=0.998)
+05 778.81-783.21 They said, Cravo said that you asked to borrow his Twitter
+06 783.21-785.33 during the blockout.
+07 785.69-786.53 Is this true?
+08 787.68-789.84 Yeah. He said   <<T: Yeah. He, uh...  (ag=0.67 p=0.467)
+09 791.18-792.06 he offered it.
+10 792.20-793.38 He said he offered it.
+11 794.26-794.66 But,   <<T: offered  (ag=0.0 p=0.496)
+12 795.72-796.38 you know what I'm saying?
+13 796.44-798.22 I just said, let me take this time as just like
+14 798.22-800.02 a breather. They put me like like it's a technical foul
+15 800.02-803.24 right because oh here goes another   <<T: foul. Right. Because, oh, here goes  (ag=0.83 p=0.102)
+16 803.88-805.10 thing i   <<T: thing.  (ag=0.67 p=0.418)
+17 806.60-809.28 feel like god put me on a little time out yeah
+18 809.28-812.26 because my my dad was like i feel what you're coming   <<T: Yeah. Because my dad was like, I feel where you coming  (ag=0.73 p=0.866)
+19 812.26-813.86 from yay i understand
+20 816.74-817.22 but   <<T:   (ag=0.0 p=1.0)
+21 817.92-822.06 you got to be more sophisticated with your words you have
+22 822.06-824.68 to be more sophisticated i agree with that was that was
+23 824.68-827.92 less sophisticated than i needed to be you said god text
+24 827.92-830.56 you that no his his father yeah second to god my   <<T: texted you that? No, his father. Yeah, second to God, my dad.  (ag=0.87 p=0.152)
+25 830.56-835.56 dad yeah yeah yeah because i know for a fact   <<T: my dad. Yeah, yeah, yeah. Because I know for a fact,  (ag=0.95 p=0.253)
+26 836.96-841.22 um you know pissing off jewish people and pissing off black
+27 841.22-842.00 people i know that
+## C09 Never finished a novel dur=85.9s lines=23
+01 884.85-889.23 like moses have four chapters like i have contrary to popular
+02 889.23-892.73 belief i did read the four chapters of moses right you
+03 892.73-895.27 say you ain't read somewhere no what i'm saying yeah i've
+04 895.27-899.51 never actually finished a novel right that's fantastic i respect that
+05 899.51-902.51 yeah because by the way you know one thing is that
+06 902.51-907.39 there's nothing whiter than english itself i do not like to
+07 907.39-910.53 read like i do not like to work out like i   <<T: read like I do not like to work out like I do  (ag=0.96 p=0.103)
+08 910.53-913.13 do not like you know certain certain there's certain stuff in
+09 913.13-919.98 life that is currently necessary that i don't like that don't
+10 919.98-924.24 make i'm i'm not disregarding people some people are more how
+11 924.24-927.52 many people do you know that can read very well that
+12 927.52-930.58 can't dance very well but see look yeah talking about articulation
+13 930.58-935.64 could it be said that it's misunderstood that reading equals knowledge   <<T: Could it be said That it's misunderstood That reading equals knowledge  (ag=1.0 p=0.341)
+14 935.64-940.11 that's another thing because you don't have to read books to
+15 940.11-944.91 really have knowledge that's right and if and the
+16 946.16-947.36 information isn't there
+17 948.15-952.81 you know what the information the knowledge is from the knowledge
+18 952.81-956.19 is from the two fathers who are the two fathers you
+19 956.17-960.07 tell us your father and the father above your father and
+20 960.07-964.11 the father above oh shit now what now what has happened   <<T: the father above now what now what has happened  (ag=0.9 p=0.369)
+21 964.11-967.91 to the black community they erased the father so all you
+22 967.91-970.67 have is the father above but they've erased that even that
+23 970.67-970.89 they   <<T: that they  (ag=0.67 p=0.561)
+## C10 Pimp C told me to turn my vocals up dur=78.5s lines=26
+01 1395.45-1399.13 i always thought like you know i'm saying it's like i
+02 1399.13-1400.93 always thought when i would when i would speak to
+03 1401.61-1404.77 rap like somebody like pimp c always made me like feel
+04 1404.77-1408.19 like for me it's like the pink polo rapper I always
+05 1408.19-1410.31 felt like less of myself so I get on the phone
+06 1410.31-1412.95 when I was something because they did it almost like everything   <<T: the phone with them or something You know they could they did it almost like everything they  (ag=0.5 p=0.128)
+07 1412.95-1416.11 they rapped about was like dissing everything that I ever did
+08 1416.11-1418.65 you know I'm saying like they was like very not tight
+09 1418.65-1422.43 jeans very not close you know I'm saying but I remember
+10 1422.43-1424.75 Pimp C had a conversation like man I like the way
+11 1424.75-1429.05 you had your vocals turned up so they could hear what   <<T: the way you had your vocals turned up so they could You know, so they can hear what you  (ag=0.73 p=0.304)
+12 1429.05-1434.01 you saying your vocals turned up that's a very big thing   <<T: what you saying, you know what I'm saying, you got your vocals turned up. That's a very big thing,  (ag=0.73 p=0.416)
+13 1434.01-1435.75 you You know, like it was a guy that came to
+14 1435.75-1440.71 one of my 60 ,000 square foot spaces and he was
+15 1440.71-1443.77 in the band of Strokes.
+16 1443.79-1444.69 He's in the band of Strokes.
+17 1444.91-1447.25 And I remember they had this song where their vocals were
+18 1447.25-1450.45 low and I wanted to make my vocals low on All
+19 1450.45-1451.95 Falls Down. It didn't work for me.
+20 1452.00-1453.41 I had to speak up.
+21 1453.38-1455.36 you You know what I'm I'm saying they cancel me this   <<T: up, you know what I'm saying? and they canceled me this  (ag=0.73 p=0.08)
+22 1455.36-1459.54 week there's no, not Tucker Carlson no platform would carry me
+23 1459.54-1462.92 this week either and even a publicist that I'm working with
+24 1462.92-1467.54 was like I don't know why you would go on drink
+25 1467.54-1471.22 chance I said you understand that our numbers did three times
+26 1471.22-1473.90 the numbers of when Kim was on SNL right you understand
+## C11 Drake wrote that verse for me dur=61.9s lines=21
+01 343.12-348.14 right we get on our our jealousy stuff like you know
+02 348.14-351.54 what i'm saying i'll be having like 12 writers in the
+03 351.54-355.38 studio that don't add up to drake god's version and be   <<T: in the studio that don't add up to drake god's version and be like  (ag=0.88 p=0.381)
+04 355.38-357.60 like oh drake just that's why i was interested when he
+05 357.60-361.00 heard 30 hours because drake wrote that for me i said
+06 361.00-363.40 i'm like boom here I got like this many ideas like   <<T: said i'm like boom here I got like this many ideas like the  (ag=0.92 p=0.18)
+07 363.40-365.20 the line. I had like I
+08 366.71-368.93 Had I was nervous to do Victoria
+09 369.57-372.95 Secret show until I pictured everybody with no clothes
+10 373.67-375.21 Right was like a line.
+11 375.35-378.39 I had and like it's like a stripper line Like yeah,   <<T: line I had and like it's like a stripper line yeah like yeah  (ag=0.92 p=0.089)
+12 378.47-380.97 but you don't think about it Yeah, you could be nervous   <<T: yeah but you don't think about it you could be nervous to  (ag=0.87 p=0.006)
+13 380.97-382.61 to do like a speech and they say what they say
+14 382.61-385.97 picture everybody naked So we flipped it like I was nervous
+15 385.97-389.53 to do Victoria's Secret until I pictured everybody naked and I
+16 389.53-392.78 sent it to Drake and Drake Drake took it and barred
+17 392.78-394.76 it out and wrote the whole rap.
+18 394.96-398.58 You understand like how much easier my life would be if
+19 398.58-401.06 Drake would just like write my raps for me.
+20 401.10-401.46 You know what I'm saying?   <<T: me?  (ag=0.0 p=0.362)
+21 401.48-403.62 I'm sure everyone wished they had that luxury, but uh.   <<T: I'm sure everyone wished they had that luxury,  (ag=0.89 p=0.112)
+## C12 Beefing with Puff, so I bought a penthouse dur=65.1s lines=29
+01 1820.62-1821.16 Can I continue?   <<T: Can I continue?  (ag=1.0 p=0.174)
+02 1821.62-1826.72 Yeah. But I feel like, you know what I'm saying?   <<T: Yeah, but I feel like, you know what I'm saying?  (ag=1.0 p=0.397)
+03 1827.16-1830.16 When I was having, the funny thing with the issues with
+04 1830.16-1831.44 Puff I was having.
+05 1831.56-1834.40 Thank you. I went to the Waldorf and I saw a
+06 1834.40-1834.86 couple people.   <<T: saw a couple of people.  (ag=0.57 p=0.935)
+07 1835.82-1837.34 Waldorf where? Because I visit.   <<T: Waldorf where? Because I visited. the  (ag=0.73 p=0.177)
+08 1837.44-1838.90 The Waldorf in California.   <<T: the wall of golf in uh  (ag=0.4 p=0.968)
+09 1839.32-1839.92 I love it.
+10 1839.98-1842.26 And I saw a couple people just standing out in front
+11 1842.26-1843.32 of the space.   <<T: front of the in front of the space  (ag=0.55 p=0.983)
+12 1843.56-1844.18 Just standing there.
+13 1845.77-1848.03 And I was like, oh man, Puff really does this.
+14 1848.47-1850.95 Right? and it just made me think I got to really
+15 1850.95-1853.53 get on my billionaire shit so I went and bought a
+16 1853.53-1857.45 50 million dollar penthouse and I made back the fleet out
+17 1857.45-1859.57 because I was like yo I'm not gonna I can't be
+18 1859.57-1860.59 walking around homeless   <<T: i can't be walking around homeless  (ag=0.67 p=0.999)
+19 1861.33-1864.59 like beefing with Puff you got to like you know what   <<T: beefing with puff you gotta like you know what i mean  (ag=0.73 p=0.449)
+20 1864.59-1867.91 I mean I don't think that would have been an issue
+21 1869.29-1871.45 and so what I really did get out of it is
+22 1871.45-1875.23 that like Puff like stay rich never gonna you know what   <<T: it is the like puff like stay rich never gonna you know i'm saying you  (ag=0.69 p=0.547)
+23 1875.23-1877.05 I'm saying you never seen this man in no vans
+24 1877.65-1879.57 you know what I'm saying man, this nigga's just keeping it   <<T: know what i'm saying this thing is just keeping  (ag=0.7 p=0.075)
+25 1879.57-1880.63 rich. He's good.
+26 1880.77-1882.27 He's been rich at all times.   <<T: good he wasn't rich at all times  (ag=0.62 p=0.63)
+27 1882.71-1883.19 He was like this.   <<T: was like this he was  (ag=0.67 p=0.749)
+28 1883.23-1884.29 He was doing the puppy dance.
+29 1884.51-1884.85 You remember?   <<T: you remember  (ag=1.0 p=0.346)
+## C13 Virgil, Drake and 4D chess dur=72.9s lines=29
+01 1885.76-1887.22 Puff is my idol, bro.
+02 1887.40-1890.36 Yeah, that's why I said, I was like, yo, I know
+03 1890.36-1893.90 how Virgil feels now on the times that I scream at
+04 1893.90-1896.50 Virgil, especially if I scream at Virgil in front of somebody.
+05 1897.10-1897.90 You know what I'm saying?
+06 1898.10-1901.14 Well, for Puff to call me and say anybody with a
+07 1901.14-1904.68 White Lives Matter t -shirt is getting greenlit, I know how
+08 1904.68-1906.20 Virgil felt at that moment.
+09 1906.26-1909.52 If I ever said something where his idol said something that
+10 1909.52-1910.22 hurt his feelings.
+11 1911.20-1914.96 and you know and that's why Virgil took the watch from   <<T: And, you know, and that's why Virgil took the watch from  (ag=1.0 p=0.072)
+12 1914.96-1918.06 Drake you gonna say he knew that would hurt my feelings   <<T: from Drake. You know what I'm saying? He knew that would hurt my feelings.  (ag=0.72 p=0.36)
+13 1918.06-1920.86 you know we hurt each other's feelings and we don't mean
+14 1920.86-1922.96 to but part of the reason why we hurt each other
+15 1922.96-1925.02 I want to address that you said Virgil took the watch
+16 1925.02-1929.06 from Drake because Virgil actually designed a paddock oh well Virgil
+17 1929.06-1931.84 took the watch sent the watch to Drake and all that
+18 1931.84-1935.18 type of stuff because he know that like you know that
+19 1935.18-1938.14 would hurt my feelings I work with Balenciaga because I knew
+20 1938.14-1939.32 it would hurt Drake's feelings.
+21 1939.38-1940.20 So we're operating.   <<T: feelings. We're operating, like  (ag=0.57 p=0.274)
+22 1940.26-1941.56 Like I said, it's 4D chess.
+23 1941.80-1943.84 You guys are playing crazy games, bro.
+24 1943.94-1946.00 Yeah, you got I'm saying this is like real war.
+25 1946.42-1949.64 This is like a lot like Virgil is a psychological Warrior.   <<T: This is psycholog, like Virgil was a psychological warrior.  (ag=0.7 p=0.189)
+26 1950.43-1952.05 He was a warrior bro.
+27 1952.67-1955.67 That man made it from being Ye's assistant to the head
+28 1955.67-1956.25 of Louis Vuitton.   <<T: head of Louis  (ag=0.67 p=0.845)
+29 1956.57-1958.21 That man's a warrior and   <<T: that man's a warrior  (ag=0.89 p=0.209)
+## C14 The 'get p*ssy toe' Adidas pitch dur=81.9s lines=30
+01 1143.06-1146.04 So I went to Adidas meeting and I took out I
+02 1146.04-1148.18 had a laptop have laptops anymore I just use my phone   <<T: out, I had a laptop. I don't have laptops anymore. I just used my phone, but  (ag=0.74 p=0.113)
+03 1148.18-1151.36 but it's just and it's during the the beef between what's
+04 1151.36-1154.08 going on recently No, no, this is the beginning of the
+05 1154.08-1155.70 Adidas relationship before I even pull anything.
+06 1155.98-1157.18 Oh, and I was like look
+07 1158.50-1162.08 Nobody's getting pussy and Adidas people get pussy at Nike and
+08 1162.08-1163.96 I was just like yo, this is the way you presented
+09 1163.96-1164.48 your marketing
+10 1167.11-1169.57 Yeah, yeah, this is amazing by the way.
+11 1169.85-1170.27 Yeah
+12 1173.41-1176.01 Let's get pussy good how many times if you think about
+13 1176.01-1179.19 a situation where somebody got some pussy How many times you
+14 1179.19-1180.85 think some four swans is on the side of that bed?   <<T: do you think some Four Swans is on the side of that bed?  (ag=0.92 p=0.317)
+15 1182.61-1183.87 Or still on by the way
+16 1189.75-1192.59 But now But now, sometimes it be some 350s.   <<T: But now, sometimes it'd be some 350s.  (ag=0.75 p=0.02)
+17 1193.34-1195.86 So that was the whole point.
+18 1196.44-1199.54 And actually, this is something only me and Steve Stout know.
+19 1199.76-1204.28 You know the actual sewing at the top of the shoe
+20 1204.28-1206.65 on the 350?
+21 1207.43-1208.57 You know the little thing?
+22 1208.89-1212.14 Steve Stout, if you ask him what that's called, it's called
+23 1212.14-1212.96 a get pussy toe.
+24 1214.13-1215.05 I'm sorry, what?
+25 1215.15-1216.13 Get pussy toe?
+26 1217.09-1218.99 Bring Stout here and ask him.   <<T: I asked Brain Stop here and ask them.  (ag=0.43 p=0.91)
+27 1219.09-1220.47 That's what it's actually called.
+28 1220.47-1221.43 But who came up with that?
+29 1221.63-1224.15 I came up because I said no one's getting pussy in
+30 1224.15-1224.81 Adidas, bro.
+## C16 Jeff Bezos ain't got no taste dur=72.6s lines=28
+01 1177.26-1180.22 i still bernard arnault is still one of my heroes so
+02 1180.22-1182.60 i gotta say that though that's the guy louis had a
+03 1182.60-1185.24 lvmh yeah yeah so i gotta shout out to like good
+04 1185.24-1187.96 taste when i see it i took i i performed at
+05 1187.96-1192.20 bernard arnault son's wedding alexander arnault and i said man you
+06 1192.20-1194.18 know when when i'm the richest man in the world I
+07 1194.18-1196.24 hope my son is cool enough to hang out with yay.   <<T: world I hope my son that's cool enough to hang out with, yay.  (ag=0.83 p=0.342)
+08 1196.70-1197.10 Yeah   <<T:   (ag=0.0 p=0.973)
+09 1197.78-1199.80 I'm saying this on stage for them, but I told him
+10 1199.80-1200.76 afterwards. I said yo Bernard.   <<T: told him afterwards, I said, yo, Bernard,  (ag=0.83 p=0.374)
+11 1200.96-1201.68 You're my favorite
+12 1203.34-1206.44 Jeff Bezos is commodity your opinion
+13 1207.46-1209.20 Jeff Bezos don't have no opinion.
+14 1209.38-1212.90 You don't got no taste Jeff Bezos ain't got no taste
+15 1212.90-1215.60 You wouldn't ask him to pick out what you want for   <<T: taste. You wouldn't ask him to pick out what you want for  (ag=0.96 p=0.354)
+16 1215.60-1218.68 Christmas. You know saying Jeff Bezos can't pay Would you let   <<T: for Christmas. You know what I'm saying? Jeff Bezos can't pick. Would you let Jeff  (ag=0.77 p=0.279)
+17 1218.68-1219.96 Jeff Bezos pick your bag?
+18 1219.96-1222.94 you know I'm saying so he just learned how to go   <<T: bag? You know what I'm saying? So he just learned how to go to  (ag=0.88 p=0.119)
+19 1222.94-1224.24 to Vegas and break the machine
+20 1224.86-1227.98 it's Amazon right yeah and they respected him I can't front   <<T: It's Amazon, right? Yeah, and they respected him. I came from  (ag=0.82 p=0.303)
+21 1227.98-1230.68 as you like even my Cuban family I gotta represent what's   <<T: from a Cuban family. I got to represent. What's up,  (ag=0.48 p=0.112)
+22 1230.68-1233.68 up cute people yeah but I'm saying and by the way
+23 1233.68-1237.22 it's like okay you broke the machine but but Bernard are   <<T: the way, it's like, okay, you broke the machine, but Bernard  (ag=0.82 p=0.361)
+24 1237.22-1240.90 no you know saying it's like put it like this you
+25 1240.90-1244.00 know at the end of the day if someone's gonna colonize
+26 1244.00-1246.52 I would like it to be but not if I had
+27 1246.52-1248.86 to deal with with a colonizer, I would deal with it
+28 1248.86-1249.82 being Bernard Arnault.   <<T: with it being Bernard Arnault. We should get beyond that  (ag=0.46 p=0.817)
+## C17 Elon: best EQ on the planet dur=75.5s lines=25
+01 1739.45-1741.73 a way they gotta gotta have to taste though bro you   <<T: In a way, they got a guy who had a taste, though, bro. You know  (ag=0.54 p=0.125)
+02 1741.73-1744.59 know saying steve jobs had the best taste i've yet to
+03 1744.59-1747.43 meet a tech guy with better taste than me i'm the
+04 1747.43-1751.87 next frontier you got ralph steve and then it's me you
+05 1751.87-1753.57 know what i'm saying it's like none of these guys even
+06 1753.57-1758.85 elon flew uh me you know i'm saying fory whack 100   <<T: Even Elon flew me. You know what I'm saying? Vorey, Wack 100.  (ag=0.7 p=0.319)
+07 1758.85-1763.00 it's like a team was like went to spacex he flew   <<T: 100. It was like a team that went to SpaceX. He flew me  (ag=0.67 p=0.759)
+08 1763.00-1764.64 me in his new jet out there he said i want
+09 1764.64-1768.42 you to design spacex for me we're sitting there grimes there   <<T: I want you to design SpaceX for me. Ba -ba. We were sitting there. Grimes there. He  (ag=0.71 p=0.784)
+10 1768.42-1770.12 he just had a newborn we watched a rock and take   <<T: there. He just had a newborn. We watched a rocket take  (ag=0.82 p=0.054)
+11 1770.12-1772.76 off but before we started the meeting he said you have
+12 1772.76-1777.06 the best eq on the planet that means taste best eq
+13 1777.06-1781.10 on the planet this is a person guy yeah this is   <<T: EQ on the planet. This is a person. Relaxation guy. Yeah. This is a  (ag=0.88 p=0.262)
+14 1781.10-1783.46 a person that a lot of people consider have the best
+15 1783.46-1786.00 iq on the planet he says you got the best eq
+16 1786.00-1790.24 on the planet the eq is the connectivity man how can   <<T: on the planet. The EQ is the connectivity. man how can  (ag=1.0 p=0.173)
+17 1790.24-1795.26 like jay -z be my brother right kim like be my
+18 1795.26-1798.24 baby mama I'm a type shit.   <<T: my baby mama type shit  (ag=0.73 p=0.583)
+19 1798.30-1799.84 I'm here talking to you, right?
+20 1799.98-1801.14 But you got a connection.
+21 1801.40-1805.52 The same way that you connected with Pharrell and in ways
+22 1805.52-1808.84 you indemnified him is the way you connected with me.
+23 1809.04-1810.88 You got a sight beyond sight.
+24 1811.22-1813.44 It's something that you got that's like you see.
+25 1813.72-1814.84 I ain't gonna lie, yeah.
+## C18 Life is an album: Workout Plan to Stronger dur=68.3s lines=21
+01 1191.08-1194.99 okay so i'm giving you an analogy right we're at the   <<T: Okay, so I'm giving you an analogy, right? We're at the  (ag=1.0 p=0.036)
+02 1194.99-1198.65 beginning of this album our life is the album our world
+03 1198.65-1202.27 is a symphony we're playing on different notes but like quincy
+04 1202.27-1204.99 jones we have to bring it together and have us all
+05 1204.99-1207.83 play on one accord we're at the beginning of this album
+06 1207.83-1210.05 and even if you go back like even jay cole sample
+07 1210.05-1213.39 workout plan we could play workout plan right but by the   <<T: sample workout plan, we could play workout plan, right? But by the time  (ag=0.92 p=0.397)
+08 1213.39-1216.95 time we to stronger it was a diamond record we are
+09 1216.95-1220.69 in line for a diamond record but we have to do
+10 1220.69-1224.35 some unorthodox things workout plan was for me as a backpack
+11 1224.35-1227.29 rapper to have that song or even like be cursing or
+12 1227.29-1231.03 talking about the addictions i was dealing with and my addiction
+13 1231.03-1234.19 to girls and all this type of was weird because like
+14 1234.19-1237.03 most deaf wasn't talking about that quality was talking about because   <<T: like most deaf wasn't talking about that quality was all about doesn't  (ag=0.78 p=0.32)
+15 1237.03-1240.21 it's not positive it's not backpack right but i i leaned   <<T: doesn't that positive it's that backpack right but I lean into  (ag=0.55 p=0.572)
+16 1240.21-1242.83 into my truth i found that playboy when i was five   <<T: into my truth I found that playboy when I was five  (ag=1.0 p=0.296)
+17 1242.83-1246.35 years old and now i'm calling irena shake and you know
+18 1246.35-1250.31 what i'm saying so it's it was my truth but by
+19 1250.31-1253.31 the time we got the stronger work your harder make it   <<T: by the time we got the stronger work it harder make it  (ag=0.87 p=0.345)
+20 1253.31-1258.46 better faster me that's my only diamond record right i'm saying
+21 1258.46-1259.16 you know what i'm saying   <<T: i'm saying you know i'm saying  (ag=0.73 p=0.612)
+## C23 Water, rainwater and the marathon dur=65.0s lines=20
+01 641.22-643.36 But right now in America, say one of the laws that
+02 643.36-647.30 I would change is it's illegal to collect rainwater in America.
+03 647.64-649.46 What? Illegal? It's illegal?
+04 649.86-652.76 It's illegal to collect rainwater in America.
+05 652.76-654.64 You go to every other country, they're collecting rainwater.
+06 655.26-658.24 You know, people are controlling the water.
+07 658.24-659.04 you   <<T:   (ag=0.0 p=0.186)
+08 659.78-662.30 know it's going to be fuck what t -shirt you wear   <<T: You know, it's going to be fuck what T -shirt you wear,  (ag=0.96 p=0.37)
+09 662.30-665.66 what political opinion and who got beef or who you ain't
+10 665.66-667.38 got no water you
+11 669.20-673.16 ain't got no life i'm trying to tell you because
+12 674.44-679.79 you know a lot of people call me they want to
+13 679.79-681.57 call me crazy it's
+14 683.43-687.32 like it's like running a marathon if i got some short
+15 687.32-690.74 shorts on and a tank top and i'm sweating hard as
+16 690.74-696.01 hell um running down the street running the wrong way down   <<T: as hell um running down a street running the wrong way down  (ag=0.87 p=0.222)
+17 696.01-699.21 a freeway then you're going to say that person is crazy   <<T: down a freeway then they you're gonna say that person is crazy  (ag=0.78 p=0.191)
+18 699.21-702.49 but if a hundred other people do it with me then   <<T: crazy but if a hundred other people do it with me, then  (ag=0.96 p=0.311)
+19 702.49-704.85 it's a marathon that's
+20 705.72-706.14 a good way to
+## C24 Degrade the rich, Demna and Drake dur=78.3s lines=29
+01 1203.66-1206.68 because as a person that when we first seen the gap
+02 1206.68-1211.62 deal right um we understand that rich motherfuckers ain't going in
+03 1211.62-1213.34 the gap but you know what they was going in the
+04 1213.34-1215.58 gap because of you it was going and they said powered   <<T: in the gap because of you it was going and they say powered by  (ag=0.8 p=0.334)
+05 1215.58-1219.06 by balenciaga but then you walk into the to the store
+06 1219.06-1222.98 and then this is closed that's just on the floor is
+07 1222.98-1225.50 that is that degrading to somebody that's rich that That want   <<T: that degrading to somebody that's rich that want to  (ag=0.8 p=0.246)
+08 1225.50-1226.76 to come in there and support you?
+09 1226.80-1227.94 We should degrade the rich.
+10 1228.26-1229.52 Everybody is dirt.
+11 1230.00-1232.10 Everybody on the same level beneath God.
+12 1232.34-1233.64 Because we'll hop over.
+13 1233.94-1234.34 That   <<T:   (ag=0.0 p=0.945)
+14 1235.08-1237.04 was all. That was very good.   <<T: you  (ag=0.0 p=0.435)
+15 1237.28-1241.44 You know, we'll walk over a homeless person to get to
+16 1241.44-1242.04 the Gucci store.
+17 1242.96-1247.20 Ray Kurzweil said, a utopia is possible where we're led by
+18 1247.20-1249.80 the least noble and the greediest people.
+19 1249.80-1255.70 I brought the head designer of Balenciaga, the greatest designer on
+20 1255.70-1257.72 our planet today, Demna.
+21 1258.08-1262.04 Demna is the yay of clothing.
+22 1262.10-1265.02 Demna is the Drake of clothing.
+23 1265.54-1269.70 Drake is the greatest rapper ever.
+24 1270.78-1272.16 And you say in war?   <<T: And you said in war?  (ag=0.8 p=0.339)
+25 1272.40-1273.80 I don't apologize about it.
+26 1273.98-1276.94 You say in war he held your baby's mother's mother?   <<T: You said in war, he'll fuck your baby's mother's mother?  (ag=0.7 p=0.606)
+27 1277.44-1278.60 Yeah, that was hard.
+28 1278.60-1279.54 That was hard.   <<T: hard. That  (ag=0.4 p=0.436)
+29 1279.56-1280.14 That was hard.   <<T:   (ag=0.0 p=0.642)
+## C25 R&B took God out of the music dur=65.5s lines=18
+01 1027.54-1030.20 taking god out of music yeah i remember i was at
+02 1030.20-1034.86 roscoe's you know earlier this year and i'm i love i
+03 1034.86-1038.78 love roscoe's stuff but they're playing the music and it's like
+04 1038.78-1041.76 us you're saying you got it bad you got it you   <<T: like Usher saying, you got it bad. you got it you  (ag=0.82 p=0.104)
+05 1041.76-1046.78 got it bad yeah that messaging is not uplifting some
+06 1047.64-1053.76 niggas got it bad yeah yeah but there's when we sing
+07 1053.76-1058.66 god created music solely for the purpose of worshiping god
+08 1059.70-1063.31 now if you listen to the majority of the music it's
+09 1063.31-1066.93 not worshiping god no it's going into dark dark holes it's   <<T: not worshiping God no it's going into the dark holes it's  (ag=0.91 p=0.25)
+10 1066.93-1070.27 like for the sweat to my nuts yeah it's saying i   <<T: it's like sweat to my yeah but it's saying i want to  (ag=0.7 p=0.178)
+11 1070.27-1073.39 want to fuck your bitch i want to fuck your girlfriend   <<T: saying i want to fuck your bitch just how many bitches i'm gonna fuck your girlfriend i  (ag=0.57 p=0.37)
+12 1073.39-1075.75 i want to fuck your mom like it's like and i
+13 1075.75-1078.21 want to do drugs while i'm fucking your mom like it's
+14 1078.21-1082.19 it just takes you into that that place and god has
+15 1082.19-1083.29 a god
+16 1085.05-1088.41 has a place for us in a promised land that can't
+17 1088.41-1091.63 be defined by man it's not the 400 acres that the
+18 1091.63-1092.75 oppressors can take away
+## C26 Speak your truth off Doucé, not Hennessy dur=74.5s lines=24
+01 215.46-218.92 Like you at somebody's wedding, and somebody get into a fight
+02 218.92-220.30 with a family member at the end.   <<T: fight with a family member  (ag=0.67 p=0.785)
+03 220.30-221.42 And they say some real shit.   <<T: but  (ag=0.0 p=0.983)
+04 221.46-223.98 But they ain't said it until they had the do say.
+05 224.14-225.00 They say some real shit.   <<T: they say something  (ag=0.5 p=0.987)
+06 225.22-228.36 And I'm telling you, the whole difference is when people come   <<T: I'll tell you the whole difference is when people come and  (ag=0.73 p=0.743)
+07 228.36-230.62 and speak their truth, They need to speak their truth off
+08 230.62-233.32 to do say they don't need to speak their truth off   <<T: off to do say they don't need to speak they truth off of  (ag=0.83 p=0.238)
+09 233.32-236.34 of Hennessy So I want to say today is I need
+10 236.34-238.62 every single and we can get back to the black lives
+11 238.62-240.90 matter But I need every single liquor store in the world   <<T: Black Lives Matter body every single liquor store in the world  (ag=0.73 p=0.092)
+12 240.90-244.24 to remove the Hennessy and put the do say in it
+13 244.24-246.70 I'm asking a good day every   <<T: in it i'm asking and calling for every  (ag=0.43 p=0.195)
+14 249.91-252.75 I'm asking every black person
+15 253.45-255.89 When you want to drink and you want to go fool
+16 255.89-258.27 the uncle that don't give a fuck level at the wedding
+17 259.53-263.15 Do it off the Duce Don't do it off the Hennessy   <<T: what i'm saying do it off the ducé don't do it  (ag=0.64 p=0.457)
+18 263.15-265.75 Don't do it off the Hennessy Go full yay off the   <<T: the Hennessy number. Go full yay off  (ag=0.67 p=0.195)
+19 265.75-270.89 Duce Go yay Go full yay off the Duce Go full   <<T: full yay off deucey. Go full yay off deucey. Go full yay off deucey. Go full yay  (ag=0.5 p=0.032)
+20 270.89-273.29 yay off the Duce Go full yay off the Duce But   <<T: Go full yay off deucey. Go full yay off deucey. But  (ag=0.45 p=0.501)
+21 273.29-278.23 yay Let me just be clear real quick Respect Because this
+22 278.23-281.79 is the only time This is delicious This Duce is good
+23 282.65-289.10 Also for an evening nightcap A nightcap is Well recommended my
+24 289.10-289.40 friend   <<T: my friend.  (ag=0.67 p=1.0)

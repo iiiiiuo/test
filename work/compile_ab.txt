@@ -1,0 +1,407 @@
+## C01
+C01_L001 1592.52-1595.52
+   EN : Yeah, it's so funny, though, because me and Drake, you know,
+   ASR: Yeah, it's so funny, though, because me and Drake, you
+C01_L002 1595.52-1598.44
+   EN : before Donda came out, we met up at the studio.
+   ASR: know, before Donda came out, we met up at the studio.
+C01_L003 1646.82-1654.77
+   EN : So then Drake says to me, yo... no, I need to tell the story like this.
+   ASR: So then Drake says to me, yo, no, I need to tell the story like this.
+C01_L004 1656.68-1664.74
+   EN : So basically, you know, Jared Kushner asked Steve Stoute, like, yo, just tell me, did Ye fuck my wife?
+   ASR: So basically, you know, Jared Kushner asked Steve Stout, like, yo, just tell me, like, did Ye fuck my wife?
+C01_L005 1665.10-1670.32
+   EN : And Steve Stoute was like, no, Ye never did nothing.
+   ASR: And Steve Stout was like, no, Ye never did nothing.
+C01_L006 1670.32-1673.86
+   EN : So when I went to the White House, I saw Jared.
+   ASR: So when I went to the White House, I saw Jared.
+C01_L007 1673.92-1678.34
+   EN : I was like, yo, I want to just tell you, nothing ever happened. He's like, yo, I don't know what you're talking about.
+   ASR: I was like, yo, I want to just tell you, nothing ever happened. He's like, yo, I don't know what you're talking
+C01_L008 1678.34-1684.74
+   EN : I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened.
+   ASR: about. I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened.
+C01_L009 1685.02-1686.74
+   EN : And he said, yo, thank you for saying that.
+   ASR: And he said, yo, thank you for saying that.
+C01_L010 1687.42-1694.94
+   EN : Okay, so when I saw Drake, we was in a parking lot, we were talking, and he said, yo, I just want to tell you, yo, nothing ever happened.
+   ASR: Okay, so when I saw Drake, we was in a parking lot, we were talking, and he said, yo, I just want to tell you, yo, nothing ever happened.
+C01_L011 1695.92-1698.80
+   EN : And then I said, yo, thank you for saying that.
+   ASR: And then I said, yo, thank you for saying that.
+C01_L012 1698.80-1700.68
+   EN : When did I become Jared Kushner?
+   ASR: When did I become Jared Kushner?
+C01_L013 1705.15-1706.85
+   EN : I didn't know where this was going.
+   ASR: I didn't know this was going.
+C01_L014 1707.41-1712.83
+   EN : I did not know where this was going.
+   ASR: I did not know this was going.
+C01_L015 1713.05-1714.51
+   EN : You had me scared for a second.
+   ASR: I was scared for a second.
+## C02
+C02_L001 1749.08-1756.28
+   EN : So we're going, because the old man made a call for me — (Host: the old man, which is Larry Hoover?) — yeah,
+   ASR: so we're going because the old man made a call for me and you see a marriage of my Larry Hoover yeah
+C02_L002 1756.28-1760.96
+   EN : Larry Hoover made a call for me and Drake to squash things and to do this concert together.
+   ASR: Larry Hoover made a call for me and Drake to squash things fire and to do this concert together
+C02_L003 1796.57-1800.91
+   EN : So anyway, so Dave Chappelle has a concert that night.
+   ASR: So anyway, so Dave Chappelle has a concert that night.
+C02_L004 1800.91-1808.83
+   EN : The night where we're going to... so we're seeing like, yo, can we go chop it up with Drake and then make it to the Dave Chappelle joint and go by the house?
+   ASR: the night where we're going to so we're seeing like yo can we go chop it up with Drake and then make it to the day Chappelle joint and go by the house
+C02_L005 1808.83-1819.40
+   EN : And then, so we're on the plane and we're like, well, where's Drake's house in comparison and distance to the concert?
+   ASR: and then so we're on the plane and we're like well where's Drake's house in comparison and distance to the concert and
+C02_L006 1819.40-1824.16
+   EN : And I look up, I say, Google it. That's the whole thing, you can Google it.
+   ASR: I and I look up I say Google it that's the whole thing you can Google it
+C02_L007 1824.16-1833.52
+   EN : I can set it up differently. Remember, the whole thing was, yo, I gave his address. And my whole thing is, you could Google the address.
+   ASR: I can set it up differently remember the The whole thing was, yo, I gave his address. And my whole thing is, you could Google the address.
+C02_L008 1833.98-1836.10
+   EN : And everybody on the plane started laughing.
+   ASR: And everybody on the plane started laughing.
+C02_L009 1836.22-1837.66
+   EN : Because you could Google the address.
+   ASR: Because you could Google the address.
+C02_L010 1838.36-1841.92
+   EN : You know, it just looked like something on Instagram.
+   ASR: You know, it just looked like something on Instagram.
+C02_L011 1842.04-1844.46
+   EN : And I was like, oh, I got the address.
+   ASR: You know, it was like, oh, I got the address.
+C02_L012 1844.76-1846.66
+   EN : And guess how I found it?
+   ASR: And guess how I found it?
+C02_L013 1846.76-1847.72
+   EN : I Googled it.
+   ASR: I Googled it.
+C02_L014 1848.72-1851.19
+   EN : That's crazy.
+   ASR: That's crazy.
+C02_L015 1854.68-1857.18
+   EN : Your house don't look the same on these Google Maps.
+   ASR: Your house don't look the same on these Google Maps.
+## C03
+C03_L001 30.54-36.58
+   EN : Okay, you know, like right now, when me, James Blake, Arca and No I.D. in the studio working on our album,
+   ASR: OK, you know, like right now, when me, James Blake are and no idea in the studio working on our album.
+C03_L002 36.72-39.54
+   EN : who do you think we'd be bringing up when we're talking about songs?
+   ASR: Who do you think we'd be bringing up when we're talking about songs?
+C03_L003 40.14-41.82
+   EN : Stadium artists. Who do you think we bring up?
+   ASR: Stadium artists. Who do you think we bring up?
+C03_L004 42.37-44.49
+   EN : And we ain't got no problem, we don't beef.
+   ASR: And we ain't got no problem. We don't beef.
+C03_L005 44.65-46.23
+   EN : No problem. It's just like, yo, we competing.
+   ASR: No problem. It's just like, yo, we competing.
+C03_L006 46.39-47.73
+   EN : Not Drake. Who do you think we bring?
+   ASR: Not Drake. Who do you think we bring?
+C03_L007 47.79-50.41
+   EN : Anybody else got another Travis Stadium?
+   ASR: Anybody else got another Travis Stadium?
+C03_L008 51.90-52.96
+   EN : Think down here.
+   ASR: Think down here.
+C03_L009 54.48-56.12
+   EN : Kodak Black? No, no.
+   ASR: It's called Black. No, no.
+C03_L010 58.42-64.82
+   EN : Stadium. Bad Bunny. That's who's on our wall.
+   ASR: stadium stadium bad bunny that's who's on our wall right that's
+C03_L011 64.82-68.52
+   EN : That's who's on our wall when we make music. We loading up concert footage.
+   ASR: who's our wall when we make music we loading up concert footage
+C03_L012 68.52-72.38
+   EN : Are you talking about the aesthetics of the stadium and what it's looking for?
+   ASR: are you talking about the aesthetics of the stadium and what would it look
+C03_L013 72.38-73.88
+   EN : Yeah, not just the aesthetics. And in retrospect,
+   ASR: yeah not just the respect
+C03_L014 75.02-80.90
+   EN : If it wasn't for me, there might not be no Bad Bunny. I brought reggaeton to America. I'm sorry.
+   ASR: If it wasn't for me, there might not be no Bad Bunny. I brought reggae tone to America, I'm sorry.
+C03_L015 81.34-82.32
+   EN : Let's make some noise for me.
+   ASR: Let's make some noise for me.
+C03_L016 84.34-86.08
+   EN : I'm sorry, I didn't mean to grab you. Cool.
+   ASR: I'm sorry, yeah, I didn't mean to grab you, cool.
+C03_L017 86.18-86.60
+   EN : Come on, let's go.
+   ASR: Come on, let's go.
+C03_L018 86.76-89.06
+   EN : So the thing is, it depends on what we're doing.
+   ASR: So the thing is, it depends on what we're doing.
+C03_L019 89.22-91.72
+   EN : You know what I'm saying? We're going to do clothes, we're going to look at Supreme,
+   ASR: You know what I'm saying? We're going to do clothes, we're going to look at Supreme,
+C03_L020 92.52-97.34
+   EN : we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps,
+   ASR: we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps, you know, we're
+C03_L021 97.34-103.20
+   EN : you know, we're going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny,
+   ASR: going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny, we
+C03_L022 103.20-104.84
+   EN : we got to look at everything, that's what we have.
+   ASR: got to look at everything, that's what we have.
+C03_L023 104.84-107.28
+   EN : We're gonna look at money. We're gonna look at Elon.
+   ASR: We're gonna look at money. We're gonna look at Elon.
+C03_L024 107.94-111.34
+   EN : You know, so we're gonna look at the Saudis. That's how I look at everything.
+   ASR: You know, so we're gonna look at the Saudis That's how I look at everything
+## C04
+C04_L001 1658.17-1660.21
+   EN : All right. Dungeon Family or Wu-Tang Clan?
+   ASR: All right. Dungeon Family or Wu -Tang Clan?
+C04_L002 1661.03-1664.41
+   EN : Oh, you know, see, it's ungodly.
+   ASR: Oh, you know, see, it's ungodly.
+C04_L003 1666.23-1668.17
+   EN : Wu-Tang, Wu-Tang.
+   ASR: Wu -Tang, Wu -Tang.
+C04_L004 1668.23-1669.05
+   EN : What? Come on, man.
+   ASR: What? Come on, man.
+C04_L005 1669.07-1670.97
+   EN : This is like Tony Starks.
+   ASR: This is like Tony Stark's.
+C04_L006 1671.25-1672.89
+   EN : This is the drip. You know what I'm saying?
+   ASR: This is a drip. You know what I'm saying?
+C04_L007 1673.05-1677.57
+   EN : But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to.
+   ASR: But I got to say, the Wu -Tang videos had me spending a lot more money than I needed to.
+C04_L008 1677.57-1687.23
+   EN : Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees.
+   ASR: Me and Don C was buying new Tims, new puffer jackets, fitted hats, white tees, wallabies.
+C04_L009 1687.37-1689.87
+   EN : And then, because it looked like every day was a video.
+   ASR: And then because it looked like every day was a video.
+C04_L010 1690.05-1693.87
+   EN : And I got to, like, New York and I seen dirty Timbs.
+   ASR: And I got to like New York and I seen Dirty Tims.
+C04_L011 1695.28-1696.60
+   EN : I called Free up.
+   ASR: I called free up.
+C04_L012 1696.60-1701.56
+   EN : I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs.
+   ASR: I said, I didn't know niggas had Dirty Tims in New York. I spent all this money on my freshman Tims.
+C04_L013 1701.76-1703.86
+   EN : I couldn't let my Timbs go more than three days.
+   ASR: I can't remember if my Tims go more than three days.
+C04_L014 1704.56-1707.44
+   EN : If my Timbs got a scuff on them, I'm in the meeting,
+   ASR: If my Tims got a scuff on them, I'm in the meeting.
+C04_L015 1708.30-1710.52
+   EN : meeting adjourned. I need a new pair of Timbs.
+   ASR: Meeting adjourned. I need a new pair of Timbs.
+C04_L016 1710.56-1711.40
+   EN : I'll be back.
+   ASR: I'll be back.
+C04_L017 1711.48-1713.22
+   EN : And I carried the Timbs in a plastic bag.
+   ASR: And I carried the Timbs in a plastic bag.
+C04_L018 1713.34-1714.54
+   EN : Put them on in the meeting.
+   ASR: Put them on in the meeting.
+C04_L019 1714.62-1715.82
+   EN : Now let's continue the conversation.
+   ASR: Now let's continue the conversation.
+C04_L020 1716.10-1718.56
+   EN : Yeah, yeah, yeah. Okay. No, I was like the DJ.
+   ASR: Yeah, yeah, yeah. Okay. No, it was the DJ.
+C04_L021 1718.72-1720.12
+   EN : You got to do this.
+   ASR: Well, I got to do the DJ. You got to do this.
+C04_L022 1720.16-1721.20
+   EN : I'm sorry. You're correct.
+   ASR: I'm sorry. You're correct.
+## C05
+C05_L001 1105.86-1110.12
+   EN : Kool G Rap or Big Pun? — (Ye:) I like both.
+   ASR: Coogee rap or big pun I like both
+C05_L002 1110.86-1111.70
+   EN : Take a shot.
+   ASR: take a shot
+C05_L003 1147.62-1151.38
+   EN : So, you know, God said for us to not compare each other amongst ourselves.
+   ASR: So, you know, God said for us to not compare each other amongst ourselves.
+C05_L004 1151.84-1157.44
+   EN : So when I compare the greatness of Kool G Rap and the greatness of Big Pun,
+   ASR: So when I compare the greatness of Coogee Rap and the greatness of Big Pun.
+C05_L005 1157.58-1158.98
+   EN : which was inspired by Kool G Rap,
+   ASR: Which was inspired by Coogee Rap.
+C05_L006 1159.14-1159.32
+   EN : Yeah.
+   ASR: Yeah.
+C05_L007 1160.06-1162.50
+   EN : it's not godly. You know what I'm saying?
+   ASR: It's not godly. You know what I'm saying?
+C05_L008 1162.56-1164.58
+   EN : I know Ross said God forgives, I don't.
+   ASR: I know Ross said God forgives, I don't.
+C05_L009 1164.58-1171.24
+   EN : I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive
+   ASR: I'm forgiving I forgive everybody I forgive the Clintons I forgive
+C05_L010 1171.24-1180.10
+   EN : John Legend for wearing them bum-ass sweaters. I forgive... I forgive him. He's forgiven.
+   ASR: John Legend for wearing them bum ass sweaters I forgive I forgive him he's forgiven
+C05_L011 1183.16-1190.92
+   EN : Big Sean. May they all be forgiven. I forgive Big Sean
+   ASR: Big Sean may they all be forgiven I forgive Big Sean
+C05_L012 1192.14-1196.62
+   EN : for not being able to make the choice between braids or a beard. Choose one.
+   ASR: for not being able to make the choice between braids or a beard. Choose one.
+C05_L013 1196.94-1199.56
+   EN : Um, I forgive, uh...
+   ASR: Um, I forgive, uh...
+C05_L014 1204.10-1205.44
+   EN : Who else is you again?
+   ASR: Who loves you again?
+C05_L015 1208.76-1209.12
+   EN : That's it?
+   ASR: That's it?
+C05_L016 1209.97-1212.57
+   EN : Everybody. Everybody I ever... you know what I'm saying?
+   ASR: Everybody. Everybody I ever, you know what I'm saying?
+C05_L017 1212.65-1213.37
+   EN : I forgive everyone.
+   ASR: I forgive everyone.
+C05_L018 1213.53-1214.77
+   EN : I forgive Bob Iger.
+   ASR: I forgive Bob Iger.
+C05_L019 1214.91-1216.65
+   EN : I forgive the left party.
+   ASR: I forgive the left party.
+## C06
+C06_L001 1752.20-1758.34
+   EN : Anybody that's ever been through a divorce, it's a difficult thing, you know, because your baby mama gonna play with you.
+   ASR: anybody that's ever been through a divorce it's a difficult thing you know because your baby mama gonna play with you like
+C06_L002 1758.34-1760.18
+   EN : Like, when we did the Donda 2 thing,
+   ASR: when we did the don the two thing
+C06_L003 1760.18-1768.04
+   EN : uh, when my kids came on a plane, after they was on a plane, Kim texted me and said North's not on a plane.
+   ASR: uh when my kids came on a plane after they was on a plane kim texted me and said north's not on a plane and
+C06_L004 1768.23-1772.27
+   EN : And knowing my personality, you know what I'm saying, that could affect my show.
+   ASR: knowing my personality you know i'm saying that could affect my show
+C06_L005 1772.27-1778.11
+   EN : So baby mamas across the world, not just me, like on some billionaire — (Host:) That's a Gemini shit. Yeah, I can attest to that.
+   ASR: so baby mama's across the world not just me like on some billionaire that's the Gemini shit yeah I can attest
+C06_L006 1778.11-1784.07
+   EN : And like, but everybody goes through a lot of that type of... I just thought about, you know,
+   ASR: to that and like but everybody goes through a lot of that type of I just thought about you know
+C06_L007 1784.75-1790.55
+   EN : all the time when I thought me and Kim were going to get a divorce, like, throughout our relationship, I always thought about
+   ASR: all the time when I thought me and Kim were going to get a divorce like throughout our relationship I always thought about
+C06_L008 1792.13-1796.18
+   EN : Big Boi, man. He really told me what it really was on 'I Choose You.'
+   ASR: Big Boy man he really told me what it really was on I Choose You
+C06_L009 1796.82-1799.46
+   EN : Oh, it's about OutKast? I was thinking about Big Boy Radio.
+   ASR: oh it's about OutKast I was thinking about Big Boy Radio
+C06_L010 1799.46-1805.52
+   EN : Like, your baby's mama's mama don't like me, they try to come to the studio, try to come and fight me and blah, blah,
+   ASR: like your baby's mama mama don't like me they try to come to the studio try to come and fight me and blah blah
+C06_L011 1805.52-1808.32
+   EN : Oh, that's 'Sorry Ms. Jackson,' right? — Yeah, yeah, yeah.
+   ASR: Oh, that's sorry, Miss Jackson, right? Yeah, yeah, yeah.
+C06_L012 1808.32-1812.92
+   EN : Okay, but then also he says, better pick the right one or pick the kiddies up.
+   ASR: Okay, but then also he says, better pick the right one or pick the kiddies up.
+C06_L013 1813.88-1821.56
+   EN : And the whole time, I'm like, this rap is just coming, rolling through my head like a mantra of what it, you know.
+   ASR: And the whole time, I'm like, this rap is just coming, rolling through my head like a mantra of what it, you know.
+C06_L014 1821.84-1833.04
+   EN : So, and I still be in my head like, you know, maybe, you know, maybe one day our family could get back together.
+   ASR: So, and I still be in my head like, you know, maybe, you know, maybe one day our family could get back together.
+## C07
+C07_L001 182.31-192.84
+   EN : Like, you know, and I don't like somebody saying, well, I'm gonna be the voice of Ye, the only voice of Ye, the only manager of Ye.
+   ASR: like you know i mean and i don't like somebody saying well i'm gonna be the voice of yay yay the only voice of yay yay the only manager yay like i
+C07_L002 192.84-199.58
+   EN : Like, I look at every single bill I pay. I only pay bills on a Friday, and I look at every one,
+   ASR: like i look at every single bill i pay i only pay bills on a friday and i look at everyone
+C07_L003 199.58-201.50
+   EN : one by one by one by one.
+   ASR: one by one by one by one
+C07_L004 201.50-212.09
+   EN : Like, I was thinking getting to be a billionaire would take me out of having to do work.
+   ASR: like i was thinking getting to be a billionaire would take me out of having to do work
+C07_L005 212.09-216.48
+   EN : Now one of my biggest jobs is keeping my money,
+   ASR: now one of my biggest his jobs is keeping my money
+C07_L006 216.48-222.50
+   EN : because there's a lot of people that's on a full-time job to take my money, right?
+   ASR: because there's a lot of people that's on a full -time job to take my money right
+C07_L007 222.50-229.46
+   EN : And I've literally lost hundreds of millions of dollars by not looking close enough.
+   ASR: and i've literally lost hundreds of millions of dollars by not looking close enough
+C07_L008 231.38-237.34
+   EN : So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib,
+   ASR: so it reminded me of that what shaq said when he had the the deal and he had the studio in his crib
+C07_L009 237.34-243.34
+   EN : and when he got the check, he looked at what the label was charging him, and they were charging him for studio time.
+   ASR: and when he got the on the check because he was paying this and then he looked at what they were were charging him the label and they were charging him for
+C07_L010 243.80-248.20
+   EN : He was like, the studio's at my crib! And then he got a couple hundred thousand back. But it's funny,
+   ASR: he's like studios at my crib and then he got a couple hundred thousand back but it's funny
+## C08
+C08_L001 770.50-774.71
+   EN : We had Cravo and Takeoff here the other day.
+   ASR: We had Cravo and Takeoff here the other day.
+C08_L002 774.87-777.55
+   EN : What they were saying? Real shit.
+   ASR: What they were saying? Real shit.
+C08_L003 778.81-786.53
+   EN : They said, Cravo said that you asked to borrow his Twitter during the blockout. Is this true?
+   ASR: They said, Cravo said that you asked to borrow his Twitter during the blockout. Is this true?
+C08_L004 787.68-793.38
+   EN : Yeah. He said... he offered it. He said he offered it.
+   ASR: Yeah. He said he offered it. He said he offered it.
+C08_L005 794.26-798.60
+   EN : But, you know what I'm saying, I just said, let me take this time as just like a breather.
+   ASR: But, you know what I'm saying? I just said, let me take this time as just like a breather.
+C08_L006 798.62-805.10
+   EN : They put me, like, it's a technical foul, right? Because, oh, here goes another thing.
+   ASR: They put me like like it's a technical foul right because oh here goes another thing i
+C08_L007 806.60-808.54
+   EN : I feel like God put me on a little timeout.
+   ASR: feel like god put me on a little time out
+C08_L008 808.54-813.86
+   EN : Yeah. Because my dad was like, I feel where you coming from, Ye, I understand,
+   ASR: yeah because my my dad was like i feel what you're coming from yay i understand
+C08_L009 816.74-823.00
+   EN : but you got to be more sophisticated with your words. You have to be more sophisticated.
+   ASR: but you got to be more sophisticated with your words you have to be more sophisticated
+C08_L010 823.00-826.62
+   EN : I agree with that. That was less sophisticated than I needed to be.
+   ASR: i agree with that was that was less sophisticated than i needed to be
+C08_L011 826.62-828.18
+   EN : You said God texted you that?
+   ASR: you said god text you that
+C08_L012 828.18-829.04
+   EN : No, his father.
+   ASR: no his his father
+C08_L013 829.04-833.52
+   EN : Yeah, second to God, my dad. Yeah, yeah, yeah.
+   ASR: yeah second to god my dad yeah yeah yeah
+C08_L014 833.52-842.00
+   EN : Because I know for a fact, um, you know, pissing off Jewish people and pissing off black people, I know that.
+   ASR: because i know for a fact um you know pissing off jewish people and pissing off black people i know that

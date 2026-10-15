@@ -1,0 +1,71 @@
+{
+ "created": "2026-10-15T10:10:21Z",
+ "note": "Whole-source transcription ran once (turbo). large-v3 re-pass only on candidate spans. Reuse; do not rerun globally.",
+ "full_source": {
+  "part_1": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_1.turbo.json",
+   "txt": "work/asr/part_1.turbo.txt"
+  },
+  "part_2_2": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_2_2.turbo.json",
+   "txt": "work/asr/part_2_2.turbo.txt"
+  },
+  "part_3": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_3.turbo.json",
+   "txt": "work/asr/part_3.turbo.txt"
+  },
+  "part_4": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_4.turbo.json",
+   "txt": "work/asr/part_4.turbo.txt"
+  },
+  "part_5": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_5.turbo.json",
+   "txt": "work/asr/part_5.turbo.txt"
+  },
+  "part_6": {
+   "model": "faster-whisper large-v3-turbo int8 CPU, word timestamps, VAD, beam 5",
+   "json": "work/asr/part_6.turbo.json",
+   "txt": "work/asr/part_6.turbo.txt"
+  }
+ },
+ "span_repass": {
+  "model": "faster-whisper large-v3 (Systran) int8 CPU",
+  "spans": "work/candidate_spans.json",
+  "files": [
+   "C01.large.json",
+   "C02.large.json",
+   "C03.large.json",
+   "C04.large.json",
+   "C05.large.json",
+   "C05x.large.json",
+   "C06.large.json",
+   "C07.large.json",
+   "C08.large.json",
+   "C09.large.json",
+   "C09x.large.json",
+   "C10.large.json",
+   "C10x.large.json",
+   "C11.large.json",
+   "C12.large.json",
+   "C12x.large.json",
+   "C13.large.json",
+   "C14.large.json",
+   "C15.large.json",
+   "C16.large.json",
+   "C17.large.json",
+   "C18.large.json",
+   "C19.large.json",
+   "C22.large.json",
+   "C23.large.json",
+   "C24.large.json",
+   "C25.large.json",
+   "C26.large.json"
+  ]
+ },
+ "mirror": "/mnt/project-files/work/asr/"
+}

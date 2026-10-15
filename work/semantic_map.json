@@ -1,0 +1,346 @@
+{
+ "created": "2026-10-15T10:10:21Z",
+ "granularity": "coarse topic units; dispositions only. Detailed text lives in work/asr.",
+ "selected": [
+  {
+   "source": "part_1",
+   "intervals": [
+    [
+     1203.7,
+     1269.8
+    ]
+   ],
+   "topic": "Degrade the rich, Demna and Drake",
+   "disposition": "selected as Clip_01 (C24)"
+  },
+  {
+   "source": "part_1",
+   "intervals": [
+    [
+     1592.52,
+     1600.4
+    ],
+    [
+     1646.8,
+     1714.6
+    ]
+   ],
+   "topic": "Drake told me 'nothing ever happened'",
+   "disposition": "selected as Clip_02 (C01)"
+  },
+  {
+   "source": "part_1",
+   "intervals": [
+    [
+     1749.1,
+     1761.2
+    ],
+    [
+     1796.5,
+     1857.3
+    ]
+   ],
+   "topic": "I Googled Drake's address",
+   "disposition": "selected as Clip_03 (C02)"
+  },
+  {
+   "source": "part_2_2",
+   "intervals": [
+    [
+     30.5,
+     111.4
+    ]
+   ],
+   "topic": "Bad Bunny is on our wall",
+   "disposition": "selected as Clip_04 (C03)"
+  },
+  {
+   "source": "part_2_2",
+   "intervals": [
+    [
+     641.1,
+     706.1
+    ]
+   ],
+   "topic": "Water, rainwater and the marathon",
+   "disposition": "selected as Clip_05 (C23)"
+  },
+  {
+   "source": "part_2_2",
+   "intervals": [
+    [
+     1105.8,
+     1111.8
+    ],
+    [
+     1147.6,
+     1216.7
+    ]
+   ],
+   "topic": "I forgive everybody",
+   "disposition": "selected as Clip_06 (C05)"
+  },
+  {
+   "source": "part_2_2",
+   "intervals": [
+    [
+     1658.1,
+     1721.3
+    ]
+   ],
+   "topic": "Wu-Tang videos and fresh Timbs",
+   "disposition": "selected as Clip_07 (C04)"
+  },
+  {
+   "source": "part_2_2",
+   "intervals": [
+    [
+     1752.2,
+     1833.1
+    ]
+   ],
+   "topic": "Divorce and Big Boi's 'I Choose You'",
+   "disposition": "selected as Clip_08 (C06)"
+  },
+  {
+   "source": "part_3",
+   "intervals": [
+    [
+     182.3,
+     248.1
+    ]
+   ],
+   "topic": "A billionaire still checks every bill",
+   "disposition": "selected as Clip_09 (C07)"
+  },
+  {
+   "source": "part_3",
+   "intervals": [
+    [
+     770.5,
+     842.1
+    ]
+   ],
+   "topic": "God put me on a timeout",
+   "disposition": "selected as Clip_10 (C08)"
+  },
+  {
+   "source": "part_3",
+   "intervals": [
+    [
+     884.85,
+     970.8
+    ]
+   ],
+   "topic": "Never finished a novel",
+   "disposition": "selected as Clip_11 (C09)"
+  },
+  {
+   "source": "part_3",
+   "intervals": [
+    [
+     1027.5,
+     1093.0
+    ]
+   ],
+   "topic": "R&B took God out of the music",
+   "disposition": "selected as Clip_12 (C25)"
+  },
+  {
+   "source": "part_3",
+   "intervals": [
+    [
+     1395.45,
+     1474.0
+    ]
+   ],
+   "topic": "Pimp C told me to turn my vocals up",
+   "disposition": "selected as Clip_13 (C10)"
+  },
+  {
+   "source": "part_4",
+   "intervals": [
+    [
+     343.1,
+     405.0
+    ]
+   ],
+   "topic": "Drake wrote that verse for me",
+   "disposition": "selected as Clip_14 (C11)"
+  },
+  {
+   "source": "part_4",
+   "intervals": [
+    [
+     1143.06,
+     1225.0
+    ]
+   ],
+   "topic": "The 'get p*ssy toe' Adidas pitch",
+   "disposition": "selected as Clip_15 (C14)"
+  },
+  {
+   "source": "part_4",
+   "intervals": [
+    [
+     1820.6,
+     1885.7
+    ]
+   ],
+   "topic": "Beefing with Puff, so I bought a penthouse",
+   "disposition": "selected as Clip_16 (C12)"
+  },
+  {
+   "source": "part_4",
+   "intervals": [
+    [
+     1885.7,
+     1958.6
+    ]
+   ],
+   "topic": "Virgil, Drake and 4D chess",
+   "disposition": "selected as Clip_17 (C13)"
+  },
+  {
+   "source": "part_5",
+   "intervals": [
+    [
+     1177.26,
+     1249.9
+    ]
+   ],
+   "topic": "Jeff Bezos ain't got no taste",
+   "disposition": "selected as Clip_18 (C16)"
+  },
+  {
+   "source": "part_5",
+   "intervals": [
+    [
+     1739.45,
+     1814.9
+    ]
+   ],
+   "topic": "Elon: best EQ on the planet",
+   "disposition": "selected as Clip_19 (C17)"
+  },
+  {
+   "source": "part_6",
+   "intervals": [
+    [
+     215.46,
+     290.0
+    ]
+   ],
+   "topic": "Speak your truth off D'Usse, not Hennessy",
+   "disposition": "selected as Clip_20 (C26)"
+  },
+  {
+   "source": "part_6",
+   "intervals": [
+    [
+     1191.0,
+     1259.3
+    ]
+   ],
+   "topic": "Life is an album: Workout Plan to Stronger",
+   "disposition": "selected as Clip_21 (C18)"
+  }
+ ],
+ "excluded": [
+  {
+   "source": "part_1",
+   "start_s": 285,
+   "end_s": 1000,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_2_2",
+   "start_s": 343,
+   "end_s": 1040,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_3",
+   "start_s": 248,
+   "end_s": 760,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_3",
+   "start_s": 1515,
+   "end_s": 1770,
+   "disposition": "excluded: antisemitic statements"
+  },
+  {
+   "source": "part_4",
+   "start_s": 23,
+   "end_s": 330,
+   "disposition": "excluded: Ray J sex-tape / lie-detector allegations about named people"
+  },
+  {
+   "source": "part_5",
+   "start_s": 1950,
+   "end_s": null,
+   "disposition": "excluded: George Floyd misinformation"
+  },
+  {
+   "source": "part_6",
+   "start_s": 1040,
+   "end_s": 1080,
+   "disposition": "excluded: violent statement (\"kill me in seven days\")"
+  },
+  {
+   "source": "mahomes",
+   "start_s": null,
+   "end_s": null,
+   "disposition": "excluded: Mahomes conspiracy with \"Jewish media\" framing"
+  }
+ ],
+ "rejected": [
+  {
+   "candidate": "C15",
+   "topic": "Future / diamond flip-flops",
+   "reason": "speech unclear; too short without it"
+  },
+  {
+   "candidate": "C19",
+   "topic": "Are you single / Stassie / Chaney",
+   "reason": "lyric uncertainty; 160 s"
+  },
+  {
+   "candidate": "C22",
+   "topic": "\"baby B\"",
+   "reason": "24 s gap / padding; too short"
+  },
+  {
+   "candidate": "P2_2-LateReg",
+   "topic": "Late Registration / Power",
+   "reason": "56 s, below 60 s"
+  },
+  {
+   "candidate": "P4-LarryDavid",
+   "topic": "Larry David",
+   "reason": "50 s"
+  },
+  {
+   "candidate": "P5-birthday",
+   "topic": "Kids birthday party",
+   "reason": "custody allegations against named people; long"
+  },
+  {
+   "candidate": "P5-Virgil-funeral",
+   "topic": "Virgil funeral",
+   "reason": "56 s; runs into antisemitic content"
+  },
+  {
+   "candidate": "P3-GD",
+   "topic": "Gangster Disciples",
+   "reason": "54 s"
+  },
+  {
+   "candidate": "P2_2/P3-WuMobb",
+   "topic": "Wu-Tang was Mobb Deep's Drake",
+   "reason": "crosses file boundary (part_2 2 1953+ / part_3 0-90)"
+  }
+ ]
+}

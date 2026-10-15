@@ -1,0 +1,191 @@
+[
+{
+"n": 1,
+"start": 1191.08,
+"end": 1194.99,
+"text": "okay so i'm giving you an analogy right we're at the",
+"turbo": "Okay, so I'm giving you an analogy, right? We're at the",
+"agree": 1.0,
+"minp": 0.036
+},
+{
+"n": 2,
+"start": 1194.99,
+"end": 1198.65,
+"text": "beginning of this album our life is the album our world",
+"turbo": "at the beginning of this album. Our life is an album. Our world is",
+"agree": 0.8,
+"minp": 0.961
+},
+{
+"n": 3,
+"start": 1198.65,
+"end": 1202.27,
+"text": "is a symphony we're playing on different notes but like quincy",
+"turbo": "world is a symphony. We're playing on different notes. But like Quincy",
+"agree": 0.96,
+"minp": 0.949
+},
+{
+"n": 4,
+"start": 1202.27,
+"end": 1204.99,
+"text": "jones we have to bring it together and have us all",
+"turbo": "Jones, we have to bring it together and have us all",
+"agree": 1.0,
+"minp": 0.93
+},
+{
+"n": 5,
+"start": 1204.99,
+"end": 1207.83,
+"text": "play on one accord we're at the beginning of this album",
+"turbo": "have us all play on one accord. We're at the beginning of this album.",
+"agree": 0.88,
+"minp": 0.704
+},
+{
+"n": 6,
+"start": 1207.83,
+"end": 1210.05,
+"text": "and even if you go back like even jay cole sample",
+"turbo": "album. And even if you go back, like even J. Cole's sample",
+"agree": 0.78,
+"minp": 0.592
+},
+{
+"n": 7,
+"start": 1210.05,
+"end": 1213.39,
+"text": "workout plan we could play workout plan right but by the",
+"turbo": "sample workout plan, we could play workout plan, right? But by the time",
+"agree": 0.92,
+"minp": 0.397
+},
+{
+"n": 8,
+"start": 1213.39,
+"end": 1216.95,
+"text": "time we to stronger it was a diamond record we are",
+"turbo": "by the time we got to Stronger, it was a diamond record we are",
+"agree": 0.88,
+"minp": 0.631
+},
+{
+"n": 9,
+"start": 1216.95,
+"end": 1220.69,
+"text": "in line for a diamond record but we have to do",
+"turbo": "in line for a diamond record but we have to do",
+"agree": 1.0,
+"minp": 0.998
+},
+{
+"n": 10,
+"start": 1220.69,
+"end": 1224.35,
+"text": "some unorthodox things workout plan was for me as a backpack",
+"turbo": "to do some unorthodox things workout plan was for me as a backpack",
+"agree": 0.92,
+"minp": 0.82
+},
+{
+"n": 11,
+"start": 1224.35,
+"end": 1227.29,
+"text": "rapper to have that song or even like be cursing or",
+"turbo": "backpack rapper to have that song or even I'd be cursing or",
+"agree": 0.87,
+"minp": 0.933
+},
+{
+"n": 12,
+"start": 1227.29,
+"end": 1231.03,
+"text": "talking about the addictions i was dealing with and my addiction",
+"turbo": "or talking about the addictions I was dealing with them my addiction",
+"agree": 0.87,
+"minp": 0.782
+},
+{
+"n": 13,
+"start": 1231.03,
+"end": 1234.19,
+"text": "to girls and all this type of was weird because like",
+"turbo": "addiction to girls and all this type of shit was weird because like",
+"agree": 0.92,
+"minp": 0.931
+},
+{
+"n": 14,
+"start": 1234.19,
+"end": 1237.03,
+"text": "most deaf wasn't talking about that quality was talking about because",
+"turbo": "like most deaf wasn't talking about that quality was all about doesn't",
+"agree": 0.78,
+"minp": 0.32
+},
+{
+"n": 15,
+"start": 1237.03,
+"end": 1240.21,
+"text": "it's not positive it's not backpack right but i i leaned",
+"turbo": "doesn't that positive it's that backpack right but I lean into",
+"agree": 0.55,
+"minp": 0.572
+},
+{
+"n": 16,
+"start": 1240.21,
+"end": 1242.83,
+"text": "into my truth i found that playboy when i was five",
+"turbo": "into my truth I found that playboy when I was five",
+"agree": 1.0,
+"minp": 0.296
+},
+{
+"n": 17,
+"start": 1242.83,
+"end": 1246.35,
+"text": "years old and now i'm calling irena shake and you know",
+"turbo": "five years old and now i'm calling irena shake and you know i'm",
+"agree": 0.92,
+"minp": 0.599
+},
+{
+"n": 18,
+"start": 1246.35,
+"end": 1250.31,
+"text": "what i'm saying so it's it was my truth but by",
+"turbo": "you know i'm saying so it's it was my truth but by the",
+"agree": 0.83,
+"minp": 0.763
+},
+{
+"n": 19,
+"start": 1250.31,
+"end": 1253.31,
+"text": "the time we got the stronger work your harder make it",
+"turbo": "by the time we got the stronger work it harder make it",
+"agree": 0.87,
+"minp": 0.345
+},
+{
+"n": 20,
+"start": 1253.31,
+"end": 1258.46,
+"text": "better faster me that's my only diamond record right i'm saying",
+"turbo": "it better faster than me that's my only diamond record right i'm saying you",
+"agree": 0.88,
+"minp": 0.618
+},
+{
+"n": 21,
+"start": 1258.46,
+"end": 1259.16,
+"text": "you know what i'm saying",
+"turbo": "i'm saying you know i'm saying",
+"agree": 0.73,
+"minp": 0.612
+}
+]

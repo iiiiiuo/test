@@ -1,0 +1,291 @@
+{
+"C01": {
+"title": "Drake told me 'nothing ever happened'",
+"src": "part_1",
+"iv": [
+[
+1592.52,
+1600.4
+],
+[
+1646.8,
+1714.6
+]
+],
+"asr": [
+"C01"
+]
+},
+"C02": {
+"title": "I Googled Drake's address",
+"src": "part_1",
+"iv": [
+[
+1749.1,
+1761.2
+],
+[
+1796.5,
+1857.3
+]
+],
+"asr": [
+"C02"
+]
+},
+"C03": {
+"title": "Bad Bunny is on our wall",
+"src": "part_2_2",
+"iv": [
+[
+30.5,
+111.4
+]
+],
+"asr": [
+"C03"
+]
+},
+"C04": {
+"title": "Wu-Tang videos and fresh Timbs",
+"src": "part_2_2",
+"iv": [
+[
+1658.1,
+1721.3
+]
+],
+"asr": [
+"C04"
+]
+},
+"C05": {
+"title": "I forgive everybody",
+"src": "part_2_2",
+"iv": [
+[
+1105.8,
+1111.8
+],
+[
+1147.6,
+1216.7
+]
+],
+"asr": [
+"C05x",
+"C05"
+]
+},
+"C06": {
+"title": "Divorce and Big Boi's 'I Choose You'",
+"src": "part_2_2",
+"iv": [
+[
+1752.2,
+1833.1
+]
+],
+"asr": [
+"C06"
+]
+},
+"C07": {
+"title": "A billionaire still checks every bill",
+"src": "part_3",
+"iv": [
+[
+182.3,
+248.1
+]
+],
+"asr": [
+"C07"
+]
+},
+"C08": {
+"title": "God put me on a timeout",
+"src": "part_3",
+"iv": [
+[
+770.5,
+842.1
+]
+],
+"asr": [
+"C08"
+]
+},
+"C09": {
+"title": "Never finished a novel",
+"src": "part_3",
+"iv": [
+[
+884.85,
+970.8
+]
+],
+"asr": [
+"C09",
+"C09x"
+]
+},
+"C10": {
+"title": "Pimp C told me to turn my vocals up",
+"src": "part_3",
+"iv": [
+[
+1395.45,
+1474.0
+]
+],
+"asr": [
+"C10",
+"C10x"
+]
+},
+"C11": {
+"title": "Drake wrote that verse for me",
+"src": "part_4",
+"iv": [
+[
+343.1,
+405.0
+]
+],
+"asr": [
+"C11"
+]
+},
+"C12": {
+"title": "Beefing with Puff, so I bought a penthouse",
+"src": "part_4",
+"iv": [
+[
+1820.6,
+1885.7
+]
+],
+"asr": [
+"C12x",
+"C12"
+]
+},
+"C13": {
+"title": "Virgil, Drake and 4D chess",
+"src": "part_4",
+"iv": [
+[
+1885.7,
+1958.6
+]
+],
+"asr": [
+"C13"
+]
+},
+"C14": {
+"title": "The 'get p*ssy toe' Adidas pitch",
+"src": "part_4",
+"iv": [
+[
+1143.06,
+1225.0
+]
+],
+"asr": [
+"C14"
+]
+},
+"C16": {
+"title": "Jeff Bezos ain't got no taste",
+"src": "part_5",
+"iv": [
+[
+1177.26,
+1249.9
+]
+],
+"asr": [
+"C16"
+]
+},
+"C17": {
+"title": "Elon: best EQ on the planet",
+"src": "part_5",
+"iv": [
+[
+1739.45,
+1814.9
+]
+],
+"asr": [
+"C17"
+]
+},
+"C18": {
+"title": "Life is an album: Workout Plan to Stronger",
+"src": "part_6",
+"iv": [
+[
+1191.0,
+1259.3
+]
+],
+"asr": [
+"C18"
+]
+},
+"C23": {
+"title": "Water, rainwater and the marathon",
+"src": "part_2_2",
+"iv": [
+[
+641.1,
+706.1
+]
+],
+"asr": [
+"C23"
+]
+},
+"C24": {
+"title": "Degrade the rich, Demna and Drake",
+"src": "part_1",
+"iv": [
+[
+1203.7,
+1269.8
+]
+],
+"asr": [
+"C24"
+]
+},
+"C25": {
+"title": "R&B took God out of the music",
+"src": "part_3",
+"iv": [
+[
+1027.5,
+1093.0
+]
+],
+"asr": [
+"C25"
+]
+},
+"C26": {
+"title": "Speak your truth off D'Usse, not Hennessy",
+"src": "part_6",
+"iv": [
+[
+215.46,
+290.0
+]
+],
+"asr": [
+"C26"
+]
+}
+}

@@ -1,0 +1,209 @@
+[
+{
+"n": 1,
+"start": 1203.66,
+"end": 1206.68,
+"text": "because as a person that when we first seen the gap",
+"turbo": "you something Because as a person that When we first seen the Gap",
+"agree": 0.92,
+"minp": 0.988
+},
+{
+"n": 2,
+"start": 1206.68,
+"end": 1211.62,
+"text": "deal right um we understand that rich motherfuckers ain't going in",
+"turbo": "the Gap deal right um we understand that rich motherfuckers ain't going in the",
+"agree": 0.88,
+"minp": 0.429
+},
+{
+"n": 3,
+"start": 1211.62,
+"end": 1213.34,
+"text": "the gap but you know what they was going in the",
+"turbo": "going in the gap but you know what it was going in the gap",
+"agree": 0.8,
+"minp": 0.664
+},
+{
+"n": 4,
+"start": 1213.34,
+"end": 1215.58,
+"text": "gap because of you it was going and they said powered",
+"turbo": "in the gap because of you it was going and they say powered by",
+"agree": 0.8,
+"minp": 0.334
+},
+{
+"n": 5,
+"start": 1215.58,
+"end": 1219.06,
+"text": "by balenciaga but then you walk into the to the store",
+"turbo": "powered by balenciaga but then you walk into the to the store",
+"agree": 0.96,
+"minp": 0.96
+},
+{
+"n": 6,
+"start": 1219.06,
+"end": 1222.98,
+"text": "and then this is closed that's just on the floor is",
+"turbo": "store and then this is closed that's just on the floor is that",
+"agree": 0.92,
+"minp": 0.788
+},
+{
+"n": 7,
+"start": 1222.98,
+"end": 1225.5,
+"text": "that is that degrading to somebody that's rich that That want",
+"turbo": "that degrading to somebody that's rich that want to",
+"agree": 0.8,
+"minp": 0.246
+},
+{
+"n": 8,
+"start": 1225.5,
+"end": 1226.76,
+"text": "to come in there and support you?",
+"turbo": "want to come in there and support you",
+"agree": 0.93,
+"minp": 0.894
+},
+{
+"n": 9,
+"start": 1226.8,
+"end": 1227.94,
+"text": "We should degrade the rich.",
+"turbo": "you we should degrade the rich",
+"agree": 0.91,
+"minp": 0.877
+},
+{
+"n": 10,
+"start": 1228.26,
+"end": 1229.52,
+"text": "Everybody is dirt.",
+"turbo": "everybody is dirt",
+"agree": 1.0,
+"minp": 0.998
+},
+{
+"n": 11,
+"start": 1230.0,
+"end": 1232.1,
+"text": "Everybody on the same level beneath God.",
+"turbo": "on the same level beneath god",
+"agree": 0.92,
+"minp": 0.988
+},
+{
+"n": 12,
+"start": 1232.34,
+"end": 1233.64,
+"text": "Because we'll hop over.",
+"turbo": "because we'll hop over",
+"agree": 1.0,
+"minp": 0.918
+},
+{
+"n": 13,
+"start": 1233.94,
+"end": 1234.34,
+"text": "That",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.945
+},
+{
+"n": 14,
+"start": 1235.08,
+"end": 1237.04,
+"text": "was all. That was very good.",
+"turbo": "you",
+"agree": 0.0,
+"minp": 0.435
+},
+{
+"n": 15,
+"start": 1237.28,
+"end": 1241.44,
+"text": "You know, we'll walk over a homeless person to get to",
+"turbo": "know we'll walk over a homeless person at to get to the",
+"agree": 0.87,
+"minp": 0.733
+},
+{
+"n": 16,
+"start": 1241.44,
+"end": 1242.04,
+"text": "the Gucci store.",
+"turbo": "get to the Gucci store",
+"agree": 0.75,
+"minp": 1.0
+},
+{
+"n": 17,
+"start": 1242.96,
+"end": 1247.2,
+"text": "Ray Kurzweil said, a utopia is possible where we're led by",
+"turbo": "Kurzweil said a utopia is possible where we're led by the",
+"agree": 0.91,
+"minp": 0.732
+},
+{
+"n": 18,
+"start": 1247.2,
+"end": 1249.8,
+"text": "the least noble and the greediest people.",
+"turbo": "led by the least noble and the greediest people",
+"agree": 0.88,
+"minp": 0.995
+},
+{
+"n": 19,
+"start": 1249.8,
+"end": 1255.7,
+"text": "I brought the head designer of Balenciaga, the greatest designer on",
+"turbo": "people I brought the head designer of Balenciaga the greatest designer on our",
+"agree": 0.92,
+"minp": 0.585
+},
+{
+"n": 20,
+"start": 1255.7,
+"end": 1257.72,
+"text": "our planet today, Demna.",
+"turbo": "on our planet today so Demna",
+"agree": 0.8,
+"minp": 0.897
+},
+{
+"n": 21,
+"start": 1258.08,
+"end": 1262.04,
+"text": "Demna is the yay of clothing.",
+"turbo": "Demna is the yay of clothing,",
+"agree": 1.0,
+"minp": 0.811
+},
+{
+"n": 22,
+"start": 1262.1,
+"end": 1265.02,
+"text": "Demna is the Drake of clothing.",
+"turbo": "Dimna is the Drake of clothing.",
+"agree": 0.83,
+"minp": 0.993
+},
+{
+"n": 23,
+"start": 1265.54,
+"end": 1269.7,
+"text": "Drake is the greatest rapper ever.",
+"turbo": "Drake is the greatest rapper ever.",
+"agree": 1.0,
+"minp": 0.951
+}
+]

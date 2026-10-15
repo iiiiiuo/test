@@ -1,0 +1,209 @@
+[
+{
+"n": 1,
+"start": 1749.08,
+"end": 1752.54,
+"text": "so we're going because the old man made a call for",
+"turbo": "so so we're going because the old man made a call for me",
+"agree": 0.92,
+"minp": 0.738
+},
+{
+"n": 2,
+"start": 1752.54,
+"end": 1756.28,
+"text": "me and you see a marriage of my Larry Hoover yeah",
+"turbo": "for me and uh you said oh man which is my larry hoover yeah",
+"agree": 0.56,
+"minp": 0.131
+},
+{
+"n": 3,
+"start": 1756.28,
+"end": 1758.8,
+"text": "Larry Hoover made a call for me and Drake to squash",
+"turbo": "yeah larry hoover made a call for me and drake to squash",
+"agree": 0.96,
+"minp": 0.445
+},
+{
+"n": 4,
+"start": 1758.8,
+"end": 1760.96,
+"text": "things fire and to do this concert together",
+"turbo": "squash things and to do this concert together",
+"agree": 0.88,
+"minp": 0.298
+},
+{
+"n": 5,
+"start": 1796.57,
+"end": 1800.91,
+"text": "So anyway, so Dave Chappelle has a concert that night.",
+"turbo": "so so anyway so dave chapelle has a concert that night",
+"agree": 0.86,
+"minp": 0.775
+},
+{
+"n": 6,
+"start": 1800.91,
+"end": 1803.71,
+"text": "the night where we're going to so we're seeing like yo",
+"turbo": "night the night where we're going to So we're seeing like, yo, can",
+"agree": 0.92,
+"minp": 0.299
+},
+{
+"n": 7,
+"start": 1803.71,
+"end": 1806.15,
+"text": "can we go chop it up with Drake and then make",
+"turbo": "like, yo, can we go chop it up with Drake and then make it to",
+"agree": 0.85,
+"minp": 0.835
+},
+{
+"n": 8,
+"start": 1806.15,
+"end": 1808.83,
+"text": "it to the day Chappelle joint and go by the house",
+"turbo": "then make it to the Dave Chappelle joint and go by the house?",
+"agree": 0.83,
+"minp": 0.412
+},
+{
+"n": 9,
+"start": 1808.83,
+"end": 1813.78,
+"text": "and then so we're on the plane and we're like well",
+"turbo": "house? And then so we're on the plane and we're like, well,",
+"agree": 0.96,
+"minp": 0.574
+},
+{
+"n": 10,
+"start": 1813.78,
+"end": 1819.4,
+"text": "where's Drake's house in comparison and distance to the concert and",
+"turbo": "like, well, where's Drake's house in comparison and distance to the concert? And",
+"agree": 0.92,
+"minp": 0.747
+},
+{
+"n": 11,
+"start": 1819.4,
+"end": 1822.86,
+"text": "I and I look up I say Google it that's the",
+"turbo": "And I look up, I say, Google it. That's the whole",
+"agree": 0.91,
+"minp": 0.445
+},
+{
+"n": 12,
+"start": 1822.86,
+"end": 1827.3,
+"text": "whole thing you can Google it I can set it up",
+"turbo": "the whole thing. You can Google it. Wait a second. I can set it up",
+"agree": 0.85,
+"minp": 0.622
+},
+{
+"n": 13,
+"start": 1827.3,
+"end": 1830.62,
+"text": "differently remember the The whole thing was, yo, I gave his",
+"turbo": "it up differently. Remember the whole thing was, yo, I gave his",
+"agree": 0.87,
+"minp": 0.18
+},
+{
+"n": 14,
+"start": 1830.62,
+"end": 1833.52,
+"text": "address. And my whole thing is, you could Google the address.",
+"turbo": "his address. And my whole thing is, you could Google the address.",
+"agree": 0.96,
+"minp": 0.381
+},
+{
+"n": 15,
+"start": 1833.98,
+"end": 1836.1,
+"text": "And everybody on the plane started laughing.",
+"turbo": "And everybody on the plane started laughing.",
+"agree": 1.0,
+"minp": 0.533
+},
+{
+"n": 16,
+"start": 1836.22,
+"end": 1837.66,
+"text": "Because you could Google the address.",
+"turbo": "Cause you could Google the address.",
+"agree": 0.83,
+"minp": 0.905
+},
+{
+"n": 17,
+"start": 1838.36,
+"end": 1841.92,
+"text": "You know, it just looked like something on Instagram.",
+"turbo": "It just looked like something on Instagram.",
+"agree": 0.88,
+"minp": 0.594
+},
+{
+"n": 18,
+"start": 1842.04,
+"end": 1844.46,
+"text": "You know, it was like, oh, I got the address.",
+"turbo": "And I was like, oh, I got the address.",
+"agree": 0.74,
+"minp": 0.459
+},
+{
+"n": 19,
+"start": 1844.76,
+"end": 1846.66,
+"text": "And guess how I found it?",
+"turbo": "And guess how I found it?",
+"agree": 1.0,
+"minp": 0.996
+},
+{
+"n": 20,
+"start": 1846.76,
+"end": 1847.72,
+"text": "I Googled it.",
+"turbo": "it? I Googled",
+"agree": 0.67,
+"minp": 0.999
+},
+{
+"n": 21,
+"start": 1848.72,
+"end": 1849.2,
+"text": "That's",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.698
+},
+{
+"n": 22,
+"start": 1851.03,
+"end": 1851.19,
+"text": "crazy.",
+"turbo": "Googled it. That's crazy.",
+"agree": 0.4,
+"minp": 0.98
+},
+{
+"n": 23,
+"start": 1854.68,
+"end": 1857.18,
+"text": "Your house don't look the same on these Google Maps.",
+"turbo": "shit. Don't have something look the same on these Google maps.",
+"agree": 0.76,
+"minp": 0.004
+}
+]

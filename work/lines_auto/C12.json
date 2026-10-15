@@ -1,0 +1,263 @@
+[
+{
+"n": 1,
+"start": 1820.62,
+"end": 1821.16,
+"text": "Can I continue?",
+"turbo": "Can I continue?",
+"agree": 1.0,
+"minp": 0.174
+},
+{
+"n": 2,
+"start": 1821.62,
+"end": 1826.72,
+"text": "Yeah. But I feel like, you know what I'm saying?",
+"turbo": "Yeah, but I feel like, you know what I'm saying?",
+"agree": 1.0,
+"minp": 0.397
+},
+{
+"n": 3,
+"start": 1827.16,
+"end": 1830.16,
+"text": "When I was having, the funny thing with the issues with",
+"turbo": "When I was having this funny thing with the issues with,",
+"agree": 0.91,
+"minp": 0.645
+},
+{
+"n": 4,
+"start": 1830.16,
+"end": 1831.44,
+"text": "Puff I was having.",
+"turbo": "with, like, Puff I was having.",
+"agree": 0.8,
+"minp": 0.856
+},
+{
+"n": 5,
+"start": 1831.56,
+"end": 1834.4,
+"text": "Thank you. I went to the Waldorf and I saw a",
+"turbo": "Thank you. I went to the Waldorf and I saw a couple",
+"agree": 0.96,
+"minp": 0.737
+},
+{
+"n": 6,
+"start": 1834.4,
+"end": 1834.86,
+"text": "couple people.",
+"turbo": "saw a couple of people.",
+"agree": 0.57,
+"minp": 0.935
+},
+{
+"n": 7,
+"start": 1835.82,
+"end": 1837.34,
+"text": "Waldorf where? Because I visit.",
+"turbo": "Waldorf where? Because I visited. the",
+"agree": 0.73,
+"minp": 0.177
+},
+{
+"n": 8,
+"start": 1837.44,
+"end": 1838.9,
+"text": "The Waldorf in California.",
+"turbo": "the wall of golf in uh",
+"agree": 0.4,
+"minp": 0.968
+},
+{
+"n": 9,
+"start": 1839.32,
+"end": 1839.92,
+"text": "I love it.",
+"turbo": "i love it and i",
+"agree": 0.75,
+"minp": 0.976
+},
+{
+"n": 10,
+"start": 1839.98,
+"end": 1842.26,
+"text": "And I saw a couple people just standing out in front",
+"turbo": "it and i saw a couple people just standing out in front of",
+"agree": 0.92,
+"minp": 0.962
+},
+{
+"n": 11,
+"start": 1842.26,
+"end": 1843.32,
+"text": "of the space.",
+"turbo": "front of the in front of the space",
+"agree": 0.55,
+"minp": 0.983
+},
+{
+"n": 12,
+"start": 1843.56,
+"end": 1844.18,
+"text": "Just standing there.",
+"turbo": "just standing there",
+"agree": 1.0,
+"minp": 0.984
+},
+{
+"n": 13,
+"start": 1845.77,
+"end": 1848.03,
+"text": "And I was like, oh man, Puff really does this.",
+"turbo": "i was like oh man puff really does this",
+"agree": 0.95,
+"minp": 0.738
+},
+{
+"n": 14,
+"start": 1848.47,
+"end": 1850.95,
+"text": "Right? and it just made me think I got to really",
+"turbo": "right and it just made me think i gotta really get",
+"agree": 0.82,
+"minp": 0.422
+},
+{
+"n": 15,
+"start": 1850.95,
+"end": 1853.53,
+"text": "get on my billionaire shit so I went and bought a",
+"turbo": "gotta really get on my billionaire so i went and bought a",
+"agree": 0.87,
+"minp": 0.472
+},
+{
+"n": 16,
+"start": 1853.53,
+"end": 1857.45,
+"text": "50 million dollar penthouse and I made back the fleet out",
+"turbo": "bought a 50 million dollar uh penthouse and i made back the fleet out",
+"agree": 0.88,
+"minp": 0.842
+},
+{
+"n": 17,
+"start": 1857.45,
+"end": 1859.57,
+"text": "because I was like yo I'm not gonna I can't be",
+"turbo": "out because i was like yo i'm not gonna i can't be",
+"agree": 0.96,
+"minp": 0.471
+},
+{
+"n": 18,
+"start": 1859.57,
+"end": 1860.59,
+"text": "walking around homeless",
+"turbo": "i can't be walking around homeless",
+"agree": 0.67,
+"minp": 0.999
+},
+{
+"n": 19,
+"start": 1861.33,
+"end": 1864.59,
+"text": "like beefing with Puff you got to like you know what",
+"turbo": "beefing with puff you gotta like you know what i mean",
+"agree": 0.73,
+"minp": 0.449
+},
+{
+"n": 20,
+"start": 1864.59,
+"end": 1867.91,
+"text": "I mean I don't think that would have been an issue",
+"turbo": "know what i mean i don't think that would have been an issue",
+"agree": 0.92,
+"minp": 0.437
+},
+{
+"n": 21,
+"start": 1869.29,
+"end": 1871.45,
+"text": "and so what I really did get out of it is",
+"turbo": "so what i really did get out of it is the",
+"agree": 0.91,
+"minp": 0.594
+},
+{
+"n": 22,
+"start": 1871.45,
+"end": 1875.23,
+"text": "that like Puff like stay rich never gonna you know what",
+"turbo": "it is the like puff like stay rich never gonna you know i'm saying you",
+"agree": 0.69,
+"minp": 0.547
+},
+{
+"n": 23,
+"start": 1875.23,
+"end": 1877.05,
+"text": "I'm saying you never seen this man in no vans",
+"turbo": "know i'm saying you never seen this man in no vans",
+"agree": 0.95,
+"minp": 0.905
+},
+{
+"n": 24,
+"start": 1877.65,
+"end": 1879.57,
+"text": "you know what I'm saying man, this nigga's just keeping it",
+"turbo": "know what i'm saying this thing is just keeping",
+"agree": 0.7,
+"minp": 0.075
+},
+{
+"n": 25,
+"start": 1879.57,
+"end": 1880.63,
+"text": "rich. He's good.",
+"turbo": "keeping rich he's good",
+"agree": 0.86,
+"minp": 0.821
+},
+{
+"n": 26,
+"start": 1880.77,
+"end": 1882.27,
+"text": "He's been rich at all times.",
+"turbo": "good he wasn't rich at all times",
+"agree": 0.62,
+"minp": 0.63
+},
+{
+"n": 27,
+"start": 1882.71,
+"end": 1883.19,
+"text": "He was like this.",
+"turbo": "was like this he was",
+"agree": 0.67,
+"minp": 0.749
+},
+{
+"n": 28,
+"start": 1883.23,
+"end": 1884.29,
+"text": "He was doing the puppy dance.",
+"turbo": "like this he was doing the puppy dance",
+"agree": 0.86,
+"minp": 0.798
+},
+{
+"n": 29,
+"start": 1884.51,
+"end": 1884.85,
+"text": "You remember?",
+"turbo": "you remember",
+"agree": 1.0,
+"minp": 0.346
+}
+]

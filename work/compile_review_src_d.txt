@@ -1,0 +1,236 @@
+## C13
+C13_L001 1885.76-1887.22
+   EN : Puff is my idol, bro.
+   ASR: Puff is my idol, bro.
+C13_L002 1887.40-1896.50
+   EN : Yeah, that's why I said, I was like, yo, I know how Virgil feels now, on the times that I scream at Virgil, especially if I scream at Virgil in front of somebody.
+   ASR: Yeah, that's why I said, I was like, yo, I know how Virgil feels now on the times that I scream at Virgil, especially if I scream at Virgil in front of somebody.
+C13_L003 1897.10-1897.90
+   EN : You know what I'm saying?
+   ASR: You know what I'm saying?
+C13_L004 1898.10-1903.60
+   EN : Well, for Puff to call me and say anybody with a White Lives Matter t-shirt is getting greenlit,
+   ASR: Well, for Puff to call me and say anybody with a White Lives Matter t -shirt is getting greenlit,
+C13_L005 1903.70-1910.22
+   EN : I know how Virgil felt at that moment, if I ever said something where his idol said something that hurt his feelings.
+   ASR: I know how Virgil felt at that moment. If I ever said something where his idol said something that hurt his feelings.
+C13_L006 1911.20-1918.06
+   EN : And, you know, and that's why Virgil took the watch to Drake. You know what I'm saying? He knew that would hurt my feelings.
+   ASR: and you know and that's why Virgil took the watch from Drake you gonna say he knew that would hurt my feelings
+C13_L007 1918.06-1922.96
+   EN : You know, we hurt each other's feelings, and we don't mean to, but part of the reason why we hurt each other...
+   ASR: you know we hurt each other's feelings and we don't mean to but part of the reason why we hurt each other
+C13_L008 1922.96-1928.10
+   EN : I want to address that. You said Virgil took the watch from Drake, because Virgil actually designed a Patek.
+   ASR: I want to address that you said Virgil took the watch from Drake because Virgil actually designed a paddock
+C13_L009 1928.10-1935.94
+   EN : Oh, well, Virgil, I'm sorry. Virgil took the watch, sent the watch to Drake and all that type of stuff, because he knew that, like, you know, that would hurt my feelings.
+   ASR: oh well Virgil took the watch sent the watch to Drake and all that type of stuff because he know that like you know that would hurt my feelings
+C13_L010 1935.94-1939.32
+   EN : I work with Balenciaga because I knew it would hurt Drake's feelings.
+   ASR: I work with Balenciaga because I knew it would hurt Drake's feelings.
+C13_L011 1939.38-1941.56
+   EN : So we're operating, like I said, it's 4D chess.
+   ASR: So we're operating. Like I said, it's 4D chess.
+C13_L012 1941.80-1943.84
+   EN : You guys are playing crazy games, bro.
+   ASR: You guys are playing crazy games, bro.
+C13_L013 1943.94-1946.00
+   EN : Yeah, you know what I'm saying? This is like real war.
+   ASR: Yeah, you got I'm saying this is like real war.
+C13_L014 1946.42-1949.64
+   EN : This is psychological. Like, Virgil was a psychological warrior.
+   ASR: This is like a lot like Virgil is a psychological Warrior.
+C13_L015 1950.43-1952.05
+   EN : He was a warrior, bro.
+   ASR: He was a warrior bro.
+C13_L016 1952.67-1956.25
+   EN : That man made it from being Ye's assistant to the head of Louis Vuitton.
+   ASR: That man made it from being Ye's assistant to the head of Louis Vuitton.
+C13_L017 1956.57-1957.67
+   EN : That man's a warrior.
+   ASR: That man's a warrior
+## C14
+C14_L001 1143.06-1148.18
+   EN : So I went to Adidas meeting, and I took out... I had a laptop. I don't have laptops anymore, I just use my phone.
+   ASR: So I went to Adidas meeting and I took out I had a laptop have laptops anymore I just use my phone
+C14_L002 1148.18-1155.70
+   EN : But it's just... and it's during the beef, between what's going on recently? — (Ye:) No, no, this is the beginning of the Adidas relationship, before I even put out anything.
+   ASR: but it's just and it's during the the beef between what's going on recently No, no, this is the beginning of the Adidas relationship before I even pull anything.
+C14_L003 1155.98-1161.80
+   EN : Oh, and I was like, look, nobody's getting pussy in Adidas. People get pussy at Nike.
+   ASR: Oh, and I was like look Nobody's getting pussy and Adidas people get pussy at Nike
+C14_L004 1161.80-1164.48
+   EN : And I was just like, yo... — This is the way you presented your marketing?
+   ASR: and I was just like yo, this is the way you presented your marketing
+C14_L005 1167.11-1170.27
+   EN : Yeah. — This is amazing, by the way. — Yeah.
+   ASR: Yeah, yeah, this is amazing by the way. Yeah
+C14_L006 1173.41-1174.31
+   EN : Let's get pussy, guys.
+   ASR: Let's get pussy good
+C14_L007 1174.31-1180.85
+   EN : How many times, if you think about a situation where somebody got some pussy, how many times you think some Four Swans is on the side of that bed?
+   ASR: how many times if you think about a situation where somebody got some pussy How many times you think some four swans is on the side of that bed?
+C14_L008 1182.61-1183.87
+   EN : Or still on, by the way.
+   ASR: Or still on by the way
+C14_L009 1189.75-1192.59
+   EN : But now, sometimes it be some 350s.
+   ASR: But now But now, sometimes it be some 350s.
+C14_L010 1193.34-1195.86
+   EN : So that was the whole point.
+   ASR: So that was the whole point.
+C14_L011 1196.44-1199.54
+   EN : And actually, this is something only me and Steve Stoute know.
+   ASR: And actually, this is something only me and Steve Stout know.
+C14_L012 1199.76-1208.57
+   EN : You know the actual sewing at the top of the shoe, on the 350? You know the little thing?
+   ASR: You know the actual sewing at the top of the shoe on the 350? You know the little thing?
+C14_L013 1208.89-1212.96
+   EN : Steve Stoute, if you ask him what that's called, it's called a get-pussy toe.
+   ASR: Steve Stout, if you ask him what that's called, it's called a get pussy toe.
+C14_L014 1214.13-1216.13
+   EN : I'm sorry, what? Get-pussy toe?
+   ASR: I'm sorry, what? Get pussy toe?
+C14_L015 1217.09-1220.47
+   EN : Bring Stoute here and ask him. That's what it's actually called.
+   ASR: Bring Stout here and ask him. That's what it's actually called.
+C14_L016 1220.47-1221.43
+   EN : But who came up with that?
+   ASR: But who came up with that?
+C14_L017 1221.63-1224.81
+   EN : I came up, because I said no one's getting pussy in Adidas, bro.
+   ASR: I came up because I said no one's getting pussy in Adidas, bro.
+## C16
+C16_L001 1177.26-1183.46
+   EN : I still... Bernard Arnault is still one of my heroes, so I gotta say that, though. That's the guy, Louis — head of LVMH. Yeah.
+   ASR: i still bernard arnault is still one of my heroes so i gotta say that though that's the guy louis had a lvmh yeah yeah
+C16_L002 1183.46-1186.16
+   EN : So I gotta shout out, like, good taste when I see it.
+   ASR: so i gotta shout out to like good taste when i see it
+C16_L003 1186.16-1196.24
+   EN : I performed at Bernard Arnault's son's wedding, Alexandre Arnault, and I said, man, you know, when I'm the richest man in the world, I hope my son is cool enough to hang out with Ye.
+   ASR: i took i i performed at bernard arnault son's wedding alexander arnault and i said man you know when when i'm the richest man in the world I hope my son is cool enough to hang out with yay.
+C16_L004 1196.70-1197.10
+   EN : Yeah.
+   ASR: Yeah
+C16_L005 1197.78-1201.68
+   EN : I'm saying this on stage for them, but I told him afterwards, I said, yo, Bernard, you're my favorite.
+   ASR: I'm saying this on stage for them, but I told him afterwards. I said yo Bernard. You're my favorite
+C16_L006 1203.34-1204.84
+   EN : Jeff Bezos is commodity.
+   ASR: Jeff Bezos is commodity
+C16_L007 1204.84-1206.44
+   EN : Your opinion.
+   ASR: your opinion
+C16_L008 1207.46-1209.20
+   EN : Jeff Bezos don't have no opinion.
+   ASR: Jeff Bezos don't have no opinion.
+C16_L009 1209.38-1212.90
+   EN : He don't got no taste. Jeff Bezos ain't got no taste.
+   ASR: You don't got no taste Jeff Bezos ain't got no taste
+C16_L010 1212.90-1218.28
+   EN : You wouldn't ask him to pick out what you want for Christmas. You know what I'm saying? Jeff Bezos can't pick.
+   ASR: You wouldn't ask him to pick out what you want for Christmas. You know saying Jeff Bezos can't pay
+C16_L011 1218.28-1219.96
+   EN : Would you let Jeff Bezos pick your bag?
+   ASR: Would you let Jeff Bezos pick your bag?
+C16_L012 1219.96-1224.24
+   EN : You know what I'm saying? So he just learned how to go to Vegas and break the machine.
+   ASR: you know I'm saying so he just learned how to go to Vegas and break the machine
+C16_L013 1224.86-1227.36
+   EN : It's Amazon, right? — Yeah, and they respected him.
+   ASR: it's Amazon right yeah and they respected him
+C16_L014 1227.36-1231.28
+   EN : I came from a Cuban family, I got to represent. What's up, Cuban people?
+   ASR: I can't front as you like even my Cuban family I gotta represent what's up cute people
+C16_L015 1231.28-1238.80
+   EN : Yeah, but I'm saying, and by the way, it's like, okay, you broke the machine, but Bernard Arnault, you know what I'm saying,
+   ASR: yeah but I'm saying and by the way it's like okay you broke the machine but but Bernard are no you know saying
+C16_L016 1238.80-1249.82
+   EN : it's like, put it like this: you know, at the end of the day, if someone's gonna colonize, I would like it to be Bernard. If I had to deal with a colonizer, I would deal with it being Bernard Arnault.
+   ASR: it's like put it like this you know at the end of the day if someone's gonna colonize I would like it to be but not if I had to deal with with a colonizer, I would deal with it being Bernard Arnault.
+## C17
+C17_L001 1739.45-1743.69
+   EN : In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste.
+   ASR: a way they gotta gotta have to taste though bro you know saying steve jobs had the best taste
+C17_L002 1743.69-1746.63
+   EN : I've yet to meet a tech guy with better taste than me.
+   ASR: i've yet to meet a tech guy with better taste than me
+C17_L003 1746.63-1753.27
+   EN : I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys.
+   ASR: i'm the next frontier you got ralph steve and then it's me you know what i'm saying it's like none of these guys
+C17_L004 1753.27-1758.85
+   EN : Even Elon flew me... you know what I'm saying? Vory, Wack 100,
+   ASR: even elon flew uh me you know i'm saying fory whack 100
+C17_L005 1758.85-1764.00
+   EN : it was like a team that went to SpaceX. He flew me in his new jet out there.
+   ASR: it's like a team was like went to spacex he flew me in his new jet out there
+C17_L006 1764.00-1766.08
+   EN : He said, I want you to design SpaceX for me.
+   ASR: he said i want you to design spacex for me
+C17_L007 1766.08-1770.30
+   EN : We're sitting there, Grimes there, he just had a newborn. We watched a rocket take off.
+   ASR: we're sitting there grimes there he just had a newborn we watched a rock and take off
+C17_L008 1770.30-1774.20
+   EN : But before we started the meeting, he said, you have the best EQ on the planet.
+   ASR: but before we started the meeting he said you have the best eq on the planet
+C17_L009 1774.20-1777.82
+   EN : That means taste. Best EQ on the planet.
+   ASR: that means taste best eq on the planet
+C17_L010 1777.82-1786.52
+   EN : This is a person... — (Host: Relaxation guy.) — Yeah. This is a person that a lot of people consider to have the best IQ on the planet. He says you got the best EQ on the planet.
+   ASR: this is a person guy yeah this is a person that a lot of people consider have the best iq on the planet he says you got the best eq on the planet
+C17_L011 1786.52-1788.34
+   EN : The EQ is the connectivity.
+   ASR: the eq is the connectivity
+C17_L012 1788.34-1798.24
+   EN : Man, how can, like, Jay-Z be my brother, right, Kim, like, be my baby mama type shit?
+   ASR: man how can like jay -z be my brother right kim like be my baby mama I'm a type shit.
+C17_L013 1798.30-1799.84
+   EN : I'm here talking to you, right?
+   ASR: I'm here talking to you, right?
+C17_L014 1799.98-1801.14
+   EN : But you got a connection.
+   ASR: But you got a connection.
+C17_L015 1801.40-1808.84
+   EN : The same way that you connected with Pharrell, and in ways you indemnified him, is the way you connected with me.
+   ASR: The same way that you connected with Pharrell and in ways you indemnified him is the way you connected with me.
+C17_L016 1809.04-1813.44
+   EN : You got a sight beyond sight. It's something that you got that's like, you see.
+   ASR: You got a sight beyond sight. It's something that you got that's like you see.
+C17_L017 1813.72-1814.84
+   EN : I ain't gonna lie, yeah.
+   ASR: I ain't gonna lie, yeah.
+## C18
+C18_L001 1191.08-1197.83
+   EN : Okay, so I'm giving you an analogy, right? We're at the beginning of this album. Our life is the album.
+   ASR: okay so i'm giving you an analogy right we're at the beginning of this album our life is the album
+C18_L002 1197.83-1205.89
+   EN : Our world is a symphony. We're playing on different notes, but like Quincy Jones, we have to bring it together and have us all play on one accord.
+   ASR: our world is a symphony we're playing on different notes but like quincy jones we have to bring it together and have us all play on one accord
+C18_L003 1205.89-1212.47
+   EN : We're at the beginning of this album, and even if you go back, like, even J. Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right?
+   ASR: we're at the beginning of this album and even if you go back like even jay cole sample workout plan we could play workout plan right
+C18_L004 1212.47-1215.95
+   EN : But by the time we got to 'Stronger,' it was a diamond record.
+   ASR: but by the time we to stronger it was a diamond record
+C18_L005 1215.95-1222.25
+   EN : We are in line for a diamond record, but we have to do some unorthodox things.
+   ASR: we are in line for a diamond record but we have to do some unorthodox things
+C18_L006 1222.25-1232.35
+   EN : 'Workout Plan' was, for me as a backpack rapper, to have that song, or even, like, be cursing or talking about the addictions I was dealing with, and my addiction to girls and all this type of shit,
+   ASR: workout plan was for me as a backpack rapper to have that song or even like be cursing or talking about the addictions i was dealing with and my addiction to girls and all this type of
+C18_L007 1232.35-1238.91
+   EN : was weird, because, like, Mos Def wasn't talking about that, Common wasn't talking about that, because it's not positive, it's not backpack, right?
+   ASR: was weird because like most deaf wasn't talking about that quality was talking about because it's not positive it's not backpack right
+C18_L008 1238.91-1246.71
+   EN : But I leaned into my truth. I found that Playboy when I was five years old, and now I'm calling Irina Shayk, and you know what I'm saying.
+   ASR: but i i leaned into my truth i found that playboy when i was five years old and now i'm calling irena shake and you know what i'm saying
+C18_L009 1246.71-1257.91
+   EN : So it's, it was my truth, but by the time we got to 'Stronger,' 'work it harder, make it better, faster, stronger,' that's my only diamond record, right?
+   ASR: so it's it was my truth but by the time we got the stronger work your harder make it better faster me that's my only diamond record right
+C18_L010 1258.14-1259.16
+   EN : You know what I'm saying? You know what I'm saying?
+   ASR: i'm saying you know what i'm saying

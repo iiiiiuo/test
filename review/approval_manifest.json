@@ -1,0 +1,745 @@
+{
+ "status": "AWAITING_TRANSLATION_APPROVAL",
+ "generated_at": "2026-10-15T10:09:37Z",
+ "editable_file": "review/translations_review.csv",
+ "editable_column": "ja_final",
+ "review_file_sha256": "5ae67420de83d4e9e81478702f974bb94c22f707dab399b0119f769665415b30",
+ "review_revision": 1,
+ "sources": {
+  "part_1": {
+   "file": "part_1.mp4",
+   "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f"
+  },
+  "part_2_2": {
+   "file": "part_2 2.mp4",
+   "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523"
+  },
+  "part_3": {
+   "file": "part_3.mp4",
+   "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6"
+  },
+  "part_4": {
+   "file": "part_4.mp4",
+   "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e"
+  },
+  "part_5": {
+   "file": "part_5.mp4",
+   "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7"
+  },
+  "part_6": {
+   "file": "part_6.mp4",
+   "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591"
+  }
+ },
+ "clips": [
+  {
+   "clip_id": "Clip_01",
+   "candidate": "C24",
+   "title": "Degrade the rich, Demna and Drake",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 28860,
+     "end_frame_excl": 30445,
+     "start_s": 1203.7,
+     "end_s": 1269.8
+    }
+   ],
+   "est_duration_s": 66.108,
+   "line_ids": [
+    "Clip_01_L001",
+    "Clip_01_L002",
+    "Clip_01_L003",
+    "Clip_01_L004",
+    "Clip_01_L005",
+    "Clip_01_L006",
+    "Clip_01_L007",
+    "Clip_01_L008",
+    "Clip_01_L009",
+    "Clip_01_L010",
+    "Clip_01_L011",
+    "Clip_01_L012"
+   ]
+  },
+  {
+   "clip_id": "Clip_02",
+   "candidate": "C01",
+   "title": "Drake told me 'nothing ever happened'",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 38183,
+     "end_frame_excl": 38372,
+     "start_s": 1592.52,
+     "end_s": 1600.4
+    },
+    {
+     "start_frame": 39484,
+     "end_frame_excl": 41110,
+     "start_s": 1646.8,
+     "end_s": 1714.6
+    }
+   ],
+   "est_duration_s": 75.701,
+   "line_ids": [
+    "Clip_02_L001",
+    "Clip_02_L002",
+    "Clip_02_L003",
+    "Clip_02_L004",
+    "Clip_02_L005",
+    "Clip_02_L006",
+    "Clip_02_L007",
+    "Clip_02_L008",
+    "Clip_02_L009",
+    "Clip_02_L010",
+    "Clip_02_L011",
+    "Clip_02_L012",
+    "Clip_02_L013",
+    "Clip_02_L014",
+    "Clip_02_L015"
+   ]
+  },
+  {
+   "clip_id": "Clip_03",
+   "candidate": "C02",
+   "title": "I Googled Drake's address",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 41937,
+     "end_frame_excl": 42227,
+     "start_s": 1749.1,
+     "end_s": 1761.2
+    },
+    {
+     "start_frame": 43073,
+     "end_frame_excl": 44531,
+     "start_s": 1796.5,
+     "end_s": 1857.3
+    }
+   ],
+   "est_duration_s": 72.906,
+   "line_ids": [
+    "Clip_03_L001",
+    "Clip_03_L002",
+    "Clip_03_L003",
+    "Clip_03_L004",
+    "Clip_03_L005",
+    "Clip_03_L006",
+    "Clip_03_L007",
+    "Clip_03_L008",
+    "Clip_03_L009",
+    "Clip_03_L010",
+    "Clip_03_L011",
+    "Clip_03_L012",
+    "Clip_03_L013",
+    "Clip_03_L014",
+    "Clip_03_L015"
+   ]
+  },
+  {
+   "clip_id": "Clip_04",
+   "candidate": "C03",
+   "title": "Bad Bunny is on our wall",
+   "source": "part_2 2.mp4",
+   "intervals": [
+    {
+     "start_frame": 731,
+     "end_frame_excl": 2670,
+     "start_s": 30.5,
+     "end_s": 111.4
+    }
+   ],
+   "est_duration_s": 80.872,
+   "line_ids": [
+    "Clip_04_L001",
+    "Clip_04_L002",
+    "Clip_04_L003",
+    "Clip_04_L004",
+    "Clip_04_L005",
+    "Clip_04_L006",
+    "Clip_04_L007",
+    "Clip_04_L008",
+    "Clip_04_L009",
+    "Clip_04_L010",
+    "Clip_04_L011",
+    "Clip_04_L012",
+    "Clip_04_L013",
+    "Clip_04_L014",
+    "Clip_04_L015",
+    "Clip_04_L016",
+    "Clip_04_L017",
+    "Clip_04_L018",
+    "Clip_04_L019",
+    "Clip_04_L020",
+    "Clip_04_L021",
+    "Clip_04_L022",
+    "Clip_04_L023",
+    "Clip_04_L024"
+   ]
+  },
+  {
+   "clip_id": "Clip_05",
+   "candidate": "C23",
+   "title": "Water, rainwater and the marathon",
+   "source": "part_2 2.mp4",
+   "intervals": [
+    {
+     "start_frame": 15371,
+     "end_frame_excl": 16929,
+     "start_s": 641.1,
+     "end_s": 706.1
+    }
+   ],
+   "est_duration_s": 64.982,
+   "line_ids": [
+    "Clip_05_L001",
+    "Clip_05_L002",
+    "Clip_05_L003",
+    "Clip_05_L004",
+    "Clip_05_L005",
+    "Clip_05_L006",
+    "Clip_05_L007",
+    "Clip_05_L008",
+    "Clip_05_L009",
+    "Clip_05_L010",
+    "Clip_05_L011",
+    "Clip_05_L012",
+    "Clip_05_L013"
+   ]
+  },
+  {
+   "clip_id": "Clip_06",
+   "candidate": "C05",
+   "title": "I forgive everybody",
+   "source": "part_2 2.mp4",
+   "intervals": [
+    {
+     "start_frame": 26512,
+     "end_frame_excl": 26656,
+     "start_s": 1105.8,
+     "end_s": 1111.8
+    },
+    {
+     "start_frame": 27514,
+     "end_frame_excl": 29171,
+     "start_s": 1147.6,
+     "end_s": 1216.7
+    }
+   ],
+   "est_duration_s": 75.117,
+   "line_ids": [
+    "Clip_06_L001",
+    "Clip_06_L002",
+    "Clip_06_L003",
+    "Clip_06_L004",
+    "Clip_06_L005",
+    "Clip_06_L006",
+    "Clip_06_L007",
+    "Clip_06_L008",
+    "Clip_06_L009",
+    "Clip_06_L010",
+    "Clip_06_L011",
+    "Clip_06_L012",
+    "Clip_06_L013",
+    "Clip_06_L014",
+    "Clip_06_L015",
+    "Clip_06_L016",
+    "Clip_06_L017",
+    "Clip_06_L018",
+    "Clip_06_L019"
+   ]
+  },
+  {
+   "clip_id": "Clip_07",
+   "candidate": "C04",
+   "title": "Wu-Tang videos and fresh Timbs",
+   "source": "part_2 2.mp4",
+   "intervals": [
+    {
+     "start_frame": 39754,
+     "end_frame_excl": 41269,
+     "start_s": 1658.1,
+     "end_s": 1721.3
+    }
+   ],
+   "est_duration_s": 63.188,
+   "line_ids": [
+    "Clip_07_L001",
+    "Clip_07_L002",
+    "Clip_07_L003",
+    "Clip_07_L004",
+    "Clip_07_L005",
+    "Clip_07_L006",
+    "Clip_07_L007",
+    "Clip_07_L008",
+    "Clip_07_L009",
+    "Clip_07_L010",
+    "Clip_07_L011",
+    "Clip_07_L012",
+    "Clip_07_L013",
+    "Clip_07_L014",
+    "Clip_07_L015",
+    "Clip_07_L016",
+    "Clip_07_L017",
+    "Clip_07_L018",
+    "Clip_07_L019",
+    "Clip_07_L020",
+    "Clip_07_L021",
+    "Clip_07_L022"
+   ]
+  },
+  {
+   "clip_id": "Clip_08",
+   "candidate": "C06",
+   "title": "Divorce and Big Boi's 'I Choose You'",
+   "source": "part_2 2.mp4",
+   "intervals": [
+    {
+     "start_frame": 42010,
+     "end_frame_excl": 43950,
+     "start_s": 1752.2,
+     "end_s": 1833.1
+    }
+   ],
+   "est_duration_s": 80.914,
+   "line_ids": [
+    "Clip_08_L001",
+    "Clip_08_L002",
+    "Clip_08_L003",
+    "Clip_08_L004",
+    "Clip_08_L005",
+    "Clip_08_L006",
+    "Clip_08_L007",
+    "Clip_08_L008",
+    "Clip_08_L009",
+    "Clip_08_L010",
+    "Clip_08_L011",
+    "Clip_08_L012",
+    "Clip_08_L013",
+    "Clip_08_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_09",
+   "candidate": "C07",
+   "title": "A billionaire still checks every bill",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 4371,
+     "end_frame_excl": 5949,
+     "start_s": 182.3,
+     "end_s": 248.1
+    }
+   ],
+   "est_duration_s": 65.816,
+   "line_ids": [
+    "Clip_09_L001",
+    "Clip_09_L002",
+    "Clip_09_L003",
+    "Clip_09_L004",
+    "Clip_09_L005",
+    "Clip_09_L006",
+    "Clip_09_L007",
+    "Clip_09_L008",
+    "Clip_09_L009",
+    "Clip_09_L010"
+   ]
+  },
+  {
+   "clip_id": "Clip_10",
+   "candidate": "C08",
+   "title": "God put me on a timeout",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 18474,
+     "end_frame_excl": 20191,
+     "start_s": 770.5,
+     "end_s": 842.1
+    }
+   ],
+   "est_duration_s": 71.613,
+   "line_ids": [
+    "Clip_10_L001",
+    "Clip_10_L002",
+    "Clip_10_L003",
+    "Clip_10_L004",
+    "Clip_10_L005",
+    "Clip_10_L006",
+    "Clip_10_L007",
+    "Clip_10_L008",
+    "Clip_10_L009",
+    "Clip_10_L010",
+    "Clip_10_L011",
+    "Clip_10_L012",
+    "Clip_10_L013",
+    "Clip_10_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_11",
+   "candidate": "C09",
+   "title": "Never finished a novel",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 21216,
+     "end_frame_excl": 23276,
+     "start_s": 884.85,
+     "end_s": 970.8
+    }
+   ],
+   "est_duration_s": 85.919,
+   "line_ids": [
+    "Clip_11_L001",
+    "Clip_11_L002",
+    "Clip_11_L003",
+    "Clip_11_L004",
+    "Clip_11_L005",
+    "Clip_11_L006",
+    "Clip_11_L007",
+    "Clip_11_L008",
+    "Clip_11_L009",
+    "Clip_11_L010",
+    "Clip_11_L011",
+    "Clip_11_L012",
+    "Clip_11_L013",
+    "Clip_11_L014",
+    "Clip_11_L015",
+    "Clip_11_L016",
+    "Clip_11_L017",
+    "Clip_11_L018"
+   ]
+  },
+  {
+   "clip_id": "Clip_12",
+   "candidate": "C25",
+   "title": "R&B took God out of the music",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 24636,
+     "end_frame_excl": 26206,
+     "start_s": 1027.5,
+     "end_s": 1093.0
+    }
+   ],
+   "est_duration_s": 65.482,
+   "line_ids": [
+    "Clip_12_L001",
+    "Clip_12_L002",
+    "Clip_12_L003",
+    "Clip_12_L004",
+    "Clip_12_L005",
+    "Clip_12_L006",
+    "Clip_12_L007",
+    "Clip_12_L008",
+    "Clip_12_L009",
+    "Clip_12_L010",
+    "Clip_12_L011",
+    "Clip_12_L012"
+   ]
+  },
+  {
+   "clip_id": "Clip_13",
+   "candidate": "C10",
+   "title": "Pimp C told me to turn my vocals up",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 33458,
+     "end_frame_excl": 35341,
+     "start_s": 1395.45,
+     "end_s": 1474.0
+    }
+   ],
+   "est_duration_s": 78.537,
+   "line_ids": [
+    "Clip_13_L001",
+    "Clip_13_L002",
+    "Clip_13_L003",
+    "Clip_13_L004",
+    "Clip_13_L005",
+    "Clip_13_L006",
+    "Clip_13_L007",
+    "Clip_13_L008",
+    "Clip_13_L009",
+    "Clip_13_L010",
+    "Clip_13_L011",
+    "Clip_13_L012",
+    "Clip_13_L013",
+    "Clip_13_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_14",
+   "candidate": "C11",
+   "title": "Drake wrote that verse for me",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 8227,
+     "end_frame_excl": 9711,
+     "start_s": 343.1,
+     "end_s": 405.0
+    }
+   ],
+   "est_duration_s": 61.895,
+   "line_ids": [
+    "Clip_14_L001",
+    "Clip_14_L002",
+    "Clip_14_L003",
+    "Clip_14_L004",
+    "Clip_14_L005",
+    "Clip_14_L006",
+    "Clip_14_L007",
+    "Clip_14_L008",
+    "Clip_14_L009",
+    "Clip_14_L010",
+    "Clip_14_L011",
+    "Clip_14_L012"
+   ]
+  },
+  {
+   "clip_id": "Clip_15",
+   "candidate": "C14",
+   "title": "The 'get p*ssy toe' Adidas pitch",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 27407,
+     "end_frame_excl": 29371,
+     "start_s": 1143.06,
+     "end_s": 1225.0
+    }
+   ],
+   "est_duration_s": 81.915,
+   "line_ids": [
+    "Clip_15_L001",
+    "Clip_15_L002",
+    "Clip_15_L003",
+    "Clip_15_L004",
+    "Clip_15_L005",
+    "Clip_15_L006",
+    "Clip_15_L007",
+    "Clip_15_L008",
+    "Clip_15_L009",
+    "Clip_15_L010",
+    "Clip_15_L011",
+    "Clip_15_L012",
+    "Clip_15_L013",
+    "Clip_15_L014",
+    "Clip_15_L015",
+    "Clip_15_L016",
+    "Clip_15_L017"
+   ]
+  },
+  {
+   "clip_id": "Clip_16",
+   "candidate": "C12",
+   "title": "Beefing with Puff, so I bought a penthouse",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 43651,
+     "end_frame_excl": 45212,
+     "start_s": 1820.6,
+     "end_s": 1885.7
+    }
+   ],
+   "est_duration_s": 65.107,
+   "line_ids": [
+    "Clip_16_L001",
+    "Clip_16_L002",
+    "Clip_16_L003",
+    "Clip_16_L004",
+    "Clip_16_L005",
+    "Clip_16_L006",
+    "Clip_16_L007",
+    "Clip_16_L008",
+    "Clip_16_L009",
+    "Clip_16_L010",
+    "Clip_16_L011",
+    "Clip_16_L012",
+    "Clip_16_L013",
+    "Clip_16_L014",
+    "Clip_16_L015",
+    "Clip_16_L016",
+    "Clip_16_L017"
+   ]
+  },
+  {
+   "clip_id": "Clip_17",
+   "candidate": "C13",
+   "title": "Virgil, Drake and 4D chess",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 45212,
+     "end_frame_excl": 46960,
+     "start_s": 1885.7,
+     "end_s": 1958.6
+    }
+   ],
+   "est_duration_s": 72.906,
+   "line_ids": [
+    "Clip_17_L001",
+    "Clip_17_L002",
+    "Clip_17_L003",
+    "Clip_17_L004",
+    "Clip_17_L005",
+    "Clip_17_L006",
+    "Clip_17_L007",
+    "Clip_17_L008",
+    "Clip_17_L009",
+    "Clip_17_L010",
+    "Clip_17_L011",
+    "Clip_17_L012",
+    "Clip_17_L013",
+    "Clip_17_L014",
+    "Clip_17_L015",
+    "Clip_17_L016",
+    "Clip_17_L017"
+   ]
+  },
+  {
+   "clip_id": "Clip_18",
+   "candidate": "C16",
+   "title": "Jeff Bezos ain't got no taste",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 28226,
+     "end_frame_excl": 29967,
+     "start_s": 1177.26,
+     "end_s": 1249.9
+    }
+   ],
+   "est_duration_s": 72.614,
+   "line_ids": [
+    "Clip_18_L001",
+    "Clip_18_L002",
+    "Clip_18_L003",
+    "Clip_18_L004",
+    "Clip_18_L005",
+    "Clip_18_L006",
+    "Clip_18_L007",
+    "Clip_18_L008",
+    "Clip_18_L009",
+    "Clip_18_L010",
+    "Clip_18_L011",
+    "Clip_18_L012",
+    "Clip_18_L013",
+    "Clip_18_L014",
+    "Clip_18_L015",
+    "Clip_18_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_19",
+   "candidate": "C17",
+   "title": "Elon: best EQ on the planet",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 41705,
+     "end_frame_excl": 43514,
+     "start_s": 1739.45,
+     "end_s": 1814.9
+    }
+   ],
+   "est_duration_s": 75.45,
+   "line_ids": [
+    "Clip_19_L001",
+    "Clip_19_L002",
+    "Clip_19_L003",
+    "Clip_19_L004",
+    "Clip_19_L005",
+    "Clip_19_L006",
+    "Clip_19_L007",
+    "Clip_19_L008",
+    "Clip_19_L009",
+    "Clip_19_L010",
+    "Clip_19_L011",
+    "Clip_19_L012",
+    "Clip_19_L013",
+    "Clip_19_L014",
+    "Clip_19_L015",
+    "Clip_19_L016",
+    "Clip_19_L017"
+   ]
+  },
+  {
+   "clip_id": "Clip_20",
+   "candidate": "C26",
+   "title": "Speak your truth off D'Usse, not Hennessy",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 5165,
+     "end_frame_excl": 6953,
+     "start_s": 215.46,
+     "end_s": 290.0
+    }
+   ],
+   "est_duration_s": 74.575,
+   "line_ids": [
+    "Clip_20_L001",
+    "Clip_20_L002",
+    "Clip_20_L003",
+    "Clip_20_L004",
+    "Clip_20_L005",
+    "Clip_20_L006",
+    "Clip_20_L007",
+    "Clip_20_L008",
+    "Clip_20_L009",
+    "Clip_20_L010",
+    "Clip_20_L011",
+    "Clip_20_L012",
+    "Clip_20_L013",
+    "Clip_20_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_21",
+   "candidate": "C18",
+   "title": "Life is an album: Workout Plan to Stronger",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 28555,
+     "end_frame_excl": 30193,
+     "start_s": 1191.0,
+     "end_s": 1259.3
+    }
+   ],
+   "est_duration_s": 68.318,
+   "line_ids": [
+    "Clip_21_L001",
+    "Clip_21_L002",
+    "Clip_21_L003",
+    "Clip_21_L004",
+    "Clip_21_L005",
+    "Clip_21_L006",
+    "Clip_21_L007",
+    "Clip_21_L008",
+    "Clip_21_L009",
+    "Clip_21_L010"
+   ]
+  }
+ ],
+ "line_count": 322,
+ "uncertain_counts": {
+  "LOW": 16,
+  "MEDIUM": 17,
+  "NOTE": 66
+ },
+ "approval": {
+  "approved": false,
+  "approved_by": null,
+  "approved_at": null,
+  "note": "Approval requires an explicit human message in the project thread. File edits alone are not approval."
+ }
+}
