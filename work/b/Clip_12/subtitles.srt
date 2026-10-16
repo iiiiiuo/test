@@ -120,7 +120,7 @@ land that can't be defined by man.
 人間には定義できない場所だ
 
 21
-00:01:01,803 --> 00:01:05,045
+00:01:01,803 --> 00:01:05,504
 It's not the 40 acres that the
 oppressors can take away.
 抑圧者が奪える

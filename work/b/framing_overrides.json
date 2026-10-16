@@ -13,5 +13,20 @@
    },
    "reason": "critic Clip_10: inherited crop cut Ye off at right edge in wide shot; evidence work/b/Clip_10/qa/critic.md"
   }
+ ],
+ "Clip_02": [
+  {
+   "source_frames": [
+    40930,
+    41110
+   ],
+   "crop": {
+    "x": 420,
+    "y": 0,
+    "w": 1119,
+    "h": 1080
+   },
+   "reason": "critic Clip_02 round 2: speaker at left edge; evidence work/b/Clip_02/qa/critic.md"
+  }
  ]
 }

@@ -1,0 +1,63 @@
+{
+ "clip": "Clip_13",
+ "candidate": "C10",
+ "title": "Pimp C told me to turn my vocals up",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 33458,
+   "end_frame_excl": 35352,
+   "start_pts": 33491458,
+   "end_pts_excl": 35387352,
+   "start_s": 1395.477417,
+   "end_s": 1474.473
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 66982916,
+   "end_sample_48k_excl": 70774704,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 33458,
+   "end_frame_excl": 35352,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 462,
+    "y": 0
+   },
+   "basis": "face cx=1022 cy=369 w=338 n=5/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_13/subtitles.ass",
+  "sha256": "bc1f1e9b859c2482bd6fa37dc8a002c397f67fb286238d9bbd8bac8fc2e352e0"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_13/render.mp4",
+  "sha256": "57aa32038246b874c4a092a4edcd8734e159b671e45d45be9133485114ee6719"
+ }
+}

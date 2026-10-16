@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I always thought, like, you
+Dialogue: 0,0:00:00.00,0:00:03.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying, it's like,
+Dialogue: 0,0:00:00.00,0:00:03.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ずっと思ってたんだけど
+Dialogue: 0,0:00:03.48,0:00:07.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I always thought, when I would speak
+Dialogue: 0,0:00:03.48,0:00:07.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to rap, like somebody like Pimp C,
+Dialogue: 0,0:00:03.48,0:00:07.89,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Pimp Cみたいな
+Dialogue: 0,0:00:03.48,0:00:07.89,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ラッパーと話すと
+Dialogue: 0,0:00:07.91,0:00:10.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}always made me,
+Dialogue: 0,0:00:07.91,0:00:10.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, feel like, for me,
+Dialogue: 0,0:00:07.91,0:00:10.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ピンクのポロシャツの
+Dialogue: 0,0:00:10.65,0:00:14.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's like the pink polo rapper.
+Dialogue: 0,0:00:10.65,0:00:14.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I always felt like less of myself.
+Dialogue: 0,0:00:10.65,0:00:14.06,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ラッパーって感じで　いつも自分が
+Dialogue: 0,0:00:10.65,0:00:14.06,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}小さく思えたんだよ
+Dialogue: 0,0:00:14.08,0:00:15.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I get on the phone
+Dialogue: 0,0:00:14.08,0:00:15.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with them or something,
+Dialogue: 0,0:00:14.08,0:00:15.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}電話で話したりするとさ
+Dialogue: 0,0:00:15.52,0:00:16.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, they did it,
+Dialogue: 0,0:00:15.52,0:00:16.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつらがラップしてること全部が
+Dialogue: 0,0:00:16.74,0:00:18.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}almost like everything
+Dialogue: 0,0:00:16.74,0:00:18.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}they rapped about
+Dialogue: 0,0:00:16.74,0:00:18.28,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のやってることを
+Dialogue: 0,0:00:18.30,0:00:20.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}was like dissing
+Dialogue: 0,0:00:18.30,0:00:20.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}everything that I ever did.
+Dialogue: 0,0:00:18.30,0:00:20.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ディスってるみたいでさ
+Dialogue: 0,0:00:20.63,0:00:23.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying? Like,
+Dialogue: 0,0:00:20.63,0:00:23.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}they was like very not tight jeans,
+Dialogue: 0,0:00:20.63,0:00:23.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スキニージーンズなんか
+Dialogue: 0,0:00:20.63,0:00:23.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}絶対履かないし
+Dialogue: 0,0:00:23.55,0:00:26.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}very not polo, you
+Dialogue: 0,0:00:23.55,0:00:26.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying?
+Dialogue: 0,0:00:23.55,0:00:26.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ポロシャツなんかも
+Dialogue: 0,0:00:23.55,0:00:26.63,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}着ない感じで
+Dialogue: 0,0:00:26.65,0:00:28.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I remember Pimp C
+Dialogue: 0,0:00:26.65,0:00:28.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}had a conversation,
+Dialogue: 0,0:00:26.65,0:00:28.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもPimp Cに
+Dialogue: 0,0:00:26.65,0:00:28.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われたことがあって
+Dialogue: 0,0:00:28.05,0:00:30.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, man, I like the way
+Dialogue: 0,0:00:28.05,0:00:30.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you had your vocals
+Dialogue: 0,0:00:28.05,0:00:30.07,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「ボーカルを上げてるのがいい
+Dialogue: 0,0:00:30.09,0:00:34.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}turned up so they could
+Dialogue: 0,0:00:30.09,0:00:34.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}hear what you saying.
+Dialogue: 0,0:00:30.09,0:00:34.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ちゃんと言ってることが聞こえる」って
+Dialogue: 0,0:00:34.61,0:00:38.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Your vocals turned up.
+Dialogue: 0,0:00:34.61,0:00:38.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's a very big thing.
+Dialogue: 0,0:00:34.61,0:00:38.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ボーカルを上げる　それってすごく
+Dialogue: 0,0:00:34.61,0:00:38.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}大事なことなんだよ
+Dialogue: 0,0:00:38.81,0:00:40.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, like,
+Dialogue: 0,0:00:38.81,0:00:40.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it was a guy that came
+Dialogue: 0,0:00:38.81,0:00:40.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}前に俺の6万平方フィートの
+Dialogue: 0,0:00:40.05,0:00:44.58,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to one of my
+Dialogue: 0,0:00:40.05,0:00:44.58,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}60,000-square-foot spaces,
+Dialogue: 0,0:00:40.05,0:00:44.58,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スペースに来た奴がいて
+Dialogue: 0,0:00:40.05,0:00:44.58,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}The Strokesの
+Dialogue: 0,0:00:44.60,0:00:48.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and he was in the band the Strokes.
+Dialogue: 0,0:00:44.60,0:00:48.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}メンバーだったんだけど
+Dialogue: 0,0:00:48.31,0:00:49.41,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He's in the band the Strokes.
+Dialogue: 0,0:00:48.31,0:00:49.41,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Strokesのメンバーだよ
+Dialogue: 0,0:00:49.43,0:00:52.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I remember they had this
+Dialogue: 0,0:00:49.43,0:00:52.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}song where their vocals were low,
+Dialogue: 0,0:00:49.43,0:00:52.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつらの曲で
+Dialogue: 0,0:00:49.43,0:00:52.62,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ボーカルが小さいのがあって
+Dialogue: 0,0:00:52.64,0:00:55.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I wanted to make my
+Dialogue: 0,0:00:52.64,0:00:55.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}vocals low on 'All Falls Down.'
+Dialogue: 0,0:00:52.64,0:00:55.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}『All Falls Down』で
+Dialogue: 0,0:00:52.64,0:00:55.65,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}真似したかったんだけど
+Dialogue: 0,0:00:55.67,0:00:56.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It didn't work for me.
+Dialogue: 0,0:00:55.67,0:00:56.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺には合わなかった
+Dialogue: 0,0:00:56.57,0:00:58.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I had to speak up, you
+Dialogue: 0,0:00:56.57,0:00:58.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying?
+Dialogue: 0,0:00:56.57,0:00:58.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}声を上げなきゃ
+Dialogue: 0,0:00:56.57,0:00:58.98,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ダメだったんだよ
+Dialogue: 0,0:00:59.00,0:01:01.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And they canceled me
+Dialogue: 0,0:00:59.00,0:01:01.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}this week. There's no...
+Dialogue: 0,0:00:59.00,0:01:01.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、今週は
+Dialogue: 0,0:00:59.00,0:01:01.01,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}キャンセルされた
+Dialogue: 0,0:01:01.03,0:01:05.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}not Tucker Carlson, no platform
+Dialogue: 0,0:01:01.03,0:01:05.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}would carry me this week either.
+Dialogue: 0,0:01:01.03,0:01:05.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Tucker Carlsonも　どこも今週は
+Dialogue: 0,0:01:01.03,0:01:05.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺を出してくれなかった
+Dialogue: 0,0:01:05.45,0:01:09.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And even a publicist that
+Dialogue: 0,0:01:05.45,0:01:09.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm working with was like,
+Dialogue: 0,0:01:05.45,0:01:09.73,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}一緒に仕事してる広報にも
+Dialogue: 0,0:01:05.45,0:01:09.73,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「なんで『Drink Champs』
+Dialogue: 0,0:01:10.26,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I don't know why you
+Dialogue: 0,0:01:10.26,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}would go on Drink Champs.
+Dialogue: 0,0:01:10.26,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}なんか出るの？」って
+Dialogue: 0,0:01:10.26,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われたけど
+Dialogue: 0,0:01:12.28,0:01:15.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, you understand that
+Dialogue: 0,0:01:12.28,0:01:15.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}our numbers did three
+Dialogue: 0,0:01:12.28,0:01:15.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は言ったよ
+Dialogue: 0,0:01:12.28,0:01:15.42,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「俺らの再生数
+Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}times the numbers of
+Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when Kim was on SNL,
+Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}KimがSNLに出た時の
+Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}3倍だったんだぞ
+Dialogue: 0,0:01:17.58,0:01:18.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right? You understand that?
+Dialogue: 0,0:01:17.58,0:01:18.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかってる？」って

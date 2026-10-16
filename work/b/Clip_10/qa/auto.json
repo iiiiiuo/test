@@ -1,6 +1,6 @@
 {
  "clip": "Clip_10",
- "render_sha256": "375c3a9ac894eb0dd78dbdf9742a6e37edf22d2a0e77377e667ef2da952356be",
+ "render_sha256": "6305c6d87669d836770d6151584e7d00a9c2b2af3cc86e4915a12ea6065087d9",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -17,12 +17,14 @@
   "PASS": true
  },
  "subtitles": {
-  "events": 70,
-  "captions": 24,
+  "events": 72,
+  "captions": 25,
   "max_end": 71.59,
   "beyond_video": [],
   "unmasked_hits": [],
-  "captions_without_jp": [],
+  "captions_without_jp": [
+   "Clip_10_L014"
+  ],
   "max_lines": 4
  },
  "sync": {
@@ -30,11 +32,11 @@
   "asr_words": 187,
   "matched": 170,
   "match_ratio": 0.955,
-  "matched_words_inside_their_caption": 0.941,
+  "matched_words_inside_their_caption": 0.988,
   "caption_onset_vs_first_word_s": {
-   "n": 23,
-   "median": 0.13,
-   "max_abs": 0.99
+   "n": 25,
+   "median": 0.09,
+   "max_abs": 0.78
   }
  },
  "frames": {
@@ -44,15 +46,15 @@
    1.0,
    4.46,
    6.34,
+   10.16,
    14.28,
    16.68,
    20.56,
-   22.01,
    22.36,
    23.86,
    29.46,
    32.57,
-   70.22,
+   69.89,
    70.61,
    71.53
   ],
@@ -66,15 +68,15 @@
    "/home/user/test/work/b/Clip_10/qa/f_0001.00.png",
    "/home/user/test/work/b/Clip_10/qa/f_0004.46.png",
    "/home/user/test/work/b/Clip_10/qa/f_0006.34.png",
+   "/home/user/test/work/b/Clip_10/qa/f_0010.16.png",
    "/home/user/test/work/b/Clip_10/qa/f_0014.28.png",
    "/home/user/test/work/b/Clip_10/qa/f_0016.68.png",
    "/home/user/test/work/b/Clip_10/qa/f_0020.56.png",
-   "/home/user/test/work/b/Clip_10/qa/f_0022.01.png",
    "/home/user/test/work/b/Clip_10/qa/f_0022.36.png",
    "/home/user/test/work/b/Clip_10/qa/f_0023.86.png",
    "/home/user/test/work/b/Clip_10/qa/f_0029.46.png",
    "/home/user/test/work/b/Clip_10/qa/f_0032.57.png",
-   "/home/user/test/work/b/Clip_10/qa/f_0070.22.png",
+   "/home/user/test/work/b/Clip_10/qa/f_0069.89.png",
    "/home/user/test/work/b/Clip_10/qa/f_0070.61.png",
    "/home/user/test/work/b/Clip_10/qa/f_0071.53.png"
   ]

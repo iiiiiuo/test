@@ -1,0 +1,63 @@
+{
+ "clip": "Clip_19",
+ "candidate": "C17",
+ "title": "Elon: best EQ on the planet",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 41692,
+   "end_frame_excl": 43514,
+   "start_pts": 41734676,
+   "end_pts_excl": 43558498,
+   "start_s": 1738.944833,
+   "end_s": 1814.937417
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 83469352,
+   "end_sample_48k_excl": 87116996,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 41692,
+   "end_frame_excl": 43514,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 400,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_19/subtitles.ass",
+  "sha256": "fa224e1fb355ca0cd461b9fa002d2f3137127b2d386fd417e6b1401f3b042f44"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_19/render.mp4",
+  "sha256": "767cd9f9d57a3fdb511deae0ac9b132f9f04ce85273071f52766f774935bcd0c"
+ }
+}

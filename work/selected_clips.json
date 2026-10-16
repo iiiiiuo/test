@@ -2443,14 +2443,14 @@
   "intervals": [
    {
     "start_s": 1027.5,
-    "end_s": 1092.5915,
+    "end_s": 1093.0503,
     "start_frame": 24636,
-    "end_frame_excl": 26196,
+    "end_frame_excl": 26207,
     "audio_start_sample_48k": 49321272,
-    "audio_end_sample_48k_excl": 52444392
+    "audio_end_sample_48k_excl": 52466414
    }
   ],
-  "est_duration_s": 65.065,
+  "est_duration_s": 65.524,
   "lines": [
    {
     "line_id": "Clip_12_L001",
@@ -2612,14 +2612,14 @@
   "intervals": [
    {
     "start_s": 1395.45,
-    "end_s": 1474.3062,
+    "end_s": 1474.473,
     "start_frame": 33458,
-    "end_frame_excl": 35348,
+    "end_frame_excl": 35352,
     "audio_start_sample_48k": 66982916,
-    "audio_end_sample_48k_excl": 70766696
+    "audio_end_sample_48k_excl": 70774704
    }
   ],
-  "est_duration_s": 78.829,
+  "est_duration_s": 78.996,
   "lines": [
    {
     "line_id": "Clip_13_L001",
@@ -2973,15 +2973,31 @@
   "source_file": "part_4.mp4",
   "intervals": [
    {
-    "start_s": 1143.06,
-    "end_s": 1225.0,
+    "start_s": 1143.1003,
+    "end_s": 1171.3368,
     "start_frame": 27407,
+    "end_frame_excl": 28084,
+    "audio_start_sample_48k": 54868814,
+    "audio_end_sample_48k_excl": 56224168
+   },
+   {
+    "start_s": 1173.3805,
+    "end_s": 1184.183,
+    "start_frame": 28133,
+    "end_frame_excl": 28392,
+    "audio_start_sample_48k": 56322266,
+    "audio_end_sample_48k_excl": 56840784
+   },
+   {
+    "start_s": 1187.2277,
+    "end_s": 1225.0155,
+    "start_frame": 28465,
     "end_frame_excl": 29371,
-    "audio_start_sample_48k": 54866880,
-    "audio_end_sample_48k_excl": 58800000
+    "audio_start_sample_48k": 56986930,
+    "audio_end_sample_48k_excl": 58800742
    }
   ],
-  "est_duration_s": 81.915,
+  "est_duration_s": 76.827,
   "lines": [
    {
     "line_id": "Clip_15_L001",

@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:03.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But right now in America, say, one
+Dialogue: 0,0:00:00.08,0:00:03.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of the laws that I would change is,
+Dialogue: 0,0:00:00.08,0:00:03.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも今のAmericaで
+Dialogue: 0,0:00:00.08,0:00:03.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺が変えたい法律のひとつが
+Dialogue: 0,0:00:03.21,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's illegal to collect
+Dialogue: 0,0:00:03.21,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}rainwater in America.
+Dialogue: 0,0:00:03.21,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}雨水を集めるのが
+Dialogue: 0,0:00:03.21,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}違法だってことだ
+Dialogue: 0,0:00:06.50,0:00:08.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What? Illegal? It's illegal?
+Dialogue: 0,0:00:06.50,0:00:08.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}は？違法？
+Dialogue: 0,0:00:06.50,0:00:08.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}違法なの？
+Dialogue: 0,0:00:08.72,0:00:11.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's illegal to collect
+Dialogue: 0,0:00:08.72,0:00:11.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}rainwater in America.
+Dialogue: 0,0:00:08.72,0:00:11.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Americaじゃ雨水を集めるのは
+Dialogue: 0,0:00:08.72,0:00:11.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}違法なんだよ
+Dialogue: 0,0:00:11.62,0:00:14.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You go to every other country,
+Dialogue: 0,0:00:11.62,0:00:14.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}they're collecting rainwater.
+Dialogue: 0,0:00:11.62,0:00:14.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}他の国じゃ
+Dialogue: 0,0:00:11.62,0:00:14.00,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どこでも雨水を集めてる
+Dialogue: 0,0:00:14.41,0:00:17.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, people are
+Dialogue: 0,0:00:14.41,0:00:17.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}controlling the water.
+Dialogue: 0,0:00:14.41,0:00:17.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}水を支配してる
+Dialogue: 0,0:00:14.41,0:00:17.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}連中がいるんだよ
+Dialogue: 0,0:00:18.49,0:00:21.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, it's going to be
+Dialogue: 0,0:00:18.49,0:00:21.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}f**k what t-shirt you wear,
+Dialogue: 0,0:00:18.49,0:00:21.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どんなTシャツ着てるかとか
+Dialogue: 0,0:00:18.49,0:00:21.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}政治的な意見とか
+Dialogue: 0,0:00:21.16,0:00:25.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}what political opinion, and who got
+Dialogue: 0,0:00:21.16,0:00:25.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}beef with who. You ain't got no water,
+Dialogue: 0,0:00:21.16,0:00:25.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}誰と誰がビーフしてるとか
+Dialogue: 0,0:00:21.16,0:00:25.68,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どうでもよくなる　水がなかったら
+Dialogue: 0,0:00:27.73,0:00:31.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you ain't got no life.
+Dialogue: 0,0:00:27.73,0:00:31.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm trying to tell you.
+Dialogue: 0,0:00:27.73,0:00:31.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}命もないんだよ
+Dialogue: 0,0:00:27.73,0:00:31.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そう言いたいわけ
+Dialogue: 0,0:00:33.03,0:00:38.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because, you know,
+Dialogue: 0,0:00:33.03,0:00:38.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}a lot of people call me...
+Dialogue: 0,0:00:33.03,0:00:38.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}みんな俺のことを…
+Dialogue: 0,0:00:33.03,0:00:38.20,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}イカれてるって
+Dialogue: 0,0:00:38.22,0:00:39.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}they want to call me crazy.
+Dialogue: 0,0:00:38.22,0:00:39.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}言いたがるだろ
+Dialogue: 0,0:00:41.89,0:00:44.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's like, it's like running a marathon.
+Dialogue: 0,0:00:41.89,0:00:44.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それって
+Dialogue: 0,0:00:41.89,0:00:44.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}マラソンみたいなもんでさ
+Dialogue: 0,0:00:45.08,0:00:48.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If I got some short
+Dialogue: 0,0:00:45.08,0:00:48.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}shorts on and a tank top,
+Dialogue: 0,0:00:45.08,0:00:48.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が短パンにタンクトップで
+Dialogue: 0,0:00:48.49,0:00:50.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I'm sweating hard as hell,
+Dialogue: 0,0:00:48.49,0:00:50.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}汗だくになって
+Dialogue: 0,0:00:51.33,0:00:56.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}um, running down the street, running
+Dialogue: 0,0:00:51.33,0:00:56.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the wrong way down a freeway,
+Dialogue: 0,0:00:51.33,0:00:56.18,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}高速道路を逆走してたら
+Dialogue: 0,0:00:56.20,0:00:58.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}then you're going to say
+Dialogue: 0,0:00:56.20,0:00:58.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that person is crazy.
+Dialogue: 0,0:00:56.20,0:00:58.74,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつイカれてるって
+Dialogue: 0,0:00:56.20,0:00:58.74,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言うだろ
+Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But if a hundred other people do
+Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it with me, then it's a marathon.
+Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも100人が　一緒に走ってたら
+Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それはマラソンなんだよ
+Dialogue: 0,0:01:04.04,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a good way to put it.
+Dialogue: 0,0:01:04.04,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}うまいこと言うな

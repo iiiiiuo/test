@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.01,0:00:00.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Can I continue?
+Dialogue: 0,0:00:00.01,0:00:00.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}続けていい？
+Dialogue: 0,0:00:01.01,0:00:01.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:01.01,0:00:01.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ
+Dialogue: 0,0:00:01.53,0:00:06.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I feel like, you
+Dialogue: 0,0:00:01.53,0:00:06.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying?
+Dialogue: 0,0:00:01.53,0:00:06.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもさ、なんていうか
+Dialogue: 0,0:00:06.55,0:00:08.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}When I was having the funny thing,
+Dialogue: 0,0:00:06.55,0:00:08.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Puff Daddyと揉めてた時
+Dialogue: 0,0:00:08.75,0:00:10.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the issues with Puff I was having,
+Dialogue: 0,0:00:08.75,0:00:10.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}おかしなことがあってさ
+Dialogue: 0,0:00:10.95,0:00:14.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Thank you. I went to the Waldorf
+Dialogue: 0,0:00:10.95,0:00:14.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and I saw a couple people.
+Dialogue: 0,0:00:10.95,0:00:14.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どうも　Waldorfに行ったら
+Dialogue: 0,0:00:10.95,0:00:14.75,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何人か人がいて
+Dialogue: 0,0:00:15.21,0:00:15.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Waldorf where?
+Dialogue: 0,0:00:15.21,0:00:15.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どこのWaldorf？
+Dialogue: 0,0:00:15.91,0:00:19.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because I visited... the
+Dialogue: 0,0:00:15.91,0:00:19.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Waldorf in California. I love it.
+Dialogue: 0,0:00:15.91,0:00:19.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}行ったのは　CaliforniaのWaldorf
+Dialogue: 0,0:00:15.91,0:00:19.35,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}大好きなんだよ
+Dialogue: 0,0:00:19.37,0:00:22.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I saw a couple people just
+Dialogue: 0,0:00:19.37,0:00:22.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}standing out in front of the space.
+Dialogue: 0,0:00:19.37,0:00:22.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}建物の前に何人か
+Dialogue: 0,0:00:22.95,0:00:24.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Just standing there.
+Dialogue: 0,0:00:22.95,0:00:24.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ただ突っ立ってたんだよ
+Dialogue: 0,0:00:25.47,0:00:29.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I was like, oh man,
+Dialogue: 0,0:00:25.47,0:00:29.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Puff really does this, right?
+Dialogue: 0,0:00:25.47,0:00:29.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、「うわ、Puff Daddyは
+Dialogue: 0,0:00:25.47,0:00:29.01,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}マジでこういうことやるのか」　って思って
+Dialogue: 0,0:00:29.03,0:00:32.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And it just made me think, I got to
+Dialogue: 0,0:00:29.03,0:00:32.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}really get on my billionaire s**t.
+Dialogue: 0,0:00:29.03,0:00:32.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それで思ったんだよ　億万長者らしく
+Dialogue: 0,0:00:29.03,0:00:32.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}本気出さなきゃって
+Dialogue: 0,0:00:32.19,0:00:35.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I went and bought a 50
+Dialogue: 0,0:00:32.19,0:00:35.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}million dollar penthouse,
+Dialogue: 0,0:00:32.19,0:00:35.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから5000万ドルの
+Dialogue: 0,0:00:32.19,0:00:35.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ペントハウス買って
+Dialogue: 0,0:00:35.55,0:00:37.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I Maybach'd the fleet
+Dialogue: 0,0:00:35.55,0:00:37.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}out. Because I was like,
+Dialogue: 0,0:00:35.55,0:00:37.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}車も全部Maybachにした
+Dialogue: 0,0:00:35.55,0:00:37.94,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}だってホームレスみたいに
+Dialogue: 0,0:00:37.96,0:00:40.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}yo, I can't be walking
+Dialogue: 0,0:00:37.96,0:00:40.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}around homeless,
+Dialogue: 0,0:00:37.96,0:00:40.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}うろついてたらダメだろ
+Dialogue: 0,0:00:40.72,0:00:44.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, beefing with Puff. You got to,
+Dialogue: 0,0:00:40.72,0:00:44.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, you know what I mean?
+Dialogue: 0,0:00:40.72,0:00:44.12,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Puff Daddyとビーフしてるのにさ
+Dialogue: 0,0:00:40.72,0:00:44.12,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ？
+Dialogue: 0,0:00:44.14,0:00:47.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I don't think that would
+Dialogue: 0,0:00:44.14,0:00:47.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}have been an issue.
+Dialogue: 0,0:00:44.14,0:00:47.80,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それは問題に
+Dialogue: 0,0:00:44.14,0:00:47.80,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ならなかったと思うけどな
+Dialogue: 0,0:00:48.95,0:00:51.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And so what I really did get
+Dialogue: 0,0:00:48.95,0:00:51.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}out of it is that, like, Puff,
+Dialogue: 0,0:00:48.95,0:00:51.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、そこから学んだのは
+Dialogue: 0,0:00:51.72,0:00:54.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, stay rich, never gonna...
+Dialogue: 0,0:00:51.72,0:00:54.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying?
+Dialogue: 0,0:00:51.72,0:00:54.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Puff Daddyはいつでも金持ちってこと
+Dialogue: 0,0:00:51.72,0:00:54.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかる？
+Dialogue: 0,0:00:54.72,0:00:58.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You never seen this man in no
+Dialogue: 0,0:00:54.72,0:00:58.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Vans. You know what I'm saying?
+Dialogue: 0,0:00:54.72,0:00:58.02,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あの人がVans履いてるとこなんか
+Dialogue: 0,0:00:54.72,0:00:58.02,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}見たことないだろ
+Dialogue: 0,0:00:58.04,0:01:00.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This ni**a's just keeping
+Dialogue: 0,0:00:58.04,0:01:00.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it rich. He's good.
+Dialogue: 0,0:00:58.04,0:01:00.27,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつはいつだって
+Dialogue: 0,0:00:58.04,0:01:00.27,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}金持ちスタイルなんだよ
+Dialogue: 0,0:01:00.29,0:01:02.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He wasn't rich at all times.
+Dialogue: 0,0:01:00.29,0:01:02.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ずっと金持ちだった
+Dialogue: 0,0:01:00.29,0:01:02.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}わけじゃないだろ
+Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He was like this. He was doing
+Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the Puppy dance, you remember?
+Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}こんな感じで　パピー・ダンス
+Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}踊ってたじゃん　覚えてる？

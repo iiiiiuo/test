@@ -1,0 +1,120 @@
+{
+ "clip": "Clip_06",
+ "candidate": "C05",
+ "title": "I forgive everybody",
+ "source": {
+  "id": "part_2_2",
+  "path": "/mnt/project-files/part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 26512,
+   "end_frame_excl": 26656,
+   "start_pts": 26539496,
+   "end_pts_excl": 26683640,
+   "start_s": 1105.812333,
+   "end_s": 1111.818333
+  },
+  {
+   "start_frame": 27514,
+   "end_frame_excl": 29172,
+   "start_pts": 27542498,
+   "end_pts_excl": 29202156,
+   "start_s": 1147.604083,
+   "end_s": 1216.7565
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 53078992,
+   "end_sample_48k_excl": 53367280,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 55084996,
+   "end_sample_48k_excl": 58404312,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 26512,
+   "end_frame_excl": 26555,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 400,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 26555,
+   "end_frame_excl": 26656,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 400,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 27514,
+   "end_frame_excl": 27761,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 502,
+    "y": 51
+   },
+   "basis": "face cx=968 cy=321 w=296 n=5/11"
+  },
+  {
+   "start_frame": 27761,
+   "end_frame_excl": 27798,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 394,
+    "y": 0
+   },
+   "basis": "face cx=953 cy=378 w=400 n=6/6"
+  },
+  {
+   "start_frame": 27798,
+   "end_frame_excl": 29172,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 394,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_06/subtitles.ass",
+  "sha256": "68a2dfe978ca6e9eb69813478307911e4483a7e910f928491dfa40c93dda713b"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_06/render.mp4",
+  "sha256": "6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15"
+ }
+}

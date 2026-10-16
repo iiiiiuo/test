@@ -1,0 +1,129 @@
+{
+ "clip": "Clip_18",
+ "candidate": "C16",
+ "title": "Jeff Bezos ain't got no taste",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 28233,
+   "end_frame_excl": 29967,
+   "start_pts": 28262217,
+   "end_pts_excl": 29997951,
+   "start_s": 1177.592375,
+   "end_s": 1249.914625
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 56524434,
+   "end_sample_48k_excl": 59995902,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 28233,
+   "end_frame_excl": 28316,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 434,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 28316,
+   "end_frame_excl": 28342,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 434,
+    "y": 0
+   },
+   "basis": "face cx=993 cy=391 w=320 n=5/5"
+  },
+  {
+   "start_frame": 28342,
+   "end_frame_excl": 29359,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 414,
+    "y": 0
+   },
+   "basis": "face cx=973 cy=321 w=346 n=7/12"
+  },
+  {
+   "start_frame": 29359,
+   "end_frame_excl": 29391,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 380,
+    "y": 0
+   },
+   "basis": "face cx=939 cy=405 w=386 n=5/5"
+  },
+  {
+   "start_frame": 29391,
+   "end_frame_excl": 29426,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 388,
+    "y": 0
+   },
+   "basis": "face cx=948 cy=254 w=312 n=6/6"
+  },
+  {
+   "start_frame": 29426,
+   "end_frame_excl": 29525,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 394,
+    "y": 0
+   },
+   "basis": "face cx=954 cy=442 w=378 n=8/9"
+  },
+  {
+   "start_frame": 29525,
+   "end_frame_excl": 29967,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 424,
+    "y": 0
+   },
+   "basis": "face cx=984 cy=294 w=368 n=7/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_18/subtitles.ass",
+  "sha256": "cc2b5d8ef11ce97f057c853950b25b79f9d7f09a307ca8442b687d138d3a8f4b"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_18/render.mp4",
+  "sha256": "2b1c2860cfa03229352c95b7afaf4c51c6ac9a64d7923404184b6f66bf8b8d12"
+ }
+}

@@ -15,17 +15,17 @@
  "video_segments": [
   {
    "start_frame": 33458,
-   "end_frame_excl": 35348,
+   "end_frame_excl": 35352,
    "start_pts": 33491458,
-   "end_pts_excl": 35383348,
+   "end_pts_excl": 35387352,
    "start_s": 1395.477417,
-   "end_s": 1474.306167
+   "end_s": 1474.473
   }
  ],
  "audio_segments": [
   {
    "start_sample_48k": 66982916,
-   "end_sample_48k_excl": 70766696,
+   "end_sample_48k_excl": 70774704,
    "same_as_video_segment": true
   }
  ],
@@ -38,7 +38,7 @@
  "pieces": [
   {
    "start_frame": 33458,
-   "end_frame_excl": 35348,
+   "end_frame_excl": 35352,
    "crop": {
     "w": 1119,
     "h": 1080,
@@ -50,7 +50,7 @@
  ],
  "subtitles": {
   "ass": "/home/user/test/work/b/Clip_13/subtitles.ass",
-  "sha256": "8261f4dd8363eb7a4dd0192c782503a96a4311a5cf6cdea90e11ff8accdbe6c8"
+  "sha256": "bc1f1e9b859c2482bd6fa37dc8a002c397f67fb286238d9bbd8bac8fc2e352e0"
  },
  "translation": {
   "approved_csv": "review/approved/translations_approved_rev3.csv",
@@ -58,6 +58,6 @@
  },
  "render": {
   "path": "/home/user/test/work/b/Clip_13/render.mp4",
-  "sha256": "01e8fa4f61bec0cd943e8a2c80dc210845093b84fac377ee111074b134b59afe"
+  "sha256": "57aa32038246b874c4a092a4edcd8734e159b671e45d45be9133485114ee6719"
  }
 }

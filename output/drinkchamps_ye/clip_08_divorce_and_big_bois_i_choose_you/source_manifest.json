@@ -1,0 +1,107 @@
+{
+ "clip": "Clip_08",
+ "candidate": "C06",
+ "title": "Divorce and Big Boi's 'I Choose You'",
+ "source": {
+  "id": "part_2_2",
+  "path": "/mnt/project-files/part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 42012,
+   "end_frame_excl": 43947,
+   "start_pts": 42054996,
+   "end_pts_excl": 43991931,
+   "start_s": 1752.2915,
+   "end_s": 1832.997125
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 84109992,
+   "end_sample_48k_excl": 87983862,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 42012,
+   "end_frame_excl": 43069,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 446,
+    "y": 0
+   },
+   "basis": "face cx=1006 cy=323 w=316 n=11/12"
+  },
+  {
+   "start_frame": 43069,
+   "end_frame_excl": 43145,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 428,
+    "y": 0
+   },
+   "basis": "face cx=988 cy=414 w=300 n=8/12"
+  },
+  {
+   "start_frame": 43145,
+   "end_frame_excl": 43301,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 458,
+    "y": 0
+   },
+   "basis": "face cx=1017 cy=330 w=340 n=6/9"
+  },
+  {
+   "start_frame": 43301,
+   "end_frame_excl": 43343,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 408,
+    "y": 97
+   },
+   "basis": "face cx=874 cy=367 w=288 n=7/7"
+  },
+  {
+   "start_frame": 43343,
+   "end_frame_excl": 43947,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 408,
+    "y": 97
+   },
+   "basis": "no face -> neighbour/centre"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_08/subtitles.ass",
+  "sha256": "cd7c57de00aaf46dd6292429f6321fdc90b139984359bd5a769a1c7c161b4119"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_08/render.mp4",
+  "sha256": "8a184afc1ec4cea197bb40e7a2132776a247a3bd5faaaa2c4c8f3317c2ee44b4"
+ }
+}

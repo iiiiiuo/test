@@ -1,0 +1,85 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We had Quavo and Takeoff
+Dialogue: 0,0:00:00.00,0:00:04.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}here the other day.
+Dialogue: 0,0:00:00.00,0:00:04.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}この前Quavoと
+Dialogue: 0,0:00:00.00,0:00:04.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Takeoffが来てたんだけど
+Dialogue: 0,0:00:04.35,0:00:05.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What they were saying?
+Dialogue: 0,0:00:04.35,0:00:05.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}何て言ってたと思う？
+Dialogue: 0,0:00:06.39,0:00:07.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Real s**t.
+Dialogue: 0,0:00:06.39,0:00:07.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マジな話
+Dialogue: 0,0:00:08.29,0:00:12.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They said, Quavo said
+Dialogue: 0,0:00:08.29,0:00:12.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that you asked to borrow
+Dialogue: 0,0:00:08.29,0:00:12.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Quavoが言うには
+Dialogue: 0,0:00:08.29,0:00:12.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あんたがアカウント停止中に
+Dialogue: 0,0:00:12.05,0:00:16.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}his Twitter during the
+Dialogue: 0,0:00:12.05,0:00:16.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}blockout. Is this true?
+Dialogue: 0,0:00:12.05,0:00:16.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつのTwitterを　借りようとしたって
+Dialogue: 0,0:00:12.05,0:00:16.51,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}本当？
+Dialogue: 0,0:00:17.34,0:00:18.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:17.34,0:00:18.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ
+Dialogue: 0,0:00:20.36,0:00:23.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said... he offered it.
+Dialogue: 0,0:00:20.36,0:00:23.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}He said he offered it.
+Dialogue: 0,0:00:20.36,0:00:23.02,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつが…
+Dialogue: 0,0:00:23.04,0:00:24.78,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said he offered it. He offered it.
+Dialogue: 0,0:00:23.04,0:00:24.78,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}貸すって言ってきたんだよ
+Dialogue: 0,0:00:24.80,0:00:26.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But, you know what
+Dialogue: 0,0:00:24.80,0:00:26.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm saying, I just said,
+Dialogue: 0,0:00:24.80,0:00:26.36,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも
+Dialogue: 0,0:00:26.38,0:00:28.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}let me take this time
+Dialogue: 0,0:00:26.38,0:00:28.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}as just like a breather.
+Dialogue: 0,0:00:26.38,0:00:28.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}この時間はひと休みだと思おうって
+Dialogue: 0,0:00:28.10,0:00:30.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They put me, like, it's a technical
+Dialogue: 0,0:00:28.10,0:00:30.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}foul, right? Because, oh,
+Dialogue: 0,0:00:28.10,0:00:30.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}テクニカル・ファウル
+Dialogue: 0,0:00:28.10,0:00:30.82,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}取られたようなもんだろ
+Dialogue: 0,0:00:30.84,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}here goes another thing.
+Dialogue: 0,0:00:30.84,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「またかよ」ってな
+Dialogue: 0,0:00:36.08,0:00:37.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel like God put me
+Dialogue: 0,0:00:36.08,0:00:37.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}on a little timeout.
+Dialogue: 0,0:00:36.08,0:00:37.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神様にちょっと　タイムアウトを
+Dialogue: 0,0:00:36.08,0:00:37.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}取らされた気がする
+Dialogue: 0,0:00:37.72,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. Because my dad was like,
+Dialogue: 0,0:00:37.72,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}親父に言われたんだよ
+Dialogue: 0,0:00:40.69,0:00:44.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I feel where you coming
+Dialogue: 0,0:00:40.69,0:00:44.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}from, Ye, I understand,
+Dialogue: 0,0:00:40.69,0:00:44.05,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「言いたいことはわかる
+Dialogue: 0,0:00:40.69,0:00:44.05,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Ye、理解はできる
+Dialogue: 0,0:00:47.25,0:00:50.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but you got to be more
+Dialogue: 0,0:00:47.25,0:00:50.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}sophisticated with your words.
+Dialogue: 0,0:00:47.25,0:00:50.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも言葉はもっと
+Dialogue: 0,0:00:51.24,0:00:52.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You have to be more sophisticated.
+Dialogue: 0,0:00:51.24,0:00:52.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}洗練させなきゃダメだ」って
+Dialogue: 0,0:00:52.48,0:00:53.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I agree with that.
+Dialogue: 0,0:00:52.48,0:00:53.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}その通りだと思う
+Dialogue: 0,0:00:53.46,0:00:56.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That was less sophisticated
+Dialogue: 0,0:00:53.46,0:00:56.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}than I needed to be.
+Dialogue: 0,0:00:53.46,0:00:56.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あれは必要以上に
+Dialogue: 0,0:00:53.46,0:00:56.59,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}雑な言い方だった
+Dialogue: 0,0:00:56.61,0:00:57.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You said God texted you that?
+Dialogue: 0,0:00:56.61,0:00:57.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}神様からメールが来たって？
+Dialogue: 0,0:00:57.99,0:00:58.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, his father.
+Dialogue: 0,0:00:57.99,0:00:58.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いや、親父さんだよ
+Dialogue: 0,0:00:58.52,0:01:02.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, second to God,
+Dialogue: 0,0:00:58.52,0:01:02.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my dad. Yeah, yeah, yeah.
+Dialogue: 0,0:00:58.52,0:01:02.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう、神の次に大事な
+Dialogue: 0,0:00:58.52,0:01:02.98,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺の親父
+Dialogue: 0,0:01:03.00,0:01:08.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because I know for a
+Dialogue: 0,0:01:03.00,0:01:08.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}fact, um, you know,
+Dialogue: 0,0:01:08.84,0:01:10.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}pissing off Jewish people
+Dialogue: 0,0:01:08.84,0:01:10.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and pissing off black people,
+Dialogue: 0,0:01:08.84,0:01:10.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ユダヤ人を怒らせて
+Dialogue: 0,0:01:08.84,0:01:10.94,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}黒人も怒らせたって
+Dialogue: 0,0:01:10.96,0:01:11.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I know that.
+Dialogue: 0,0:01:10.96,0:01:11.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それはちゃんとわかってる

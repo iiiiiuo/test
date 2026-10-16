@@ -1,0 +1,63 @@
+{
+ "clip": "Clip_21",
+ "candidate": "C18",
+ "title": "Life is an album: Workout Plan to Stronger",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 28555,
+   "end_frame_excl": 30193,
+   "start_pts": 28584539,
+   "end_pts_excl": 30224177,
+   "start_s": 1191.022458,
+   "end_s": 1259.340708
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 57169078,
+   "end_sample_48k_excl": 60448354,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 28555,
+   "end_frame_excl": 30193,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 300,
+    "y": 0
+   },
+   "basis": "face cx=860 cy=266 w=374 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_21/subtitles.ass",
+  "sha256": "97b16c42be47f0f06983792aa806fa01f67c35926ff03185f5d4a0da584b17df"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_21/render.mp4",
+  "sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f"
+ }
+}

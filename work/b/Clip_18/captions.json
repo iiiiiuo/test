@@ -12,8 +12,8 @@
  "captions": [
   {
    "line_id": "Clip_18_L001",
-   "src_start": 1177.26,
-   "src_end": 1180.0,
+   "src_start": 1176.96,
+   "src_end": 1180.06,
    "en": [
     "I still... Bernard Arnault",
     "is still one of my heroes,"
@@ -24,12 +24,12 @@
     "Bernard Arnaultは"
    ],
    "start": 0.0,
-   "end": 2.3876250000000527
+   "end": 2.447624999999998
   },
   {
    "line_id": "Clip_18_L001",
-   "src_start": 1180.0,
-   "src_end": 1181.8933333333332,
+   "src_start": 1180.06,
+   "src_end": 1182.22,
    "en": [
     "so I gotta say that, though.",
     "That's the guy, Louis"
@@ -39,13 +39,13 @@
     "俺のヒーローなんだよ",
     "そこは言っとく"
    ],
-   "start": 2.4076250000000528,
-   "end": 4.280958333333256
+   "start": 2.467624999999998,
+   "end": 4.807625000000126
   },
   {
    "line_id": "Clip_18_L001",
-   "src_start": 1181.8933333333332,
-   "src_end": 1183.3,
+   "src_start": 1182.42,
+   "src_end": 1183.34,
    "en": [
     "head of LVMH. Yeah."
    ],
@@ -53,7 +53,7 @@
    "jp": [
     "LVMHのトップだよ"
    ],
-   "start": 4.300958333333256,
+   "start": 4.8276250000001255,
    "end": 5.84762500000009
   },
   {
@@ -117,11 +117,11 @@
     "イケてるといいな」って"
    ],
    "start": 16.467624999999998,
-   "end": 18.977625000000216
+   "end": 19.0876250000001
   },
   {
    "line_id": "Clip_18_L004",
-   "src_start": 1196.9,
+   "src_start": 1196.7,
    "src_end": 1197.1,
    "en": [
     "Yeah."
@@ -130,7 +130,7 @@
    "jp": [
     "なるほど"
    ],
-   "start": 19.307625000000144,
+   "start": 19.1076250000001,
    "end": 20.167625000000026
   },
   {
@@ -221,12 +221,12 @@
     "ベゾスにはセンスがない"
    ],
    "start": 31.927625000000035,
-   "end": 35.28762500000014
+   "end": 35.75762499999994
   },
   {
    "line_id": "Clip_18_L010",
-   "src_start": 1212.9,
-   "src_end": 1216.24,
+   "src_start": 1213.37,
+   "src_end": 1216.39,
    "en": [
     "You wouldn't ask him to pick out",
     "what you want for Christmas."
@@ -236,13 +236,13 @@
     "クリスマスプレゼントを",
     "あいつに選ばせないだろ？"
    ],
-   "start": 35.307625000000144,
-   "end": 38.95762499999976
+   "start": 35.777624999999944,
+   "end": 39.097625000000086
   },
   {
    "line_id": "Clip_18_L010",
-   "src_start": 1216.5699999999997,
-   "src_end": 1218.26,
+   "src_start": 1216.71,
+   "src_end": 1218.35,
    "en": [
     "You know what I'm saying?",
     "Jeff Bezos can't pick."
@@ -251,7 +251,7 @@
    "jp": [
     "ベゾスには選べないんだよ"
    ],
-   "start": 38.97762499999976,
+   "start": 39.11762500000009,
    "end": 40.66762500000002
   },
   {
@@ -272,31 +272,31 @@
   {
    "line_id": "Clip_18_L012",
    "src_start": 1220.4899999999996,
-   "src_end": 1220.98,
+   "src_end": 1223.32,
    "en": [
-    "You know what I'm saying?"
+    "You know what I'm saying? So he",
+    "just learned how to go to Vegas"
    ],
-   "en_unmasked": "You know what I'm saying?",
+   "en_unmasked": "You know what I'm saying? So he just learned how to go to Vegas",
    "jp": [
     "あいつはLas Vegasで"
    ],
    "start": 42.89762499999961,
-   "end": 43.36762500000007
+   "end": 45.707624999999986
   },
   {
    "line_id": "Clip_18_L012",
-   "src_start": 1220.98,
+   "src_start": 1223.32,
    "src_end": 1224.24,
    "en": [
-    "So he just learned how to go to",
-    "Vegas and break the machine."
+    "and break the machine."
    ],
-   "en_unmasked": "So he just learned how to go to Vegas and break the machine.",
+   "en_unmasked": "and break the machine.",
    "jp": [
     "マシンをぶっ壊す方法を",
     "覚えただけなんだよ"
    ],
-   "start": 43.38762500000007,
+   "start": 45.72762499999999,
    "end": 47.24762499999995
   },
   {
@@ -325,12 +325,12 @@
     "そう、それで評価された"
    ],
    "start": 48.34762500000011,
-   "end": 49.74762499999995
+   "end": 49.957624999999986
   },
   {
    "line_id": "Clip_18_L014",
-   "src_start": 1227.36,
-   "src_end": 1229.38,
+   "src_start": 1227.57,
+   "src_end": 1229.57,
    "en": [
     "I came from a Cuban family,"
    ],
@@ -338,13 +338,13 @@
    "jp": [
     "うちはCuba系の家族だから"
    ],
-   "start": 49.76762499999995,
-   "end": 51.76762500000016
+   "start": 49.97762499999999,
+   "end": 51.957624999999986
   },
   {
    "line_id": "Clip_18_L014",
-   "src_start": 1229.38,
-   "src_end": 1231.28,
+   "src_start": 1229.57,
+   "src_end": 1231.33,
    "en": [
     "I got to represent.",
     "What's up, Cuban people?"
@@ -354,13 +354,13 @@
     "レペゼンしないとな",
     "Cubaのみんな、元気か？"
    ],
-   "start": 51.78762500000016,
-   "end": 54.07762499999965
+   "start": 51.97762499999999,
+   "end": 54.097625000000086
   },
   {
    "line_id": "Clip_18_L015",
-   "src_start": 1231.6899999999996,
-   "src_end": 1235.06,
+   "src_start": 1231.71,
+   "src_end": 1235.45,
    "en": [
     "Yeah, but I'm saying, and by the way,",
     "it's like, okay, you broke the machine,"
@@ -370,13 +370,13 @@
     "でもさ",
     "確かにマシンは壊したけど"
    ],
-   "start": 54.09762499999965,
-   "end": 57.447624999999995
+   "start": 54.11762500000009,
+   "end": 58.3576250000001
   },
   {
    "line_id": "Clip_18_L015",
-   "src_start": 1235.06,
-   "src_end": 1238.8,
+   "src_start": 1236.399999999999,
+   "src_end": 1238.91,
    "en": [
     "but Bernard Arnault,",
     "you know what I'm saying,"
@@ -386,7 +386,7 @@
     "Bernard Arnaultは",
     "わかるだろ"
    ],
-   "start": 57.467625,
+   "start": 58.80762499999901,
    "end": 61.187625000000004
   },
   {

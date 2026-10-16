@@ -43,11 +43,11 @@
     {
      "start": 1446,
      "end": 1626,
-     "x": 610,
+     "x": 420,
      "y": 0,
      "w": 1119,
      "h": 1080,
-     "how": "face cx=1170 cy=304 w=366 n=3/10"
+     "how": "manual: Ye leans/laughs, head x~600-1080 at full res across the shot (3/10 detections gave cx=1170); crop centred on him (critic Clip_02 round 2)"
     }
    ]
   }

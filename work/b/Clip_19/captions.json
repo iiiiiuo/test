@@ -13,7 +13,7 @@
   {
    "line_id": "Clip_19_L001",
    "src_start": 1739.45,
-   "src_end": 1741.45,
+   "src_end": 1741.7,
    "en": [
     "In a way, they got a guy",
     "who had taste, though, bro."
@@ -24,12 +24,12 @@
     "センスのある奴はいたんだよ"
    ],
    "start": 0.5051666666668098,
-   "end": 2.4851666666668097
+   "end": 2.835166666666719
   },
   {
    "line_id": "Clip_19_L001",
-   "src_start": 1741.45,
-   "src_end": 1743.69,
+   "src_start": 1741.8,
+   "src_end": 1743.74,
    "en": [
     "You know what I'm saying?",
     "Steve Jobs had the best taste."
@@ -39,7 +39,7 @@
     "スティーブ・ジョブズは",
     "最高のセンスを持ってた"
    ],
-   "start": 2.5051666666668098,
+   "start": 2.855166666666719,
    "end": 5.095166666666483
   },
   {
@@ -88,12 +88,12 @@
     "他の連中じゃない"
    ],
    "start": 12.865166666666482,
-   "end": 14.305166666666747
+   "end": 15.025166666666319
   },
   {
    "line_id": "Clip_19_L004",
-   "src_start": 1753.27,
-   "src_end": 1758.85,
+   "src_start": 1753.9899999999996,
+   "src_end": 1759.02,
    "en": [
     "Even Elon flew me... you know",
     "what I'm saying? Vory, Wack 100,"
@@ -103,13 +103,13 @@
     "イーロンですら　俺を呼んだんだぜ",
     "Vory、Wack 100と"
    ],
-   "start": 14.325166666666746,
-   "end": 20.031833333333434
+   "start": 15.045166666666319,
+   "end": 20.315166666666737
   },
   {
    "line_id": "Clip_19_L005",
-   "src_start": 1758.9966666666667,
-   "src_end": 1761.95,
+   "src_start": 1759.28,
+   "src_end": 1761.76,
    "en": [
     "it was like a team",
     "that went to SpaceX."
@@ -118,13 +118,13 @@
    "jp": [
     "チームでSpaceXに行ったんだよ"
    ],
-   "start": 20.051833333333434,
-   "end": 23.59516666666671
+   "start": 20.335166666666737,
+   "end": 23.555166666666747
   },
   {
    "line_id": "Clip_19_L005",
-   "src_start": 1762.56,
-   "src_end": 1764.0,
+   "src_start": 1762.52,
+   "src_end": 1764.06,
    "en": [
     "He flew me in his new jet out there."
    ],
@@ -133,7 +133,7 @@
     "新しいジェットで",
     "連れてってくれて"
    ],
-   "start": 23.61516666666671,
+   "start": 23.575166666666746,
    "end": 25.035166666666765
   },
   {
@@ -231,30 +231,25 @@
   {
    "line_id": "Clip_19_L010",
    "src_start": 1778.3099999999995,
-   "src_end": 1779.35,
+   "src_end": 1780.3,
    "en": [
-    "This is a person..."
+    "This is a person... — Yeah."
    ],
-   "en_unmasked": "This is a person...",
-   "jp": [
-    "IQが地球一だって"
-   ],
+   "en_unmasked": "This is a person... — Yeah.",
+   "jp": [],
    "start": 39.365166666666255,
-   "end": 40.38516666666667
+   "end": 41.595166666666934
   },
   {
    "line_id": "Clip_19_L010",
-   "src_start": 1779.35,
+   "src_start": 1780.5600000000002,
    "src_end": 1782.34,
    "en": [
-    "— Yeah. This is a person",
-    "that a lot of people"
+    "This is a person that a lot of people"
    ],
-   "en_unmasked": "— Yeah. This is a person that a lot of people",
-   "jp": [
-    "言われてるような人が"
-   ],
-   "start": 40.40516666666667,
+   "en_unmasked": "This is a person that a lot of people",
+   "jp": [],
+   "start": 41.61516666666694,
    "end": 43.37516666666668
   },
   {
@@ -267,7 +262,8 @@
    ],
    "en_unmasked": "consider to have the best IQ on the planet.",
    "jp": [
-    "俺のEQは地球一だって"
+    "IQが地球一だって",
+    "言われてるような人が"
    ],
    "start": 43.39516666666668,
    "end": 45.6851666666664
@@ -282,6 +278,7 @@
    ],
    "en_unmasked": "He says you got the best EQ on the planet.",
    "jp": [
+    "俺のEQは地球一だって",
     "言ったんだよ"
    ],
    "start": 45.7051666666664,

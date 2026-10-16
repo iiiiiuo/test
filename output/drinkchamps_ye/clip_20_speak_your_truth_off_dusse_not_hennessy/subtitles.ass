@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, you at somebody's wedding,
+Dialogue: 0,0:00:00.00,0:00:02.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}誰かの結婚式で
+Dialogue: 0,0:00:02.33,0:00:04.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and somebody get into a fight
+Dialogue: 0,0:00:02.33,0:00:04.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with a family member at the end.
+Dialogue: 0,0:00:02.33,0:00:04.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}最後に親戚と
+Dialogue: 0,0:00:02.33,0:00:04.82,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ケンカになる奴いるだろ
+Dialogue: 0,0:00:04.84,0:00:05.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And they say some real s**t,
+Dialogue: 0,0:00:04.84,0:00:05.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}本音をぶちまけるけど
+Dialogue: 0,0:00:06.00,0:00:08.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but they ain't said it until
+Dialogue: 0,0:00:06.00,0:00:08.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}they had the D'Usse.
+Dialogue: 0,0:00:06.00,0:00:08.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それもD'Usseを
+Dialogue: 0,0:00:06.00,0:00:08.66,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}飲むまでは言わなかった
+Dialogue: 0,0:00:08.68,0:00:09.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They say some real s**t.
+Dialogue: 0,0:00:08.68,0:00:09.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マジな本音をな
+Dialogue: 0,0:00:09.76,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I'm telling you,
+Dialogue: 0,0:00:09.76,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the whole difference is,
+Dialogue: 0,0:00:09.76,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言っとくけど
+Dialogue: 0,0:00:12.25,0:00:14.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}when people come
+Dialogue: 0,0:00:12.25,0:00:14.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and speak their truth,
+Dialogue: 0,0:00:12.25,0:00:14.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}本音を言うなら
+Dialogue: 0,0:00:14.11,0:00:16.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}they need to speak
+Dialogue: 0,0:00:14.11,0:00:16.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}their truth off of D'Usse.
+Dialogue: 0,0:00:14.11,0:00:16.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}D'Usseで酔って言えよ
+Dialogue: 0,0:00:16.35,0:00:18.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They don't need to speak
+Dialogue: 0,0:00:16.35,0:00:18.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}their truth off of Hennessy.
+Dialogue: 0,0:00:16.35,0:00:18.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ヘネシーで酔って
+Dialogue: 0,0:00:16.35,0:00:18.81,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言うんじゃなくてな
+Dialogue: 0,0:00:18.83,0:00:22.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I want to say today is,
+Dialogue: 0,0:00:18.83,0:00:22.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I need every single...
+Dialogue: 0,0:00:18.83,0:00:22.02,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから今日言いたいのは
+Dialogue: 0,0:00:22.04,0:00:23.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and we can get back to
+Dialogue: 0,0:00:22.04,0:00:23.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the Black Lives Matter...
+Dialogue: 0,0:00:22.04,0:00:23.40,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}…ブラックライブスマ
+Dialogue: 0,0:00:22.04,0:00:23.40,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ターの話には後で戻るけど
+Dialogue: 0,0:00:23.42,0:00:25.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but I need every single
+Dialogue: 0,0:00:23.42,0:00:25.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}liquor store in the world
+Dialogue: 0,0:00:23.42,0:00:25.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}世界中の酒屋から
+Dialogue: 0,0:00:25.83,0:00:29.41,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to remove the Hennessy
+Dialogue: 0,0:00:25.83,0:00:29.41,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and put the D'Usse in it.
+Dialogue: 0,0:00:25.83,0:00:29.41,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ヘネシーを撤去して
+Dialogue: 0,0:00:25.83,0:00:29.41,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}D'Usseを置いてほしい
+Dialogue: 0,0:00:29.43,0:00:31.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm asking and calling for every...
+Dialogue: 0,0:00:29.43,0:00:31.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}全員に呼びかける…
+Dialogue: 0,0:00:34.45,0:00:37.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm asking every black person,
+Dialogue: 0,0:00:34.45,0:00:37.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}黒人のみんなに頼みたい
+Dialogue: 0,0:00:38.30,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}when you want to drink
+Dialogue: 0,0:00:38.30,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and you want to go full
+Dialogue: 0,0:00:38.30,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}結婚式で飲んで
+Dialogue: 0,0:00:38.30,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何も気にしない
+Dialogue: 0,0:00:41.23,0:00:43.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the-uncle-that-don't-give-a-f**k
+Dialogue: 0,0:00:41.23,0:00:43.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}level at the wedding,
+Dialogue: 0,0:00:41.23,0:00:43.31,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}おじさんレベルまで
+Dialogue: 0,0:00:41.23,0:00:43.31,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}振り切りたい時は
+Dialogue: 0,0:00:44.07,0:00:47.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}do it off the D'Usse.
+Dialogue: 0,0:00:44.07,0:00:47.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Don't do it off the Hennessy.
+Dialogue: 0,0:00:44.07,0:00:47.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}D'Usseでやれ
+Dialogue: 0,0:00:44.07,0:00:47.67,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ヘネシーじゃなくて
+Dialogue: 0,0:00:47.69,0:00:49.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Don't do it off the Hennessy.
+Dialogue: 0,0:00:47.69,0:00:49.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ヘネシーはやめとけ
+Dialogue: 0,0:00:49.39,0:00:51.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Go full Ye off the D'Usse. Go Ye!
+Dialogue: 0,0:00:49.39,0:00:51.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}D'Usseで
+Dialogue: 0,0:00:49.39,0:00:51.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}フルにYeになれ
+Dialogue: 0,0:00:51.35,0:00:54.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Go full Ye off the D'Usse.
+Dialogue: 0,0:00:51.35,0:00:54.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}D'UsseでフルYeだ
+Dialogue: 0,0:00:55.01,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Go full Ye off the D'Usse.
+Dialogue: 0,0:00:55.01,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Go full Ye off the D'Usse.
+Dialogue: 0,0:00:55.01,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}D'UsseでフルYeだ
+Dialogue: 0,0:00:58.57,0:01:01.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Let me just be clear real quick.
+Dialogue: 0,0:00:58.57,0:01:01.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ちょっとはっきりさせとくと
+Dialogue: 0,0:01:01.05,0:01:03.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Respect. Because
+Dialogue: 0,0:01:01.05,0:01:03.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}this is the only time...
+Dialogue: 0,0:01:01.05,0:01:03.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}リスペクトはしてるよ
+Dialogue: 0,0:01:01.05,0:01:03.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}これは今回だけ…
+Dialogue: 0,0:01:03.63,0:01:06.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is delicious. This D'Usse is good.
+Dialogue: 0,0:01:03.63,0:01:06.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}これうまいな
+Dialogue: 0,0:01:03.63,0:01:06.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}このD'Usseいいわ
+Dialogue: 0,0:01:07.19,0:01:09.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Also for an evening nightcap.
+Dialogue: 0,0:01:07.19,0:01:09.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}夜の寝酒にもいい
+Dialogue: 0,0:01:10.27,0:01:14.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}A nightcap is well
+Dialogue: 0,0:01:10.27,0:01:14.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}recommended, my friend.
+Dialogue: 0,0:01:10.27,0:01:14.44,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}寝酒にオススメだぜ

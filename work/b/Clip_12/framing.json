@@ -5,7 +5,7 @@
  "intervals": [
   {
    "start_frame": 24636,
-   "end_frame_excl": 26196,
+   "end_frame_excl": 26207,
    "shots": [
     {
      "start": 0,
@@ -54,7 +54,7 @@
     },
     {
      "start": 520,
-     "end": 1560,
+     "end": 1571,
      "x": 298,
      "y": 0,
      "w": 1119,

@@ -1,6 +1,6 @@
 # Clip_15 source context (part_4.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 1143.06-1225.00s (frames 27407-29371)
+## interval 1143.10-1171.34s (frames 27407-28084)
     1122.30- 1126.86 me and jesus gonna have to arm wrestle because i'm gonna meet but i see god it's like yo bro
     1127.76- 1135.14 How do you make it where, like, I'm on some Adidas shit where all day I dream about sex, but then in the Bible, you told me I'm not supposed to.
     1135.66- 1136.84 This shit got me fucking out of here.
@@ -19,13 +19,48 @@
 >>  1166.94- 1167.30 Yeah.
 >>  1168.24- 1169.62 This is amazing, by the way.
 >>  1170.08- 1170.44 Yeah.
->>  1171.76- 1173.14 You guys are not getting pussy.
+    1171.76- 1173.14 You guys are not getting pussy.
+    1173.50- 1174.46 Let's get pussy, guys.
+    1174.56- 1178.02 How many times, if you think about a situation where somebody got some pussy,
+    1178.40- 1180.96 how many times do you think some Four Swans is on the side of that bed?
+    1182.62- 1183.92 Or still on, by the way.
+    1185.00- 1185.64 Still on.
+    1185.64- 1186.76 No, they might not take them off.
+    1190.00- 1192.66 But now, sometimes it'd be some 350s.
+
+## interval 1173.38-1184.18s (frames 28133-28392)
+    1152.34- 1155.98 No, this is the beginning of the Adidas relationship before I even pulled out anything.
+    1156.24- 1156.38 Oh.
+    1156.38- 1160.22 And I was like, look, nobody's getting pussy in Adidas.
+    1160.52- 1161.94 People get pussy at Nike.
+    1162.10- 1162.96 And I was just like, yo.
+    1163.08- 1164.62 This is the way you presented your marketing?
+    1166.94- 1167.30 Yeah.
+    1168.24- 1169.62 This is amazing, by the way.
+    1170.08- 1170.44 Yeah.
+    1171.76- 1173.14 You guys are not getting pussy.
 >>  1173.50- 1174.46 Let's get pussy, guys.
 >>  1174.56- 1178.02 How many times, if you think about a situation where somebody got some pussy,
 >>  1178.40- 1180.96 how many times do you think some Four Swans is on the side of that bed?
 >>  1182.62- 1183.92 Or still on, by the way.
->>  1185.00- 1185.64 Still on.
->>  1185.64- 1186.76 No, they might not take them off.
+    1185.00- 1185.64 Still on.
+    1185.64- 1186.76 No, they might not take them off.
+    1190.00- 1192.66 But now, sometimes it'd be some 350s.
+    1194.34- 1195.94 So that was the whole point.
+    1196.64- 1199.66 And actually, this is something only me and Steve Stout know.
+    1200.06- 1204.42 You know the actual, the sewing at the top of the shoe
+
+## interval 1187.23-1225.02s (frames 28465-29371)
+    1166.94- 1167.30 Yeah.
+    1168.24- 1169.62 This is amazing, by the way.
+    1170.08- 1170.44 Yeah.
+    1171.76- 1173.14 You guys are not getting pussy.
+    1173.50- 1174.46 Let's get pussy, guys.
+    1174.56- 1178.02 How many times, if you think about a situation where somebody got some pussy,
+    1178.40- 1180.96 how many times do you think some Four Swans is on the side of that bed?
+    1182.62- 1183.92 Or still on, by the way.
+    1185.00- 1185.64 Still on.
+    1185.64- 1186.76 No, they might not take them off.
 >>  1190.00- 1192.66 But now, sometimes it'd be some 350s.
 >>  1194.34- 1195.94 So that was the whole point.
 >>  1196.64- 1199.66 And actually, this is something only me and Steve Stout know.

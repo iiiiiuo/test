@@ -1,0 +1,109 @@
+{
+ "clip": "Clip_02",
+ "candidate": "C01",
+ "title": "Drake told me 'nothing ever happened'",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 38185,
+   "end_frame_excl": 38336,
+   "start_pts": 38223185,
+   "end_pts_excl": 38374336,
+   "start_s": 1592.632708,
+   "end_s": 1598.930667
+  },
+  {
+   "start_frame": 39484,
+   "end_frame_excl": 41110,
+   "start_pts": 39523484,
+   "end_pts_excl": 41151110,
+   "start_s": 1646.811833,
+   "end_s": 1714.629583
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 76446370,
+   "end_sample_48k_excl": 76748672,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 79046968,
+   "end_sample_48k_excl": 82302220,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 38185,
+   "end_frame_excl": 38336,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 411,
+    "y": 0
+   },
+   "basis": "face cx=970 cy=342 w=301 n=6/9"
+  },
+  {
+   "start_frame": 39484,
+   "end_frame_excl": 40845,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 410,
+    "y": 0
+   },
+   "basis": "face cx=970 cy=326 w=335 n=8/12"
+  },
+  {
+   "start_frame": 40845,
+   "end_frame_excl": 40930,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 462,
+    "y": 120
+   },
+   "basis": "face cx=929 cy=390 w=223 n=4/7"
+  },
+  {
+   "start_frame": 40930,
+   "end_frame_excl": 41110,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 420,
+    "y": 0
+   },
+   "basis": "manual: Ye leans/laughs, head x~600-1080 at full res across the shot (3/10 detections gave cx=1170); crop centred on him (critic Clip_02 round 2)"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_02/subtitles.ass",
+  "sha256": "dfb1e9bd5aa9a22ddd28d3f88d1c7784229b9cf90667d1bd11cee52887a8079b"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_02/render.mp4",
+  "sha256": "19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af"
+ }
+}

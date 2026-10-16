@@ -1,0 +1,96 @@
+{
+ "clip": "Clip_09",
+ "candidate": "C07",
+ "title": "A billionaire still checks every bill",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 4371,
+   "end_frame_excl": 5925,
+   "start_pts": 4375371,
+   "end_pts_excl": 5930925,
+   "start_s": 182.307125,
+   "end_s": 247.121875
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 8750742,
+   "end_sample_48k_excl": 11861850,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 4371,
+   "end_frame_excl": 5614,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 466,
+    "y": 0
+   },
+   "basis": "face cx=1026 cy=376 w=314 n=4/12"
+  },
+  {
+   "start_frame": 5614,
+   "end_frame_excl": 5746,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 346,
+    "y": 0
+   },
+   "basis": "face cx=906 cy=353 w=354 n=11/11"
+  },
+  {
+   "start_frame": 5746,
+   "end_frame_excl": 5789,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 414,
+    "y": 115
+   },
+   "basis": "face cx=881 cy=385 w=280 n=7/7"
+  },
+  {
+   "start_frame": 5789,
+   "end_frame_excl": 5925,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 330,
+    "y": 0
+   },
+   "basis": "face cx=890 cy=342 w=374 n=11/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_09/subtitles.ass",
+  "sha256": "cee9c1af7217c424915cdd87d75b48b68cf62e36b182f92335a0b557c74a5d25"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_09/render.mp4",
+  "sha256": "8ea513c487762b436b73b58c9d438f2d7273b36a656994bf66584c9b5f4e81b1"
+ }
+}

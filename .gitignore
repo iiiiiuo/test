@@ -10,3 +10,4 @@ work/b/**/*.jpg
 work/b/**/*.wav
 work/b/*.png
 work/b/*.jpg
+output/**/*.mp4

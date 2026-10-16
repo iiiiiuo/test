@@ -5,7 +5,7 @@
  "intervals": [
   {
    "start_frame": 27407,
-   "end_frame_excl": 29371,
+   "end_frame_excl": 28084,
    "shots": [
     {
      "start": 0,
@@ -54,48 +54,78 @@
     },
     {
      "start": 601,
-     "end": 750,
-     "x": 376,
+     "end": 677,
+     "x": 381,
      "y": 0,
      "w": 1119,
      "h": 1080,
-     "how": "face cx=936 cy=330 w=438 n=7/8"
-    },
+     "how": "face cx=940 cy=329 w=410 n=12/12"
+    }
+   ]
+  },
+  {
+   "start_frame": 28133,
+   "end_frame_excl": 28392,
+   "shots": [
     {
-     "start": 750,
-     "end": 1713,
-     "x": 252,
+     "start": 0,
+     "end": 24,
+     "x": 224,
      "y": 0,
      "w": 1119,
      "h": 1080,
-     "how": "face cx=812 cy=380 w=369 n=6/12"
+     "how": "face cx=784 cy=294 w=436 n=3/4"
     },
     {
-     "start": 1713,
-     "end": 1732,
-     "x": 450,
+     "start": 24,
+     "end": 259,
+     "x": 308,
      "y": 0,
      "w": 1119,
      "h": 1080,
-     "how": "face cx=1010 cy=350 w=345 n=2/3"
+     "how": "face cx=867 cy=373 w=372 n=3/10"
+    }
+   ]
+  },
+  {
+   "start_frame": 28465,
+   "end_frame_excl": 29371,
+   "shots": [
+    {
+     "start": 0,
+     "end": 655,
+     "x": 230,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=789 cy=371 w=382 n=4/11"
     },
     {
-     "start": 1732,
-     "end": 1761,
+     "start": 655,
+     "end": 674,
+     "x": 440,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=999 cy=353 w=340 n=2/3"
+    },
+    {
+     "start": 674,
+     "end": 703,
      "x": 366,
      "y": 0,
      "w": 1119,
      "h": 1080,
-     "how": "face cx=925 cy=306 w=400 n=5/5"
+     "how": "face cx=925 cy=305 w=412 n=5/5"
     },
     {
-     "start": 1761,
-     "end": 1964,
-     "x": 332,
-     "y": 104,
+     "start": 703,
+     "end": 906,
+     "x": 328,
+     "y": 101,
      "w": 933,
      "h": 900,
-     "how": "face cx=798 cy=374 w=276 n=6/12"
+     "how": "face cx=795 cy=371 w=268 n=7/11"
     }
    ]
   }

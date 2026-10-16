@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.01,0:00:01.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Taking God out of music, you said?
+Dialogue: 0,0:00:00.01,0:00:01.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}音楽から神を
+Dialogue: 0,0:00:00.01,0:00:01.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}取り除いたって？
+Dialogue: 0,0:00:01.37,0:00:04.41,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. I remember I was
+Dialogue: 0,0:00:01.37,0:00:04.41,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}at Roscoe's, you know,
+Dialogue: 0,0:00:01.37,0:00:04.41,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう　今年の初めに
+Dialogue: 0,0:00:01.37,0:00:04.41,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Roscoe'sに行ったんだけど
+Dialogue: 0,0:00:04.43,0:00:08.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}earlier this year, and I
+Dialogue: 0,0:00:04.43,0:00:08.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}love Roscoe's and stuff,
+Dialogue: 0,0:00:04.43,0:00:08.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Roscoe'sは好きなんだよ
+Dialogue: 0,0:00:08.19,0:00:10.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but they're playing the music,
+Dialogue: 0,0:00:08.19,0:00:10.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも店でかかってた曲が
+Dialogue: 0,0:00:10.46,0:00:12.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and it's like Usher saying,
+Dialogue: 0,0:00:10.46,0:00:12.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}'You got it bad.'
+Dialogue: 0,0:00:10.46,0:00:12.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Usherの
+Dialogue: 0,0:00:10.46,0:00:12.67,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}『You Got It Bad』で
+Dialogue: 0,0:00:12.69,0:00:14.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}'You got it, you got it bad.'
+Dialogue: 0,0:00:12.69,0:00:14.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「お前は重症だ」ってさ
+Dialogue: 0,0:00:14.83,0:00:18.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, that messaging is not uplifting.
+Dialogue: 0,0:00:14.83,0:00:18.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そういうメッセージは
+Dialogue: 0,0:00:14.83,0:00:18.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}前向きじゃないだろ
+Dialogue: 0,0:00:19.71,0:00:20.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Some ni**as got it bad.
+Dialogue: 0,0:00:19.71,0:00:20.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}重症な奴も
+Dialogue: 0,0:00:19.71,0:00:20.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いるけどな
+Dialogue: 0,0:00:20.79,0:00:25.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, yeah. But there's...
+Dialogue: 0,0:00:20.79,0:00:25.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ
+Dialogue: 0,0:00:20.79,0:00:25.11,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもな
+Dialogue: 0,0:00:25.48,0:00:28.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}when we sing... God created music
+Dialogue: 0,0:00:25.48,0:00:28.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}神は神を讃えるためだけに
+Dialogue: 0,0:00:28.33,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}solely for the purpose
+Dialogue: 0,0:00:28.33,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of worshiping God.
+Dialogue: 0,0:00:28.33,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}音楽を作ったんだよ
+Dialogue: 0,0:00:32.89,0:00:35.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Now, if you listen to the
+Dialogue: 0,0:00:32.89,0:00:35.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}majority of the music,
+Dialogue: 0,0:00:32.89,0:00:35.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも今の音楽の大半は
+Dialogue: 0,0:00:35.34,0:00:39.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's not worshiping God. No,
+Dialogue: 0,0:00:35.34,0:00:39.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it's going into the dark holes.
+Dialogue: 0,0:00:35.34,0:00:39.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神を讃えてない
+Dialogue: 0,0:00:35.34,0:00:39.08,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}暗い穴に落ちていってる
+Dialogue: 0,0:00:39.10,0:00:42.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's like, sweat to my...
+Dialogue: 0,0:00:39.10,0:00:42.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}yeah, but it's saying,
+Dialogue: 0,0:00:39.10,0:00:42.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「お前の女とヤりたい」
+Dialogue: 0,0:00:42.54,0:00:45.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to f**k your b**ch,
+Dialogue: 0,0:00:42.54,0:00:45.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I want to f**k your girlfriend,
+Dialogue: 0,0:00:42.54,0:00:45.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「お前の彼女とヤりたい」
+Dialogue: 0,0:00:45.86,0:00:47.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to f**k your mom, like, it's like,
+Dialogue: 0,0:00:45.86,0:00:47.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「お前の母親とヤりたい」
+Dialogue: 0,0:00:47.93,0:00:49.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I want to do drugs
+Dialogue: 0,0:00:47.93,0:00:49.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}while I'm f**king your mom.
+Dialogue: 0,0:00:47.93,0:00:49.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「ヤりながらドラッグやりたい」
+Dialogue: 0,0:00:47.93,0:00:49.50,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}とかさ
+Dialogue: 0,0:00:49.52,0:00:53.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, it's, it just takes
+Dialogue: 0,0:00:49.52,0:00:53.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you into that, that place.
+Dialogue: 0,0:00:49.52,0:00:53.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういう場所に
+Dialogue: 0,0:00:49.52,0:00:53.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}連れていかれるんだよ
+Dialogue: 0,0:00:53.40,0:00:55.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And God has...
+Dialogue: 0,0:00:53.40,0:00:55.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも神は
+Dialogue: 0,0:00:57.19,0:01:01.78,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}God has a place for us in a promised
+Dialogue: 0,0:00:57.19,0:01:01.78,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}land that can't be defined by man.
+Dialogue: 0,0:00:57.19,0:01:01.78,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺らのために　約束の地を用意してる
+Dialogue: 0,0:00:57.19,0:01:01.78,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}人間には定義できない場所だ
+Dialogue: 0,0:01:01.80,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's not the 40 acres that the
+Dialogue: 0,0:01:01.80,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}oppressors can take away.
+Dialogue: 0,0:01:01.80,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}抑圧者が奪える
+Dialogue: 0,0:01:01.80,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}40エーカーとは違う

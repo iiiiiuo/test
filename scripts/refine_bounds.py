@@ -12,8 +12,8 @@ W = {  # clip: [(interval index, 'start'|'end', lo, hi, reason)]
  'Clip_08': [(0, 'start', 1752.15, 1752.35, "previous word 'people' tail"), (0, 'end', 1832.98, 1833.20, "'together' / next 'You know'")],
  'Clip_09': [(0, 'end', 247.10, 247.32, "critic: ended on dangling 'But it's funny,' (next words 'he overlooked that easily' not in approved lines); end after 'got a couple hundred thousand back.'")],
  'Clip_11': [(0, 'end', 970.70, 970.84, "next sentence 'they have' started inside")],
- 'Clip_12': [(0, 'end', 1092.55, 1092.95, "next words 'from us' started inside")],
- 'Clip_13': [(0, 'end', 1474.15, 1474.45, "'that?' was cut")],
+ 'Clip_12': [(0, 'end', 1092.97, 1093.12, "next words 'from us' started inside; critic Clip_12 round 1: 1092.59 cut inside 'away' (energy to 1092.95)")],
+ 'Clip_13': [(0, 'end', 1474.44, 1474.62, "'that?' was cut; critic Clip_13 round 1: end after final 'right?' (1474.43); host laughter follows with no pause")],
  'Clip_14': [(0, 'start', 343.05, 343.30, "previous word 'world' tail")],
  'Clip_16': [(0, 'end', 1884.90, 1885.62, "first word 'Puff' of Clip_17 straddled the shared boundary")],
  'Clip_17': [(0, 'start', 1884.90, 1885.62, 'shared boundary with Clip_16 (same point)'), (0, 'end', 1957.65, 1958.25, "excluded 'and I'll be honest' started inside")],
@@ -62,6 +62,8 @@ for i, a in enumerate(clips):
                 assert not max(x['audio_start_sample_48k'], y['audio_start_sample_48k']) < min(x['audio_end_sample_48k_excl'], y['audio_end_sample_48k_excl']), (a['clip_id'], b['clip_id'], 'audio')
 # internal cuts: remove uncaptioned, low-confidence crosstalk that has no approved translation (CLAUDE.md: cut LOW material where coherent)
 CUTS = {'Clip_04': [(0, (80.95, 81.30), (86.60, 86.82), "LOW lines L015-L017 (speaker/words unclear in all ASR passes; critic: caption is a guess) removed")],
+        'Clip_15': [(0, (1170.90, 1171.50), (1173.00, 1173.42), "host line 'You guys are not getting pussy.' (heard in turbo pass, absent from approved lines, critic Clip_15) removed"),
+                    (1, (1183.80, 1184.90), (1186.76, 1187.30), "'Still on. No, they might not take them off.' (no approved line, critic Clip_15) removed")],
         'Clip_03': [(1, (1824.85, 1825.20), (1825.95, 1826.20), "'Wait a second.' (heard in all passes, absent from the approved line L007, so it has no approved Japanese; critic Clip_03) removed")],
         'Clip_01': [(0, (1234.30, 1234.55), (1236.95, 1237.06), "host aside 'That was all... very good' (LOW, not in approved translation) between Ye's 'hop over...' and 'You know, we'll walk over'")]}
 for c in clips:

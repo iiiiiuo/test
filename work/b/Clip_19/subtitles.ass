@@ -11,14 +11,14 @@ Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.51,0:00:02.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}In a way, they got a guy
-Dialogue: 0,0:00:00.51,0:00:02.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}who had taste, though, bro.
-Dialogue: 0,0:00:00.51,0:00:02.49,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}少なくとも
-Dialogue: 0,0:00:00.51,0:00:02.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}センスのある奴はいたんだよ
-Dialogue: 0,0:00:02.51,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
-Dialogue: 0,0:00:02.51,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Steve Jobs had the best taste.
-Dialogue: 0,0:00:02.51,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スティーブ・ジョブズは
-Dialogue: 0,0:00:02.51,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}最高のセンスを持ってた
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}In a way, they got a guy
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}who had taste, though, bro.
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}少なくとも
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}センスのある奴はいたんだよ
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Steve Jobs had the best taste.
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スティーブ・ジョブズは
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}最高のセンスを持ってた
 Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I've yet to meet a tech guy
 Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with better taste than me.
 Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺よりセンスのある　テック系には
@@ -27,20 +27,20 @@ Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm the ne
 Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Ralph, Steve, and then it's me.
 Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が次のフロンティアだ
 Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Ralph Lauren、ジョブズ
-Dialogue: 0,0:00:12.87,0:00:14.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
-Dialogue: 0,0:00:12.87,0:00:14.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}It's like none of these guys.
-Dialogue: 0,0:00:12.87,0:00:14.31,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その次が俺
-Dialogue: 0,0:00:12.87,0:00:14.31,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}他の連中じゃない
-Dialogue: 0,0:00:14.33,0:00:20.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Even Elon flew me... you know
-Dialogue: 0,0:00:14.33,0:00:20.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what I'm saying? Vory, Wack 100,
-Dialogue: 0,0:00:14.33,0:00:20.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}イーロンですら　俺を呼んだんだぜ
-Dialogue: 0,0:00:14.33,0:00:20.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Vory、Wack 100と
-Dialogue: 0,0:00:20.05,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it was like a team
-Dialogue: 0,0:00:20.05,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that went to SpaceX.
-Dialogue: 0,0:00:20.05,0:00:23.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}チームでSpaceXに行ったんだよ
-Dialogue: 0,0:00:23.62,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He flew me in his new jet out there.
-Dialogue: 0,0:00:23.62,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}新しいジェットで
-Dialogue: 0,0:00:23.62,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}連れてってくれて
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}It's like none of these guys.
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その次が俺
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}他の連中じゃない
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Even Elon flew me... you know
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what I'm saying? Vory, Wack 100,
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}イーロンですら　俺を呼んだんだぜ
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Vory、Wack 100と
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it was like a team
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that went to SpaceX.
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}チームでSpaceXに行ったんだよ
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He flew me in his new jet out there.
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}新しいジェットで
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}連れてってくれて
 Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said, I want you to
 Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}design SpaceX for me.
 Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「SpaceXを
@@ -61,17 +61,16 @@ Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That means
 Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Best EQ on the planet.
 Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}つまりセンスってことだ
 Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}EQ地球一
-Dialogue: 0,0:00:39.37,0:00:40.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a person...
-Dialogue: 0,0:00:39.37,0:00:40.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}IQが地球一だって
-Dialogue: 0,0:00:40.41,0:00:43.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}— Yeah. This is a person
-Dialogue: 0,0:00:40.41,0:00:43.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that a lot of people
-Dialogue: 0,0:00:40.41,0:00:43.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言われてるような人が
+Dialogue: 0,0:00:39.37,0:00:41.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a person... — Yeah.
+Dialogue: 0,0:00:41.62,0:00:43.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a person that a lot of people
 Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}consider to have the
 Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}best IQ on the planet.
-Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のEQは地球一だって
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}IQが地球一だって
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われてるような人が
 Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He says you got the
 Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}best EQ on the planet.
-Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言ったんだよ
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のEQは地球一だって
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言ったんだよ
 Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}The EQ is the connectivity.
 Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}EQってのは
 Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}つながる力なんだよ

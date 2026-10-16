@@ -1,0 +1,85 @@
+{
+ "clip": "Clip_17",
+ "candidate": "C13",
+ "title": "Virgil, Drake and 4D chess",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 45199,
+   "end_frame_excl": 46945,
+   "start_pts": 45244199,
+   "end_pts_excl": 46991945,
+   "start_s": 1885.174958,
+   "end_s": 1957.997708
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 90488398,
+   "end_sample_48k_excl": 93983890,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 45199,
+   "end_frame_excl": 46109,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 280,
+    "y": 0
+   },
+   "basis": "face cx=840 cy=354 w=366 n=6/12"
+  },
+  {
+   "start_frame": 46109,
+   "end_frame_excl": 46230,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 272,
+    "y": 0
+   },
+   "basis": "face cx=831 cy=404 w=324 n=7/10"
+  },
+  {
+   "start_frame": 46230,
+   "end_frame_excl": 46945,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 329,
+    "y": 98
+   },
+   "basis": "face cx=796 cy=368 w=282 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_17/subtitles.ass",
+  "sha256": "9b36249be62eeeb040d25d772f718e8e304fec401729a571bb7b90e70605eb00"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_17/render.mp4",
+  "sha256": "c4d1fbdb4e61ce2342d110f9aaaa2e225bd1f0f2ebff409460352df7e31d1c06"
+ }
+}

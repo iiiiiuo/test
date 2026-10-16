@@ -1,0 +1,228 @@
+{
+ "clip": "Clip_10",
+ "candidate": "C08",
+ "title": "God put me on a timeout",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 18474,
+   "end_frame_excl": 20191,
+   "start_pts": 18492474,
+   "end_pts_excl": 20211191,
+   "start_s": 770.51975,
+   "end_s": 842.132958
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 36984948,
+   "end_sample_48k_excl": 40422382,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 18474,
+   "end_frame_excl": 18479,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 258,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 18479,
+   "end_frame_excl": 18578,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 258,
+    "y": 0
+   },
+   "basis": "face cx=818 cy=388 w=328 n=9/9"
+  },
+  {
+   "start_frame": 18578,
+   "end_frame_excl": 18623,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 270,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 18623,
+   "end_frame_excl": 18871,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 270,
+    "y": 0
+   },
+   "basis": "face cx=830 cy=373 w=346 n=7/11"
+  },
+  {
+   "start_frame": 18871,
+   "end_frame_excl": 18964,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 552,
+    "y": 124
+   },
+   "basis": "face cx=1019 cy=394 w=286 n=3/8"
+  },
+  {
+   "start_frame": 18964,
+   "end_frame_excl": 19007,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 228,
+    "y": 0
+   },
+   "basis": "face cx=788 cy=332 w=318 n=7/7"
+  },
+  {
+   "start_frame": 19007,
+   "end_frame_excl": 19043,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 196,
+    "y": 0
+   },
+   "basis": "face cx=755 cy=306 w=324 n=5/6"
+  },
+  {
+   "start_frame": 19043,
+   "end_frame_excl": 19252,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 424,
+    "y": 0
+   },
+   "basis": "face cx=984 cy=374 w=361 n=6/12"
+  },
+  {
+   "start_frame": 19252,
+   "end_frame_excl": 19331,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 987,
+    "y": 180
+   },
+   "basis": "manual: wide shot, Ye right (face ~x1530,y460 at full res, hand over face so no detection); 1.2x punch on Ye (critic Clip_10 round 1)"
+  },
+  {
+   "start_frame": 19331,
+   "end_frame_excl": 19720,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 515,
+    "y": 0
+   },
+   "basis": "face cx=1074 cy=356 w=353 n=8/11"
+  },
+  {
+   "start_frame": 19720,
+   "end_frame_excl": 19766,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 492,
+    "y": 102
+   },
+   "basis": "face cx=958 cy=372 w=239 n=8/8"
+  },
+  {
+   "start_frame": 19766,
+   "end_frame_excl": 19828,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 540,
+    "y": 0
+   },
+   "basis": "face cx=1100 cy=376 w=330 n=6/10"
+  },
+  {
+   "start_frame": 19828,
+   "end_frame_excl": 19867,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 272,
+    "y": 0
+   },
+   "basis": "face cx=831 cy=358 w=340 n=6/7"
+  },
+  {
+   "start_frame": 19867,
+   "end_frame_excl": 19884,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 284,
+    "y": 0
+   },
+   "basis": "face cx=844 cy=355 w=324 n=2/2"
+  },
+  {
+   "start_frame": 19884,
+   "end_frame_excl": 19997,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 541,
+    "y": 0
+   },
+   "basis": "face cx=1100 cy=346 w=335 n=6/10"
+  },
+  {
+   "start_frame": 19997,
+   "end_frame_excl": 20191,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 366,
+    "y": 0
+   },
+   "basis": "face cx=926 cy=320 w=326 n=10/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_10/subtitles.ass",
+  "sha256": "10f793843c38c6a34c875edbd36f4e3a6f4245e1eabcae2f4861ec8ff9b30573"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_10/render.mp4",
+  "sha256": "6305c6d87669d836770d6151584e7d00a9c2b2af3cc86e4915a12ea6065087d9"
+ }
+}

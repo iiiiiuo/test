@@ -1,0 +1,106 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like Moses had four chapters, like
+Dialogue: 0,0:00:00.00,0:00:04.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I have. Contrary to popular belief,
+Dialogue: 0,0:00:00.00,0:00:04.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}モーゼに4つの章があったように
+Dialogue: 0,0:00:00.00,0:00:04.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺にもある
+Dialogue: 0,0:00:04.73,0:00:07.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I did read the four
+Dialogue: 0,0:00:04.73,0:00:07.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}chapters of Moses, right?
+Dialogue: 0,0:00:04.73,0:00:07.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}意外かもしれないけど
+Dialogue: 0,0:00:04.73,0:00:07.67,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}モーゼの4章は読んだぜ
+Dialogue: 0,0:00:07.69,0:00:08.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You say you ain't read something?
+Dialogue: 0,0:00:07.69,0:00:08.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}何か読んでないって
+Dialogue: 0,0:00:07.69,0:00:08.95,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言ってたよな？
+Dialogue: 0,0:00:08.97,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, what I'm saying, yeah, I've
+Dialogue: 0,0:00:08.97,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}never actually finished a novel.
+Dialogue: 0,0:00:08.97,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう、つまり　小説を最後まで
+Dialogue: 0,0:00:08.97,0:00:12.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}読んだことは一度もない
+Dialogue: 0,0:00:12.25,0:00:14.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right. That's fantastic. I respect that.
+Dialogue: 0,0:00:12.25,0:00:14.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}なるほど　最高じゃん　リスペクトするわ
+Dialogue: 0,0:00:14.63,0:00:16.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, because by the way, you know,
+Dialogue: 0,0:00:14.63,0:00:16.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それにさ
+Dialogue: 0,0:00:16.31,0:00:19.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}one thing is that there's nothing
+Dialogue: 0,0:00:16.31,0:00:19.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}whiter than English itself.
+Dialogue: 0,0:00:16.31,0:00:19.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}英語ほど白人的なものは
+Dialogue: 0,0:00:16.31,0:00:19.51,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ないからな
+Dialogue: 0,0:00:19.53,0:00:25.13,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I do not like to read, like
+Dialogue: 0,0:00:19.53,0:00:25.13,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I do not like to work out,
+Dialogue: 0,0:00:19.53,0:00:25.13,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}読むのは好きじゃない
+Dialogue: 0,0:00:25.15,0:00:27.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like I do not like, you know...
+Dialogue: 0,0:00:25.15,0:00:27.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}筋トレも好きじゃないのと同じで
+Dialogue: 0,0:00:27.13,0:00:33.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}there's certain stuff in life that is
+Dialogue: 0,0:00:27.13,0:00:33.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}currently necessary that I don't like.
+Dialogue: 0,0:00:27.13,0:00:33.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人生には必要だけど
+Dialogue: 0,0:00:27.13,0:00:33.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}好きじゃないことってあるだろ
+Dialogue: 0,0:00:33.40,0:00:38.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That don't make... I'm
+Dialogue: 0,0:00:33.40,0:00:38.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}not disregarding people.
+Dialogue: 0,0:00:33.40,0:00:38.12,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからって
+Dialogue: 0,0:00:33.40,0:00:38.12,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}人を軽く見てるわけじゃない
+Dialogue: 0,0:00:38.14,0:00:39.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Some people are more...
+Dialogue: 0,0:00:38.14,0:00:39.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}得意不得意があるんだよ
+Dialogue: 0,0:00:39.08,0:00:41.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}How many people do
+Dialogue: 0,0:00:39.08,0:00:41.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know that can
+Dialogue: 0,0:00:39.08,0:00:41.24,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}本はよく読めるけど
+Dialogue: 0,0:00:41.26,0:00:43.86,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}read very well that
+Dialogue: 0,0:00:41.26,0:00:43.86,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}can't dance very well?
+Dialogue: 0,0:00:41.26,0:00:43.86,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ダンスはダメな奴って
+Dialogue: 0,0:00:41.26,0:00:43.86,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どれだけいる？
+Dialogue: 0,0:00:43.88,0:00:44.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But see, look
+Dialogue: 0,0:00:43.88,0:00:44.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でもさ
+Dialogue: 0,0:00:44.62,0:00:45.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}talking about articulation
+Dialogue: 0,0:00:44.62,0:00:45.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}言葉の話で言うと
+Dialogue: 0,0:00:45.70,0:00:49.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}could it be said that
+Dialogue: 0,0:00:45.70,0:00:49.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it's misunderstood that
+Dialogue: 0,0:00:45.70,0:00:49.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「読書＝知識」っていうのは
+Dialogue: 0,0:00:49.12,0:00:52.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}reading equals knowledge?
+Dialogue: 0,0:00:49.12,0:00:52.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's another thing.
+Dialogue: 0,0:00:49.12,0:00:52.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}誤解だとも言えるよな
+Dialogue: 0,0:00:52.61,0:00:56.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because you don't have to read
+Dialogue: 0,0:00:52.61,0:00:56.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}books to really have knowledge.
+Dialogue: 0,0:00:52.61,0:00:56.39,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}本を読まなくても
+Dialogue: 0,0:00:52.61,0:00:56.39,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}知識は持てるからな
+Dialogue: 0,0:00:56.41,0:00:57.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's right.
+Dialogue: 0,0:00:56.41,0:00:57.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}その通り
+Dialogue: 0,0:00:57.13,0:01:03.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And if... and the
+Dialogue: 0,0:00:57.13,0:01:03.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}information isn't there...
+Dialogue: 0,0:00:57.13,0:01:03.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それに
+Dialogue: 0,0:00:57.13,0:01:03.25,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}情報がそこにない時
+Dialogue: 0,0:01:03.27,0:01:06.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know where the information,
+Dialogue: 0,0:01:03.27,0:01:06.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the knowledge is from?
+Dialogue: 0,0:01:03.27,0:01:06.49,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}知識がどこから来るか
+Dialogue: 0,0:01:03.27,0:01:06.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるか？
+Dialogue: 0,0:01:06.51,0:01:09.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}The knowledge is
+Dialogue: 0,0:01:06.51,0:01:09.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}from the two fathers.
+Dialogue: 0,0:01:06.51,0:01:09.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}知識は
+Dialogue: 0,0:01:06.51,0:01:09.25,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}二人の父から来るんだ
+Dialogue: 0,0:01:09.27,0:01:10.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Who are the two fathers?
+Dialogue: 0,0:01:09.27,0:01:10.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}二人の父って誰？
+Dialogue: 0,0:01:10.37,0:01:11.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You tell us.
+Dialogue: 0,0:01:10.37,0:01:11.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}教えてくれよ
+Dialogue: 0,0:01:11.87,0:01:13.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Your father and the Father above.
+Dialogue: 0,0:01:11.87,0:01:13.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}自分の父親と
+Dialogue: 0,0:01:13.89,0:01:16.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Your father and the Father above.
+Dialogue: 0,0:01:13.89,0:01:16.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}天にいる父だよ
+Dialogue: 0,0:01:16.93,0:01:20.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Now what, now what has
+Dialogue: 0,0:01:16.93,0:01:20.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}happened to the black community?
+Dialogue: 0,0:01:16.93,0:01:20.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}じゃあ黒人社会に
+Dialogue: 0,0:01:16.93,0:01:20.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何が起きたか？
+Dialogue: 0,0:01:20.23,0:01:21.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They erased the father.
+Dialogue: 0,0:01:20.23,0:01:21.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}父親を消されたんだよ
+Dialogue: 0,0:01:21.75,0:01:23.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So all you have is the Father above,
+Dialogue: 0,0:01:21.75,0:01:23.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だから残ってるのは
+Dialogue: 0,0:01:21.75,0:01:23.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}天の父だけ
+Dialogue: 0,0:01:23.93,0:01:25.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but they've erased that, even that.
+Dialogue: 0,0:01:23.93,0:01:25.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でもそれすら
+Dialogue: 0,0:01:23.93,0:01:25.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}消されてきた

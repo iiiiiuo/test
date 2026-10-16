@@ -88,37 +88,50 @@
   },
   {
    "line_id": "Clip_10_L004",
-   "src_start": 787.68,
-   "src_end": 790.0400000000001,
+   "src_start": 787.86,
+   "src_end": 788.38,
    "en": [
-    "Yeah. He said..."
+    "Yeah."
    ],
-   "en_unmasked": "Yeah. He said...",
+   "en_unmasked": "Yeah.",
    "jp": [
     "ああ"
    ],
-   "start": 17.160249999999905,
-   "end": 20.020250000000033
+   "start": 17.34024999999997,
+   "end": 18.36024999999995
   },
   {
    "line_id": "Clip_10_L004",
-   "src_start": 791.18,
-   "src_end": 793.38,
+   "src_start": 790.88,
+   "src_end": 793.56,
    "en": [
-    "he offered it. He said he offered it.",
+    "He said... he offered it.",
+    "He said he offered it."
+   ],
+   "en_unmasked": "He said... he offered it. He said he offered it.",
+   "jp": [
+    "あいつが…"
+   ],
+   "start": 20.36024999999995,
+   "end": 23.0202499999999
+  },
+  {
+   "line_id": "Clip_10_L004",
+   "src_start": 793.56,
+   "src_end": 795.14,
+   "en": [
     "He said he offered it. He offered it."
    ],
-   "en_unmasked": "he offered it. He said he offered it. He said he offered it. He offered it.",
+   "en_unmasked": "He said he offered it. He offered it.",
    "jp": [
-    "あいつが…",
     "貸すって言ってきたんだよ"
    ],
-   "start": 20.660249999999905,
-   "end": 23.36024999999995
+   "start": 23.0402499999999,
+   "end": 24.780250000000006
   },
   {
    "line_id": "Clip_10_L005",
-   "src_start": 794.46,
+   "src_start": 795.32,
    "src_end": 796.9,
    "en": [
     "But, you know what",
@@ -128,7 +141,7 @@
    "jp": [
     "でも"
    ],
-   "start": 23.940249999999992,
+   "start": 24.800250000000005,
    "end": 26.360249999999933
   },
   {
@@ -195,7 +208,7 @@
   {
    "line_id": "Clip_10_L008",
    "src_start": 808.24,
-   "src_end": 811.08,
+   "src_end": 811.21,
    "en": [
     "Yeah. Because my dad was like,"
    ],
@@ -204,12 +217,12 @@
     "親父に言われたんだよ"
    ],
    "start": 37.720249999999965,
-   "end": 40.54024999999999
+   "end": 40.67024999999999
   },
   {
    "line_id": "Clip_10_L008",
-   "src_start": 811.08,
-   "src_end": 813.86,
+   "src_start": 811.21,
+   "src_end": 814.07,
    "en": [
     "I feel where you coming",
     "from, Ye, I understand,"
@@ -219,8 +232,8 @@
     "「言いたいことはわかる",
     "Ye、理解はできる"
    ],
-   "start": 40.560249999999996,
-   "end": 43.84024999999997
+   "start": 40.69024999999999,
+   "end": 44.050250000000005
   },
   {
    "line_id": "Clip_10_L009",
@@ -328,44 +341,44 @@
   {
    "line_id": "Clip_10_L014",
    "src_start": 833.52,
-   "src_end": 835.76,
-   "en": [
-    "Because I know for a fact,"
-   ],
-   "en_unmasked": "Because I know for a fact,",
-   "jp": [
-    "ユダヤ人を怒らせて"
-   ],
-   "start": 63.00024999999994,
-   "end": 65.74024999999995
-  },
-  {
-   "line_id": "Clip_10_L014",
-   "src_start": 837.4300000000001,
    "src_end": 838.5,
    "en": [
-    "um, you know,"
+    "Because I know for a",
+    "fact, um, you know,"
    ],
-   "en_unmasked": "um, you know,",
-   "jp": [
-    "黒人も怒らせたって"
-   ],
-   "start": 66.91025000000002,
+   "en_unmasked": "Because I know for a fact, um, you know,",
+   "jp": [],
+   "start": 63.00024999999994,
    "end": 68.48024999999996
   },
   {
    "line_id": "Clip_10_L014",
    "src_start": 839.3599999999998,
+   "src_end": 841.48,
+   "en": [
+    "pissing off Jewish people",
+    "and pissing off black people,"
+   ],
+   "en_unmasked": "pissing off Jewish people and pissing off black people,",
+   "jp": [
+    "ユダヤ人を怒らせて",
+    "黒人も怒らせたって"
+   ],
+   "start": 68.84024999999974,
+   "end": 70.94024999999998
+  },
+  {
+   "line_id": "Clip_10_L014",
+   "src_start": 841.48,
    "src_end": 842.0,
    "en": [
-    "pissing off Jewish people and",
-    "pissing off black people, I know that."
+    "I know that."
    ],
-   "en_unmasked": "pissing off Jewish people and pissing off black people, I know that.",
+   "en_unmasked": "I know that.",
    "jp": [
     "それはちゃんとわかってる"
    ],
-   "start": 68.84024999999974,
+   "start": 70.96024999999997,
    "end": 71.59320833333332
   }
  ]

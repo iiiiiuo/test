@@ -88,15 +88,15 @@
    "crop": {
     "w": 1119,
     "h": 1080,
-    "x": 610,
+    "x": 420,
     "y": 0
    },
-   "basis": "face cx=1170 cy=304 w=366 n=3/10"
+   "basis": "manual: Ye leans/laughs, head x~600-1080 at full res across the shot (3/10 detections gave cx=1170); crop centred on him (critic Clip_02 round 2)"
   }
  ],
  "subtitles": {
   "ass": "/home/user/test/work/b/Clip_02/subtitles.ass",
-  "sha256": "4c9b0f319042d30392238b16ecc03821766a9542ec5ffd953b17b98e2611270a"
+  "sha256": "dfb1e9bd5aa9a22ddd28d3f88d1c7784229b9cf90667d1bd11cee52887a8079b"
  },
  "translation": {
   "approved_csv": "review/approved/translations_approved_rev3.csv",
@@ -104,6 +104,6 @@
  },
  "render": {
   "path": "/home/user/test/work/b/Clip_02/render.mp4",
-  "sha256": "0e6581c0a33233dac70c5dc3dc6189286bed6310533c5b4ac6560437f1ca202b"
+  "sha256": "19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af"
  }
 }

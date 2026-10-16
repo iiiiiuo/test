@@ -1,0 +1,85 @@
+{
+ "clip": "Clip_14",
+ "candidate": "C11",
+ "title": "Drake wrote that verse for me",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 8230,
+   "end_frame_excl": 9711,
+   "start_pts": 8238230,
+   "end_pts_excl": 9720711,
+   "start_s": 343.259583,
+   "end_s": 405.029625
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 16476460,
+   "end_sample_48k_excl": 19441422,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 8230,
+   "end_frame_excl": 9019,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 350,
+    "y": 0
+   },
+   "basis": "face cx=909 cy=266 w=319 n=10/11"
+  },
+  {
+   "start_frame": 9019,
+   "end_frame_excl": 9057,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 292,
+    "y": 0
+   },
+   "basis": "face cx=852 cy=380 w=320 n=5/6"
+  },
+  {
+   "start_frame": 9057,
+   "end_frame_excl": 9711,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 324,
+    "y": 0
+   },
+   "basis": "face cx=884 cy=251 w=312 n=7/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_14/subtitles.ass",
+  "sha256": "6f047f76f5d0d53a422b639872a9f57416d3bb7dc1d1d92621d8f8757691c5f1"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_14/render.mp4",
+  "sha256": "4acd372b4212c164e852c969d50ea40adaf778b4be380961fdc4a0c51f900520"
+ }
+}

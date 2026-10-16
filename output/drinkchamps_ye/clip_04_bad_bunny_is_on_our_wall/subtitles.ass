@@ -1,0 +1,114 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:03.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Okay, you know, like right now,
+Dialogue: 0,0:00:00.20,0:00:03.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when me, James Blake,
+Dialogue: 0,0:00:00.20,0:00:03.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}例えば今、俺と
+Dialogue: 0,0:00:00.20,0:00:03.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}James Blake、Arca、No I.D.で
+Dialogue: 0,0:00:03.12,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Arca and No I.D. in the
+Dialogue: 0,0:00:03.12,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}studio working on our album,
+Dialogue: 0,0:00:03.12,0:00:06.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スタジオでアルバム作ってる時
+Dialogue: 0,0:00:06.50,0:00:07.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}who do you think we'd be bringing
+Dialogue: 0,0:00:06.50,0:00:07.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}曲の話で誰の名前が
+Dialogue: 0,0:00:07.61,0:00:09.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}up when we're talking about songs?
+Dialogue: 0,0:00:07.61,0:00:09.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}出てくると思う？
+Dialogue: 0,0:00:09.61,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Stadium artists. Who do
+Dialogue: 0,0:00:09.61,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you think we bring up?
+Dialogue: 0,0:00:09.61,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スタジアム級のアーティストだよ
+Dialogue: 0,0:00:09.61,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}誰だと思う？
+Dialogue: 0,0:00:12.13,0:00:14.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And we ain't got no
+Dialogue: 0,0:00:12.13,0:00:14.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}problem, we don't beef.
+Dialogue: 0,0:00:12.13,0:00:14.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}別に揉めてるわけじゃないぜ
+Dialogue: 0,0:00:12.13,0:00:14.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ビーフはない
+Dialogue: 0,0:00:14.12,0:00:15.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No problem. It's just like,
+Dialogue: 0,0:00:14.12,0:00:15.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}yo, we competing.
+Dialogue: 0,0:00:14.12,0:00:15.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}問題なし
+Dialogue: 0,0:00:14.12,0:00:15.84,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ただ競い合ってるってこと
+Dialogue: 0,0:00:15.86,0:00:17.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Not Drake. Who do
+Dialogue: 0,0:00:15.86,0:00:17.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you think we bring?
+Dialogue: 0,0:00:15.86,0:00:17.24,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drakeじゃない
+Dialogue: 0,0:00:15.86,0:00:17.24,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}誰だと思う？
+Dialogue: 0,0:00:17.26,0:00:20.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Anybody else got
+Dialogue: 0,0:00:17.26,0:00:20.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}another Travis Stadium?
+Dialogue: 0,0:00:17.26,0:00:20.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Travis以外で
+Dialogue: 0,0:00:17.26,0:00:20.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}スタジアム埋める奴は？
+Dialogue: 0,0:00:21.37,0:00:22.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Think down here.
+Dialogue: 0,0:00:21.37,0:00:22.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}このへんで考えてみろ
+Dialogue: 0,0:00:24.20,0:00:26.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Kodak Black? No, no.
+Dialogue: 0,0:00:24.20,0:00:26.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Kodak Black？
+Dialogue: 0,0:00:24.20,0:00:26.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}いや、違う
+Dialogue: 0,0:00:28.43,0:00:29.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Stadium.
+Dialogue: 0,0:00:28.43,0:00:29.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}スタジアム
+Dialogue: 0,0:00:30.73,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Bad Bunny. That's who's on our wall.
+Dialogue: 0,0:00:30.73,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Bad Bunnyだよ
+Dialogue: 0,0:00:30.73,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつが俺らの壁に貼ってある
+Dialogue: 0,0:00:34.29,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's who's on our wall
+Dialogue: 0,0:00:34.29,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when we make music.
+Dialogue: 0,0:00:34.29,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}曲作ってる時に
+Dialogue: 0,0:00:34.29,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}壁に映してんのはあいつ
+Dialogue: 0,0:00:36.16,0:00:37.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We loading up concert footage.
+Dialogue: 0,0:00:36.16,0:00:37.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ライブ映像を流してんだよ
+Dialogue: 0,0:00:37.99,0:00:40.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Are you talking about
+Dialogue: 0,0:00:37.99,0:00:40.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the aesthetics of
+Dialogue: 0,0:00:37.99,0:00:40.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スタジアムの見せ方とか
+Dialogue: 0,0:00:40.27,0:00:41.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the stadium and
+Dialogue: 0,0:00:40.27,0:00:41.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what it's looking for?
+Dialogue: 0,0:00:40.27,0:00:41.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}雰囲気の話？
+Dialogue: 0,0:00:41.85,0:00:43.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, not just the aesthetics.
+Dialogue: 0,0:00:41.85,0:00:43.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}And in retrospect,
+Dialogue: 0,0:00:41.85,0:00:43.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}見た目だけじゃない
+Dialogue: 0,0:00:41.85,0:00:43.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それに、振り返ってみれば
+Dialogue: 0,0:00:44.49,0:00:46.22,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If it wasn't for me,
+Dialogue: 0,0:00:44.49,0:00:46.22,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺がいなかったら
+Dialogue: 0,0:00:46.24,0:00:48.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}there might not be no Bad Bunny.
+Dialogue: 0,0:00:46.24,0:00:48.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Bad Bunnyはいなかったかもな
+Dialogue: 0,0:00:48.23,0:00:50.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I brought reggaeton to America.
+Dialogue: 0,0:00:48.23,0:00:50.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Americaにレゲトンを
+Dialogue: 0,0:00:48.23,0:00:50.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}持ち込んだのは俺だから
+Dialogue: 0,0:00:50.03,0:00:50.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm sorry.
+Dialogue: 0,0:00:50.03,0:00:50.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}悪いね
+Dialogue: 0,0:00:50.47,0:00:52.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So the thing is, it depends
+Dialogue: 0,0:00:50.47,0:00:52.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}on what we're doing.
+Dialogue: 0,0:00:50.47,0:00:52.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}要するに
+Dialogue: 0,0:00:50.47,0:00:52.91,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何をやるかによるんだよ
+Dialogue: 0,0:00:52.93,0:00:54.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:52.93,0:00:54.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}We're going to do clothes,
+Dialogue: 0,0:00:52.93,0:00:54.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}服をやるなら
+Dialogue: 0,0:00:54.31,0:00:56.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we're going to look at Supreme,
+Dialogue: 0,0:00:54.31,0:00:56.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Supremeを見る
+Dialogue: 0,0:00:56.23,0:00:57.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we're going to look at Balenciaga,
+Dialogue: 0,0:00:56.23,0:00:57.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Balenciagaを見る
+Dialogue: 0,0:00:57.75,0:01:00.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we're going to look at Ralph,
+Dialogue: 0,0:00:57.75,0:01:00.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we're going to look at these raps,
+Dialogue: 0,0:00:57.75,0:01:00.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Ralph Laurenを見る
+Dialogue: 0,0:00:57.75,0:01:00.37,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ラップも見る
+Dialogue: 0,0:01:01.05,0:01:03.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, we're going to look at
+Dialogue: 0,0:01:01.05,0:01:03.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Drake, you know what I'm saying,
+Dialogue: 0,0:01:01.05,0:01:03.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drakeも見るし
+Dialogue: 0,0:01:01.05,0:01:03.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}スタジアムも見るし
+Dialogue: 0,0:01:03.79,0:01:06.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we're looking at stadiums,
+Dialogue: 0,0:01:03.79,0:01:06.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we're going to look at Bad Bunny,
+Dialogue: 0,0:01:03.79,0:01:06.89,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Bad Bunnyも見る
+Dialogue: 0,0:01:06.91,0:01:08.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we got to look at everything,
+Dialogue: 0,0:01:06.91,0:01:08.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that's what we have.
+Dialogue: 0,0:01:06.91,0:01:08.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}全部を見なきゃいけない
+Dialogue: 0,0:01:06.91,0:01:08.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それが俺らのやり方
+Dialogue: 0,0:01:08.55,0:01:11.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We're gonna look at money.
+Dialogue: 0,0:01:08.55,0:01:11.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}We're gonna look at Elon.
+Dialogue: 0,0:01:08.55,0:01:11.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}金も見るし
+Dialogue: 0,0:01:08.55,0:01:11.63,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}イーロンも見る
+Dialogue: 0,0:01:11.65,0:01:13.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, so we're
+Dialogue: 0,0:01:11.65,0:01:13.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}gonna look at the Saudis.
+Dialogue: 0,0:01:11.65,0:01:13.95,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Saudiも見る
+Dialogue: 0,0:01:13.97,0:01:15.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's how I look at everything.
+Dialogue: 0,0:01:13.97,0:01:15.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺は何でもそうやって見てる

@@ -1,0 +1,107 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.59,0:00:02.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Puff is my idol, bro.
+Dialogue: 0,0:00:00.59,0:00:02.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Puff Daddyは俺のアイドルなんだよ
+Dialogue: 0,0:00:02.23,0:00:04.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, that's why I said, I was like, yo,
+Dialogue: 0,0:00:02.23,0:00:04.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だから言ったんだよ
+Dialogue: 0,0:00:04.78,0:00:09.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I know how Virgil feels now, on
+Dialogue: 0,0:00:04.78,0:00:09.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the times that I scream at Virgil,
+Dialogue: 0,0:00:04.78,0:00:09.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今ならVirgilの気持ちがわかるって
+Dialogue: 0,0:00:04.78,0:00:09.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺がVirgilを怒鳴った時
+Dialogue: 0,0:00:09.19,0:00:11.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}especially if I scream at
+Dialogue: 0,0:00:09.19,0:00:11.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Virgil in front of somebody.
+Dialogue: 0,0:00:09.19,0:00:11.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}特に人前で怒鳴った時のな
+Dialogue: 0,0:00:11.93,0:00:12.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:11.93,0:00:12.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかるだろ？
+Dialogue: 0,0:00:12.93,0:00:15.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Well, for Puff to call me
+Dialogue: 0,0:00:12.93,0:00:15.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and say anybody with
+Dialogue: 0,0:00:12.93,0:00:15.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Puff Daddyが電話してきて
+Dialogue: 0,0:00:12.93,0:00:15.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「White Lives MatterのTシャツ
+Dialogue: 0,0:00:15.79,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}a White Lives Matter
+Dialogue: 0,0:00:15.79,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}t-shirt is getting greenlit,
+Dialogue: 0,0:00:15.79,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}着てる奴は誰でも狙われる」って
+Dialogue: 0,0:00:15.79,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われた時
+Dialogue: 0,0:00:18.98,0:00:21.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I know how Virgil felt at that moment,
+Dialogue: 0,0:00:18.98,0:00:21.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あの時のVirgilの気持ちがわかった
+Dialogue: 0,0:00:21.26,0:00:23.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}if I ever said something
+Dialogue: 0,0:00:21.26,0:00:23.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}where his idol
+Dialogue: 0,0:00:21.26,0:00:23.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}憧れの人に
+Dialogue: 0,0:00:23.68,0:00:25.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}said something that hurt his feelings.
+Dialogue: 0,0:00:23.68,0:00:25.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}傷つくことを言われた気持ちがな
+Dialogue: 0,0:00:26.03,0:00:31.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And, you know, and that's why
+Dialogue: 0,0:00:26.03,0:00:31.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Virgil took the watch to Drake.
+Dialogue: 0,0:00:26.03,0:00:31.07,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからVirgilは
+Dialogue: 0,0:00:26.03,0:00:31.07,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Drakeに時計を作ったんだよ
+Dialogue: 0,0:00:31.09,0:00:33.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying? He
+Dialogue: 0,0:00:31.09,0:00:33.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}knew that would hurt my feelings.
+Dialogue: 0,0:00:31.09,0:00:33.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が傷つくって
+Dialogue: 0,0:00:31.09,0:00:33.20,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかっててな
+Dialogue: 0,0:00:33.22,0:00:36.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, we hurt each other's
+Dialogue: 0,0:00:33.22,0:00:36.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}feelings, and we don't mean to,
+Dialogue: 0,0:00:33.22,0:00:36.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺らはお互い傷つけ合ってた
+Dialogue: 0,0:00:33.22,0:00:36.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そんなつもりはなくても
+Dialogue: 0,0:00:36.34,0:00:37.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but part of the reason
+Dialogue: 0,0:00:36.34,0:00:37.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}why we hurt each other...
+Dialogue: 0,0:00:36.34,0:00:37.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもそうなる理由は…
+Dialogue: 0,0:00:37.79,0:00:38.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to address that.
+Dialogue: 0,0:00:37.79,0:00:38.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そこ確認したいんだけど
+Dialogue: 0,0:00:38.63,0:00:40.64,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You said Virgil took
+Dialogue: 0,0:00:38.63,0:00:40.64,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the watch from Drake,
+Dialogue: 0,0:00:38.63,0:00:40.64,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}VirgilがDrakeから
+Dialogue: 0,0:00:38.63,0:00:40.64,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}時計を取ったって言った？
+Dialogue: 0,0:00:40.66,0:00:42.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because Virgil actually
+Dialogue: 0,0:00:40.66,0:00:42.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}designed a Patek.
+Dialogue: 0,0:00:40.66,0:00:42.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}実際はVirgilが
+Dialogue: 0,0:00:40.66,0:00:42.91,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Patekをデザインしたんだよな
+Dialogue: 0,0:00:42.93,0:00:45.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Oh, well, Virgil, I'm sorry.
+Dialogue: 0,0:00:42.93,0:00:45.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Virgil took the watch,
+Dialogue: 0,0:00:42.93,0:00:45.15,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ああ、悪い
+Dialogue: 0,0:00:42.93,0:00:45.15,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Virgilが時計を
+Dialogue: 0,0:00:45.17,0:00:46.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}sent the watch to Drake
+Dialogue: 0,0:00:45.17,0:00:46.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and all that type of stuff,
+Dialogue: 0,0:00:45.17,0:00:46.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drakeに送ったとか
+Dialogue: 0,0:00:45.17,0:00:46.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そういうことだよ
+Dialogue: 0,0:00:47.01,0:00:51.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because he knew that, like, you
+Dialogue: 0,0:00:47.01,0:00:51.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know, that would hurt my feelings.
+Dialogue: 0,0:00:47.01,0:00:51.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が傷つくって
+Dialogue: 0,0:00:47.01,0:00:51.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかっててな
+Dialogue: 0,0:00:51.36,0:00:52.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I work with Balenciaga because I
+Dialogue: 0,0:00:51.36,0:00:52.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺がBalenciagaと組んだのも
+Dialogue: 0,0:00:52.81,0:00:54.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}knew it would hurt Drake's feelings.
+Dialogue: 0,0:00:52.81,0:00:54.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Drakeが傷つくって
+Dialogue: 0,0:00:52.81,0:00:54.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}わかってたからだよ
+Dialogue: 0,0:00:54.21,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So we're operating,
+Dialogue: 0,0:00:54.21,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like I said, it's 4D chess.
+Dialogue: 0,0:00:54.21,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺らは　言ってみれば
+Dialogue: 0,0:00:54.21,0:00:56.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}4次元チェスをやってたんだ
+Dialogue: 0,0:00:56.63,0:00:58.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You guys are playing
+Dialogue: 0,0:00:56.63,0:00:58.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}crazy games, bro.
+Dialogue: 0,0:00:56.63,0:00:58.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お前らヤバいゲームしてんな
+Dialogue: 0,0:00:58.77,0:01:01.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, you know what I'm
+Dialogue: 0,0:00:58.77,0:01:01.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}saying? This is like real war.
+Dialogue: 0,0:00:58.77,0:01:01.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう
+Dialogue: 0,0:00:58.77,0:01:01.50,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}マジの戦争なんだよ
+Dialogue: 0,0:01:01.52,0:01:04.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is psychological. Like,
+Dialogue: 0,0:01:01.52,0:01:04.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Virgil was a psychological warrior.
+Dialogue: 0,0:01:01.52,0:01:04.97,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}心理戦だよ　Virgilは　心理戦の戦士だった
+Dialogue: 0,0:01:05.57,0:01:07.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He was a warrior, bro.
+Dialogue: 0,0:01:05.57,0:01:07.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}戦士だったんだよ
+Dialogue: 0,0:01:07.79,0:01:09.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That man made it from being Ye's
+Dialogue: 0,0:01:07.79,0:01:09.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Yeのアシスタントから
+Dialogue: 0,0:01:09.48,0:01:11.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}assistant to the head
+Dialogue: 0,0:01:09.48,0:01:11.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of Louis Vuitton.
+Dialogue: 0,0:01:09.48,0:01:11.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Louis Vuittonのトップまで
+Dialogue: 0,0:01:09.48,0:01:11.67,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}上り詰めたんだぜ
+Dialogue: 0,0:01:11.69,0:01:12.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That man's a warrior.
+Dialogue: 0,0:01:11.69,0:01:12.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつは戦士だよ

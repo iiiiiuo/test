@@ -162,10 +162,12 @@ def jp_lines(segs_):
 
 def time_tokens(tokens, t0, t1):
     """Assign onset times to display tokens by aligning to ASR words in [t0,t1]."""
-    ws = [w for w in W if t0 - 0.3 <= w['s'] <= t1 + 0.1]
-    if len(ws) < max(2, len(tokens) // 3):
-        ws = [w for w in turbo if t0 - 0.3 <= w['s'] <= t1 + 0.1]
-    a = [norm(t) for t in tokens]; b = [norm(w['w']) for w in ws]
+    a = [norm(t) for t in tokens]
+    # primary ASR pass = the one whose words match more of the line (large-v3 by default; turbo when it hears more)
+    nm = lambda L: sum(bl.size for bl in difflib.SequenceMatcher(None, a, [norm(w['w']) for w in L], autojunk=False).get_matching_blocks())
+    wl = [w for w in W if t0 - 0.3 <= w['s'] <= t1 + 0.1]; wt = [w for w in turbo if t0 - 0.3 <= w['s'] <= t1 + 0.1]
+    ws = wt if nm(wt) > nm(wl) + 1 else wl
+    b = [norm(w['w']) for w in ws]
     times = [None] * len(tokens); ends = [None] * len(tokens)
     for blk in difflib.SequenceMatcher(None, a, b, autojunk=False).get_matching_blocks():
         for k in range(blk.size):
@@ -242,12 +244,15 @@ def best_split(n_tokens, widths, k, forced, soft):
 
 # English transcript corrections found in Phase B QA (display English only; approved Japanese unchanged)
 _ovp = f'{ROOT}/work/b/en_overrides.json'
-EN_OVR = {k: v['en'] for k, v in json.load(open(_ovp)).items()} if os.path.exists(_ovp) else {}
+EN_OVR = {k: v['en'] for k, v in json.load(open(_ovp)).items() if 'en' in v} if os.path.exists(_ovp) else {}
+OVR = json.load(open(_ovp)) if os.path.exists(_ovp) else {}
+CHUNKS = {k: v['chunks'] for k, v in json.load(open(_ovp)).items() if 'chunks' in v} if os.path.exists(_ovp) else {}
 JA_KEEP = {k: v['ja_keep_segments'] for k, v in json.load(open(_ovp)).items() if 'ja_keep_segments' in v} if os.path.exists(_ovp) else {}
 captions = []
 dropped = []
 for r in rows:
     l = lines[r['line_id']]
+    if 'src_end' in OVR.get(r['line_id'], {}): l = dict(l, end=OVR[r['line_id']]['src_end'])   # line window extended to cover added display words
     ov = sum(max(0, min(l['end'], b) - max(l['start'], a)) for a, b, _ in segs)
     if ov < 0.3 * max(0.01, l['end'] - l['start']):
         dropped.append(r['line_id']); continue   # line removed by an editorial cut (outside all used intervals)
@@ -275,33 +280,43 @@ for r in rows:
     widths = [wen(t + ' ') for t in tokens]
     global TOK; TOK = tokens
     jw = [wjp(s) for s in ja]
-    k = max(len(parts), math.ceil(sum(widths) / (MAXW * 1.75)), 1)
-    while True:
-        cuts = best_split(len(tokens), widths, k, forced, soft)
-        if cuts is None: k += 1; continue
-        # distribute JP segments monotonically by matching cumulative fractions
-        enfr = [(pre := sum(widths[:e])) / sum(widths) for s, e in cuts]
-        m = len(ja); groups = [[] for _ in cuts]
-        cum = 0
-        for i, s in enumerate(ja):
-            mid = (cum + jw[i] / 2) / sum(jw); cum += jw[i]
-            gi = next(j for j, f in enumerate(enfr) if mid <= f + 1e-9)
-            groups[gi].append(s)
-        # ensure no empty JP group when enough segments: borrow from neighbours
-        for gi in range(len(groups)):
-            if not groups[gi]:
-                if gi > 0 and len(groups[gi - 1]) > 1: groups[gi].insert(0, groups[gi - 1].pop())
-                elif gi + 1 < len(groups) and len(groups[gi + 1]) > 1: groups[gi].append(groups[gi + 1].pop(0))
-        ok = True
-        for (s, e), g in zip(cuts, groups):
-            if len(wrap_en(tokens[s:e])) > 2 or len(jp_lines(g)) > 2: ok = False
-        if ok or k >= len(tokens): break
-        k += 1
-    # inherit JP for empty groups (JP phrase spans two EN chunks)
-    for gi in range(len(groups)):
-        if not groups[gi] and gi > 0: groups[gi] = list(groups[gi - 1])
-    for gi in range(len(groups) - 1, -1, -1):
-        if not groups[gi] and gi + 1 < len(groups): groups[gi] = list(groups[gi + 1])
+    if r['line_id'] in CHUNKS:
+        # hand-checked EN chunking with the approved JP segments placed on the chunk where they are spoken
+        # (critics 10/15/18/19/20: width-based JP distribution put JP on the wrong moment); [] = EN-only interjection
+        spec = CHUNKS[r['line_id']]; assert sum(n for n, _ in spec) == len(tokens), (r['line_id'], tokens)
+        cuts, s0 = [], 0
+        for n, _ in spec: cuts.append((s0, s0 + n)); s0 += n
+        groups = [[ja[i] for i in idx] for _, idx in spec]
+        for (s_, e_), g_ in zip(cuts, groups):
+            assert len(wrap_en(tokens[s_:e_])) <= 2 and len(jp_lines(g_)) <= 2, (r['line_id'], tokens[s_:e_], g_)
+    else:
+     k = max(len(parts), math.ceil(sum(widths) / (MAXW * 1.75)), 1)
+     while True:
+         cuts = best_split(len(tokens), widths, k, forced, soft)
+         if cuts is None: k += 1; continue
+         # distribute JP segments monotonically by matching cumulative fractions
+         enfr = [(pre := sum(widths[:e])) / sum(widths) for s, e in cuts]
+         m = len(ja); groups = [[] for _ in cuts]
+         cum = 0
+         for i, s in enumerate(ja):
+             mid = (cum + jw[i] / 2) / sum(jw); cum += jw[i]
+             gi = next(j for j, f in enumerate(enfr) if mid <= f + 1e-9)
+             groups[gi].append(s)
+         # ensure no empty JP group when enough segments: borrow from neighbours
+         for gi in range(len(groups)):
+             if not groups[gi]:
+                 if gi > 0 and len(groups[gi - 1]) > 1: groups[gi].insert(0, groups[gi - 1].pop())
+                 elif gi + 1 < len(groups) and len(groups[gi + 1]) > 1: groups[gi].append(groups[gi + 1].pop(0))
+         ok = True
+         for (s, e), g in zip(cuts, groups):
+             if len(wrap_en(tokens[s:e])) > 2 or len(jp_lines(g)) > 2: ok = False
+         if ok or k >= len(tokens): break
+         k += 1
+     # inherit JP for empty groups (JP phrase spans two EN chunks)
+     for gi in range(len(groups)):
+         if not groups[gi] and gi > 0: groups[gi] = list(groups[gi - 1])
+     for gi in range(len(groups) - 1, -1, -1):
+         if not groups[gi] and gi + 1 < len(groups): groups[gi] = list(groups[gi + 1])
     for ci, ((s, e), g) in enumerate(zip(cuts, groups)):
         st = times[s]   # first-token onsets are energy-checked in time_tokens (critic Clip_05: line start was 2.5 s early)
         en_ = times[cuts[ci + 1][0]] if ci + 1 < len(cuts) else tend

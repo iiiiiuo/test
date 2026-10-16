@@ -1,0 +1,217 @@
+{
+ "clip": "Clip_11",
+ "candidate": "C09",
+ "title": "Never finished a novel",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 21216,
+   "end_frame_excl": 23276,
+   "start_pts": 21237216,
+   "end_pts_excl": 23299276,
+   "start_s": 884.884,
+   "end_s": 970.803167
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 42474432,
+   "end_sample_48k_excl": 46598552,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 21216,
+   "end_frame_excl": 21400,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 282,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 21400,
+   "end_frame_excl": 21442,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 282,
+    "y": 0
+   },
+   "basis": "face cx=842 cy=383 w=318 n=6/7"
+  },
+  {
+   "start_frame": 21442,
+   "end_frame_excl": 21517,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 450,
+    "y": 0
+   },
+   "basis": "face cx=1010 cy=338 w=322 n=7/7"
+  },
+  {
+   "start_frame": 21517,
+   "end_frame_excl": 21561,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 476,
+    "y": 135
+   },
+   "basis": "face cx=943 cy=405 w=248 n=5/7"
+  },
+  {
+   "start_frame": 21561,
+   "end_frame_excl": 22255,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 362,
+    "y": 0
+   },
+   "basis": "face cx=922 cy=366 w=324 n=9/12"
+  },
+  {
+   "start_frame": 22255,
+   "end_frame_excl": 22441,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 272,
+    "y": 0
+   },
+   "basis": "face cx=831 cy=357 w=386 n=11/11"
+  },
+  {
+   "start_frame": 22441,
+   "end_frame_excl": 22495,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 502,
+    "y": 0
+   },
+   "basis": "face cx=1061 cy=371 w=322 n=9/9"
+  },
+  {
+   "start_frame": 22495,
+   "end_frame_excl": 22600,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 276,
+    "y": 0
+   },
+   "basis": "face cx=835 cy=350 w=402 n=9/9"
+  },
+  {
+   "start_frame": 22600,
+   "end_frame_excl": 22917,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 578,
+    "y": 86
+   },
+   "basis": "face cx=1044 cy=356 w=298 n=9/11"
+  },
+  {
+   "start_frame": 22917,
+   "end_frame_excl": 22981,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 350,
+    "y": 0
+   },
+   "basis": "face cx=909 cy=383 w=318 n=9/11"
+  },
+  {
+   "start_frame": 22981,
+   "end_frame_excl": 23037,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 644,
+    "y": 0
+   },
+   "basis": "face cx=1203 cy=330 w=310 n=5/9"
+  },
+  {
+   "start_frame": 23037,
+   "end_frame_excl": 23080,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 334,
+    "y": 0
+   },
+   "basis": "face cx=894 cy=368 w=366 n=7/7"
+  },
+  {
+   "start_frame": 23080,
+   "end_frame_excl": 23149,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 548,
+    "y": 0
+   },
+   "basis": "face cx=1107 cy=338 w=344 n=11/12"
+  },
+  {
+   "start_frame": 23149,
+   "end_frame_excl": 23236,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 366,
+    "y": 0
+   },
+   "basis": "face cx=925 cy=355 w=350 n=3/7"
+  },
+  {
+   "start_frame": 23236,
+   "end_frame_excl": 23276,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 550,
+    "y": 0
+   },
+   "basis": "face cx=1109 cy=326 w=336 n=7/7"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_11/subtitles.ass",
+  "sha256": "0b4e3220423d68233691c24b967c5102044bbb1eea0bc4598b705c9af1243829"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_11/render.mp4",
+  "sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80"
+ }
+}

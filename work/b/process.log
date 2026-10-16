@@ -114,3 +114,21 @@ Clip_20 format True vdur 74.5745 adur 74.574 sync 0.857 0.925 {'n': 24, 'median'
 Clip_21 rendered 946317144c9a
 Clip_21 format True vdur 68.31825 adur 68.318 sync 0.887 0.946 {'n': 21, 'median': -0.238, 'max_abs': 0.568} unmasked 0
 BATCHDONE
+changed: Clip_02 Clip_10 Clip_12 Clip_13 Clip_15 Clip_18 Clip_19 Clip_20
+Clip_02 rendered 19723d69e7ae
+Clip_02 format True vdur 74.115708 adur 74.116 sync 0.949 0.979 {'n': 21, 'median': 0.094, 'max_abs': 1.816} unmasked 0
+Clip_10 rendered 6305c6d87669
+Clip_10 format True vdur 71.613208 adur 71.613 sync 0.955 0.988 {'n': 25, 'median': 0.09, 'max_abs': 0.78} unmasked 0
+Clip_12 rendered 41c7ee2d3e29
+Clip_12 format True vdur 65.523791 adur 65.524 sync 0.938 0.97 {'n': 20, 'median': 0.066, 'max_abs': 1.374} unmasked 0
+Clip_13 rendered 57aa32038246
+Clip_13 format True vdur 78.995583 adur 78.995 sync 0.954 0.98 {'n': 28, 'median': 0.077, 'max_abs': 0.727} unmasked 0
+Clip_15 rendered 7f53fe2205ca
+Clip_15 format True vdur 76.82675 adur 76.827 sync 0.932 0.986 {'n': 28, 'median': 0.1, 'max_abs': 0.63} unmasked 0
+Clip_18 rendered 2b1c2860cfa0
+Clip_18 format True vdur 72.32225 adur 72.322 sync 0.964 0.975 {'n': 28, 'median': 0.022, 'max_abs': 1.128} unmasked 0
+Clip_19 rendered 767cd9f9d57a
+Clip_19 format True vdur 75.992583 adur 75.992 sync 0.931 0.965 {'n': 26, 'median': 0.025, 'max_abs': 0.545} unmasked 0
+Clip_20 rendered 76287ebc6e36
+Clip_20 format True vdur 74.5745 adur 74.574 sync 0.862 0.92 {'n': 24, 'median': 0.085, 'max_abs': 5.605} unmasked 0
+BATCHDONE

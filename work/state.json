@@ -1,7 +1,7 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-15T15:18:17Z",
- "status": "PHASE_B_IN_PROGRESS",
+ "updated": "2026-10-16T01:16:25Z",
+ "status": "PHASE_B_COMPLETE",
  "phase": "B",
  "inputs": {
   "sources": {
@@ -52,9 +52,9 @@
  "candidates": "work/clip_candidates.json",
  "selected_clips": "work/selected_clips.json",
  "used_source_ranges": {
-  "status": "RESERVED (not committed; nothing rendered)",
+  "status": "COMMITTED",
   "ledger": "work/source_timeline_ledger.json",
-  "count": 24
+  "count": 29
  },
  "review": {
   "csv": "review/translations_review.csv",
@@ -97,13 +97,7 @@
   "frozen_copy": "review/approved/translations_approved_rev3.csv",
   "note": "Explicit human instruction to produce the videos with this translation, received after rev 3. ja_final is the subtitle source."
  },
- "pending_actions": [
-  "calibrate/reuse frozen subtitle template on new source",
-  "render 21 clips",
-  "Fresh Clip Critic per clip",
-  "series QA",
-  "export to output/"
- ],
+ "pending_actions": [],
  "failed_approaches": [
   {
    "stage": "transcription",
@@ -120,7 +114,7 @@
   "Auto-segmented lines mixed speakers; numeric s/e guesses drifted: use anchor phrases with advancing search bound"
  ],
  "blockers": [],
- "next_action": "Await human approval message in thread; do not render.",
+ "next_action": "none: series delivered; await user feedback",
  "legacy": "work/legacy/state.SOURCE_INTERVIEW.json",
  "translation_style": {
   "proper_nouns": "English spelling in Japanese subtitles (people, places, brands, artists); generic loanwords stay katakana",
@@ -141,5 +135,117 @@
    "BLM / Black Lives Matter": "ブラックライブスマター",
    "backpack rapper": "リュック系ラッパー"
   }
+ },
+ "completed_clips": {
+  "Clip_01": {
+   "dir": "output/drinkchamps_ye/clip_01_degrade_the_rich_demna_and_drake",
+   "duration_s": 64.106,
+   "render_sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36"
+  },
+  "Clip_02": {
+   "dir": "output/drinkchamps_ye/clip_02_drake_told_me_nothing_ever_happened",
+   "duration_s": 74.116,
+   "render_sha256": "19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af"
+  },
+  "Clip_03": {
+   "dir": "output/drinkchamps_ye/clip_03_i_googled_drakes_address",
+   "duration_s": 67.943,
+   "render_sha256": "e5a5a0830e117c520675df8df32954e08c392705ce532ef0ff33bf33b6aa6d2e"
+  },
+  "Clip_04": {
+   "dir": "output/drinkchamps_ye/clip_04_bad_bunny_is_on_our_wall",
+   "duration_s": 75.117,
+   "render_sha256": "56e92fc98f06dfaee4d2c44b3755a4807e742c393b136ddd9c1e2504c824d1d5"
+  },
+  "Clip_05": {
+   "dir": "output/drinkchamps_ye/clip_05_water_rainwater_and_the_marathon",
+   "duration_s": 65.566,
+   "render_sha256": "af95628beae1b61c91120751fe9ee41c0734502e5683ea97b74f960f208bd12e"
+  },
+  "Clip_06": {
+   "dir": "output/drinkchamps_ye/clip_06_i_forgive_everybody",
+   "duration_s": 75.158,
+   "render_sha256": "6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15"
+  },
+  "Clip_07": {
+   "dir": "output/drinkchamps_ye/clip_07_wu_tang_videos_and_fresh_timbs",
+   "duration_s": 63.188,
+   "render_sha256": "d765352bfc81c42ca8bed030ea14f9ce730ac703b3d6f6a716d49755c498b57d"
+  },
+  "Clip_08": {
+   "dir": "output/drinkchamps_ye/clip_08_divorce_and_big_bois_i_choose_you",
+   "duration_s": 80.706,
+   "render_sha256": "8a184afc1ec4cea197bb40e7a2132776a247a3bd5faaaa2c4c8f3317c2ee44b4"
+  },
+  "Clip_09": {
+   "dir": "output/drinkchamps_ye/clip_09_a_billionaire_still_checks_every_bill",
+   "duration_s": 64.815,
+   "render_sha256": "8ea513c487762b436b73b58c9d438f2d7273b36a656994bf66584c9b5f4e81b1"
+  },
+  "Clip_10": {
+   "dir": "output/drinkchamps_ye/clip_10_god_put_me_on_a_timeout",
+   "duration_s": 71.613,
+   "render_sha256": "6305c6d87669d836770d6151584e7d00a9c2b2af3cc86e4915a12ea6065087d9"
+  },
+  "Clip_11": {
+   "dir": "output/drinkchamps_ye/clip_11_never_finished_a_novel",
+   "duration_s": 85.919,
+   "render_sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80"
+  },
+  "Clip_12": {
+   "dir": "output/drinkchamps_ye/clip_12_r_b_took_god_out_of_the_music",
+   "duration_s": 65.524,
+   "render_sha256": "41c7ee2d3e29e86ca2cf0dfb87db92a3dac1e6bbd0a3792a6c7b78c58623a4e2"
+  },
+  "Clip_13": {
+   "dir": "output/drinkchamps_ye/clip_13_pimp_c_told_me_to_turn_my_vocals_up",
+   "duration_s": 78.996,
+   "render_sha256": "57aa32038246b874c4a092a4edcd8734e159b671e45d45be9133485114ee6719"
+  },
+  "Clip_14": {
+   "dir": "output/drinkchamps_ye/clip_14_drake_wrote_that_verse_for_me",
+   "duration_s": 61.77,
+   "render_sha256": "4acd372b4212c164e852c969d50ea40adaf778b4be380961fdc4a0c51f900520"
+  },
+  "Clip_15": {
+   "dir": "output/drinkchamps_ye/clip_15_the_get_pssy_toe_adidas_pitch",
+   "duration_s": 76.827,
+   "render_sha256": "7f53fe2205ca1c0ea086f72815e8a67089fa31c3813b018874f9b41f420cde10"
+  },
+  "Clip_16": {
+   "dir": "output/drinkchamps_ye/clip_16_beefing_with_puff_so_i_bought_a_penthous",
+   "duration_s": 64.564,
+   "render_sha256": "a2d12ffb84027d8fdc20d71db596f3a756d9e242ccf4cce275c1c607c39249c8"
+  },
+  "Clip_17": {
+   "dir": "output/drinkchamps_ye/clip_17_virgil_drake_and_4d_chess",
+   "duration_s": 72.823,
+   "render_sha256": "c4d1fbdb4e61ce2342d110f9aaaa2e225bd1f0f2ebff409460352df7e31d1c06"
+  },
+  "Clip_18": {
+   "dir": "output/drinkchamps_ye/clip_18_jeff_bezos_aint_got_no_taste",
+   "duration_s": 72.322,
+   "render_sha256": "2b1c2860cfa03229352c95b7afaf4c51c6ac9a64d7923404184b6f66bf8b8d12"
+  },
+  "Clip_19": {
+   "dir": "output/drinkchamps_ye/clip_19_elon_best_eq_on_the_planet",
+   "duration_s": 75.993,
+   "render_sha256": "767cd9f9d57a3fdb511deae0ac9b132f9f04ce85273071f52766f774935bcd0c"
+  },
+  "Clip_20": {
+   "dir": "output/drinkchamps_ye/clip_20_speak_your_truth_off_dusse_not_hennessy",
+   "duration_s": 74.575,
+   "render_sha256": "76287ebc6e3653827868a4420114a225c3bad07b377d204b5360a2e8fe98d19d"
+  },
+  "Clip_21": {
+   "dir": "output/drinkchamps_ye/clip_21_life_is_an_album_workout_plan_to_stronge",
+   "duration_s": 68.318,
+   "render_sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f"
+  }
+ },
+ "qa": {
+  "frozen": "work/b/frozen.json",
+  "gauntlet": "work/b/gauntlet.json",
+  "series": "output/drinkchamps_ye/shared/final_series_qa.md"
  }
 }

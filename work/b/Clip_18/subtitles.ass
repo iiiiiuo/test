@@ -11,16 +11,16 @@ Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I still... Bernard Arnault
-Dialogue: 0,0:00:00.00,0:00:02.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}is still one of my heroes,
-Dialogue: 0,0:00:00.00,0:00:02.39,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今でも
-Dialogue: 0,0:00:00.00,0:00:02.39,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Bernard Arnaultは
-Dialogue: 0,0:00:02.41,0:00:04.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}so I gotta say that, though.
-Dialogue: 0,0:00:02.41,0:00:04.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's the guy, Louis
-Dialogue: 0,0:00:02.41,0:00:04.28,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のヒーローなんだよ
-Dialogue: 0,0:00:02.41,0:00:04.28,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そこは言っとく
-Dialogue: 0,0:00:04.30,0:00:05.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}head of LVMH. Yeah.
-Dialogue: 0,0:00:04.30,0:00:05.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}LVMHのトップだよ
+Dialogue: 0,0:00:00.00,0:00:02.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I still... Bernard Arnault
+Dialogue: 0,0:00:00.00,0:00:02.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}is still one of my heroes,
+Dialogue: 0,0:00:00.00,0:00:02.45,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今でも
+Dialogue: 0,0:00:00.00,0:00:02.45,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Bernard Arnaultは
+Dialogue: 0,0:00:02.47,0:00:04.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}so I gotta say that, though.
+Dialogue: 0,0:00:02.47,0:00:04.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's the guy, Louis
+Dialogue: 0,0:00:02.47,0:00:04.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のヒーローなんだよ
+Dialogue: 0,0:00:02.47,0:00:04.81,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そこは言っとく
+Dialogue: 0,0:00:04.83,0:00:05.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}head of LVMH. Yeah.
+Dialogue: 0,0:00:04.83,0:00:05.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}LVMHのトップだよ
 Dialogue: 0,0:00:05.87,0:00:09.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I gotta shout out, like,
 Dialogue: 0,0:00:05.87,0:00:09.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}good taste when I see it.
 Dialogue: 0,0:00:05.87,0:00:09.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}センスがいいものは
@@ -32,12 +32,12 @@ Dialogue: 0,0:00:09.05,0:00:13.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ライブ
 Dialogue: 0,0:00:13.05,0:00:16.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I said, man, you know, when
 Dialogue: 0,0:00:13.05,0:00:16.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm the richest man in the world,
 Dialogue: 0,0:00:13.05,0:00:16.45,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「俺が世界一の金持ちになったら
-Dialogue: 0,0:00:16.47,0:00:18.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I hope my son is cool
-Dialogue: 0,0:00:16.47,0:00:18.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}enough to hang out with Ye.
-Dialogue: 0,0:00:16.47,0:00:18.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}うちの息子がYeとつるめるくらい
-Dialogue: 0,0:00:16.47,0:00:18.98,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}イケてるといいな」って
-Dialogue: 0,0:00:19.31,0:00:20.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
-Dialogue: 0,0:00:19.31,0:00:20.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}なるほど
+Dialogue: 0,0:00:16.47,0:00:19.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I hope my son is cool
+Dialogue: 0,0:00:16.47,0:00:19.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}enough to hang out with Ye.
+Dialogue: 0,0:00:16.47,0:00:19.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}うちの息子がYeとつるめるくらい
+Dialogue: 0,0:00:16.47,0:00:19.09,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}イケてるといいな」って
+Dialogue: 0,0:00:19.11,0:00:20.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:19.11,0:00:20.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}なるほど
 Dialogue: 0,0:00:20.19,0:00:22.41,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm saying this on stage for them,
 Dialogue: 0,0:00:20.19,0:00:22.41,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}but I told him afterwards,
 Dialogue: 0,0:00:20.19,0:00:22.41,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ステージで言ったんだけど
@@ -52,44 +52,44 @@ Dialogue: 0,0:00:28.03,0:00:29.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それは�
 Dialogue: 0,0:00:30.10,0:00:31.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Jeff Bezos don't have no opinion.
 Dialogue: 0,0:00:30.10,0:00:31.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ベゾスには
 Dialogue: 0,0:00:30.10,0:00:31.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}自分の意見がない
-Dialogue: 0,0:00:31.93,0:00:35.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He don't got no taste.
-Dialogue: 0,0:00:31.93,0:00:35.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jeff Bezos ain't got no taste.
-Dialogue: 0,0:00:31.93,0:00:35.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}センスがないんだよ
-Dialogue: 0,0:00:31.93,0:00:35.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ベゾスにはセンスがない
-Dialogue: 0,0:00:35.31,0:00:38.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You wouldn't ask him to pick out
-Dialogue: 0,0:00:35.31,0:00:38.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what you want for Christmas.
-Dialogue: 0,0:00:35.31,0:00:38.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}クリスマスプレゼントを
-Dialogue: 0,0:00:35.31,0:00:38.96,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつに選ばせないだろ？
-Dialogue: 0,0:00:38.98,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
-Dialogue: 0,0:00:38.98,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jeff Bezos can't pick.
-Dialogue: 0,0:00:38.98,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ベゾスには選べないんだよ
+Dialogue: 0,0:00:31.93,0:00:35.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He don't got no taste.
+Dialogue: 0,0:00:31.93,0:00:35.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jeff Bezos ain't got no taste.
+Dialogue: 0,0:00:31.93,0:00:35.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}センスがないんだよ
+Dialogue: 0,0:00:31.93,0:00:35.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ベゾスにはセンスがない
+Dialogue: 0,0:00:35.78,0:00:39.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You wouldn't ask him to pick out
+Dialogue: 0,0:00:35.78,0:00:39.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what you want for Christmas.
+Dialogue: 0,0:00:35.78,0:00:39.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}クリスマスプレゼントを
+Dialogue: 0,0:00:35.78,0:00:39.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつに選ばせないだろ？
+Dialogue: 0,0:00:39.12,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:39.12,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jeff Bezos can't pick.
+Dialogue: 0,0:00:39.12,0:00:40.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ベゾスには選べないんだよ
 Dialogue: 0,0:00:40.69,0:00:42.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Would you let Jeff Bezos
 Dialogue: 0,0:00:40.69,0:00:42.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}pick your bag?
 Dialogue: 0,0:00:40.69,0:00:42.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ベゾスにバッグ選ばせる？
-Dialogue: 0,0:00:42.90,0:00:43.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
-Dialogue: 0,0:00:42.90,0:00:43.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつはLas Vegasで
-Dialogue: 0,0:00:43.39,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So he just learned how to go to
-Dialogue: 0,0:00:43.39,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Vegas and break the machine.
-Dialogue: 0,0:00:43.39,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}マシンをぶっ壊す方法を
-Dialogue: 0,0:00:43.39,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}覚えただけなんだよ
+Dialogue: 0,0:00:42.90,0:00:45.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying? So he
+Dialogue: 0,0:00:42.90,0:00:45.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}just learned how to go to Vegas
+Dialogue: 0,0:00:42.90,0:00:45.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつはLas Vegasで
+Dialogue: 0,0:00:45.73,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and break the machine.
+Dialogue: 0,0:00:45.73,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マシンをぶっ壊す方法を
+Dialogue: 0,0:00:45.73,0:00:47.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}覚えただけなんだよ
 Dialogue: 0,0:00:47.27,0:00:48.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's Amazon, right?
 Dialogue: 0,0:00:47.27,0:00:48.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Amazonだろ？
-Dialogue: 0,0:00:48.35,0:00:49.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, and they respected him.
-Dialogue: 0,0:00:48.35,0:00:49.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、それで評価された
-Dialogue: 0,0:00:49.77,0:00:51.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I came from a Cuban family,
-Dialogue: 0,0:00:49.77,0:00:51.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}うちはCuba系の家族だから
-Dialogue: 0,0:00:51.79,0:00:54.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I got to represent.
-Dialogue: 0,0:00:51.79,0:00:54.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}What's up, Cuban people?
-Dialogue: 0,0:00:51.79,0:00:54.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}レペゼンしないとな
-Dialogue: 0,0:00:51.79,0:00:54.08,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Cubaのみんな、元気か？
-Dialogue: 0,0:00:54.10,0:00:57.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, but I'm saying, and by the way,
-Dialogue: 0,0:00:54.10,0:00:57.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it's like, okay, you broke the machine,
-Dialogue: 0,0:00:54.10,0:00:57.45,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもさ
-Dialogue: 0,0:00:54.10,0:00:57.45,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}確かにマシンは壊したけど
-Dialogue: 0,0:00:57.47,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but Bernard Arnault,
-Dialogue: 0,0:00:57.47,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying,
-Dialogue: 0,0:00:57.47,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Bernard Arnaultは
-Dialogue: 0,0:00:57.47,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ
+Dialogue: 0,0:00:48.35,0:00:49.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, and they respected him.
+Dialogue: 0,0:00:48.35,0:00:49.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、それで評価された
+Dialogue: 0,0:00:49.98,0:00:51.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I came from a Cuban family,
+Dialogue: 0,0:00:49.98,0:00:51.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}うちはCuba系の家族だから
+Dialogue: 0,0:00:51.98,0:00:54.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I got to represent.
+Dialogue: 0,0:00:51.98,0:00:54.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}What's up, Cuban people?
+Dialogue: 0,0:00:51.98,0:00:54.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}レペゼンしないとな
+Dialogue: 0,0:00:51.98,0:00:54.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Cubaのみんな、元気か？
+Dialogue: 0,0:00:54.12,0:00:58.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, but I'm saying, and by the way,
+Dialogue: 0,0:00:54.12,0:00:58.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it's like, okay, you broke the machine,
+Dialogue: 0,0:00:54.12,0:00:58.36,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもさ
+Dialogue: 0,0:00:54.12,0:00:58.36,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}確かにマシンは壊したけど
+Dialogue: 0,0:00:58.81,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but Bernard Arnault,
+Dialogue: 0,0:00:58.81,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying,
+Dialogue: 0,0:00:58.81,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Bernard Arnaultは
+Dialogue: 0,0:00:58.81,0:01:01.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ
 Dialogue: 0,0:01:01.21,0:01:03.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's like, put it like this: you know,
 Dialogue: 0,0:01:01.21,0:01:03.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}こう言えばいいか
 Dialogue: 0,0:01:03.41,0:01:07.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}at the end of the day,

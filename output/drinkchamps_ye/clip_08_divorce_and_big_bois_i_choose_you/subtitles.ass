@@ -1,0 +1,101 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Anybody that's ever been through
+Dialogue: 0,0:00:00.00,0:00:02.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}a divorce, it's a difficult thing,
+Dialogue: 0,0:00:00.00,0:00:02.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}離婚を経験した奴ならわかるけど
+Dialogue: 0,0:00:00.00,0:00:02.75,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}キツいもんなんだよ
+Dialogue: 0,0:00:02.77,0:00:06.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, because your baby
+Dialogue: 0,0:00:02.77,0:00:06.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}mama gonna play with you.
+Dialogue: 0,0:00:02.77,0:00:06.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}子どもの母親に振り回されるから
+Dialogue: 0,0:00:06.05,0:00:07.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, when we did the Donda 2 thing,
+Dialogue: 0,0:00:06.05,0:00:07.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}例えば『Donda 2』の
+Dialogue: 0,0:00:06.05,0:00:07.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}イベントの時
+Dialogue: 0,0:00:07.89,0:00:12.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}uh, when my kids came on a plane,
+Dialogue: 0,0:00:07.89,0:00:12.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}after they was on a plane,
+Dialogue: 0,0:00:07.89,0:00:12.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}子どもたちが飛行機に乗ってきた時
+Dialogue: 0,0:00:07.89,0:00:12.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もう乗ってたのに
+Dialogue: 0,0:00:12.79,0:00:15.27,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Kim texted me and said
+Dialogue: 0,0:00:12.79,0:00:15.27,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}North's not on a plane.
+Dialogue: 0,0:00:12.79,0:00:15.27,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Kimから「Northは乗って
+Dialogue: 0,0:00:12.79,0:00:15.27,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ない」ってメールが来た
+Dialogue: 0,0:00:15.94,0:00:17.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And knowing my personality,
+Dialogue: 0,0:00:15.94,0:00:17.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺の性格わかってたら
+Dialogue: 0,0:00:17.95,0:00:19.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know what I'm saying,
+Dialogue: 0,0:00:17.95,0:00:19.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that could affect my show.
+Dialogue: 0,0:00:17.95,0:00:19.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それでライブに
+Dialogue: 0,0:00:17.95,0:00:19.96,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}影響出るってわかるだろ
+Dialogue: 0,0:00:19.98,0:00:24.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So baby mamas across the world,
+Dialogue: 0,0:00:19.98,0:00:24.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}not just me, like on some billionaire
+Dialogue: 0,0:00:19.98,0:00:24.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}世界中の子どもの母親がそうなんだよ
+Dialogue: 0,0:00:19.98,0:00:24.04,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺みたいな億万長者だけじゃなく
+Dialogue: 0,0:00:24.06,0:00:26.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a Gemini s**t.
+Dialogue: 0,0:00:24.06,0:00:26.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Yeah, I can attest to that.
+Dialogue: 0,0:00:24.06,0:00:26.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それ双子座あるあるだな
+Dialogue: 0,0:00:24.06,0:00:26.08,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}マジでわかる
+Dialogue: 0,0:00:26.10,0:00:29.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And like, but everybody goes
+Dialogue: 0,0:00:26.10,0:00:29.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}through a lot of that type of...
+Dialogue: 0,0:00:26.10,0:00:29.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもみんな
+Dialogue: 0,0:00:26.10,0:00:29.68,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そういうのを経験するもんで
+Dialogue: 0,0:00:29.70,0:00:32.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just thought about, you know,
+Dialogue: 0,0:00:29.70,0:00:32.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺がずっと思ってたのは
+Dialogue: 0,0:00:32.46,0:00:35.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}all the time when I thought me and
+Dialogue: 0,0:00:32.46,0:00:35.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Kim were going to get a divorce,
+Dialogue: 0,0:00:32.46,0:00:35.16,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Kimと離婚するかもって
+Dialogue: 0,0:00:32.46,0:00:35.16,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}思うたびに
+Dialogue: 0,0:00:35.18,0:00:38.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, throughout our relationship,
+Dialogue: 0,0:00:35.18,0:00:38.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I always thought about
+Dialogue: 0,0:00:35.18,0:00:38.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}付き合ってる間ずっと
+Dialogue: 0,0:00:35.18,0:00:38.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}頭に浮かんでたのが
+Dialogue: 0,0:00:39.84,0:00:41.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Big Boi, man.
+Dialogue: 0,0:00:39.84,0:00:41.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Big Boiだよ
+Dialogue: 0,0:00:41.45,0:00:44.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He really told me what it
+Dialogue: 0,0:00:41.45,0:00:44.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}really was on 'I Choose You.'
+Dialogue: 0,0:00:41.45,0:00:44.11,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}『I Choose You』で
+Dialogue: 0,0:00:41.45,0:00:44.11,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}本当のことを教えてくれてた
+Dialogue: 0,0:00:44.53,0:00:47.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Oh, it's about OutKast? I was
+Dialogue: 0,0:00:44.53,0:00:47.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}thinking about Big Boy Radio.
+Dialogue: 0,0:00:44.53,0:00:47.15,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あ、OutKastの話か
+Dialogue: 0,0:00:44.53,0:00:47.15,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Big Boiのラジオかと思った
+Dialogue: 0,0:00:47.17,0:00:50.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, your baby's mama's
+Dialogue: 0,0:00:47.17,0:00:50.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}mama don't like me,
+Dialogue: 0,0:00:47.17,0:00:50.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「お前の母親の母親は俺を嫌ってて
+Dialogue: 0,0:00:50.45,0:00:53.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}they try to come to the studio, try to
+Dialogue: 0,0:00:50.45,0:00:53.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}come and fight me and blah, blah,
+Dialogue: 0,0:00:50.45,0:00:53.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スタジオに来てケンカ売ってくる」とかさ
+Dialogue: 0,0:00:53.23,0:00:55.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Oh, that's 'Sorry Ms. Jackson,' right?
+Dialogue: 0,0:00:53.23,0:00:55.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それって『Ms. Jackson』だろ？
+Dialogue: 0,0:00:55.27,0:00:56.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, yeah, yeah.
+Dialogue: 0,0:00:55.27,0:00:56.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、そう
+Dialogue: 0,0:00:56.03,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Okay, but then also he says,
+Dialogue: 0,0:00:56.03,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それに
+Dialogue: 0,0:00:56.03,0:00:57.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「相手はちゃんと選べ
+Dialogue: 0,0:00:57.89,0:01:01.13,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}better pick the right one
+Dialogue: 0,0:00:57.89,0:01:01.13,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}or pick the kiddies up.
+Dialogue: 0,0:00:57.89,0:01:01.13,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}さもなきゃ子どもの送り迎えだ」
+Dialogue: 0,0:00:57.89,0:01:01.13,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}って言ってる
+Dialogue: 0,0:01:01.59,0:01:05.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And the whole time, I'm like,
+Dialogue: 0,0:01:01.59,0:01:05.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}this rap is just coming,
+Dialogue: 0,0:01:01.59,0:01:05.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その間ずっと
+Dialogue: 0,0:01:01.59,0:01:05.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そのラップが頭の中で
+Dialogue: 0,0:01:05.31,0:01:09.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}rolling through my head like a
+Dialogue: 0,0:01:05.31,0:01:09.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}mantra of what it, you know.
+Dialogue: 0,0:01:05.31,0:01:09.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}マントラみたいに回ってたんだよ
+Dialogue: 0,0:01:09.55,0:01:14.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So, and I still be in my head
+Dialogue: 0,0:01:09.55,0:01:14.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, you know, maybe,
+Dialogue: 0,0:01:09.55,0:01:14.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今でも頭の中では
+Dialogue: 0,0:01:09.55,0:01:14.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もしかしたらいつか
+Dialogue: 0,0:01:15.87,0:01:20.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, maybe one day our
+Dialogue: 0,0:01:15.87,0:01:20.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}family could get back together.
+Dialogue: 0,0:01:15.87,0:01:20.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}家族がまた一緒になれるかもって
+Dialogue: 0,0:01:15.87,0:01:20.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}思ってる

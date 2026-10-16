@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}In a way, they got a guy
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}who had taste, though, bro.
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}少なくとも
+Dialogue: 0,0:00:00.51,0:00:02.84,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}センスのある奴はいたんだよ
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Steve Jobs had the best taste.
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スティーブ・ジョブズは
+Dialogue: 0,0:00:02.86,0:00:05.10,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}最高のセンスを持ってた
+Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I've yet to meet a tech guy
+Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with better taste than me.
+Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺よりセンスのある　テック系には
+Dialogue: 0,0:00:05.12,0:00:08.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}まだ会ったことない
+Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm the next frontier. You got
+Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Ralph, Steve, and then it's me.
+Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が次のフロンティアだ
+Dialogue: 0,0:00:08.16,0:00:12.85,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Ralph Lauren、ジョブズ
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}It's like none of these guys.
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その次が俺
+Dialogue: 0,0:00:12.87,0:00:15.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}他の連中じゃない
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Even Elon flew me... you know
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what I'm saying? Vory, Wack 100,
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}イーロンですら　俺を呼んだんだぜ
+Dialogue: 0,0:00:15.05,0:00:20.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Vory、Wack 100と
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it was like a team
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that went to SpaceX.
+Dialogue: 0,0:00:20.34,0:00:23.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}チームでSpaceXに行ったんだよ
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He flew me in his new jet out there.
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}新しいジェットで
+Dialogue: 0,0:00:23.58,0:00:25.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}連れてってくれて
+Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said, I want you to
+Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}design SpaceX for me.
+Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「SpaceXを
+Dialogue: 0,0:00:25.06,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}デザインしてほしい」って
+Dialogue: 0,0:00:27.44,0:00:29.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We're sitting there, Grimes there,
+Dialogue: 0,0:00:27.44,0:00:29.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Grimesもいて
+Dialogue: 0,0:00:29.48,0:00:31.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}he just had a newborn. We
+Dialogue: 0,0:00:29.48,0:00:31.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}watched a rocket take off.
+Dialogue: 0,0:00:29.48,0:00:31.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}子どもが生まれたばっかりで
+Dialogue: 0,0:00:29.48,0:00:31.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ロケットの打ち上げを見たんだ
+Dialogue: 0,0:00:31.79,0:00:33.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But before we started
+Dialogue: 0,0:00:31.79,0:00:33.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the meeting, he said,
+Dialogue: 0,0:00:31.79,0:00:33.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもミーティングの前に
+Dialogue: 0,0:00:31.79,0:00:33.56,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつが言ったんだよ
+Dialogue: 0,0:00:33.58,0:00:35.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you have the best EQ on the planet.
+Dialogue: 0,0:00:33.58,0:00:35.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「お前のEQは地球一だ」って
+Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That means taste.
+Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Best EQ on the planet.
+Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}つまりセンスってことだ
+Dialogue: 0,0:00:35.61,0:00:39.35,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}EQ地球一
+Dialogue: 0,0:00:39.37,0:00:41.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a person... — Yeah.
+Dialogue: 0,0:00:41.62,0:00:43.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a person that a lot of people
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}consider to have the
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}best IQ on the planet.
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}IQが地球一だって
+Dialogue: 0,0:00:43.40,0:00:45.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われてるような人が
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He says you got the
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}best EQ on the planet.
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のEQは地球一だって
+Dialogue: 0,0:00:45.71,0:00:47.56,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言ったんだよ
+Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}The EQ is the connectivity.
+Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}EQってのは
+Dialogue: 0,0:00:47.58,0:00:49.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}つながる力なんだよ
+Dialogue: 0,0:00:49.40,0:00:53.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Man, how can, like,
+Dialogue: 0,0:00:49.40,0:00:53.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jay-Z be my brother,
+Dialogue: 0,0:00:49.40,0:00:53.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}じゃなきゃ
+Dialogue: 0,0:00:49.40,0:00:53.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Jay-Zが兄弟になったり
+Dialogue: 0,0:00:53.72,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right, Kim, like, be my
+Dialogue: 0,0:00:53.72,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}baby mama type s**t?
+Dialogue: 0,0:00:53.72,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Kimが子どもの母親に
+Dialogue: 0,0:00:53.72,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なったりしないだろ
+Dialogue: 0,0:00:59.36,0:01:01.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm here talking to you, right?
+Dialogue: 0,0:00:59.36,0:01:01.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}こうしてお前らとも
+Dialogue: 0,0:00:59.36,0:01:01.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}話してるだろ
+Dialogue: 0,0:01:01.31,0:01:02.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But you got a connection.
+Dialogue: 0,0:01:01.31,0:01:02.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あんたには
+Dialogue: 0,0:01:01.31,0:01:02.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人とつながる力があるよな
+Dialogue: 0,0:01:02.81,0:01:06.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}The same way that you
+Dialogue: 0,0:01:02.81,0:01:06.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}connected with Pharrell,
+Dialogue: 0,0:01:02.81,0:01:06.05,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Pharrellとつながったみたいに
+Dialogue: 0,0:01:06.07,0:01:10.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and in ways you indemnified him,
+Dialogue: 0,0:01:06.07,0:01:10.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}is the way you connected with me.
+Dialogue: 0,0:01:06.07,0:01:10.39,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ある意味で守ってきたみたいに
+Dialogue: 0,0:01:06.07,0:01:10.39,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺ともつながってくれた
+Dialogue: 0,0:01:10.41,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You got a sight beyond sight.
+Dialogue: 0,0:01:10.41,0:01:12.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あんたには
+Dialogue: 0,0:01:12.28,0:01:14.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's something that you
+Dialogue: 0,0:01:12.28,0:01:14.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}got that's like, you see.
+Dialogue: 0,0:01:12.28,0:01:14.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}先を見通す目がある
+Dialogue: 0,0:01:12.28,0:01:14.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}見えてるんだよ
+Dialogue: 0,0:01:14.78,0:01:15.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I ain't gonna lie, yeah.
+Dialogue: 0,0:01:14.78,0:01:15.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}まあ、否定はしないよ

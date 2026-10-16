@@ -1,0 +1,107 @@
+{
+ "clip": "Clip_20",
+ "candidate": "C26",
+ "title": "Speak your truth off D'Usse, not Hennessy",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 5165,
+   "end_frame_excl": 6953,
+   "start_pts": 5171149,
+   "end_pts_excl": 6960937,
+   "start_s": 215.464542,
+   "end_s": 290.039042
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 10342298,
+   "end_sample_48k_excl": 13921874,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 5165,
+   "end_frame_excl": 6322,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 552,
+    "y": 0
+   },
+   "basis": "face cx=1112 cy=325 w=364 n=6/12"
+  },
+  {
+   "start_frame": 6322,
+   "end_frame_excl": 6378,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 368,
+    "y": 0
+   },
+   "basis": "face cx=928 cy=323 w=411 n=10/10"
+  },
+  {
+   "start_frame": 6378,
+   "end_frame_excl": 6577,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 532,
+    "y": 0
+   },
+   "basis": "face cx=1092 cy=263 w=374 n=5/11"
+  },
+  {
+   "start_frame": 6577,
+   "end_frame_excl": 6700,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 382,
+    "y": 0
+   },
+   "basis": "face cx=942 cy=360 w=312 n=10/10"
+  },
+  {
+   "start_frame": 6700,
+   "end_frame_excl": 6953,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 508,
+    "y": 0
+   },
+   "basis": "face cx=1068 cy=258 w=302 n=5/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_20/subtitles.ass",
+  "sha256": "724826122500906ef06ca4173edaff903741a221443f5da1c3c487fff2cca84b"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_20/render.mp4",
+  "sha256": "76287ebc6e3653827868a4420114a225c3bad07b377d204b5360a2e8fe98d19d"
+ }
+}

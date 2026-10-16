@@ -94,8 +94,7 @@
    ],
    "en_unmasked": "And I'm telling you, the whole difference is,",
    "jp": [
-    "言っとくけど",
-    "本音を言うなら"
+    "言っとくけど"
    ],
    "start": 9.755458333333337,
    "end": 12.225458333333744
@@ -110,7 +109,7 @@
    ],
    "en_unmasked": "when people come and speak their truth,",
    "jp": [
-    "D'Usseで酔って言えよ"
+    "本音を言うなら"
    ],
    "start": 12.245458333333744,
    "end": 14.085458333333559
@@ -125,7 +124,7 @@
    ],
    "en_unmasked": "they need to speak their truth off of D'Usse.",
    "jp": [
-    "ヘネシーで酔って"
+    "D'Usseで酔って言えよ"
    ],
    "start": 14.105458333333559,
    "end": 16.325458333333597
@@ -140,6 +139,7 @@
    ],
    "en_unmasked": "They don't need to speak their truth off of Hennessy.",
    "jp": [
+    "ヘネシーで酔って",
     "言うんじゃなくてな"
    ],
    "start": 16.345458333333596,
@@ -205,12 +205,12 @@
     "D'Usseを置いてほしい"
    ],
    "start": 25.8254583333335,
-   "end": 29.405458333333353
+   "end": 29.405458333333637
   },
   {
    "line_id": "Clip_20_L006",
-   "src_start": 244.89000000000001,
-   "src_end": 246.7,
+   "src_start": 244.8900000000003,
+   "src_end": 246.78,
    "en": [
     "I'm asking and calling for every..."
    ],
@@ -218,8 +218,8 @@
    "jp": [
     "全員に呼びかける…"
    ],
-   "start": 29.425458333333353,
-   "end": 31.735458333333327
+   "start": 29.425458333333637,
+   "end": 31.81545833333334
   },
   {
    "line_id": "Clip_20_L007",
@@ -306,7 +306,8 @@
    ],
    "en_unmasked": "Go full Ye off the D'Usse. Go Ye!",
    "jp": [
-    "D'Usseで"
+    "D'Usseで",
+    "フルにYeになれ"
    ],
    "start": 49.38545833333336,
    "end": 51.32545833333334
@@ -320,7 +321,7 @@
    ],
    "en_unmasked": "Go full Ye off the D'Usse.",
    "jp": [
-    "フルにYeになれ"
+    "D'UsseでフルYeだ"
    ],
    "start": 51.34545833333334,
    "end": 54.98545833333336

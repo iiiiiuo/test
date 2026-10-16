@@ -1,0 +1,118 @@
+{
+ "clip": "Clip_16",
+ "candidate": "C12",
+ "title": "Beefing with Puff, so I bought a penthouse",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 43651,
+   "end_frame_excl": 45199,
+   "start_pts": 43694651,
+   "end_pts_excl": 45244199,
+   "start_s": 1820.610458,
+   "end_s": 1885.174958
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 87389302,
+   "end_sample_48k_excl": 90488398,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 43651,
+   "end_frame_excl": 43655,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 358,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 43655,
+   "end_frame_excl": 43805,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 358,
+    "y": 0
+   },
+   "basis": "face cx=917 cy=415 w=308 n=4/9"
+  },
+  {
+   "start_frame": 43805,
+   "end_frame_excl": 44099,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 192,
+    "y": 0
+   },
+   "basis": "face cx=752 cy=376 w=307 n=4/10"
+  },
+  {
+   "start_frame": 44099,
+   "end_frame_excl": 44128,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 192,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 44128,
+   "end_frame_excl": 45091,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 192,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 45091,
+   "end_frame_excl": 45199,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 295,
+    "y": 0
+   },
+   "basis": "face cx=854 cy=402 w=313 n=8/9"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_16/subtitles.ass",
+  "sha256": "a4cf5d5eb7ee08066677d71e92d0e66f7ed3d359b810f47bac5d09dad25007b1"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_16/render.mp4",
+  "sha256": "a2d12ffb84027d8fdc20d71db596f3a756d9e242ccf4cce275c1c607c39249c8"
+ }
+}

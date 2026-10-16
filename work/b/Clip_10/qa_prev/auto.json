@@ -1,6 +1,6 @@
 {
  "clip": "Clip_10",
- "render_sha256": "d556bd2500d07bdcacf1cad48f7946709a20925509cbf52585289009ee10b55f",
+ "render_sha256": "375c3a9ac894eb0dd78dbdf9742a6e37edf22d2a0e77377e667ef2da952356be",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -17,8 +17,8 @@
   "PASS": true
  },
  "subtitles": {
-  "events": 72,
-  "captions": 27,
+  "events": 70,
+  "captions": 24,
   "max_end": 71.59,
   "beyond_video": [],
   "unmasked_hits": [],
@@ -26,15 +26,15 @@
   "max_lines": 4
  },
  "sync": {
-  "caption_tokens": 170,
+  "caption_tokens": 178,
   "asr_words": 187,
-  "matched": 162,
-  "match_ratio": 0.953,
-  "matched_words_inside_their_caption": 0.914,
+  "matched": 170,
+  "match_ratio": 0.955,
+  "matched_words_inside_their_caption": 0.941,
   "caption_onset_vs_first_word_s": {
-   "n": 26,
-   "median": 0.16,
-   "max_abs": 1.85
+   "n": 23,
+   "median": 0.13,
+   "max_abs": 0.99
   }
  },
  "frames": {
@@ -42,17 +42,17 @@
    0.05,
    0.33,
    1.0,
-   2.17,
    4.46,
    6.34,
-   10.16,
    14.28,
    16.68,
    20.56,
+   22.01,
    22.36,
    23.86,
-   29.82,
+   29.46,
    32.57,
+   70.22,
    70.61,
    71.53
   ],
@@ -64,17 +64,17 @@
    "/home/user/test/work/b/Clip_10/qa/f_0000.05.png",
    "/home/user/test/work/b/Clip_10/qa/f_0000.33.png",
    "/home/user/test/work/b/Clip_10/qa/f_0001.00.png",
-   "/home/user/test/work/b/Clip_10/qa/f_0002.17.png",
    "/home/user/test/work/b/Clip_10/qa/f_0004.46.png",
    "/home/user/test/work/b/Clip_10/qa/f_0006.34.png",
-   "/home/user/test/work/b/Clip_10/qa/f_0010.16.png",
    "/home/user/test/work/b/Clip_10/qa/f_0014.28.png",
    "/home/user/test/work/b/Clip_10/qa/f_0016.68.png",
    "/home/user/test/work/b/Clip_10/qa/f_0020.56.png",
+   "/home/user/test/work/b/Clip_10/qa/f_0022.01.png",
    "/home/user/test/work/b/Clip_10/qa/f_0022.36.png",
    "/home/user/test/work/b/Clip_10/qa/f_0023.86.png",
-   "/home/user/test/work/b/Clip_10/qa/f_0029.82.png",
+   "/home/user/test/work/b/Clip_10/qa/f_0029.46.png",
    "/home/user/test/work/b/Clip_10/qa/f_0032.57.png",
+   "/home/user/test/work/b/Clip_10/qa/f_0070.22.png",
    "/home/user/test/work/b/Clip_10/qa/f_0070.61.png",
    "/home/user/test/work/b/Clip_10/qa/f_0071.53.png"
   ]

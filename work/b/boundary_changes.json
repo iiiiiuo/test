@@ -191,34 +191,34 @@
   "interval": 0,
   "kind": "end",
   "window": [
-   1092.55,
-   1092.95
+   1092.97,
+   1093.12
   ],
-  "cut_s": 1092.58,
-  "cut_rms_dbfs": -23.3,
-  "frame": 26196,
+  "cut_s": 1093.07,
+  "cut_rms_dbfs": -29.2,
+  "frame": 26207,
   "old_frames": [
    24636,
    26206
   ],
-  "reason": "next words 'from us' started inside"
+  "reason": "next words 'from us' started inside; critic Clip_12 round 1: 1092.59 cut inside 'away' (energy to 1092.95)"
  },
  {
   "clip": "Clip_13",
   "interval": 0,
   "kind": "end",
   "window": [
-   1474.15,
-   1474.45
+   1474.44,
+   1474.62
   ],
-  "cut_s": 1474.32,
-  "cut_rms_dbfs": -12.2,
-  "frame": 35348,
+  "cut_s": 1474.48,
+  "cut_rms_dbfs": -15.0,
+  "frame": 35352,
   "old_frames": [
    33458,
    35341
   ],
-  "reason": "'that?' was cut"
+  "reason": "'that?' was cut; critic Clip_13 round 1: end after final 'right?' (1474.43); host laughter follows with no pause"
  },
  {
   "clip": "Clip_14",
@@ -377,5 +377,31 @@
    86.765
   ],
   "reason": "LOW lines L015-L017 (speaker/words unclear in all ASR passes; critic: caption is a guess) removed"
+ },
+ {
+  "clip": "Clip_15",
+  "kind": "internal_cut",
+  "removed_frames": [
+   28084,
+   28133
+  ],
+  "removed_s": [
+   1171.355,
+   1173.385
+  ],
+  "reason": "host line 'You guys are not getting pussy.' (heard in turbo pass, absent from approved lines, critic Clip_15) removed"
+ },
+ {
+  "clip": "Clip_15",
+  "kind": "internal_cut",
+  "removed_frames": [
+   28392,
+   28465
+  ],
+  "removed_s": [
+   1184.17,
+   1187.235
+  ],
+  "reason": "'Still on. No, they might not take them off.' (no approved line, critic Clip_15) removed"
  }
 ]

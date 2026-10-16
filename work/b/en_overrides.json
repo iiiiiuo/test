@@ -6,6 +6,151 @@
  },
  "Clip_10_L004": {
   "en": "Yeah. He said... he offered it. He said he offered it. He said he offered it. He offered it.",
-  "reason": "critic Clip_10 round 1: the repeat 'He said he offered it. He offered it.' is heard (render and source ASR) but was missing from the displayed English; Japanese (approved) already carries the meaning"
+  "reason": "critic Clip_10 round 1: the repeat 'He said he offered it. He offered it.' is heard (render and source ASR) but was missing from the displayed English; Japanese (approved) already carries the meaning",
+  "src_end": 794.95
+ },
+ "Clip_10_L014": {
+  "chunks": [
+   [
+    9,
+    []
+   ],
+   [
+    9,
+    [
+     0,
+     1
+    ]
+   ],
+   [
+    3,
+    [
+     2
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
+ },
+ "Clip_19_L010": {
+  "chunks": [
+   [
+    6,
+    []
+   ],
+   [
+    9,
+    []
+   ],
+   [
+    9,
+    [
+     0,
+     1
+    ]
+   ],
+   [
+    10,
+    [
+     2,
+     3
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
+ },
+ "Clip_15_L005": {
+  "chunks": [
+   [
+    1,
+    [
+     0
+    ]
+   ],
+   [
+    6,
+    [
+     1
+    ]
+   ],
+   [
+    1,
+    [
+     0
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
+ },
+ "Clip_18_L012": {
+  "chunks": [
+   [
+    14,
+    [
+     0
+    ]
+   ],
+   [
+    4,
+    [
+     1,
+     2
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
+ },
+ "Clip_20_L004": {
+  "chunks": [
+   [
+    8,
+    [
+     0
+    ]
+   ],
+   [
+    7,
+    [
+     1
+    ]
+   ],
+   [
+    9,
+    [
+     2
+    ]
+   ],
+   [
+    10,
+    [
+     3,
+     4
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
+ },
+ "Clip_20_L011": {
+  "chunks": [
+   [
+    8,
+    [
+     0,
+     1
+    ]
+   ],
+   [
+    6,
+    [
+     2
+    ]
+   ],
+   [
+    12,
+    [
+     2
+    ]
+   ]
+  ],
+  "reason": "JP placed on the chunk where it is spoken (critic round 1, item 4/6); approved JP segments verbatim"
  }
 }
