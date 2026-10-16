@@ -1,0 +1,397 @@
+{
+ "clip": "Clip_37",
+ "total_s": 67.15041666666673,
+ "segments": [
+  [
+   863.3200833333333,
+   930.4705,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_37_L001",
+   "src_start": 863.34,
+   "src_end": 866.36,
+   "en": [
+    "Why are you wearing the Trump..."
+   ],
+   "en_unmasked": "Why are you wearing the Trump...",
+   "jp": [
+    "なんでトランプの…"
+   ],
+   "start": 0.019916666666745186,
+   "end": 3.789916666666595
+  },
+  {
+   "line_id": "Clip_37_L001",
+   "src_start": 867.1299999999999,
+   "src_end": 867.86,
+   "en": [
+    "excuse me..."
+   ],
+   "en_unmasked": "excuse me...",
+   "jp": [
+    "いや、失礼"
+   ],
+   "start": 3.809916666666595,
+   "end": 4.579916666666673
+  },
+  {
+   "line_id": "Clip_37_L002",
+   "src_start": 867.92,
+   "src_end": 869.38,
+   "en": [
+    "It's not Trump. It's not Trump."
+   ],
+   "en_unmasked": "It's not Trump. It's not Trump.",
+   "jp": [
+    "トランプじゃない",
+    "トランプじゃないって"
+   ],
+   "start": 4.599916666666672,
+   "end": 6.559916666666709
+  },
+  {
+   "line_id": "Clip_37_L003",
+   "src_start": 870.3,
+   "src_end": 873.78,
+   "en": [
+    "The Supreme Lives Matter."
+   ],
+   "en_unmasked": "The Supreme Lives Matter.",
+   "jp": [
+    "その",
+    "“Supreme Lives Matter”"
+   ],
+   "start": 6.979916666666668,
+   "end": 10.999916666666746
+  },
+  {
+   "line_id": "Clip_37_L004",
+   "src_start": 874.34,
+   "src_end": 877.5,
+   "en": [
+    "This is not Lives Matter. This",
+    "is Tremaine. This is Tremaine."
+   ],
+   "en_unmasked": "This is not Lives Matter. This is Tremaine. This is Tremaine.",
+   "jp": [
+    "これは“Lives Matter”じゃない",
+    "Tremaineだよ　Tremaineだ"
+   ],
+   "start": 11.019916666666745,
+   "end": 14.259916666666737
+  },
+  {
+   "line_id": "Clip_37_L005",
+   "src_start": 877.6,
+   "src_end": 880.08,
+   "en": [
+    "This is my boy that's",
+    "at Supreme now."
+   ],
+   "en_unmasked": "This is my boy that's at Supreme now.",
+   "jp": [
+    "今Supremeにいる",
+    "俺の仲間"
+   ],
+   "start": 14.279916666666736,
+   "end": 16.95991666666667
+  },
+  {
+   "line_id": "Clip_37_L006",
+   "src_start": 880.3,
+   "src_end": 881.96,
+   "en": [
+    "And the weird thing is,",
+    "like, you know,"
+   ],
+   "en_unmasked": "And the weird thing is, like, you know,",
+   "jp": [
+    "妙な話だけどさ",
+    "あいつはいい奴なんだ"
+   ],
+   "start": 16.979916666666668,
+   "end": 18.61991666666675
+  },
+  {
+   "line_id": "Clip_37_L006",
+   "src_start": 881.96,
+   "src_end": 883.5,
+   "en": [
+    "he's a good guy. He's a good guy."
+   ],
+   "en_unmasked": "he's a good guy. He's a good guy.",
+   "jp": [
+    "いい奴なんだよ"
+   ],
+   "start": 18.63991666666675,
+   "end": 20.2999166666667
+  },
+  {
+   "line_id": "Clip_37_L007",
+   "src_start": 883.64,
+   "src_end": 884.88,
+   "en": [
+    "So you think about,",
+    "like, Pete Davidson."
+   ],
+   "en_unmasked": "So you think about, like, Pete Davidson.",
+   "jp": [
+    "Pete Davidsonを考えてみろよ",
+    "あいつには"
+   ],
+   "start": 20.3199166666667,
+   "end": 21.53991666666671
+  },
+  {
+   "line_id": "Clip_37_L007",
+   "src_start": 884.88,
+   "src_end": 888.54,
+   "en": [
+    "I gave him a negative",
+    "nickname, Skete Davidson."
+   ],
+   "en_unmasked": "I gave him a negative nickname, Skete Davidson.",
+   "jp": [
+    "悪いあだ名をつけた",
+    "“Skete Davidson”ってな"
+   ],
+   "start": 21.55991666666671,
+   "end": 25.689916666666345
+  },
+  {
+   "line_id": "Clip_37_L008",
+   "src_start": 889.0299999999996,
+   "src_end": 892.74,
+   "en": [
+    "With Tremaine, I gave him something",
+    "that was even more powerful."
+   ],
+   "en_unmasked": "With Tremaine, I gave him something that was even more powerful.",
+   "jp": [
+    "Tremaineには　もっと強いのをやった",
+    "Ye流に格上げして"
+   ],
+   "start": 25.709916666666345,
+   "end": 29.399916666666723
+  },
+  {
+   "line_id": "Clip_37_L008",
+   "src_start": 892.74,
+   "src_end": 894.84,
+   "en": [
+    "I Ye'd him up. I gave",
+    "him Tremendous."
+   ],
+   "en_unmasked": "I Ye'd him up. I gave him Tremendous.",
+   "jp": [
+    "“Tremendous”ってあだ名をな"
+   ],
+   "start": 29.419916666666722,
+   "end": 31.499916666666746
+  },
+  {
+   "line_id": "Clip_37_L009",
+   "src_start": 894.84,
+   "src_end": 897.32,
+   "en": [
+    "Right? And then we went",
+    "in. We appropriate..."
+   ],
+   "en_unmasked": "Right? And then we went in. We appropriate...",
+   "jp": [
+    "で、乗り込んで",
+    "Supremeの全部を"
+   ],
+   "start": 31.519916666666745,
+   "end": 33.97991666666676
+  },
+  {
+   "line_id": "Clip_37_L009",
+   "src_start": 897.32,
+   "src_end": 899.78,
+   "en": [
+    "we did a reverse appropriation",
+    "of everything Supreme."
+   ],
+   "en_unmasked": "we did a reverse appropriation of everything Supreme.",
+   "jp": [
+    "“逆盗用”してやったんだ"
+   ],
+   "start": 33.99991666666676,
+   "end": 37.069916666666224
+  },
+  {
+   "line_id": "Clip_37_L010",
+   "src_start": 900.4099999999995,
+   "src_end": 902.62,
+   "en": [
+    "And I went to the studio",
+    "with Ian Connor, right?"
+   ],
+   "en_unmasked": "And I went to the studio with Ian Connor, right?",
+   "jp": [
+    "Ian Connorと",
+    "スタジオに入って"
+   ],
+   "start": 37.08991666666623,
+   "end": 39.359916666666756
+  },
+  {
+   "line_id": "Clip_37_L011",
+   "src_start": 902.7,
+   "src_end": 905.76,
+   "en": [
+    "And we went, Supreme is this...",
+    "you know, it's a skate brand."
+   ],
+   "en_unmasked": "And we went, Supreme is this... you know, it's a skate brand.",
+   "jp": [
+    "で、Supremeっていうのは"
+   ],
+   "start": 39.37991666666676,
+   "end": 42.4199166666667
+  },
+  {
+   "line_id": "Clip_37_L011",
+   "src_start": 905.76,
+   "src_end": 907.32,
+   "en": [
+    "It's the high school, right?",
+    "You know what I'm saying?"
+   ],
+   "en_unmasked": "It's the high school, right? You know what I'm saying?",
+   "jp": [
+    "スケートブランドで",
+    "高校生のノリなんだよ"
+   ],
+   "start": 42.439916666666704,
+   "end": 43.9199166666667
+  },
+  {
+   "line_id": "Clip_37_L012",
+   "src_start": 907.26,
+   "src_end": 909.98,
+   "en": [
+    "So it's like, we went in",
+    "and flipped everything."
+   ],
+   "en_unmasked": "So it's like, we went in and flipped everything.",
+   "jp": [
+    "だから乗り込んで",
+    "全部ひっくり返したんだ"
+   ],
+   "start": 43.939916666666704,
+   "end": 46.75991666666673
+  },
+  {
+   "line_id": "Clip_37_L013",
+   "src_start": 910.1,
+   "src_end": 914.86,
+   "en": [
+    "This thing is, so the Tremendous",
+    "movement is more..."
+   ],
+   "en_unmasked": "This thing is, so the Tremendous movement is more...",
+   "jp": [
+    "これはさ",
+    "“Tremendousムーブメント”…"
+   ],
+   "start": 46.779916666666736,
+   "end": 51.519916666666724
+  },
+  {
+   "line_id": "Clip_37_L013",
+   "src_start": 914.86,
+   "src_end": 916.9,
+   "en": [
+    "I don't want to call it a movement,",
+    "because you don't move nowhere."
+   ],
+   "en_unmasked": "I don't want to call it a movement, because you don't move nowhere.",
+   "jp": [
+    "いや、ムーブメントとは呼びたくない",
+    "どこにも動かないからな"
+   ],
+   "start": 51.53991666666673,
+   "end": 53.88991666666639
+  },
+  {
+   "line_id": "Clip_37_L014",
+   "src_start": 917.2299999999997,
+   "src_end": 921.46,
+   "en": [
+    "That's like, the Tremendous idea is",
+    "so much bigger than even a t-shirt,"
+   ],
+   "en_unmasked": "That's like, the Tremendous idea is so much bigger than even a t-shirt,",
+   "jp": [
+    "“Tremendous”って発想は",
+    "Tシャツなんかより　ずっとデカい"
+   ],
+   "start": 53.90991666666639,
+   "end": 58.11991666666675
+  },
+  {
+   "line_id": "Clip_37_L014",
+   "src_start": 921.46,
+   "src_end": 922.46,
+   "en": [
+    "the other t-shirt I wore."
+   ],
+   "en_unmasked": "the other t-shirt I wore.",
+   "jp": [
+    "前に着たTシャツよりもな"
+   ],
+   "start": 58.13991666666675,
+   "end": 59.54991666666647
+  },
+  {
+   "line_id": "Clip_37_L015",
+   "src_start": 922.8899999999998,
+   "src_end": 924.62,
+   "en": [
+    "Like, this is finna go crazy."
+   ],
+   "en_unmasked": "Like, this is finna go crazy.",
+   "jp": [
+    "これはヤバいことになるぞ"
+   ],
+   "start": 59.56991666666647,
+   "end": 61.79991666666672
+  },
+  {
+   "line_id": "Clip_37_L016",
+   "src_start": 925.62,
+   "src_end": 927.5,
+   "en": [
+    "People are... love this, and they love,"
+   ],
+   "en_unmasked": "People are... love this, and they love,",
+   "jp": [
+    "みんな気に入ってる"
+   ],
+   "start": 62.29991666666672,
+   "end": 64.15991666666672
+  },
+  {
+   "line_id": "Clip_37_L016",
+   "src_start": 927.5,
+   "src_end": 930.04,
+   "en": [
+    "because you got Dov Charney.",
+    "It's bigger than White Lives Matter."
+   ],
+   "en_unmasked": "because you got Dov Charney. It's bigger than White Lives Matter.",
+   "jp": [
+    "Dov Charneyが付いてるからな",
+    "White Lives Matterよりデカい"
+   ],
+   "start": 64.17991666666671,
+   "end": 67.13041666666673
+  }
+ ]
+}

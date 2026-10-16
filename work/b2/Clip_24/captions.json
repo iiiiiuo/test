@@ -1,0 +1,386 @@
+{
+ "clip": "Clip_24",
+ "total_s": 65.48208333333355,
+ "segments": [
+  [
+   1475.8076666666666,
+   1477.350875,
+   0.0
+  ],
+  [
+   1487.1940416666666,
+   1494.2010416666667,
+   1.5432083333334958
+  ],
+  [
+   1504.3361666666667,
+   1561.2680416666667,
+   8.550208333333558
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_24_L001",
+   "src_start": 1475.98,
+   "src_end": 1477.3,
+   "en": [
+    "Okay, let me talk about Balenciaga."
+   ],
+   "en_unmasked": "Okay, let me talk about Balenciaga.",
+   "jp": [
+    "よし、Balenciagaの話をさせてくれ"
+   ],
+   "start": 0.1723333333334267,
+   "end": 1.5232083333334958
+  },
+  {
+   "line_id": "Clip_24_L002",
+   "src_start": 1485.95,
+   "src_end": 1489.38,
+   "en": [
+    "Since you did the last interview,",
+    "I've been Balenciaga,"
+   ],
+   "en_unmasked": "Since you did the last interview, I've been Balenciaga,",
+   "jp": [
+    "前回のインタビュー以来",
+    "俺はずっとBalenciagaなんだよ"
+   ],
+   "start": 1.5432083333334958,
+   "end": 3.70916666666697
+  },
+  {
+   "line_id": "Clip_24_L002",
+   "src_start": 1489.38,
+   "src_end": 1491.76,
+   "en": [
+    "y'all. You know my nickname is Yalla."
+   ],
+   "en_unmasked": "y'all. You know my nickname is Yalla.",
+   "jp": [
+    "俺のあだ名はYallaだろ"
+   ],
+   "start": 3.72916666666697,
+   "end": 6.489166666666943
+  },
+  {
+   "line_id": "Clip_24_L003",
+   "src_start": 1492.16,
+   "src_end": 1493.47,
+   "en": [
+    "So now they call me Balenci-Yalla."
+   ],
+   "en_unmasked": "So now they call me Balenci-Yalla.",
+   "jp": [
+    "だから今じゃ",
+    "Balenci-Yallaって呼ばれてる"
+   ],
+   "start": 6.5091666666669425,
+   "end": 8.319166666666888
+  },
+  {
+   "line_id": "Clip_24_L004",
+   "src_start": 1505.26,
+   "src_end": 1507.97,
+   "en": [
+    "Balenciaga has the",
+    "best design because"
+   ],
+   "en_unmasked": "Balenciaga has the best design because",
+   "jp": [
+    "Balenciagaのデザインが最高なのは"
+   ],
+   "start": 9.474041666666835,
+   "end": 12.164041666666872
+  },
+  {
+   "line_id": "Clip_24_L004",
+   "src_start": 1507.97,
+   "src_end": 1511.28,
+   "en": [
+    "they have the best designer, period."
+   ],
+   "en_unmasked": "they have the best designer, period.",
+   "jp": [
+    "最高のデザイナーがいるからだ",
+    "それだけ"
+   ],
+   "start": 12.184041666666872,
+   "end": 15.794041666666754
+  },
+  {
+   "line_id": "Clip_24_L005",
+   "src_start": 1511.6,
+   "src_end": 1512.36,
+   "en": [
+    "And that's not you?"
+   ],
+   "en_unmasked": "And that's not you?",
+   "jp": [
+    "それはあんたじゃないの？"
+   ],
+   "start": 15.814041666666753,
+   "end": 17.074041666666744
+  },
+  {
+   "line_id": "Clip_24_L006",
+   "src_start": 1514.14,
+   "src_end": 1515.86,
+   "en": [
+    "I'm more like a Steve Jobs type."
+   ],
+   "en_unmasked": "I'm more like a Steve Jobs type.",
+   "jp": [
+    "俺はどっちかっていうと",
+    "スティーブ・ジョブズタイプ"
+   ],
+   "start": 18.354041666666944,
+   "end": 20.274041666666772
+  },
+  {
+   "line_id": "Clip_24_L007",
+   "src_start": 1516.08,
+   "src_end": 1518.26,
+   "en": [
+    "You know, you say to Steve,",
+    "like, yo, you don't even program."
+   ],
+   "en_unmasked": "You know, you say to Steve, like, yo, you don't even program.",
+   "jp": [
+    "スティーブに「お前プログラム",
+    "書かないじゃん」って言うようなもんだ"
+   ],
+   "start": 20.29404166666677,
+   "end": 23.034041666666763
+  },
+  {
+   "line_id": "Clip_24_L008",
+   "src_start": 1518.84,
+   "src_end": 1522.78,
+   "en": [
+    "You know, I would never",
+    "disrespect a designer that been to"
+   ],
+   "en_unmasked": "You know, I would never disrespect a designer that been to",
+   "jp": [
+    "学校に通って",
+    "型紙も切れて"
+   ],
+   "start": 23.054041666666762,
+   "end": 26.974041666666817
+  },
+  {
+   "line_id": "Clip_24_L008",
+   "src_start": 1522.78,
+   "src_end": 1526.5,
+   "en": [
+    "school and that can cut and",
+    "have dedicated their whole life,"
+   ],
+   "en_unmasked": "school and that can cut and have dedicated their whole life,",
+   "jp": [
+    "人生を捧げてきたデザイナーを差し置いて",
+    "自分をデザイナーだなんて"
+   ],
+   "start": 26.994041666666817,
+   "end": 30.694041666666845
+  },
+  {
+   "line_id": "Clip_24_L008",
+   "src_start": 1526.5,
+   "src_end": 1527.72,
+   "en": [
+    "and call myself a designer."
+   ],
+   "en_unmasked": "and call myself a designer.",
+   "jp": [
+    "絶対に名乗らない"
+   ],
+   "start": 30.714041666666844,
+   "end": 32.55404166666674
+  },
+  {
+   "line_id": "Clip_24_L009",
+   "src_start": 1528.36,
+   "src_end": 1530.7,
+   "en": [
+    "I'm more an imagineer."
+   ],
+   "en_unmasked": "I'm more an imagineer.",
+   "jp": [
+    "俺はむしろ",
+    "「イマジニア」なんだよ"
+   ],
+   "start": 32.574041666666744,
+   "end": 34.89404166666689
+  },
+  {
+   "line_id": "Clip_24_L010",
+   "src_start": 1530.7,
+   "src_end": 1535.02,
+   "en": [
+    "I'm a visionary, and I place the",
+    "pieces of our culture together."
+   ],
+   "en_unmasked": "I'm a visionary, and I place the pieces of our culture together.",
+   "jp": [
+    "ビジョンを描いて　俺たちのカルチャーの",
+    "ピースを組み合わせる"
+   ],
+   "start": 34.91404166666689,
+   "end": 39.57404166666695
+  },
+  {
+   "line_id": "Clip_24_L011",
+   "src_start": 1535.38,
+   "src_end": 1539.54,
+   "en": [
+    "Even right now, you know,",
+    "I want to bring joy and laughter."
+   ],
+   "en_unmasked": "Even right now, you know, I want to bring joy and laughter.",
+   "jp": [
+    "今だってさ",
+    "喜びと笑いを届けたいんだよ"
+   ],
+   "start": 39.59404166666695,
+   "end": 44.01404166666678
+  },
+  {
+   "line_id": "Clip_24_L012",
+   "src_start": 1539.82,
+   "src_end": 1542.22,
+   "en": [
+    "So even if, say, say,",
+    "say, we wanted to, like,"
+   ],
+   "en_unmasked": "So even if, say, say, say, we wanted to, like,",
+   "jp": [],
+   "start": 44.03404166666678,
+   "end": 46.41404166666687
+  },
+  {
+   "line_id": "Clip_24_L012",
+   "src_start": 1542.22,
+   "src_end": 1545.0,
+   "en": [
+    "look at the interview and we have",
+    "a conversation after and say,"
+   ],
+   "en_unmasked": "look at the interview and we have a conversation after and say,",
+   "jp": [
+    "たとえばこのインタビューを見返して",
+    "話し合ったとしても"
+   ],
+   "start": 46.43404166666687,
+   "end": 49.344041666666705
+  },
+  {
+   "line_id": "Clip_24_L012",
+   "src_start": 1545.1499999999999,
+   "src_end": 1546.44,
+   "en": [
+    "look, do we need this first segment?"
+   ],
+   "en_unmasked": "look, do we need this first segment?",
+   "jp": [
+    "「最初のパートって",
+    "要る？」って"
+   ],
+   "start": 49.36404166666671,
+   "end": 50.77404166666677
+  },
+  {
+   "line_id": "Clip_24_L013",
+   "src_start": 1546.58,
+   "src_end": 1549.48,
+   "en": [
+    "Let's just do the s**t that's like,",
+    "you know, it's controversial,"
+   ],
+   "en_unmasked": "Let's just do the shit that's like, you know, it's controversial,",
+   "jp": [
+    "物議を醸すやつは　そのままでいい",
+    "だってみんな"
+   ],
+   "start": 50.79404166666677,
+   "end": 53.67404166666686
+  },
+  {
+   "line_id": "Clip_24_L013",
+   "src_start": 1549.48,
+   "src_end": 1551.08,
+   "en": [
+    "because people ain't going",
+    "to really name names."
+   ],
+   "en_unmasked": "because people ain't going to really name names.",
+   "jp": [
+    "はっきり名前は出さないから"
+   ],
+   "start": 53.69404166666686,
+   "end": 55.474041666666814
+  },
+  {
+   "line_id": "Clip_24_L014",
+   "src_start": 1551.28,
+   "src_end": 1554.1,
+   "en": [
+    "But it's funny still. I think about that."
+   ],
+   "en_unmasked": "But it's funny still. I think about that.",
+   "jp": [
+    "でもやっぱり笑えるんだよ",
+    "そう思う"
+   ],
+   "start": 55.49404166666682,
+   "end": 58.35404166666692
+  },
+  {
+   "line_id": "Clip_24_L015",
+   "src_start": 1554.16,
+   "src_end": 1557.4,
+   "en": [
+    "It's like, we need joy.",
+    "It's too much pain."
+   ],
+   "en_unmasked": "It's like, we need joy. It's too much pain.",
+   "jp": [
+    "俺たちには喜びが必要だ",
+    "痛みが多すぎる"
+   ],
+   "start": 58.374041666666926,
+   "end": 61.59404166666693
+  },
+  {
+   "line_id": "Clip_24_L016",
+   "src_start": 1557.4,
+   "src_end": 1558.96,
+   "en": [
+    "You know, it's too much anger,"
+   ],
+   "en_unmasked": "You know, it's too much anger,",
+   "jp": [
+    "怒りも多すぎるし"
+   ],
+   "start": 61.614041666666935,
+   "end": 63.15404166666688
+  },
+  {
+   "line_id": "Clip_24_L016",
+   "src_start": 1558.96,
+   "src_end": 1561.4,
+   "en": [
+    "and it's too much trauma economy."
+   ],
+   "en_unmasked": "and it's too much trauma economy.",
+   "jp": [
+    "「トラウマ経済」が",
+    "デカすぎる"
+   ],
+   "start": 63.17404166666688,
+   "end": 65.46208333333355
+  }
+ ]
+}

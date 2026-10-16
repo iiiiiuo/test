@@ -1,0 +1,97 @@
+{
+ "clip": "Clip_33",
+ "candidate": "S12",
+ "title": "Old enough to be president",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 26226,
+   "end_frame_excl": 28233,
+   "start_pts": 26253210,
+   "end_pts_excl": 28262217,
+   "start_s": 1093.88375,
+   "end_s": 1177.592375
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 52506420,
+   "end_sample_48k_excl": 56524434,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 26226,
+   "end_frame_excl": 26240,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 268,
+    "y": 0
+   },
+   "basis": "face cx=828 cy=385 w=420 n=3/3"
+  },
+  {
+   "start_frame": 26240,
+   "end_frame_excl": 27008,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 394,
+    "y": 0
+   },
+   "basis": "face cx=953 cy=312 w=364 n=9/12"
+  },
+  {
+   "start_frame": 27008,
+   "end_frame_excl": 27055,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 387,
+    "y": 0
+   },
+   "basis": "face cx=946 cy=314 w=410 n=8/8"
+  },
+  {
+   "start_frame": 27055,
+   "end_frame_excl": 28233,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 320,
+    "y": 0
+   },
+   "basis": "face cx=879 cy=337 w=398 n=5/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_33/subtitles.ass",
+  "sha256": "e5d29a4a8c86ed4b71699e3f92c60cb7e9fefb33dd245869fcc0469c544ebe20"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_33/render.mp4",
+  "sha256": "3e47b274c2e83bcfedee6f47cd5867569077c7f0d957827d25f35b047b8868ee"
+ }
+}

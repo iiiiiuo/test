@@ -1,6 +1,6 @@
 {
  "schema": "multi-source-v2",
- "updated": "2026-10-16T07:33:19Z",
+ "updated": "2026-10-16T08:54:53Z",
  "interval_convention": "half-open [start_frame,end_frame_exclusive); frame=ceil((t*24000-start_pts)/1001); timebase 1/24000",
  "sources": {
   "part_1": {
@@ -376,7 +376,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_22",
    "candidate": "S01",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 3724,
    "end_frame_excl": 6020,
    "start_s": 155.3,
@@ -391,7 +391,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_23",
    "candidate": "S02",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 26288,
    "end_frame_excl": 27406,
    "start_s": 1096.4,
@@ -406,7 +406,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_23",
    "candidate": "S02",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 27761,
    "end_frame_excl": 28701,
    "start_s": 1157.86,
@@ -421,7 +421,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_24",
    "candidate": "S03",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 35384,
    "end_frame_excl": 35421,
    "start_s": 1475.8,
@@ -436,7 +436,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_24",
    "candidate": "S03",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 35630,
    "end_frame_excl": 35821,
    "start_s": 1486.06,
@@ -451,7 +451,7 @@
    "source_id": "part_1",
    "clip_id": "Clip_24",
    "candidate": "S03",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 36090,
    "end_frame_excl": 37437,
    "start_s": 1505.24,
@@ -466,7 +466,7 @@
    "source_id": "part_3",
    "clip_id": "Clip_25",
    "candidate": "S04",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 26579,
    "end_frame_excl": 27922,
    "start_s": 1108.56,
@@ -481,7 +481,7 @@
    "source_id": "part_3",
    "clip_id": "Clip_25",
    "candidate": "S04",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 28091,
    "end_frame_excl": 28560,
    "start_s": 1171.61,
@@ -496,7 +496,7 @@
    "source_id": "part_3",
    "clip_id": "Clip_26",
    "candidate": "S05",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 44624,
    "end_frame_excl": 45297,
    "start_s": 1861.18,
@@ -511,7 +511,7 @@
    "source_id": "part_3",
    "clip_id": "Clip_26",
    "candidate": "S05",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 45450,
    "end_frame_excl": 46751,
    "start_s": 1895.64,
@@ -526,7 +526,7 @@
    "source_id": "part_4",
    "clip_id": "Clip_27",
    "candidate": "S07",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 15783,
    "end_frame_excl": 17377,
    "start_s": 658.27,
@@ -541,7 +541,7 @@
    "source_id": "part_4",
    "clip_id": "Clip_28",
    "candidate": "S06",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 24044,
    "end_frame_excl": 25593,
    "start_s": 1002.8,
@@ -556,7 +556,7 @@
    "source_id": "part_4",
    "clip_id": "Clip_29",
    "candidate": "S08",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 31821,
    "end_frame_excl": 33586,
    "start_s": 1327.18,
@@ -571,7 +571,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_30",
    "candidate": "S09",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 1239,
    "end_frame_excl": 3511,
    "start_s": 51.7,
@@ -586,7 +586,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_31",
    "candidate": "S10",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 3772,
    "end_frame_excl": 5173,
    "start_s": 157.34,
@@ -601,7 +601,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_31",
    "candidate": "S10",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 5291,
    "end_frame_excl": 5579,
    "start_s": 220.7,
@@ -616,7 +616,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_32",
    "candidate": "S11",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 14433,
    "end_frame_excl": 16698,
    "start_s": 602.0,
@@ -631,7 +631,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_33",
    "candidate": "S12",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 26224,
    "end_frame_excl": 28229,
    "start_s": 1093.78,
@@ -646,7 +646,7 @@
    "source_id": "part_5",
    "clip_id": "Clip_34",
    "candidate": "S13",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 39607,
    "end_frame_excl": 41650,
    "start_s": 1651.96,
@@ -661,7 +661,7 @@
    "source_id": "part_6",
    "clip_id": "Clip_35",
    "candidate": "S15",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 14306,
    "end_frame_excl": 15910,
    "start_s": 596.72,
@@ -676,7 +676,7 @@
    "source_id": "part_6",
    "clip_id": "Clip_36",
    "candidate": "S14",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 15926,
    "end_frame_excl": 17812,
    "start_s": 664.28,
@@ -691,7 +691,7 @@
    "source_id": "part_6",
    "clip_id": "Clip_37",
    "candidate": "S16",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 20698,
    "end_frame_excl": 22292,
    "start_s": 863.32,
@@ -706,7 +706,7 @@
    "source_id": "part_6",
    "clip_id": "Clip_38",
    "candidate": "S17",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 32780,
    "end_frame_excl": 34576,
    "start_s": 1367.23,
@@ -721,7 +721,7 @@
    "source_id": "part_6",
    "clip_id": "Clip_39",
    "candidate": "S18",
-   "status": "RESERVED_APPROVED",
+   "status": "SUPERSEDED_BY_COMMIT",
    "start_frame": 34618,
    "end_frame_excl": 36453,
    "start_s": 1443.9,
@@ -1109,6 +1109,344 @@
     57169078,
     60448354
    ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_22",
+   "status": "COMMITTED",
+   "start_frame": 3726,
+   "end_frame_excl": 6017,
+   "start_s": 155.40525,
+   "end_s": 250.959042,
+   "audio_48k": [
+    7459452,
+    12046034
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_23",
+   "status": "COMMITTED",
+   "start_frame": 26288,
+   "end_frame_excl": 27408,
+   "start_s": 1096.428667,
+   "end_s": 1143.142,
+   "audio_48k": [
+    52628576,
+    54870816
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_23",
+   "status": "COMMITTED",
+   "start_frame": 27758,
+   "end_frame_excl": 28706,
+   "start_s": 1157.739917,
+   "end_s": 1197.279417,
+   "audio_48k": [
+    55571516,
+    57469412
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "status": "COMMITTED",
+   "start_frame": 35384,
+   "end_frame_excl": 35421,
+   "start_s": 1475.807667,
+   "end_s": 1477.350875,
+   "audio_48k": [
+    70838768,
+    70912842
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "status": "COMMITTED",
+   "start_frame": 35657,
+   "end_frame_excl": 35825,
+   "start_s": 1487.194042,
+   "end_s": 1494.201042,
+   "audio_48k": [
+    71385314,
+    71721650
+   ]
+  },
+  {
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "status": "COMMITTED",
+   "start_frame": 36068,
+   "end_frame_excl": 37433,
+   "start_s": 1504.336167,
+   "end_s": 1561.268042,
+   "audio_48k": [
+    72208136,
+    74940866
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_25",
+   "status": "COMMITTED",
+   "start_frame": 26569,
+   "end_frame_excl": 27927,
+   "start_s": 1108.148708,
+   "end_s": 1164.788625,
+   "audio_48k": [
+    53191138,
+    55909854
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_25",
+   "status": "COMMITTED",
+   "start_frame": 28091,
+   "end_frame_excl": 28557,
+   "start_s": 1171.628792,
+   "end_s": 1191.064875,
+   "audio_48k": [
+    56238182,
+    57171114
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_26",
+   "status": "COMMITTED",
+   "start_frame": 44628,
+   "end_frame_excl": 45298,
+   "start_s": 1861.3595,
+   "end_s": 1889.304083,
+   "audio_48k": [
+    89345256,
+    90686596
+   ]
+  },
+  {
+   "source_id": "part_3",
+   "clip_id": "Clip_26",
+   "status": "COMMITTED",
+   "start_frame": 45450,
+   "end_frame_excl": 46750,
+   "start_s": 1895.64375,
+   "end_s": 1949.864583,
+   "audio_48k": [
+    90990900,
+    93593500
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_27",
+   "status": "COMMITTED",
+   "start_frame": 15777,
+   "end_frame_excl": 17380,
+   "start_s": 658.032375,
+   "end_s": 724.890833,
+   "audio_48k": [
+    31585554,
+    34794760
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_28",
+   "status": "COMMITTED",
+   "start_frame": 24042,
+   "end_frame_excl": 25592,
+   "start_s": 1002.75175,
+   "end_s": 1067.399667,
+   "audio_48k": [
+    48132084,
+    51235184
+   ]
+  },
+  {
+   "source_id": "part_4",
+   "clip_id": "Clip_29",
+   "status": "COMMITTED",
+   "start_frame": 31824,
+   "end_frame_excl": 33598,
+   "start_s": 1327.326,
+   "end_s": 1401.316583,
+   "audio_48k": [
+    63711648,
+    67263196
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_30",
+   "status": "COMMITTED",
+   "start_frame": 1238,
+   "end_frame_excl": 3510,
+   "start_s": 51.675917,
+   "end_s": 146.43725,
+   "audio_48k": [
+    2480444,
+    7028988
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_31",
+   "status": "COMMITTED",
+   "start_frame": 3772,
+   "end_frame_excl": 5176,
+   "start_s": 157.364833,
+   "end_s": 215.923333,
+   "audio_48k": [
+    7553512,
+    10364320
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_31",
+   "status": "COMMITTED",
+   "start_frame": 5293,
+   "end_frame_excl": 5580,
+   "start_s": 220.803208,
+   "end_s": 232.7735,
+   "audio_48k": [
+    10598554,
+    11173128
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_32",
+   "status": "COMMITTED",
+   "start_frame": 14419,
+   "end_frame_excl": 16712,
+   "start_s": 601.433458,
+   "end_s": 697.070667,
+   "audio_48k": [
+    28868806,
+    33459392
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_33",
+   "status": "COMMITTED",
+   "start_frame": 26226,
+   "end_frame_excl": 28233,
+   "start_s": 1093.88375,
+   "end_s": 1177.592375,
+   "audio_48k": [
+    52506420,
+    56524434
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_34",
+   "status": "COMMITTED",
+   "start_frame": 39610,
+   "end_frame_excl": 41193,
+   "start_s": 1652.108083,
+   "end_s": 1718.132375,
+   "audio_48k": [
+    79301188,
+    82470354
+   ]
+  },
+  {
+   "source_id": "part_5",
+   "clip_id": "Clip_34",
+   "status": "COMMITTED",
+   "start_frame": 41241,
+   "end_frame_excl": 41651,
+   "start_s": 1720.134375,
+   "end_s": 1737.234792,
+   "audio_48k": [
+    82566450,
+    83387270
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_35",
+   "status": "COMMITTED",
+   "start_frame": 14306,
+   "end_frame_excl": 15306,
+   "start_s": 596.720417,
+   "end_s": 638.42875,
+   "audio_48k": [
+    28642580,
+    30644580
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_35",
+   "status": "COMMITTED",
+   "start_frame": 15380,
+   "end_frame_excl": 15917,
+   "start_s": 641.515167,
+   "end_s": 663.912542,
+   "audio_48k": [
+    30792728,
+    31867802
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_36",
+   "status": "COMMITTED",
+   "start_frame": 15917,
+   "end_frame_excl": 17811,
+   "start_s": 663.912542,
+   "end_s": 742.908125,
+   "audio_48k": [
+    31867802,
+    35659590
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_37",
+   "status": "COMMITTED",
+   "start_frame": 20698,
+   "end_frame_excl": 22308,
+   "start_s": 863.320083,
+   "end_s": 930.4705,
+   "audio_48k": [
+    41439364,
+    44662584
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_38",
+   "status": "COMMITTED",
+   "start_frame": 32765,
+   "end_frame_excl": 34573,
+   "start_s": 1366.614542,
+   "end_s": 1442.023208,
+   "audio_48k": [
+    65597498,
+    69217114
+   ]
+  },
+  {
+   "source_id": "part_6",
+   "clip_id": "Clip_39",
+   "status": "COMMITTED",
+   "start_frame": 34607,
+   "end_frame_excl": 36468,
+   "start_s": 1443.441292,
+   "end_s": 1521.0605,
+   "audio_48k": [
+    69285182,
+    73010904
+   ]
   }
  ],
  "overlap_check": {
@@ -1122,5 +1460,10 @@
   "reservations": [],
   "committed": [],
   "note": "SOURCE_INTERVIEW / SOURCE_VIDEO ledger kept as is; different programme (29.97 fps) so no cross-source overlap possible. Full copy: work/legacy/"
+ },
+ "overlap_check_series2": {
+  "checked_at": "2026-10-16T08:54:53Z",
+  "pairs_overlapping": 0,
+  "method": "half-open frame and 48k-sample intervals per source, all series-2 pairs and every series-2 vs committed series-1 pair"
  }
 }

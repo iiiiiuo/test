@@ -1,0 +1,108 @@
+{
+ "clip": "Clip_38",
+ "candidate": "S17",
+ "title": "The audacity",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 32765,
+   "end_frame_excl": 34573,
+   "start_pts": 32798749,
+   "end_pts_excl": 34608557,
+   "start_s": 1366.614542,
+   "end_s": 1442.023208
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 65597498,
+   "end_sample_48k_excl": 69217114,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 32765,
+   "end_frame_excl": 32778,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 32778,
+   "end_frame_excl": 32852,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "face cx=931 cy=486 w=303 n=12/12"
+  },
+  {
+   "start_frame": 32852,
+   "end_frame_excl": 33226,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 33226,
+   "end_frame_excl": 33302,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 252,
+    "y": 0
+   },
+   "basis": "face cx=812 cy=378 w=410 n=6/7"
+  },
+  {
+   "start_frame": 33302,
+   "end_frame_excl": 34573,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 252,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_38/subtitles.ass",
+  "sha256": "bb511526eedc0444818b321c20496b83ab53031194ccb8c85260cdb469f9c452"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_38/render.mp4",
+  "sha256": "a798ef9121093c3b9971cd43b7e61b534a7efd7ebd96d3b3fa4ad6a74e77aa29"
+ }
+}

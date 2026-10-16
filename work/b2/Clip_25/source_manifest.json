@@ -1,0 +1,165 @@
+{
+ "clip": "Clip_25",
+ "candidate": "S04",
+ "title": "I am a leader, not the leader",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 26569,
+   "end_frame_excl": 27927,
+   "start_pts": 26595569,
+   "end_pts_excl": 27954927,
+   "start_s": 1108.148708,
+   "end_s": 1164.788625
+  },
+  {
+   "start_frame": 28091,
+   "end_frame_excl": 28557,
+   "start_pts": 28119091,
+   "end_pts_excl": 28585557,
+   "start_s": 1171.628792,
+   "end_s": 1191.064875
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 53191138,
+   "end_sample_48k_excl": 55909854,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 56238182,
+   "end_sample_48k_excl": 57171114,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 26569,
+   "end_frame_excl": 26971,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 516,
+    "y": 84
+   },
+   "basis": "face cx=983 cy=354 w=270 n=11/12"
+  },
+  {
+   "start_frame": 26971,
+   "end_frame_excl": 26987,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 354,
+    "y": 0
+   },
+   "basis": "face cx=913 cy=344 w=362 n=3/3"
+  },
+  {
+   "start_frame": 26987,
+   "end_frame_excl": 27245,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 458,
+    "y": 0
+   },
+   "basis": "face cx=1017 cy=352 w=362 n=9/11"
+  },
+  {
+   "start_frame": 27245,
+   "end_frame_excl": 27299,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 366,
+    "y": 0
+   },
+   "basis": "face cx=925 cy=388 w=328 n=8/9"
+  },
+  {
+   "start_frame": 27299,
+   "end_frame_excl": 27415,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 506,
+    "y": 0
+   },
+   "basis": "face cx=1065 cy=332 w=320 n=7/10"
+  },
+  {
+   "start_frame": 27415,
+   "end_frame_excl": 27460,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 308,
+    "y": 0
+   },
+   "basis": "face cx=868 cy=360 w=387 n=8/8"
+  },
+  {
+   "start_frame": 27460,
+   "end_frame_excl": 27895,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 478,
+    "y": 0
+   },
+   "basis": "face cx=1037 cy=368 w=376 n=8/11"
+  },
+  {
+   "start_frame": 27895,
+   "end_frame_excl": 27927,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 214,
+    "y": 0
+   },
+   "basis": "face cx=774 cy=328 w=379 n=6/6"
+  },
+  {
+   "start_frame": 28091,
+   "end_frame_excl": 28557,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 408,
+    "y": 0
+   },
+   "basis": "face cx=967 cy=331 w=353 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_25/subtitles.ass",
+  "sha256": "bb4e6bc242acf7594cf85e6e66115b510add6afe1f7ca233d7ed8da1b4f24272"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_25/render.mp4",
+  "sha256": "a61b701dba128792a37cc2b46543365f02187df904e24f9fcfad62314e5da07b"
+ }
+}

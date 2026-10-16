@@ -1,0 +1,109 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.32,0:00:03.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, they done
+Dialogue: 0,0:00:00.32,0:00:03.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}f**k with me too long.
+Dialogue: 0,0:00:00.32,0:00:03.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつら　長いこと俺を　ナメすぎたんだよ
+Dialogue: 0,0:00:03.39,0:00:05.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Every time they say my name wrong,
+Dialogue: 0,0:00:03.39,0:00:05.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}名前を間違えて呼ばれるたびに
+Dialogue: 0,0:00:05.98,0:00:09.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's like they calling me
+Dialogue: 0,0:00:05.98,0:00:09.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Cassius. My name Ali.
+Dialogue: 0,0:00:05.98,0:00:09.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Cassiusって呼ばれてる気分
+Dialogue: 0,0:00:05.98,0:00:09.47,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺の名前はAliだ
+Dialogue: 0,0:00:11.08,0:00:13.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If I change my name, you
+Dialogue: 0,0:00:11.08,0:00:13.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}respect that I changed my name.
+Dialogue: 0,0:00:11.08,0:00:13.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}名前を変えたなら
+Dialogue: 0,0:00:11.08,0:00:13.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それを尊重しろよ
+Dialogue: 0,0:00:14.01,0:00:16.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It shows you the level of disrespect.
+Dialogue: 0,0:00:14.01,0:00:16.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どれだけナメてるかって話だ
+Dialogue: 0,0:00:16.68,0:00:19.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Every time they say one
+Dialogue: 0,0:00:16.68,0:00:19.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of my outfits are bizarre,
+Dialogue: 0,0:00:16.68,0:00:19.15,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺の服を毎回
+Dialogue: 0,0:00:16.68,0:00:19.15,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「奇抜」って書くくせに
+Dialogue: 0,0:00:19.17,0:00:20.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}when the last time
+Dialogue: 0,0:00:19.17,0:00:20.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you read a headline
+Dialogue: 0,0:00:19.17,0:00:20.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}見出しで俺を
+Dialogue: 0,0:00:19.17,0:00:20.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「億万長者」って書いてたのを
+Dialogue: 0,0:00:20.81,0:00:22.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and they called me a billionaire?
+Dialogue: 0,0:00:20.81,0:00:22.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}最後に見たのはいつだ？
+Dialogue: 0,0:00:22.96,0:00:26.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}For three years, Forbes
+Dialogue: 0,0:00:22.96,0:00:26.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}wouldn't say I was a billionaire.
+Dialogue: 0,0:00:22.96,0:00:26.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}3年間Forbesは
+Dialogue: 0,0:00:22.96,0:00:26.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺を億万長者と認めなかった
+Dialogue: 0,0:00:26.34,0:00:29.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's all to diminish me,
+Dialogue: 0,0:00:26.34,0:00:29.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}so y'all wouldn't listen to me.
+Dialogue: 0,0:00:26.34,0:00:29.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}全部俺を小さく見せて
+Dialogue: 0,0:00:26.34,0:00:29.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前らが耳を貸さないようにするためだ
+Dialogue: 0,0:00:29.72,0:00:31.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So, say, when I did the Ye
+Dialogue: 0,0:00:29.72,0:00:31.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and Drake show, right?
+Dialogue: 0,0:00:29.72,0:00:31.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、俺とDrakeの
+Dialogue: 0,0:00:29.72,0:00:31.93,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ライブをやった時な
+Dialogue: 0,0:00:31.95,0:00:35.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's so funny, I look up and it say Ye,
+Dialogue: 0,0:00:31.95,0:00:35.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}笑えるんだけど
+Dialogue: 0,0:00:31.95,0:00:35.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}見上げたら
+Dialogue: 0,0:00:35.48,0:00:37.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}D-R-K, right there.
+Dialogue: 0,0:00:35.48,0:00:37.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「Ye、D-R-K」って書いてあって
+Dialogue: 0,0:00:37.54,0:00:41.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But, uh, I just... it's
+Dialogue: 0,0:00:37.54,0:00:41.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}just a similarity to it.
+Dialogue: 0,0:00:37.54,0:00:41.61,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}なんか…
+Dialogue: 0,0:00:37.54,0:00:41.61,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}似てるってだけなんだけど
+Dialogue: 0,0:00:41.63,0:00:42.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Are you dyslexic like me?
+Dialogue: 0,0:00:41.63,0:00:42.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺みたいに
+Dialogue: 0,0:00:41.63,0:00:42.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}失読症なのか？
+Dialogue: 0,0:00:42.85,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, absolutely. Gemini,
+Dialogue: 0,0:00:42.85,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}dyslexic, left-handed,
+Dialogue: 0,0:00:42.85,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ああ、もちろん　双子座で失読症
+Dialogue: 0,0:00:42.85,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}左利きなのに
+Dialogue: 0,0:00:44.91,0:00:46.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}made to be right-handed
+Dialogue: 0,0:00:44.91,0:00:46.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}so I could fit in.
+Dialogue: 0,0:00:44.91,0:00:46.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}周りに合わせて右利きにされた
+Dialogue: 0,0:00:46.85,0:00:48.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Think about, like, Nike.
+Dialogue: 0,0:00:46.85,0:00:48.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Nikeを考えてみろよ
+Dialogue: 0,0:00:48.13,0:00:50.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Nike is as popular as Apple,
+Dialogue: 0,0:00:48.13,0:00:50.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}NikeはAppleと同じくらい人気なのに
+Dialogue: 0,0:00:50.69,0:00:53.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but it's company number
+Dialogue: 0,0:00:50.69,0:00:53.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}321. Apple's number one.
+Dialogue: 0,0:00:50.69,0:00:53.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}企業ランキングは321位
+Dialogue: 0,0:00:50.69,0:00:53.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Appleは1位だ
+Dialogue: 0,0:00:55.14,0:00:57.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Nike's on defense. It's not on offense.
+Dialogue: 0,0:00:55.14,0:00:57.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Nikeは守りの会社なんだよ
+Dialogue: 0,0:00:55.14,0:00:57.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}攻めじゃない
+Dialogue: 0,0:00:58.42,0:01:01.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right? Because ni**as love Nike.
+Dialogue: 0,0:00:58.42,0:01:01.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だろ？
+Dialogue: 0,0:00:58.42,0:01:01.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}みんなNikeが大好きだからな
+Dialogue: 0,0:01:01.88,0:01:04.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right? So Nike is used
+Dialogue: 0,0:01:01.88,0:01:04.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}for political influence,
+Dialogue: 0,0:01:01.88,0:01:04.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからNikeは
+Dialogue: 0,0:01:01.88,0:01:04.00,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}政治的な影響力に使われる
+Dialogue: 0,0:01:04.02,0:01:06.58,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because it's not about
+Dialogue: 0,0:01:04.02,0:01:06.58,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the money you make.
+Dialogue: 0,0:01:04.02,0:01:06.58,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}稼ぐ金じゃなくて
+Dialogue: 0,0:01:06.60,0:01:08.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's about the position you have.
+Dialogue: 0,0:01:06.60,0:01:08.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どんな立場にいるかが大事なんだ
+Dialogue: 0,0:01:08.38,0:01:12.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So when they signed me to Gap,
+Dialogue: 0,0:01:08.38,0:01:12.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it wasn't to raise a stock price.
+Dialogue: 0,0:01:08.38,0:01:12.18,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからGapが俺と契約したのも
+Dialogue: 0,0:01:08.38,0:01:12.18,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}株価を上げるためじゃない
+Dialogue: 0,0:01:12.20,0:01:14.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It was to be able to, like,
+Dialogue: 0,0:01:12.20,0:01:14.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}中国と取引してる
+Dialogue: 0,0:01:14.32,0:01:18.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}tell the Fortune 500 companies
+Dialogue: 0,0:01:14.32,0:01:18.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that do deals with China,
+Dialogue: 0,0:01:14.32,0:01:18.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Fortune 500の企業に
+Dialogue: 0,0:01:14.32,0:01:18.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「Gapは低所得層の地域に
+Dialogue: 0,0:01:18.25,0:01:23.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to tell them, hey, Gap has influence
+Dialogue: 0,0:01:18.25,0:01:23.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in the underserved communities.
+Dialogue: 0,0:01:18.25,0:01:23.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}影響力がある」って
+Dialogue: 0,0:01:18.25,0:01:23.66,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}示すためだった
+Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That was what the deal was about.
+Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あの契約は
+Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういうことだったんだよ

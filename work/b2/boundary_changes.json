@@ -40,12 +40,12 @@
   "interval": 0,
   "kind": "end",
   "window": [
-   1142.87,
-   1143.02
+   1142.99,
+   1143.14
   ],
-  "cut_s": 1142.9,
-  "cut_rms_dbfs": -17.0,
-  "reason": "auto: between 'in' and 'okay'"
+  "cut_s": 1143.13,
+  "cut_rms_dbfs": -33.7,
+  "reason": "end after 'fit in' (energy to 1143.05, critic r1), before 'okay'"
  },
  {
   "clip": "Clip_23",
@@ -64,12 +64,12 @@
   "interval": 1,
   "kind": "end",
   "window": [
-   1196.82,
-   1197.02
+   1197.15,
+   1197.3
   ],
-  "cut_s": 1196.965,
-  "cut_rms_dbfs": -21.2,
-  "reason": "end after 'what the deal was about.', before 'That's a girl part'"
+  "cut_s": 1197.285,
+  "cut_rms_dbfs": -25.1,
+  "reason": "end after 'about.' (energy to ~1197.22, critic r1), before 'That's a girl part'"
  },
  {
   "clip": "Clip_24",
@@ -100,12 +100,12 @@
   "interval": 1,
   "kind": "start",
   "window": [
-   1485.92,
-   1486.08
+   1487.15,
+   1487.3
   ],
-  "cut_s": 1486.055,
-  "cut_rms_dbfs": -26.5,
-  "reason": "auto: between 'too.' and 'I've'"
+  "cut_s": 1487.21,
+  "cut_rms_dbfs": -19.0,
+  "reason": "start at 'since' (critic r1: uncaptioned 'I ain't gonna lie, I've been' before it)"
  },
  {
   "clip": "Clip_24",
@@ -148,12 +148,12 @@
   "interval": 0,
   "kind": "start",
   "window": [
-   1108.58,
-   1108.73
+   1108.1,
+   1108.4
   ],
-  "cut_s": 1108.72,
-  "cut_rms_dbfs": -13.1,
-  "reason": "auto: between 'and' and 'i'"
+  "cut_s": 1108.14,
+  "cut_rms_dbfs": -30.9,
+  "reason": "start before 'And I' onset (energy rises 1108.48; critic r1 note: first word trimmed)"
  },
  {
   "clip": "Clip_25",
@@ -244,24 +244,24 @@
   "interval": 0,
   "kind": "start",
   "window": [
-   658.29,
-   658.44
+   657.98,
+   658.13
   ],
-  "cut_s": 658.395,
-  "cut_rms_dbfs": -29.1,
-  "reason": "auto: between 'uh' and 'because'"
+  "cut_s": 658.045,
+  "cut_rms_dbfs": -26.5,
+  "reason": "start in dip before 'uh because' (critic r2: opened inside 'Because')"
  },
  {
   "clip": "Clip_27",
   "interval": 0,
   "kind": "end",
   "window": [
-   724.57,
-   724.72
+   724.79,
+   724.94
   ],
-  "cut_s": 724.705,
-  "cut_rms_dbfs": -19.4,
-  "reason": "auto: between 'manner' and 'what'"
+  "cut_s": 724.91,
+  "cut_rms_dbfs": -24.2,
+  "reason": "end in dip after 'manner' (critic r2: cut while 'manner' sounding), before 'what'"
  },
  {
   "clip": "Clip_28",
@@ -316,12 +316,12 @@
   "interval": 0,
   "kind": "start",
   "window": [
-   51.72,
-   51.87
+   51.62,
+   51.78
   ],
-  "cut_s": 51.835,
-  "cut_rms_dbfs": -12.5,
-  "reason": "auto: between 'is,' and 'this'"
+  "cut_s": 51.695,
+  "cut_rms_dbfs": -14.0,
+  "reason": "start in the gap between 'is,' and 'this is the thing' (critic r1: 51.47 opened on uncaptioned 'thing is')"
  },
  {
   "clip": "Clip_30",
@@ -364,24 +364,24 @@
   "interval": 1,
   "kind": "start",
   "window": [
-   219.72,
-   220.72
+   220.7,
+   220.85
   ],
-  "cut_s": 220.38,
-  "cut_rms_dbfs": -17.4,
-  "reason": "auto: between 'Champs.' and 'And'"
+  "cut_s": 220.81,
+  "cut_rms_dbfs": -27.8,
+  "reason": "start in dip before 'And think about this' (energy check: old start in continuous audio)"
  },
  {
   "clip": "Clip_31",
   "interval": 1,
   "kind": "end",
   "window": [
-   232.5,
-   232.72
+   232.65,
+   232.8
   ],
-  "cut_s": 232.51,
-  "cut_rms_dbfs": -17.6,
-  "reason": "end after 'in the world.', before 'we sat there'"
+  "cut_s": 232.79,
+  "cut_rms_dbfs": -19.6,
+  "reason": "end in dip after 'world.' (energy: 'world' sounds 232.46-232.70), before 'we sat there'"
  },
  {
   "clip": "Clip_32",
@@ -448,12 +448,25 @@
   "interval": 0,
   "kind": "end",
   "window": [
-   1737.05,
-   1737.2
+   1737.09,
+   1737.24
   ],
-  "cut_s": 1737.085,
-  "cut_rms_dbfs": -17.0,
-  "reason": "auto: between 'now.' and 'Yeah,'"
+  "cut_s": 1737.23,
+  "cut_rms_dbfs": -17.9,
+  "reason": "end after 'right now.' (energy to ~1737.17), before 'Yeah'"
+ },
+ {
+  "clip": "Clip_34",
+  "kind": "internal_cut",
+  "removed_frames": [
+   41193,
+   41241
+  ],
+  "removed_s": [
+   1718.13,
+   1720.125
+  ],
+  "reason": "remove uncaptioned, unapproved interjection 'You're transcending' (critic r1: 2.2 s uncaptioned speech)"
  },
  {
   "clip": "Clip_35",
@@ -478,6 +491,19 @@
   "cut_s": 663.93,
   "cut_rms_dbfs": -37.5,
   "reason": "auto: between 'now.' and 'Did'"
+ },
+ {
+  "clip": "Clip_35",
+  "kind": "internal_cut",
+  "removed_frames": [
+   15306,
+   15380
+  ],
+  "removed_s": [
+   638.42,
+   641.525
+  ],
+  "reason": "jump cut removes repeated, unapproved 'This is a race, I've been trying to tell you that' (critic r1: 1.8 s uncaptioned)"
  },
  {
   "clip": "Clip_36",
@@ -556,12 +582,12 @@
   "interval": 0,
   "kind": "start",
   "window": [
-   1443.7,
-   1444.0
+   1443.42,
+   1443.57
   ],
-  "cut_s": 1443.89,
-  "cut_rms_dbfs": -16.9,
-  "reason": "auto: between '' and 'And'"
+  "cut_s": 1443.455,
+  "cut_rms_dbfs": -32.8,
+  "reason": "start in dip before 'And so' onset (energy rises 1443.56)"
  },
  {
   "clip": "Clip_39",

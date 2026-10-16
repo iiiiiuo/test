@@ -1,0 +1,35 @@
+# Clip_24 source context (part_1.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1475.81-1477.35s (frames 35384-35421)
+    1451.34- 1458.76 for trap he started laughing uh so but then but then i switched i said lord take me where you want
+    1458.76- 1468.12 to take me too much drama lately your life gonna change right now your life gonna change right now
+    1468.12- 1475.82 Balenciaga for all your friends and friends for the arguments your life had to change right now
+    1475.82- 1481.11 okay let me talk about balenciaga okay i'm balenciaga that just in case you don't know i
+    1481.11- 1488.35 study yeah so i got the lights lighting up too i ain't gonna lie i've been since you did the last
+    1488.35- 1493.15 interview i've been balenciaga yeah you know that my nickname is yalla so now they call me
+
+## interval 1487.19-1494.20s (frames 35657-35825)
+    1458.76- 1468.12 to take me too much drama lately your life gonna change right now your life gonna change right now
+    1468.12- 1475.82 Balenciaga for all your friends and friends for the arguments your life had to change right now
+    1475.82- 1481.11 okay let me talk about balenciaga okay i'm balenciaga that just in case you don't know i
+    1481.11- 1488.35 study yeah so i got the lights lighting up too i ain't gonna lie i've been since you did the last
+>>  1488.35- 1493.15 interview i've been balenciaga yeah you know that my nickname is yalla so now they call me
+    1505.76- 1511.97 Balenciaga has the best design because they have the best designer period and
+    1511.97- 1517.60 that's not you I'm more like a Steve Jobs type you say to Steve like yo you
+
+## interval 1504.34-1561.27s (frames 36068-37433)
+    1481.11- 1488.35 study yeah so i got the lights lighting up too i ain't gonna lie i've been since you did the last
+    1488.35- 1493.15 interview i've been balenciaga yeah you know that my nickname is yalla so now they call me
+>>  1505.76- 1511.97 Balenciaga has the best design because they have the best designer period and
+>>  1511.97- 1517.60 that's not you I'm more like a Steve Jobs type you say to Steve like yo you
+>>  1517.60- 1522.84 don't even program you know I would never disrespect a designer that been to
+>>  1522.84- 1526.94 school and that can cut and have dedicated their whole life and call
+>>  1526.94- 1534.76 myself a designer i'm more an imagineer i'm a visionary and i i place the pieces of our culture
+>>  1534.76- 1541.76 together even right now you know i want to bring joy and laughter so even if say say say say we
+>>  1541.76- 1545.94 wanted to like look at the interview and we have a conversation out and say look do we need this
+>>  1545.94- 1550.22 first segment let's just do the that's like you know it's controversial because people
+>>  1550.22- 1556.45 ain't gonna really name names but it's funny still i think about that it's like we need joy
+>>  1556.45- 1563.15 it's too much pain you know it's too much anger and it's too much trauma economy you know i'm not
+    1563.15- 1570.23 gonna be like you know you know i talk about the left the democrats and how they pray with blm on
+    1570.23- 1579.81 our outrage say okay so i went to a dinner right with josh kushner jared kushner and ivanka i'm
+    1579.81- 1580.93 I don't always say her name like that.

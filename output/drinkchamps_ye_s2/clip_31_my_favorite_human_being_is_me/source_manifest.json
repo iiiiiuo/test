@@ -1,0 +1,132 @@
+{
+ "clip": "Clip_31",
+ "candidate": "S10",
+ "title": "My favorite human being is me",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 3772,
+   "end_frame_excl": 5176,
+   "start_pts": 3776756,
+   "end_pts_excl": 5182160,
+   "start_s": 157.364833,
+   "end_s": 215.923333
+  },
+  {
+   "start_frame": 5293,
+   "end_frame_excl": 5580,
+   "start_pts": 5299277,
+   "end_pts_excl": 5586564,
+   "start_s": 220.803208,
+   "end_s": 232.7735
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 7553512,
+   "end_sample_48k_excl": 10364320,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 10598554,
+   "end_sample_48k_excl": 11173128,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 3772,
+   "end_frame_excl": 4472,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 185,
+    "y": 0
+   },
+   "basis": "face cx=744 cy=281 w=304 n=6/12"
+  },
+  {
+   "start_frame": 4472,
+   "end_frame_excl": 4523,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 388,
+    "y": 0
+   },
+   "basis": "face cx=948 cy=437 w=312 n=9/9"
+  },
+  {
+   "start_frame": 4523,
+   "end_frame_excl": 4806,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 368,
+    "y": 0
+   },
+   "basis": "face cx=927 cy=263 w=342 n=9/12"
+  },
+  {
+   "start_frame": 4806,
+   "end_frame_excl": 4896,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 382,
+    "y": 0
+   },
+   "basis": "face cx=941 cy=264 w=393 n=8/8"
+  },
+  {
+   "start_frame": 4896,
+   "end_frame_excl": 5176,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 270,
+    "y": 0
+   },
+   "basis": "face cx=830 cy=273 w=358 n=5/12"
+  },
+  {
+   "start_frame": 5293,
+   "end_frame_excl": 5580,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 230,
+    "y": 0
+   },
+   "basis": "face cx=790 cy=288 w=342 n=4/10"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_31/subtitles.ass",
+  "sha256": "7890ec16cec19efa44ebc0e6bcdd13fad831f5b9ba542516462f48fc7c117d3b"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_31/render.mp4",
+  "sha256": "8326f691a03fd2e5059ca9d0f3e8c464305a34d73b589d2908d5d395cac78aa7"
+ }
+}

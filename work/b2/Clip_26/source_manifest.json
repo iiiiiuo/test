@@ -1,0 +1,198 @@
+{
+ "clip": "Clip_26",
+ "candidate": "S05",
+ "title": "I don't like nobody better than me",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 44628,
+   "end_frame_excl": 45298,
+   "start_pts": 44672628,
+   "end_pts_excl": 45343298,
+   "start_s": 1861.3595,
+   "end_s": 1889.304083
+  },
+  {
+   "start_frame": 45450,
+   "end_frame_excl": 46750,
+   "start_pts": 45495450,
+   "end_pts_excl": 46796750,
+   "start_s": 1895.64375,
+   "end_s": 1949.864583
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 89345256,
+   "end_sample_48k_excl": 90686596,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 90990900,
+   "end_sample_48k_excl": 93593500,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 44628,
+   "end_frame_excl": 44711,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 254,
+    "y": 0
+   },
+   "basis": "face cx=813 cy=314 w=318 n=7/7"
+  },
+  {
+   "start_frame": 44711,
+   "end_frame_excl": 45244,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 362,
+    "y": 0
+   },
+   "basis": "face cx=922 cy=406 w=364 n=5/12"
+  },
+  {
+   "start_frame": 45244,
+   "end_frame_excl": 45298,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 285,
+    "y": 0
+   },
+   "basis": "face cx=844 cy=350 w=363 n=4/9"
+  },
+  {
+   "start_frame": 45450,
+   "end_frame_excl": 45455,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 379,
+    "y": 128
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 45455,
+   "end_frame_excl": 45642,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 379,
+    "y": 128
+   },
+   "basis": "face cx=846 cy=398 w=257 n=6/11"
+  },
+  {
+   "start_frame": 45642,
+   "end_frame_excl": 45822,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 359,
+    "y": 0
+   },
+   "basis": "face cx=918 cy=429 w=312 n=10/10"
+  },
+  {
+   "start_frame": 45822,
+   "end_frame_excl": 45924,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 178,
+    "y": 0
+   },
+   "basis": "face cx=738 cy=387 w=328 n=9/9"
+  },
+  {
+   "start_frame": 45924,
+   "end_frame_excl": 46249,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "face cx=932 cy=445 w=301 n=4/11"
+  },
+  {
+   "start_frame": 46249,
+   "end_frame_excl": 46320,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 348,
+    "y": 0
+   },
+   "basis": "face cx=907 cy=312 w=414 n=11/11"
+  },
+  {
+   "start_frame": 46320,
+   "end_frame_excl": 46494,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 332,
+    "y": 0
+   },
+   "basis": "face cx=892 cy=416 w=384 n=5/10"
+  },
+  {
+   "start_frame": 46494,
+   "end_frame_excl": 46623,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 194,
+    "y": 0
+   },
+   "basis": "face cx=753 cy=397 w=332 n=11/11"
+  },
+  {
+   "start_frame": 46623,
+   "end_frame_excl": 46750,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 352,
+    "y": 0
+   },
+   "basis": "face cx=912 cy=418 w=356 n=11/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_26/subtitles.ass",
+  "sha256": "fe7b8c77163241ef46908875f57c49961680445549891c5be6b14d84265979ef"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_26/render.mp4",
+  "sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c"
+ }
+}

@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Think about, like,
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}True Love. Like, my kids...
+Dialogue: 0,0:00:00.00,0:00:02.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}『True Love』で考えてみろよ
+Dialogue: 0,0:00:02.81,0:00:06.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}we listen to True Love at Kim's
+Dialogue: 0,0:00:02.81,0:00:06.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}house, which used to be my house,
+Dialogue: 0,0:00:02.81,0:00:06.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Kimの家で　子どもたちと聴くんだ
+Dialogue: 0,0:00:02.81,0:00:06.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}元は俺の家だけどな
+Dialogue: 0,0:00:06.40,0:00:10.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but we listened to True Love
+Dialogue: 0,0:00:06.40,0:00:10.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in front of the kids,
+Dialogue: 0,0:00:06.40,0:00:10.12,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}子どもの前で
+Dialogue: 0,0:00:06.40,0:00:10.12,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}『True Love』を聴いてたら
+Dialogue: 0,0:00:10.14,0:00:12.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and Chicago be like, you said
+Dialogue: 0,0:00:10.14,0:00:12.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Chicago, you said Chicago!
+Dialogue: 0,0:00:10.14,0:00:12.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Chicagoが　「Chicagoって言った！
+Dialogue: 0,0:00:10.14,0:00:12.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Chicagoって言った！」って
+Dialogue: 0,0:00:12.31,0:00:13.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I was big on, on Donda,
+Dialogue: 0,0:00:12.31,0:00:13.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}『Donda』では
+Dialogue: 0,0:00:13.89,0:00:17.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that even though I was
+Dialogue: 0,0:00:13.89,0:00:17.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}beefing with my baby mama,
+Dialogue: 0,0:00:13.89,0:00:17.54,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}元妻と揉めてても
+Dialogue: 0,0:00:17.56,0:00:20.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that I wouldn't say anything that I
+Dialogue: 0,0:00:17.56,0:00:20.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}couldn't play in front of the kids.
+Dialogue: 0,0:00:17.56,0:00:20.80,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}子どもの前で流せないことは
+Dialogue: 0,0:00:17.56,0:00:20.80,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言わないって決めてた
+Dialogue: 0,0:00:20.82,0:00:23.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's the consciousness
+Dialogue: 0,0:00:20.82,0:00:23.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that I had to
+Dialogue: 0,0:00:20.82,0:00:23.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それがリーダーとして
+Dialogue: 0,0:00:20.82,0:00:23.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あらゆる作品で
+Dialogue: 0,0:00:23.23,0:00:25.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}have as a leader in all of my content.
+Dialogue: 0,0:00:23.23,0:00:25.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}持たなきゃいけない
+Dialogue: 0,0:00:23.23,0:00:25.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}意識なんだよ
+Dialogue: 0,0:00:25.71,0:00:28.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So even right now, I say,
+Dialogue: 0,0:00:25.71,0:00:28.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}okay, it's adult content, right?
+Dialogue: 0,0:00:25.71,0:00:28.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから今だって
+Dialogue: 0,0:00:25.71,0:00:28.48,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「これは大人のコンテンツだ」
+Dialogue: 0,0:00:28.50,0:00:31.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is a grown, grown conversation.
+Dialogue: 0,0:00:28.50,0:00:31.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}It's a grown conversation
+Dialogue: 0,0:00:28.50,0:00:31.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}って言ってる
+Dialogue: 0,0:00:28.50,0:00:31.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}大人の、大人の話なんだよ
+Dialogue: 0,0:00:31.62,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that I ran into at age five,
+Dialogue: 0,0:00:31.62,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}5歳の時に
+Dialogue: 0,0:00:31.62,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}出くわした話だけど
+Dialogue: 0,0:00:33.62,0:00:35.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but it's still a grown-up
+Dialogue: 0,0:00:33.62,0:00:35.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}conversation to me, right?
+Dialogue: 0,0:00:33.62,0:00:35.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺にとってはやっぱり
+Dialogue: 0,0:00:33.62,0:00:35.51,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}大人の話なんだ
+Dialogue: 0,0:00:35.53,0:00:38.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I played this for grown-ups
+Dialogue: 0,0:00:35.53,0:00:38.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in the Adidas meeting.
+Dialogue: 0,0:00:35.53,0:00:38.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから大人向けに
+Dialogue: 0,0:00:35.53,0:00:38.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Adidasの会議で流したんだよ
+Dialogue: 0,0:00:38.31,0:00:42.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, look, we have to
+Dialogue: 0,0:00:38.31,0:00:42.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}do this, because culture...
+Dialogue: 0,0:00:38.31,0:00:42.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は言った
+Dialogue: 0,0:00:38.31,0:00:42.69,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「これは必要なんだ
+Dialogue: 0,0:00:42.71,0:00:46.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it ain't no culture if you have a
+Dialogue: 0,0:00:42.71,0:00:46.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}party and it ain't no girls there.
+Dialogue: 0,0:00:42.71,0:00:46.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}パーティーに女の子がいなかったら
+Dialogue: 0,0:00:42.71,0:00:46.25,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それはカルチャーじゃない」
+Dialogue: 0,0:00:46.27,0:00:47.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's not cultural. Yeah, that ain't.
+Dialogue: 0,0:00:46.27,0:00:47.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}カルチャーじゃないな
+Dialogue: 0,0:00:46.27,0:00:47.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そうだよ
+Dialogue: 0,0:00:47.79,0:00:50.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right. And this is the reason
+Dialogue: 0,0:00:47.79,0:00:50.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}why Drake runs the culture,
+Dialogue: 0,0:00:47.79,0:00:50.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう　だからDrakeが
+Dialogue: 0,0:00:47.79,0:00:50.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}カルチャーを仕切ってるんだよ
+Dialogue: 0,0:00:50.79,0:00:53.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right? Because at the end of the day,
+Dialogue: 0,0:00:50.79,0:00:53.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}結局のところ、あいつは…
+Dialogue: 0,0:00:54.16,0:00:54.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}he's at the time...
+Dialogue: 0,0:00:54.16,0:00:54.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}結局のところ、あいつは…
+Dialogue: 0,0:00:55.00,0:00:59.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It don't matter, it don't matter if I
+Dialogue: 0,0:00:55.00,0:00:59.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}could take over Fashion Week for,
+Dialogue: 0,0:00:55.00,0:00:59.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺がファッションウィークを
+Dialogue: 0,0:00:59.84,0:01:01.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, two weeks or whatever.
+Dialogue: 0,0:00:59.84,0:01:01.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}2週間乗っ取ろうが
+Dialogue: 0,0:00:59.84,0:01:01.18,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}関係ない
+Dialogue: 0,0:01:01.20,0:01:04.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's like, Drake runs the
+Dialogue: 0,0:01:01.20,0:01:04.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}culture at the end of the day,
+Dialogue: 0,0:01:01.20,0:01:04.93,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}結局カルチャーを
+Dialogue: 0,0:01:01.20,0:01:04.93,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}仕切ってるのはDrakeなんだ
+Dialogue: 0,0:01:04.95,0:01:07.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because the culture,
+Dialogue: 0,0:01:04.95,0:01:07.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}at the end of the day,
+Dialogue: 0,0:01:04.95,0:01:07.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だってカルチャーってのは
+Dialogue: 0,0:01:07.23,0:01:10.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}is about finding a nice
+Dialogue: 0,0:01:07.23,0:01:10.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}young Libra that you
+Dialogue: 0,0:01:07.23,0:01:10.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}誕生日の天秤座の
+Dialogue: 0,0:01:10.34,0:01:13.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}could connect with on
+Dialogue: 0,0:01:10.34,0:01:13.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}her birthday, possibly.
+Dialogue: 0,0:01:10.34,0:01:13.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}若い子と仲良くなれるかって
+Dialogue: 0,0:01:10.34,0:01:13.96,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ことだからな

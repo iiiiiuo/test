@@ -1,0 +1,95 @@
+# Clip_23 source context (part_1.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1096.43-1143.14s (frames 26288-27408)
+    1075.24- 1080.56 family three of that three four of those people in that family have been raised christian by rob
+    1080.56- 1088.87 kardashian i know y'all want a question but uh i think you just gotta let some of this out
+    1090.01- 1091.83 It's not even venting
+    1091.83- 1093.15 Or inventing
+    1094.33- 1095.11 It's just
+    1095.11- 1096.21 It's up
+>>  1096.21- 1097.29 You know
+>>  1097.29- 1099.73 They done fuck with me too long
+>>  1099.73- 1101.83 Every time they say my name wrong
+>>  1101.83- 1104.05 It's like they calling me Cassius
+>>  1104.05- 1105.57 My name Ali
+>>  1107.21- 1108.75 If I change my name
+>>  1108.75- 1110.45 You respect that I changed my name
+>>  1110.45- 1112.75 It shows you the level of disrespect
+>>  1112.75- 1114.81 Every time they say one of my outfits
+>>  1114.81- 1115.53 Are bizarre
+>>  1115.53- 1118.51 When the last time you read a headline and they called me a billionaire
+>>  1119.35- 1122.29 For three years, Forbes wouldn't say I was a billionaire
+>>  1122.29- 1124.47 It's all to diminish me
+>>  1124.47- 1125.97 So y'all wouldn't listen to me
+>>  1125.97- 1128.39 So say when I did the Yay and Drake show, right?
+>>  1128.61- 1129.83 It's so funny, I look up
+>>  1129.83- 1133.61 And it say Yay, D-R-K, right there
+>>  1133.61- 1135.47 But, uh, I just
+>>  1135.47- 1136.49 Oh, that's how you see it
+>>  1136.49- 1138.03 It's just a similarity to it
+>>  1138.03- 1138.53 Are you dyslexic like me?
+>>  1139.09- 1140.91 Yeah, absolutely, Gemini dyslexic
+>>  1140.91- 1142.33 Left-handed, made to be right-handed
+>>  1142.33- 1143.11 So I could fit in
+    1143.89- 1145.15 Okay, okay, alright
+    1145.63- 1147.01 Alright, alright, can I continue?
+    1147.35- 1148.33 Alright, alright
+    1148.33- 1150.29 I'm gonna take another shot
+    1150.29- 1151.41 I'm gonna be honest
+    1151.41- 1152.49 This is a lot
+    1152.49- 1153.39 This is a lot
+    1153.39- 1154.41 Yeah, I'm gonna be honest
+    1154.41- 1155.53 Only to do sake
+    1155.53- 1156.01 Yeah, okay
+    1156.01- 1156.71 Only to do sake
+    1156.71- 1157.77 This is beautiful
+    1157.77- 1159.15 Think about like Nike
+    1159.15- 1161.70 Nike is as popular as Apple
+    1161.70- 1163.62 But it's company number 321
+
+## interval 1157.74-1197.28s (frames 27758-28706)
+    1136.49- 1138.03 It's just a similarity to it
+    1138.03- 1138.53 Are you dyslexic like me?
+    1139.09- 1140.91 Yeah, absolutely, Gemini dyslexic
+    1140.91- 1142.33 Left-handed, made to be right-handed
+    1142.33- 1143.11 So I could fit in
+    1143.89- 1145.15 Okay, okay, alright
+    1145.63- 1147.01 Alright, alright, can I continue?
+    1147.35- 1148.33 Alright, alright
+    1148.33- 1150.29 I'm gonna take another shot
+    1150.29- 1151.41 I'm gonna be honest
+    1151.41- 1152.49 This is a lot
+    1152.49- 1153.39 This is a lot
+    1153.39- 1154.41 Yeah, I'm gonna be honest
+    1154.41- 1155.53 Only to do sake
+    1155.53- 1156.01 Yeah, okay
+    1156.01- 1156.71 Only to do sake
+    1156.71- 1157.77 This is beautiful
+>>  1157.77- 1159.15 Think about like Nike
+>>  1159.15- 1161.70 Nike is as popular as Apple
+>>  1161.70- 1163.62 But it's company number 321
+>>  1163.62- 1164.64 Apple's number one
+>>  1166.19- 1167.43 Nike's on defense
+>>  1167.43- 1168.63 It's not on offense
+>>  1169.51- 1170.03 Right?
+>>  1170.45- 1172.19 Because niggas love Nike
+>>  1172.19- 1172.93 Right?
+>>  1173.09- 1175.29 So Nike is used for political influence
+>>  1175.29- 1177.63 Because it's not about the money you make
+>>  1177.63- 1179.35 It's about the position you have
+>>  1179.35- 1181.17 So when they signed me to Gap
+>>  1181.17- 1183.17 It wasn't to raise a stock price
+>>  1183.17- 1184.89 It was to be able to be like
+>>  1184.89- 1187.61 To tell the Fortune 500 companies
+>>  1187.61- 1188.73 That do deals with China
+>>  1188.73- 1191.23 To tell them hey Gap has influence
+>>  1191.23- 1194.31 In the underserved communities
+>>  1194.31- 1197.15 That was what the deal was about
+    1197.15- 1198.03 That's the girl part
+    1198.03- 1201.51 The same reason why I was in a Kardashian situation
+    1201.51- 1202.71 So you would feel
+    1202.71- 1203.73 Hold on let me ask you something
+    1203.73- 1205.49 Because as a person that
+    1205.49- 1207.05 When we first seen the Gap deal
+    1207.05- 1212.97 right um we understand that rich motherfuckers ain't going in the gap but you know what it was
+    1212.97- 1218.01 going in the gap because of you it was going and they say powered by balenciaga but then you walk

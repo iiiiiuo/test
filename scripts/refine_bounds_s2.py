@@ -3,11 +3,21 @@ word and the first excluded word (large-v3 word times; window widened to 0.15 s 
 Hand windows in W override the automatic one; CUTS removes internal spans. Rewrites work/s2/selected_clips.json (v1 kept)."""
 import json, math, wave, numpy as np, shutil, os
 ROOT = '/home/user/test'
-W = {'Clip_30': [(0, 'end', 146.30, 146.44, "end after 'each other', before the trailing 'and'")],
-     'Clip_23': [(1, 'end', 1196.82, 1197.02, "end after 'what the deal was about.', before 'That's a girl part'")],
+W = {'Clip_27': [(0, 'start', 657.98, 658.06, "start in dip before 'uh because' (critic r2: opened inside 'Because')"),
+                (0, 'end', 724.86, 724.94, "end in dip after 'manner' (critic r2: cut while 'manner' sounding), before 'what'")],
+     'Clip_25': [(0, 'start', 1108.10, 1108.40, "start before 'And I' onset (energy rises 1108.48; critic r1 note: first word trimmed)")],
+     'Clip_24': [(1, 'start', 1487.15, 1487.22, "start at 'since' (critic r1: uncaptioned 'I ain't gonna lie, I've been' before it)")],
+     'Clip_30': [(0, 'start', 51.62, 51.78, "start in the gap between 'is,' and 'this is the thing' (critic r1: 51.47 opened on uncaptioned 'thing is')"),
+                 (0, 'end', 146.30, 146.44, "end after 'each other', before the trailing 'and'")],
+     'Clip_23': [(0, 'end', 1143.08, 1143.14, "end after 'fit in' (energy to 1143.05, critic r1), before 'okay'"),
+                   (1, 'end', 1197.24, 1197.30, "end after 'about.' (energy to ~1197.22, critic r1), before 'That's a girl part'")],
      'Clip_26': [(1, 'end', 1949.60, 1949.88, "end after 'I love the respect', before the host's 'yeah'")],
-     'Clip_31': [(1, 'end', 232.50, 232.72, "end after 'in the world.', before 'we sat there'")]}  # clip: [(interval index, 'start'|'end', lo, hi, reason)]
-CUTS = {}  # clip: [(interval index, (lo, hi) cut start window, (lo, hi) cut end window, reason)]
+     'Clip_31': [(1, 'start', 220.70, 220.80, "start in dip before 'And think about this' (energy check: old start in continuous audio)"),
+                 (1, 'end', 232.72, 232.80, "end in dip after 'world.' (energy: 'world' sounds 232.46-232.70), before 'we sat there'")],
+     'Clip_34': [(0, 'end', 1737.17, 1737.24, "end after 'right now.' (energy to ~1737.17), before 'Yeah'")],
+     'Clip_39': [(0, 'start', 1443.42, 1443.54, "start in dip before 'And so' onset (energy rises 1443.56)")]}  # clip: [(interval index, 'start'|'end', lo, hi, reason)]
+CUTS = {'Clip_35': [(0, (638.36, 638.44), (641.46, 641.56), "jump cut removes repeated, unapproved 'This is a race, I've been trying to tell you that' (critic r1: 1.8 s uncaptioned)")],
+        'Clip_34': [(0, (1717.55, 1718.50), (1720.08, 1720.18), "remove uncaptioned, unapproved interjection 'You're transcending' (critic r1: 2.2 s uncaptioned speech)")]}  # clip: [(interval index, (lo, hi) cut start window, (lo, hi) cut end window, reason)]
 src = json.load(open(f'{ROOT}/work/sources.json'))
 defs = json.load(open(f'{ROOT}/work/s2/clips_def.json'))
 P = f'{ROOT}/work/s2/selected_clips.json'

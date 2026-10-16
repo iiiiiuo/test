@@ -1,0 +1,132 @@
+{
+ "clip": "Clip_34",
+ "candidate": "S13",
+ "title": "The Pharrell of politics",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 39610,
+   "end_frame_excl": 41193,
+   "start_pts": 39650594,
+   "end_pts_excl": 41235177,
+   "start_s": 1652.108083,
+   "end_s": 1718.132375
+  },
+  {
+   "start_frame": 41241,
+   "end_frame_excl": 41651,
+   "start_pts": 41283225,
+   "end_pts_excl": 41693635,
+   "start_s": 1720.134375,
+   "end_s": 1737.234792
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 79301188,
+   "end_sample_48k_excl": 82470354,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 82566450,
+   "end_sample_48k_excl": 83387270,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 39610,
+   "end_frame_excl": 39684,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 39684,
+   "end_frame_excl": 39940,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 372,
+    "y": 0
+   },
+   "basis": "face cx=932 cy=372 w=310 n=10/11"
+  },
+  {
+   "start_frame": 39940,
+   "end_frame_excl": 40007,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 517,
+    "y": 0
+   },
+   "basis": "face cx=1076 cy=323 w=369 n=12/12"
+  },
+  {
+   "start_frame": 40007,
+   "end_frame_excl": 40645,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 392,
+    "y": 0
+   },
+   "basis": "face cx=951 cy=388 w=311 n=4/12"
+  },
+  {
+   "start_frame": 40645,
+   "end_frame_excl": 41193,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 444,
+    "y": 0
+   },
+   "basis": "face cx=1003 cy=281 w=338 n=9/12"
+  },
+  {
+   "start_frame": 41241,
+   "end_frame_excl": 41651,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 412,
+    "y": 0
+   },
+   "basis": "face cx=971 cy=264 w=321 n=8/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_34/subtitles.ass",
+  "sha256": "30a1ddef6f3e3828a58f45d8543d8c41b9f074004ca1e0c394c72e19078ebcae"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_34/render.mp4",
+  "sha256": "56f684ea752e2ae117fd75e7b92cf1dc0674c40eeed8f299292d18ee505ce8c2"
+ }
+}

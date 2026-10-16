@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to start because, you know,
+Dialogue: 0,0:00:00.00,0:00:01.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}まず聞きたいのは
+Dialogue: 0,0:00:01.61,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the very famous interview
+Dialogue: 0,0:00:01.61,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}was you and Sway, right?
+Dialogue: 0,0:00:01.61,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あの有名なSwayとの
+Dialogue: 0,0:00:01.61,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}インタビューのことなんだけど
+Dialogue: 0,0:00:05.42,0:00:09.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And then you saying that
+Dialogue: 0,0:00:05.42,0:00:09.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you wanted to be like Ralph,
+Dialogue: 0,0:00:05.42,0:00:09.07,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あんたはRalph Laurenみたいになりたい
+Dialogue: 0,0:00:09.09,0:00:11.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}or you wanted to be up
+Dialogue: 0,0:00:09.09,0:00:11.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}there with that caliber.
+Dialogue: 0,0:00:09.09,0:00:11.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あのレベルに行きたいって
+Dialogue: 0,0:00:09.09,0:00:11.88,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言ってたよな
+Dialogue: 0,0:00:11.90,0:00:15.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And now it's like you are Ralph.
+Dialogue: 0,0:00:11.90,0:00:15.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、今じゃあんたが
+Dialogue: 0,0:00:11.90,0:00:15.44,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Ralph Laurenそのもの
+Dialogue: 0,0:00:15.46,0:00:17.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You are that caliber.
+Dialogue: 0,0:00:15.46,0:00:17.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あのレベルにいる
+Dialogue: 0,0:00:17.74,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And then I guess what
+Dialogue: 0,0:00:17.74,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm trying to say is,
+Dialogue: 0,0:00:17.74,0:00:19.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから何が言いたいかっていうと
+Dialogue: 0,0:00:19.81,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}so that's where we get confused.
+Dialogue: 0,0:00:19.81,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そこで俺らは
+Dialogue: 0,0:00:19.81,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}混乱するわけよ
+Dialogue: 0,0:00:21.45,0:00:23.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Did Sway have the answers?
+Dialogue: 0,0:00:21.45,0:00:23.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Swayは答えを
+Dialogue: 0,0:00:21.45,0:00:23.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}持ってたのか？
+Dialogue: 0,0:00:23.05,0:00:25.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I think you already admitted
+Dialogue: 0,0:00:23.05,0:00:25.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Sway had the answers.
+Dialogue: 0,0:00:23.05,0:00:25.05,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Swayが正しかったって
+Dialogue: 0,0:00:23.05,0:00:25.05,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もう認めてたよな
+Dialogue: 0,0:00:25.07,0:00:29.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I guess that's where we get
+Dialogue: 0,0:00:25.07,0:00:29.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}confused with the Adidas part of it,
+Dialogue: 0,0:00:25.07,0:00:29.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもAdidasの件で
+Dialogue: 0,0:00:25.07,0:00:29.91,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}混乱するんだよ
+Dialogue: 0,0:00:29.93,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because that's how you
+Dialogue: 0,0:00:29.93,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}became a billionaire,
+Dialogue: 0,0:00:29.93,0:00:33.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あんたが億万長者になれたのは
+Dialogue: 0,0:00:33.83,0:00:35.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right? Through the Yeezy.
+Dialogue: 0,0:00:33.83,0:00:35.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Yeezyのおかげだろ？
+Dialogue: 0,0:00:35.07,0:00:38.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So, like, what was the
+Dialogue: 0,0:00:35.07,0:00:38.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}discrepancy with Adidas?
+Dialogue: 0,0:00:35.07,0:00:38.15,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}じゃあAdidasとは
+Dialogue: 0,0:00:35.07,0:00:38.15,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何が食い違ったんだ？
+Dialogue: 0,0:00:38.62,0:00:39.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, I just didn't have the
+Dialogue: 0,0:00:38.62,0:00:39.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}当時の俺には
+Dialogue: 0,0:00:39.69,0:00:42.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}relationships with the
+Dialogue: 0,0:00:39.69,0:00:42.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}factories at that time.
+Dialogue: 0,0:00:39.69,0:00:42.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}工場とのつながりが
+Dialogue: 0,0:00:39.69,0:00:42.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なかったんだよ
+Dialogue: 0,0:00:42.55,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I was managing a lot of ideas,
+Dialogue: 0,0:00:42.55,0:00:44.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}アイデアもいっぱい抱えてて
+Dialogue: 0,0:00:44.91,0:00:47.89,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like I was, you know, a new dad.
+Dialogue: 0,0:00:44.91,0:00:47.89,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}父親になったばかりで
+Dialogue: 0,0:00:47.91,0:00:50.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I was newly married.
+Dialogue: 0,0:00:47.91,0:00:50.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}結婚したばかりで
+Dialogue: 0,0:00:50.75,0:00:54.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I had a bunch of team, like a
+Dialogue: 0,0:00:50.75,0:00:54.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}big team of designers with me.
+Dialogue: 0,0:00:50.75,0:00:54.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}デザイナーの大きなチームも
+Dialogue: 0,0:00:50.75,0:00:54.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}抱えてた
+Dialogue: 0,0:00:54.35,0:00:56.85,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And we hadn't
+Dialogue: 0,0:00:54.35,0:00:56.85,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}established who we were.
+Dialogue: 0,0:00:54.35,0:00:56.85,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}まだ自分たちが何者か
+Dialogue: 0,0:00:54.35,0:00:56.85,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}確立できてなくて
+Dialogue: 0,0:00:56.87,0:00:59.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We were still fighting to
+Dialogue: 0,0:00:56.87,0:00:59.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}get our respect in fashion.
+Dialogue: 0,0:00:56.87,0:00:59.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ファッション界で認められようと
+Dialogue: 0,0:00:56.87,0:00:59.81,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もがいてた
+Dialogue: 0,0:00:59.83,0:01:02.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So there's a lot of
+Dialogue: 0,0:00:59.83,0:01:02.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}fights at the same time.
+Dialogue: 0,0:00:59.83,0:01:02.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから同時に
+Dialogue: 0,0:00:59.83,0:01:02.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}いろんな戦いがあった
+Dialogue: 0,0:01:02.45,0:01:04.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So we had to go and basically, like,
+Dialogue: 0,0:01:02.45,0:01:04.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だから要は
+Dialogue: 0,0:01:02.45,0:01:04.35,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういう企業の下で
+Dialogue: 0,0:01:04.37,0:01:06.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}intern almost up under
+Dialogue: 0,0:01:04.37,0:01:06.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}these companies.
+Dialogue: 0,0:01:04.37,0:01:06.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}インターンするしかなかった
+Dialogue: 0,0:01:06.71,0:01:08.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because you interned for
+Dialogue: 0,0:01:06.71,0:01:08.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Louis Vuitton at one time, right?
+Dialogue: 0,0:01:06.71,0:01:08.49,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Louis Vuittonで
+Dialogue: 0,0:01:06.71,0:01:08.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}インターンしてたもんな？
+Dialogue: 0,0:01:08.51,0:01:10.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, Louis Vuitton, Fendi.
+Dialogue: 0,0:01:08.51,0:01:10.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、Louis Vuitton、Fendi
+Dialogue: 0,0:01:10.91,0:01:13.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And we interned, in a way, at Adidas.
+Dialogue: 0,0:01:10.91,0:01:13.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、Adidasでも
+Dialogue: 0,0:01:10.91,0:01:13.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ある意味インターンしてた
+Dialogue: 0,0:01:13.81,0:01:17.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, the licensing deal was
+Dialogue: 0,0:01:13.81,0:01:17.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my internship to become,
+Dialogue: 0,0:01:13.81,0:01:17.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あのライセンス契約は
+Dialogue: 0,0:01:13.81,0:01:17.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺のインターンだったんだよ
+Dialogue: 0,0:01:17.05,0:01:23.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, more in that Bernard
+Dialogue: 0,0:01:17.05,0:01:23.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Arnault, Bezos, Elon territory,
+Dialogue: 0,0:01:17.05,0:01:23.73,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Bernard Arnaultとかベゾスとかイーロンの
+Dialogue: 0,0:01:17.05,0:01:23.73,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}領域に行くための
+Dialogue: 0,0:01:23.75,0:01:26.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and just understanding
+Dialogue: 0,0:01:23.75,0:01:26.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}how, you know,
+Dialogue: 0,0:01:23.75,0:01:26.05,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}金がどう回るのかを
+Dialogue: 0,0:01:26.07,0:01:28.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}how money works. Like,
+Dialogue: 0,0:01:26.07,0:01:28.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}this is first generation.
+Dialogue: 0,0:01:26.07,0:01:28.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}理解するためのな
+Dialogue: 0,0:01:26.07,0:01:28.77,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}これは第一世代なんだよ
+Dialogue: 0,0:01:29.74,0:01:32.13,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, you can say, like, look at,
+Dialogue: 0,0:01:29.74,0:01:32.13,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, Jay with the D'Usse.
+Dialogue: 0,0:01:29.74,0:01:32.13,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}たとえばJayとD'Usseを見ろよ
+Dialogue: 0,0:01:32.15,0:01:35.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is first generation of wealth,
+Dialogue: 0,0:01:32.15,0:01:35.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}those infrastructures, right?
+Dialogue: 0,0:01:32.15,0:01:35.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}これは富の第一世代なんだ
+Dialogue: 0,0:01:32.15,0:01:35.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そういうインフラのな

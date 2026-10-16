@@ -1,0 +1,82 @@
+{
+ "clip": "Clip_26",
+ "render_sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "sar": "1:1",
+  "fps": "24000/1001",
+  "video_frames": 1970,
+  "expected_frames": 1970,
+  "video_duration_s": 82.165416,
+  "audio_duration_s": 82.165,
+  "v_start": "0.000000",
+  "a_start": "0.000000",
+  "rotation": null,
+  "decode_errors": "",
+  "PASS": true
+ },
+ "subtitles": {
+  "events": 77,
+  "captions": 25,
+  "max_end": 82.15,
+  "beyond_video": [],
+  "unmasked_hits": [],
+  "captions_without_jp": [],
+  "max_lines": 4
+ },
+ "sync": {
+  "caption_tokens": 177,
+  "asr_words": 184,
+  "matched": 160,
+  "match_ratio": 0.904,
+  "matched_words_inside_their_caption": 0.95,
+  "caption_onset_vs_first_word_s": {
+   "n": 24,
+   "median": -0.061,
+   "max_abs": 2.581
+  }
+ },
+ "frames": {
+  "times": [
+   0.05,
+   1.0,
+   1.83,
+   3.59,
+   21.44,
+   25.82,
+   28.28,
+   36.08,
+   43.59,
+   47.84,
+   54.78,
+   61.39,
+   64.36,
+   73.6,
+   81.17,
+   82.09
+  ],
+  "sheets": [
+   "sheet_1.jpg",
+   "sheet_2.jpg"
+  ],
+  "full_res": [
+   "/home/user/test/work/b2/Clip_26/qa/f_0000.05.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0001.00.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0001.83.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0003.59.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0021.44.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0025.82.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0028.28.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0036.08.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0043.59.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0047.84.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0054.78.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0061.39.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0064.36.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0073.60.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0081.17.png",
+   "/home/user/test/work/b2/Clip_26/qa/f_0082.09.png"
+  ]
+ }
+}

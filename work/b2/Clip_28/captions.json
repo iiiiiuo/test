@@ -1,0 +1,442 @@
+{
+ "clip": "Clip_28",
+ "total_s": 64.64791666666667,
+ "segments": [
+  [
+   1002.75175,
+   1067.3996666666667,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_28_L001",
+   "src_start": 1002.82,
+   "src_end": 1003.92,
+   "en": [
+    "No, man, come on."
+   ],
+   "en_unmasked": "No, man, come on.",
+   "jp": [
+    "おいおい、待てよ"
+   ],
+   "start": 0.06825000000003456,
+   "end": 1.2682499999999481
+  },
+  {
+   "line_id": "Clip_28_L002",
+   "src_start": 1004.04,
+   "src_end": 1004.76,
+   "en": [
+    "What was the question?"
+   ],
+   "en_unmasked": "What was the question?",
+   "jp": [
+    "質問なんだっけ？"
+   ],
+   "start": 1.2882499999999482,
+   "end": 1.9882499999999754
+  },
+  {
+   "line_id": "Clip_28_L002",
+   "src_start": 1004.76,
+   "src_end": 1005.98,
+   "en": [
+    "You had a good question",
+    "I want to answer, though."
+   ],
+   "en_unmasked": "You had a good question I want to answer, though.",
+   "jp": [
+    "いい質問だったから",
+    "答えたいんだよ"
+   ],
+   "start": 2.0082499999999754,
+   "end": 3.268249999999948
+  },
+  {
+   "line_id": "Clip_28_L003",
+   "src_start": 1006.04,
+   "src_end": 1007.42,
+   "en": [
+    "No, we were just talking",
+    "about that moment"
+   ],
+   "en_unmasked": "No, we were just talking about that moment",
+   "jp": [
+    "いや、さっきまで"
+   ],
+   "start": 3.288249999999948,
+   "end": 4.648249999999944
+  },
+  {
+   "line_id": "Clip_28_L003",
+   "src_start": 1007.42,
+   "src_end": 1009.14,
+   "en": [
+    "when you showed the",
+    "porn to the executives,"
+   ],
+   "en_unmasked": "when you showed the porn to the executives,",
+   "jp": [
+    "重役にポルノを見せた話をしてて"
+   ],
+   "start": 4.668249999999944,
+   "end": 6.368249999999971
+  },
+  {
+   "line_id": "Clip_28_L003",
+   "src_start": 1009.14,
+   "src_end": 1010.48,
+   "en": [
+    "and now we're talking",
+    "about your sneaker."
+   ],
+   "en_unmasked": "and now we're talking about your sneaker.",
+   "jp": [
+    "今はあんたのスニーカーの話"
+   ],
+   "start": 6.388249999999971,
+   "end": 7.808250000000026
+  },
+  {
+   "line_id": "Clip_28_L004",
+   "src_start": 1010.58,
+   "src_end": 1012.48,
+   "en": [
+    "Yeah. At Adidas, at this point,"
+   ],
+   "en_unmasked": "Yeah. At Adidas, at this point,",
+   "jp": [
+    "そう",
+    "今のAdidasなら"
+   ],
+   "start": 7.8282500000000255,
+   "end": 10.45824999999989
+  },
+  {
+   "line_id": "Clip_28_L004",
+   "src_start": 1013.2299999999999,
+   "src_end": 1015.44,
+   "en": [
+    "I should be the person that",
+    "says, Nori, get a sneaker."
+   ],
+   "en_unmasked": "I should be the person that says, Nori, get a sneaker.",
+   "jp": [
+    "「Nori、お前のスニーカー作れ」って",
+    "俺が言える立場のはずなんだ"
+   ],
+   "start": 10.478249999999889,
+   "end": 12.868249999999971
+  },
+  {
+   "line_id": "Clip_28_L005",
+   "src_start": 1015.64,
+   "src_end": 1017.8,
+   "en": [
+    "That's right. I should be",
+    "the person that delegates."
+   ],
+   "en_unmasked": "That's right. I should be the person that delegates.",
+   "jp": [
+    "そう　俺が采配を振るう",
+    "立場のはずなんだよ"
+   ],
+   "start": 12.888249999999971,
+   "end": 15.508249999999958
+  },
+  {
+   "line_id": "Clip_28_L006",
+   "src_start": 1018.28,
+   "src_end": 1020.44,
+   "en": [
+    "But instead, they gave it to",
+    "Stella McCartney's husband."
+   ],
+   "en_unmasked": "But instead, they gave it to Stella McCartney's husband.",
+   "jp": [
+    "なのにその役は",
+    "Stella McCartneyの旦那に　回された"
+   ],
+   "start": 15.528249999999957,
+   "end": 18.16825000000004
+  },
+  {
+   "line_id": "Clip_28_L007",
+   "src_start": 1020.94,
+   "src_end": 1024.1,
+   "en": [
+    "And I'm not going to speak no ill",
+    "on Stella McCartney's husband,"
+   ],
+   "en_unmasked": "And I'm not going to speak no ill on Stella McCartney's husband,",
+   "jp": [
+    "Stella McCartneyの旦那を"
+   ],
+   "start": 18.18825000000004,
+   "end": 21.61824999999963
+  },
+  {
+   "line_id": "Clip_28_L007",
+   "src_start": 1024.3899999999996,
+   "src_end": 1027.6,
+   "en": [
+    "because I'm cool with her,",
+    "uh, with his father-in-law."
+   ],
+   "en_unmasked": "because I'm cool with her, uh, with his father-in-law.",
+   "jp": [
+    "悪く言うつもりはないよ",
+    "あいつの義父とは仲がいいからな"
+   ],
+   "start": 21.63824999999963,
+   "end": 24.828249999999894
+  },
+  {
+   "line_id": "Clip_28_L007",
+   "src_start": 1027.6,
+   "src_end": 1029.76,
+   "en": [
+    "You know, that's my man,",
+    "you know what I'm saying?"
+   ],
+   "en_unmasked": "You know, that's my man, you know what I'm saying?",
+   "jp": [
+    "俺の仲間なんだよ"
+   ],
+   "start": 24.848249999999894,
+   "end": 27.068249999999903
+  },
+  {
+   "line_id": "Clip_28_L008",
+   "src_start": 1029.84,
+   "src_end": 1031.32,
+   "en": [
+    "That man stood next to me."
+   ],
+   "en_unmasked": "That man stood next to me.",
+   "jp": [
+    "あの人は俺の隣に立ってくれた"
+   ],
+   "start": 27.088249999999903,
+   "end": 28.75824999999973
+  },
+  {
+   "line_id": "Clip_28_L008",
+   "src_start": 1031.5299999999997,
+   "src_end": 1033.4,
+   "en": [
+    "We went into the studio.",
+    "We did all day."
+   ],
+   "en_unmasked": "We went into the studio. We did all day.",
+   "jp": [
+    "一緒にスタジオに入って",
+    "一日中やったんだ"
+   ],
+   "start": 28.77824999999973,
+   "end": 30.828249999999894
+  },
+  {
+   "line_id": "Clip_28_L009",
+   "src_start": 1033.6,
+   "src_end": 1035.2,
+   "en": [
+    "We did 'Only One.' We",
+    "did 'FourFiveSeconds.'"
+   ],
+   "en_unmasked": "We did 'Only One.' We did 'FourFiveSeconds.'",
+   "jp": [
+    "『Only One』も　『FourFiveSeconds』も",
+    "一緒に作った"
+   ],
+   "start": 30.848249999999894,
+   "end": 32.98824999999997
+  },
+  {
+   "line_id": "Clip_28_L010",
+   "src_start": 1035.76,
+   "src_end": 1037.78,
+   "en": [
+    "Like, me and",
+    "Paul McCartney got joints."
+   ],
+   "en_unmasked": "Like, me and Paul McCartney got joints.",
+   "jp": [
+    "俺とPaul McCartneyは",
+    "曲を一緒にやってるんだよ"
+   ],
+   "start": 33.008249999999975,
+   "end": 35.27824999999971
+  },
+  {
+   "line_id": "Clip_28_L010",
+   "src_start": 1038.0499999999997,
+   "src_end": 1038.46,
+   "en": [
+    "You know what I'm saying?"
+   ],
+   "en_unmasked": "You know what I'm saying?",
+   "jp": [
+    "わかるだろ？"
+   ],
+   "start": 35.29824999999971,
+   "end": 35.74824999999996
+  },
+  {
+   "line_id": "Clip_28_L011",
+   "src_start": 1038.52,
+   "src_end": 1040.8400000000001,
+   "en": [
+    "So that's the reason why, Adidas,"
+   ],
+   "en_unmasked": "So that's the reason why, Adidas,",
+   "jp": [
+    "だからAdidasは"
+   ],
+   "start": 35.768249999999966,
+   "end": 38.31824999999967
+  },
+  {
+   "line_id": "Clip_28_L011",
+   "src_start": 1041.0899999999997,
+   "src_end": 1044.04,
+   "en": [
+    "you really found you a Virgil in",
+    "Stella McCartney's husband,"
+   ],
+   "en_unmasked": "you really found you a Virgil in Stella McCartney's husband,",
+   "jp": [
+    "Stella McCartneyの旦那に",
+    "自分たちのVirgilを見つけたわけだ"
+   ],
+   "start": 38.338249999999675,
+   "end": 41.53824999999947
+  },
+  {
+   "line_id": "Clip_28_L011",
+   "src_start": 1044.3099999999995,
+   "src_end": 1046.94,
+   "en": [
+    "and a person that I'm going",
+    "to give a hug no matter what."
+   ],
+   "en_unmasked": "and a person that I'm going to give a hug no matter what.",
+   "jp": [
+    "俺が何があってもハグする相手をな"
+   ],
+   "start": 41.558249999999475,
+   "end": 44.168250000000036
+  },
+  {
+   "line_id": "Clip_28_L012",
+   "src_start": 1046.94,
+   "src_end": 1051.72,
+   "en": [
+    "So because that's the way it is. It's",
+    "like, even at war, even in John Wick,"
+   ],
+   "en_unmasked": "So because that's the way it is. It's like, even at war, even in John Wick,",
+   "jp": [
+    "そういうもんなんだよ　戦争でも",
+    "John WickでもNeoでも"
+   ],
+   "start": 44.18825000000004,
+   "end": 48.94825000000001
+  },
+  {
+   "line_id": "Clip_28_L012",
+   "src_start": 1051.72,
+   "src_end": 1054.9,
+   "en": [
+    "even with Neo, it's ones that",
+    "they just have to pass on."
+   ],
+   "en_unmasked": "even with Neo, it's ones that they just have to pass on.",
+   "jp": [
+    "見逃さなきゃいけない相手がいる"
+   ],
+   "start": 48.96825000000001,
+   "end": 52.63824999999961
+  },
+  {
+   "line_id": "Clip_28_L013",
+   "src_start": 1055.4099999999996,
+   "src_end": 1057.92,
+   "en": [
+    "So it's just like",
+    "Stella McCartney's husband."
+   ],
+   "en_unmasked": "So it's just like Stella McCartney's husband.",
+   "jp": [
+    "Stella McCartneyの旦那もそう"
+   ],
+   "start": 52.65824999999961,
+   "end": 55.43824999999956
+  },
+  {
+   "line_id": "Clip_28_L013",
+   "src_start": 1058.2099999999996,
+   "src_end": 1060.14,
+   "en": [
+    "Because he's",
+    "Stella McCartney's husband,"
+   ],
+   "en_unmasked": "Because he's Stella McCartney's husband,",
+   "jp": [
+    "Stella McCartneyの旦那だから"
+   ],
+   "start": 55.458249999999566,
+   "end": 57.57824999999966
+  },
+  {
+   "line_id": "Clip_28_L013",
+   "src_start": 1060.3499999999997,
+   "src_end": 1062.54,
+   "en": [
+    "part of the reason why he became",
+    "Stella McCartney's husband,"
+   ],
+   "en_unmasked": "part of the reason why he became Stella McCartney's husband,",
+   "jp": [
+    "それもあの人と結婚した",
+    "理由の一つなんだろうけど"
+   ],
+   "start": 57.598249999999666,
+   "end": 59.768249999999945
+  },
+  {
+   "line_id": "Clip_28_L014",
+   "src_start": 1062.54,
+   "src_end": 1065.52,
+   "en": [
+    "he get a pass from Ye.",
+    "And you get a pass from Ye."
+   ],
+   "en_unmasked": "he get a pass from Ye. And you get a pass from Ye.",
+   "jp": [
+    "Yeからは見逃してもらえる",
+    "お前も見逃してもらえる"
+   ],
+   "start": 59.78824999999995,
+   "end": 62.768249999999945
+  },
+  {
+   "line_id": "Clip_28_L015",
+   "src_start": 1065.54,
+   "src_end": 1067.4,
+   "en": [
+    "You get a pass from",
+    "the culture, right?"
+   ],
+   "en_unmasked": "You get a pass from the culture, right?",
+   "jp": [
+    "カルチャーから",
+    "見逃してもらえるんだよ"
+   ],
+   "start": 62.78824999999995,
+   "end": 64.62791666666668
+  }
+ ]
+}

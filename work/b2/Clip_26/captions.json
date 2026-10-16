@@ -1,0 +1,396 @@
+{
+ "clip": "Clip_26",
+ "total_s": 82.16541666666672,
+ "segments": [
+  [
+   1861.3595,
+   1889.3040833333334,
+   0.0
+  ],
+  [
+   1895.64375,
+   1949.8645833333333,
+   27.944583333333412
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_26_L001",
+   "src_start": 1861.2,
+   "src_end": 1864.52,
+   "en": [
+    "Can we address this hat?",
+    "What does the 2024 mean?"
+   ],
+   "en_unmasked": "Can we address this hat? What does the 2024 mean?",
+   "jp": [
+    "この帽子の話をしようか　「2024」って",
+    "どういう意味？"
+   ],
+   "start": 0.0,
+   "end": 3.6604999999999563
+  },
+  {
+   "line_id": "Clip_26_L002",
+   "src_start": 1866.7599999999993,
+   "src_end": 1867.0599999999993,
+   "en": [
+    "2024..."
+   ],
+   "en_unmasked": "2024...",
+   "jp": [
+    "2024は…"
+   ],
+   "start": 5.400499999999283,
+   "end": 6.200499999999283
+  },
+  {
+   "line_id": "Clip_26_L002",
+   "src_start": 1869.39,
+   "src_end": 1869.96,
+   "en": [
+    "the run."
+   ],
+   "en_unmasked": "the run.",
+   "jp": [
+    "出馬だよ"
+   ],
+   "start": 8.030500000000075,
+   "end": 9.100500000000011
+  },
+  {
+   "line_id": "Clip_26_L003",
+   "src_start": 1872.64,
+   "src_end": 1874.3600000000001,
+   "en": [
+    "It's time for us to rise up."
+   ],
+   "en_unmasked": "It's time for us to rise up.",
+   "jp": [
+    "俺たちが立ち上がる時だ"
+   ],
+   "start": 11.280500000000075,
+   "end": 13.090499999999775
+  },
+  {
+   "line_id": "Clip_26_L003",
+   "src_start": 1874.4699999999998,
+   "src_end": 1879.18,
+   "en": [
+    "It's time for us to put",
+    "somebody in office that is us,"
+   ],
+   "en_unmasked": "It's time for us to put somebody in office that is us,",
+   "jp": [
+    "俺たちの側の人間を",
+    "俺たちを気にかける人間を"
+   ],
+   "start": 13.110499999999774,
+   "end": 18.030499999999602
+  },
+  {
+   "line_id": "Clip_26_L003",
+   "src_start": 1879.4099999999996,
+   "src_end": 1880.7,
+   "en": [
+    "that cares about us,"
+   ],
+   "en_unmasked": "that cares about us,",
+   "jp": [
+    "政権に就ける時だ"
+   ],
+   "start": 18.0504999999996,
+   "end": 19.730499999999648
+  },
+  {
+   "line_id": "Clip_26_L004",
+   "src_start": 1881.1099999999997,
+   "src_end": 1883.98,
+   "en": [
+    "that serves God and serves the",
+    "people. That's what 2024 means."
+   ],
+   "en_unmasked": "that serves God and serves the people. That's what 2024 means.",
+   "jp": [
+    "神に仕え　人々に仕える人間をな",
+    "それが2024の意味だ"
+   ],
+   "start": 19.750499999999647,
+   "end": 23.120499999999993
+  },
+  {
+   "line_id": "Clip_26_L005",
+   "src_start": 1887.34,
+   "src_end": 1889.22,
+   "en": [
+    "So you can't say this right now."
+   ],
+   "en_unmasked": "So you can't say this right now.",
+   "jp": [
+    "じゃあ今は",
+    "まだ言えないってことか"
+   ],
+   "start": 25.980499999999893,
+   "end": 27.94083333333354
+  },
+  {
+   "line_id": "Clip_26_L006",
+   "src_start": 1895.66,
+   "src_end": 1896.38,
+   "en": [
+    "So that..."
+   ],
+   "en_unmasked": "So that...",
+   "jp": [
+    "ってことは…"
+   ],
+   "start": 27.96083333333354,
+   "end": 29.180833333333567
+  },
+  {
+   "line_id": "Clip_26_L006",
+   "src_start": 1898.1399999999992,
+   "src_end": 1901.91,
+   "en": [
+    "Ye might be against...",
+    "But what if Trump runs?"
+   ],
+   "en_unmasked": "Ye might be against... But what if Trump runs?",
+   "jp": [
+    "Yeが対抗するのは…",
+    "でもトランプが出たら？"
+   ],
+   "start": 30.440833333332648,
+   "end": 34.71083333333354
+  },
+  {
+   "line_id": "Clip_26_L007",
+   "src_start": 1902.7999999999997,
+   "src_end": 1904.65,
+   "en": [
+    "No, that's... He might. Yeah."
+   ],
+   "en_unmasked": "No, that's... He might. Yeah.",
+   "jp": [
+    "いや、それは…",
+    "出るかもな"
+   ],
+   "start": 35.100833333333185,
+   "end": 37.45083333333355
+  },
+  {
+   "line_id": "Clip_26_L008",
+   "src_start": 1907.76,
+   "src_end": 1909.96,
+   "en": [
+    "I think that's what",
+    "America's been waiting for."
+   ],
+   "en_unmasked": "I think that's what America's been waiting for.",
+   "jp": [
+    "アメリカはそれを",
+    "待ってたんだと思うよ"
+   ],
+   "start": 40.06083333333345,
+   "end": 42.760833333333494
+  },
+  {
+   "line_id": "Clip_26_L009",
+   "src_start": 1910.91,
+   "src_end": 1911.93,
+   "en": [
+    "You against Trump?"
+   ],
+   "en_unmasked": "You against Trump?",
+   "jp": [
+    "トランプと対決？"
+   ],
+   "start": 43.21083333333354,
+   "end": 44.630833333333364
+  },
+  {
+   "line_id": "Clip_26_L010",
+   "src_start": 1912.35,
+   "src_end": 1914.29,
+   "en": [
+    "Yeah. Who you voting for?"
+   ],
+   "en_unmasked": "Yeah. Who you voting for?",
+   "jp": [
+    "そう",
+    "あんたは誰に投票する？"
+   ],
+   "start": 44.65083333333337,
+   "end": 47.09083333333342
+  },
+  {
+   "line_id": "Clip_26_L011",
+   "src_start": 1917.76,
+   "src_end": 1918.42,
+   "en": [
+    "That's a good one."
+   ],
+   "en_unmasked": "That's a good one.",
+   "jp": [
+    "いい質問だな"
+   ],
+   "start": 50.06083333333345,
+   "end": 51.22083333333353
+  },
+  {
+   "line_id": "Clip_26_L012",
+   "src_start": 1920.8,
+   "src_end": 1924.18,
+   "en": [
+    "I'm not even going to lie, man.",
+    "I'm a fan of a lot of people, but,"
+   ],
+   "en_unmasked": "I'm not even going to lie, man. I'm a fan of a lot of people, but,",
+   "jp": [
+    "ウソはつかないよ",
+    "ファンな人はたくさんいる"
+   ],
+   "start": 53.10083333333341,
+   "end": 56.46083333333352
+  },
+  {
+   "line_id": "Clip_26_L012",
+   "src_start": 1924.18,
+   "src_end": 1926.54,
+   "en": [
+    "you know, respectfully, I don't",
+    "like nobody better than me."
+   ],
+   "en_unmasked": "you know, respectfully, I don't like nobody better than me.",
+   "jp": [
+    "でも悪いけど",
+    "俺より好きな奴はいない"
+   ],
+   "start": 56.48083333333352,
+   "end": 59.34083333333342
+  },
+  {
+   "line_id": "Clip_26_L013",
+   "src_start": 1927.7099999999991,
+   "src_end": 1928.009999999999,
+   "en": [
+    "Right."
+   ],
+   "en_unmasked": "Right.",
+   "jp": [
+    "なるほど"
+   ],
+   "start": 60.010833333332585,
+   "end": 60.81083333333258
+  },
+  {
+   "line_id": "Clip_26_L013",
+   "src_start": 1929.36,
+   "src_end": 1931.21,
+   "en": [
+    "If he asked you to be VP, would you?"
+   ],
+   "en_unmasked": "If he asked you to be VP, would you?",
+   "jp": [
+    "もしトランプに副大統領を頼まれたら",
+    "やる？"
+   ],
+   "start": 61.66083333333336,
+   "end": 64.0108333333335
+  },
+  {
+   "line_id": "Clip_26_L014",
+   "src_start": 1936.4699999999998,
+   "src_end": 1938.05,
+   "en": [
+    "Yeah. Absolutely. If that",
+    "was a piece that's like me,"
+   ],
+   "en_unmasked": "Yeah. Absolutely. If that was a piece that's like me,",
+   "jp": [
+    "ああ、もちろん",
+    "それは俺にとって"
+   ],
+   "start": 68.77083333333326,
+   "end": 70.33083333333342
+  },
+  {
+   "line_id": "Clip_26_L014",
+   "src_start": 1938.05,
+   "src_end": 1939.03,
+   "en": [
+    "let's say, Watch the Throne then."
+   ],
+   "en_unmasked": "let's say, Watch the Throne then.",
+   "jp": [
+    "『Watch the Throne』みたいなもんだ"
+   ],
+   "start": 70.35083333333341,
+   "end": 71.83083333333343
+  },
+  {
+   "line_id": "Clip_26_L015",
+   "src_start": 1940.37,
+   "src_end": 1942.25,
+   "en": [
+    "Well, you thought he was the",
+    "VP on Watch the Throne?"
+   ],
+   "en_unmasked": "Well, you thought he was the VP on Watch the Throne?",
+   "jp": [
+    "『Watch the Throne』では",
+    "Jayが副大統領だったって？"
+   ],
+   "start": 72.67083333333335,
+   "end": 74.53083333333346
+  },
+  {
+   "line_id": "Clip_26_L015",
+   "src_start": 1942.25,
+   "src_end": 1943.9233333333334,
+   "en": [
+    "I thought you was",
+    "equals, co-president."
+   ],
+   "en_unmasked": "I thought you was equals, co-president.",
+   "jp": [
+    "対等な共同大統領だと思ってたわ"
+   ],
+   "start": 74.55083333333346,
+   "end": 76.97083333333352
+  },
+  {
+   "line_id": "Clip_26_L016",
+   "src_start": 1944.69,
+   "src_end": 1946.95,
+   "en": [
+    "But still, that's my elder.",
+    "That's my senior."
+   ],
+   "en_unmasked": "But still, that's my elder. That's my senior.",
+   "jp": [
+    "でもやっぱり",
+    "あの人は俺の先輩"
+   ],
+   "start": 76.99083333333351,
+   "end": 79.2308333333335
+  },
+  {
+   "line_id": "Clip_26_L016",
+   "src_start": 1946.95,
+   "src_end": 1949.85,
+   "en": [
+    "That's the person with more",
+    "experience. I love the respect."
+   ],
+   "en_unmasked": "That's the person with more experience. I love the respect.",
+   "jp": [
+    "経験も上だ",
+    "その敬意が大事なんだよ"
+   ],
+   "start": 79.2508333333335,
+   "end": 82.14541666666672
+  }
+ ]
+}

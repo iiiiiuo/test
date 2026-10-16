@@ -1,0 +1,242 @@
+[
+ {
+  "target": "Clip_22",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none (note: JP names 3 s early at 73.81-77.03)",
+  "fix": "chunks override Clip_22_L019",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_23",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "final word 'about' cut ~0.25 s early; 'fit in' clipped at join",
+  "fix": "hand end windows 1143.08-1143.14 and 1197.24-1197.30 (frames 27408, 28706)",
+  "failed_approach": "auto/hand window ended inside glued word about (1196.82-1197.02)"
+ },
+ {
+  "target": "Clip_22",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_24",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "L002 shown 1.1 s early over uncaptioned 'I ain't gonna lie, I've been'",
+  "fix": "interval 2 start moved to 'since' (frame 35657)",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_23",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_25",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "note: opening trims ~0.2 s of 'And I'",
+  "fix": "interval 1 start moved to 1108.40-1108.46 window",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_24",
+  "round": 2,
+  "verdict": "FAIL",
+  "largest_gap": "L012 JP order inverted vs EN (46.43-50.77)",
+  "fix": "chunks override Clip_24_L012",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_26",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: 'Right.' caption lags ~0.9 s at 60.01",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_24",
+  "round": 3,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: 44.03 fragment EN-only",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_27",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "0.40 s flash caption 'But it's like,' at 55.57",
+  "fix": "chunks override Clip_27_L012 (one caption)",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_28",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_29",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_27",
+  "round": 2,
+  "verdict": "FAIL",
+  "largest_gap": "opens inside 'Because'; ends while 'manner' sounding",
+  "fix": "hand windows start 657.98-658.06, end 724.86-724.94",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_25",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: low-level tail of 'and' in first 0.35 s",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_27",
+  "round": 3,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: framing shows host 0.6-4.4 s",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_31",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_30",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "opens on uncaptioned tail 'thing is' (0-0.25 s)",
+  "fix": "start window 51.62-51.78 (frame ~1238)",
+  "failed_approach": "start window 51.39-51.55 (energy dip before 'is,') put the uncaptioned 'is' in the clip"
+ },
+ {
+  "target": "Clip_32",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_33",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_30",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: 0.06 s tail of 'is,' at open",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_34",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "'Yeah.' caption carried JP of later 'I fuck with you'; 2.2 s uncaptioned interjection at 65.95-68.15",
+  "fix": "L004 chunks override; CUTS 1718.13-1720.13 removing unapproved 'You're transcending'",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_35",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "1.8 s uncaptioned repeated sentence at 41.93-43.75; next caption early",
+  "fix": "jump cut 638.43-641.52 + display EN 'the whole time' (L009)",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_36",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: caption 10 ~1.2 s early over applause",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_37",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "cosmetic: caption 4 onset ~1.9 s before words (host stutter)",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_34",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: JP word order lags EN 58.7-66.1",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_38",
+  "round": 1,
+  "verdict": "PASS",
+  "largest_gap": "note: same JP repeated on two consecutive captions",
+  "fix": "chunks override Clip_38_L010 (one JP segment per chunk)",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_35",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "non-blocking: abrupt audio drop at join 41.70",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_39",
+  "round": 1,
+  "verdict": "FAIL",
+  "largest_gap": "JP 'I'm not Moses' shown 4 s early under previous EN chunk",
+  "fix": "chunks override Clip_39_L003",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_38",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "minor: 62.09 caption EN-only",
+  "fix": "none",
+  "failed_approach": null
+ },
+ {
+  "target": "Clip_39",
+  "round": 2,
+  "verdict": "PASS",
+  "largest_gap": "cosmetic: ~0.5 s uncaptioned 'you know saying' at start",
+  "fix": "none",
+  "failed_approach": null
+ }
+]

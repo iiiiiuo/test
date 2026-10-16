@@ -1,0 +1,394 @@
+{
+ "clip": "Clip_31",
+ "total_s": 70.52879166666668,
+ "segments": [
+  [
+   157.36483333333334,
+   215.92333333333335,
+   0.0
+  ],
+  [
+   220.80320833333334,
+   232.7735,
+   58.55850000000001
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_31_L001",
+   "src_start": 157.36,
+   "src_end": 162.66,
+   "en": [
+    "I remember I used to play ball with",
+    "Common, with Rashid, at UCLA."
+   ],
+   "en_unmasked": "I remember I used to play ball with Common, with Rashid, at UCLA.",
+   "jp": [
+    "昔UCLAで　CommonとRashidと",
+    "バスケしてたんだけど"
+   ],
+   "start": 0.0,
+   "end": 5.395166666666665
+  },
+  {
+   "line_id": "Clip_31_L001",
+   "src_start": 162.78,
+   "src_end": 164.98,
+   "en": [
+    "And afterwards, I was like,",
+    "we can go to Denny's."
+   ],
+   "en_unmasked": "And afterwards, I was like, we can go to Denny's.",
+   "jp": [
+    "終わった後に「デニーズに行こう」って"
+   ],
+   "start": 5.415166666666664,
+   "end": 7.695166666666676
+  },
+  {
+   "line_id": "Clip_31_L002",
+   "src_start": 165.08,
+   "src_end": 167.26,
+   "en": [
+    "You know, this ni**a's a skinny",
+    "actor. He said, Denny's?"
+   ],
+   "en_unmasked": "You know, this nigga's a skinny actor. He said, Denny's?",
+   "jp": [
+    "あいつは細身の俳優だからさ",
+    "「デニーズ？」って"
+   ],
+   "start": 7.715166666666676,
+   "end": 10.395166666666654
+  },
+  {
+   "line_id": "Clip_31_L003",
+   "src_start": 168.5300000000001,
+   "src_end": 169.3,
+   "en": [
+    "But I like Denny's."
+   ],
+   "en_unmasked": "But I like Denny's.",
+   "jp": [
+    "でも俺はデニーズ好きなんだよ"
+   ],
+   "start": 11.16516666666675,
+   "end": 12.435166666666674
+  },
+  {
+   "line_id": "Clip_31_L004",
+   "src_start": 170.48,
+   "src_end": 174.61999999999998,
+   "en": [
+    "But I want to just take this moment",
+    "of breath and just soak it in, and how,"
+   ],
+   "en_unmasked": "But I want to just take this moment of breath and just soak it in, and how,",
+   "jp": [
+    "でもここで一息ついて　噛みしめたいんだ",
+    "お前らの声が"
+   ],
+   "start": 13.115166666666653,
+   "end": 17.75516666666664
+  },
+  {
+   "line_id": "Clip_31_L004",
+   "src_start": 176.73,
+   "src_end": 180.04,
+   "en": [
+    "how important you guys' voice is."
+   ],
+   "en_unmasked": "how important you guys' voice is.",
+   "jp": [
+    "どれだけ大事かってことを"
+   ],
+   "start": 19.365166666666653,
+   "end": 23.285166666666765
+  },
+  {
+   "line_id": "Clip_31_L005",
+   "src_start": 180.6700000000001,
+   "src_end": 183.02,
+   "en": [
+    "And I want to just",
+    "compliment, you know,"
+   ],
+   "en_unmasked": "And I want to just compliment, you know,",
+   "jp": [
+    "それと世界で一番好きな人を"
+   ],
+   "start": 23.305166666666764,
+   "end": 25.635166666666674
+  },
+  {
+   "line_id": "Clip_31_L005",
+   "src_start": 183.02,
+   "src_end": 185.22,
+   "en": [
+    "my favorite person in the world.",
+    "Do you know who that is?"
+   ],
+   "en_unmasked": "my favorite person in the world. Do you know who that is?",
+   "jp": [
+    "褒めたいんだ",
+    "誰だかわかる？"
+   ],
+   "start": 25.655166666666673,
+   "end": 28.355166666666662
+  },
+  {
+   "line_id": "Clip_31_L006",
+   "src_start": 187.37,
+   "src_end": 189.64,
+   "en": [
+    "Does anyone here know... no,"
+   ],
+   "en_unmasked": "Does anyone here know... no,",
+   "jp": [
+    "ここにいる誰か…"
+   ],
+   "start": 30.005166666666668,
+   "end": 32.255166666666646
+  },
+  {
+   "line_id": "Clip_31_L006",
+   "src_start": 189.64,
+   "src_end": 192.18,
+   "en": [
+    "does anyone here know who",
+    "my favorite human being is?"
+   ],
+   "en_unmasked": "does anyone here know who my favorite human being is?",
+   "jp": [
+    "俺が一番好きな人間が",
+    "誰か知ってる？"
+   ],
+   "start": 32.27516666666665,
+   "end": 34.81516666666665
+  },
+  {
+   "line_id": "Clip_31_L007",
+   "src_start": 192.2,
+   "src_end": 193.4,
+   "en": [
+    "I would think your mom is."
+   ],
+   "en_unmasked": "I would think your mom is.",
+   "jp": [
+    "お母さんだろ"
+   ],
+   "start": 34.83516666666665,
+   "end": 36.61516666666666
+  },
+  {
+   "line_id": "Clip_31_L008",
+   "src_start": 194.0,
+   "src_end": 195.36,
+   "en": [
+    "No, no, not my mom. Close."
+   ],
+   "en_unmasked": "No, no, not my mom. Close.",
+   "jp": [
+    "いやいや、母ちゃんじゃない",
+    "惜しいけど"
+   ],
+   "start": 36.63516666666666,
+   "end": 38.49516666666668
+  },
+  {
+   "line_id": "Clip_31_L009",
+   "src_start": 196.46,
+   "src_end": 198.08,
+   "en": [
+    "Me. I want to compliment me."
+   ],
+   "en_unmasked": "Me. I want to compliment me.",
+   "jp": [
+    "俺だよ",
+    "俺は俺を褒めたい"
+   ],
+   "start": 39.09516666666667,
+   "end": 41.215166666666676
+  },
+  {
+   "line_id": "Clip_31_L010",
+   "src_start": 201.2,
+   "src_end": 203.98,
+   "en": [
+    "Through your mom.",
+    "Your mom empowered you."
+   ],
+   "en_unmasked": "Through your mom. Your mom empowered you.",
+   "jp": [
+    "お母さんのおかげだろ　お母さんが",
+    "あんたに力をくれたんだ"
+   ],
+   "start": 43.83516666666665,
+   "end": 46.59516666666665
+  },
+  {
+   "line_id": "Clip_31_L011",
+   "src_start": 203.98,
+   "src_end": 205.38,
+   "en": [
+    "Yeah. Second favorite."
+   ],
+   "en_unmasked": "Yeah. Second favorite.",
+   "jp": [
+    "そう、2番目に好き"
+   ],
+   "start": 46.61516666666665,
+   "end": 48.27516666666666
+  },
+  {
+   "line_id": "Clip_31_L012",
+   "src_start": 205.66,
+   "src_end": 209.18,
+   "en": [
+    "So I want to compliment me",
+    "on having the wherewithal"
+   ],
+   "en_unmasked": "So I want to compliment me on having the wherewithal",
+   "jp": [
+    "だから俺を褒めたいんだよ"
+   ],
+   "start": 48.29516666666666,
+   "end": 51.79516666666667
+  },
+  {
+   "line_id": "Clip_31_L012",
+   "src_start": 209.18,
+   "src_end": 212.29999999999998,
+   "en": [
+    "to be sitting there through",
+    "the divorce, through all that,"
+   ],
+   "en_unmasked": "to be sitting there through the divorce, through all that,",
+   "jp": [
+    "離婚とか全部を　耐えながら",
+    "「次に俺が話すのは"
+   ],
+   "start": 51.81516666666667,
+   "end": 55.005166666666646
+  },
+  {
+   "line_id": "Clip_31_L012",
+   "src_start": 212.39,
+   "src_end": 214.52,
+   "en": [
+    "and say, the next time",
+    "that people hear me talk,"
+   ],
+   "en_unmasked": "and say, the next time that people hear me talk,",
+   "jp": [
+    "Drink Champsだ」って"
+   ],
+   "start": 55.02516666666665,
+   "end": 57.13516666666667
+  },
+  {
+   "line_id": "Clip_31_L012",
+   "src_start": 214.52,
+   "src_end": 215.76,
+   "en": [
+    "I'm going to Drink Champs."
+   ],
+   "en_unmasked": "I'm going to Drink Champs.",
+   "jp": [
+    "決めた俺をな"
+   ],
+   "start": 57.15516666666667,
+   "end": 58.538500000000006
+  },
+  {
+   "line_id": "Clip_31_L013",
+   "src_start": 220.72,
+   "src_end": 221.88,
+   "en": [
+    "And think about this."
+   ],
+   "en_unmasked": "And think about this.",
+   "jp": [
+    "それに考えてみろよ"
+   ],
+   "start": 58.55850000000001,
+   "end": 59.71529166666665
+  },
+  {
+   "line_id": "Clip_31_L014",
+   "src_start": 221.98,
+   "src_end": 223.38,
+   "en": [
+    "You know, when I",
+    "was at Rolling Loud,"
+   ],
+   "en_unmasked": "You know, when I was at Rolling Loud,",
+   "jp": [
+    "Rolling Loudの時",
+    "Futureとはステージで"
+   ],
+   "start": 59.735291666666654,
+   "end": 61.13529166666667
+  },
+  {
+   "line_id": "Clip_31_L014",
+   "src_start": 223.4,
+   "src_end": 226.36,
+   "en": [
+    "I hadn't seen Future",
+    "until I saw him on stage."
+   ],
+   "en_unmasked": "I hadn't seen Future until I saw him on stage.",
+   "jp": [
+    "初めて顔を合わせたんだ"
+   ],
+   "start": 61.15529166666667,
+   "end": 64.61529166666665
+  },
+  {
+   "line_id": "Clip_31_L015",
+   "src_start": 227.41000000000014,
+   "src_end": 228.34,
+   "en": [
+    "He said, freestyle, freestyle."
+   ],
+   "en_unmasked": "He said, freestyle, freestyle.",
+   "jp": [
+    "あいつが",
+    "「フリースタイル、フリースタイル」って"
+   ],
+   "start": 65.16529166666683,
+   "end": 66.59529166666667
+  },
+  {
+   "line_id": "Clip_31_L016",
+   "src_start": 229.21000000000015,
+   "src_end": 230.44,
+   "en": [
+    "And he looked at me and said, like,"
+   ],
+   "en_unmasked": "And he looked at me and said, like,",
+   "jp": [
+    "で、俺を見て",
+    "「世界一影響力のある男だ」"
+   ],
+   "start": 66.96529166666679,
+   "end": 68.1752916666667
+  },
+  {
+   "line_id": "Clip_31_L016",
+   "src_start": 230.44,
+   "src_end": 232.68,
+   "en": [
+    "man, most influential in the world."
+   ],
+   "en_unmasked": "man, most influential in the world.",
+   "jp": [
+    "って言ったんだよ"
+   ],
+   "start": 68.19529166666669,
+   "end": 70.50879166666668
+  }
+ ]
+}

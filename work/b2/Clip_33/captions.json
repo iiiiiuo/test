@@ -1,0 +1,373 @@
+{
+ "clip": "Clip_33",
+ "total_s": 83.70862499999998,
+ "segments": [
+  [
+   1093.88375,
+   1177.592375,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_33_L001",
+   "src_start": 1093.8,
+   "src_end": 1096.44,
+   "en": [
+    "I'm always being honest,",
+    "so we'll get to that point."
+   ],
+   "en_unmasked": "I'm always being honest, so we'll get to that point.",
+   "jp": [
+    "俺はいつだって正直だ"
+   ],
+   "start": 0.0,
+   "end": 2.536250000000091
+  },
+  {
+   "line_id": "Clip_33_L001",
+   "src_start": 1096.44,
+   "src_end": 1101.14,
+   "en": [
+    "So I'm saying that every time a",
+    "celebrity does something, you know,"
+   ],
+   "en_unmasked": "So I'm saying that every time a celebrity does something, you know,",
+   "jp": [
+    "その話はまたするとして",
+    "セレブが人前で何かすると　毎回それは"
+   ],
+   "start": 2.556250000000091,
+   "end": 7.236250000000137
+  },
+  {
+   "line_id": "Clip_33_L001",
+   "src_start": 1101.14,
+   "src_end": 1106.24,
+   "en": [
+    "in the public, it's, you know, to raise",
+    "their profile or something, some way."
+   ],
+   "en_unmasked": "in the public, it's, you know, to raise their profile or something, some way.",
+   "jp": [
+    "自分の評判を上げるためだって",
+    "言われるだろ"
+   ],
+   "start": 7.256250000000136,
+   "end": 12.336250000000046
+  },
+  {
+   "line_id": "Clip_33_L002",
+   "src_start": 1106.24,
+   "src_end": 1107.88,
+   "en": [
+    "You know, I'm here, right?"
+   ],
+   "en_unmasked": "You know, I'm here, right?",
+   "jp": [
+    "俺はここにいる"
+   ],
+   "start": 12.356250000000045,
+   "end": 14.326250000000055
+  },
+  {
+   "line_id": "Clip_33_L002",
+   "src_start": 1108.23,
+   "src_end": 1111.36,
+   "en": [
+    "But I would love for people to",
+    "understand my perspective."
+   ],
+   "en_unmasked": "But I would love for people to understand my perspective.",
+   "jp": [
+    "でも俺の視点を",
+    "わかってほしいんだ"
+   ],
+   "start": 14.346250000000055,
+   "end": 17.746249999999673
+  },
+  {
+   "line_id": "Clip_33_L003",
+   "src_start": 1111.6499999999996,
+   "src_end": 1114.1,
+   "en": [
+    "I want to be... I don't",
+    "even like the word want."
+   ],
+   "en_unmasked": "I want to be... I don't even like the word want.",
+   "jp": [
+    "「〜したい」…",
+    "いや「欲しい」って言葉も"
+   ],
+   "start": 17.766249999999673,
+   "end": 20.196249999999946
+  },
+  {
+   "line_id": "Clip_33_L003",
+   "src_start": 1114.1,
+   "src_end": 1115.36,
+   "en": [
+    "We shouldn't want",
+    "for anything, right?"
+   ],
+   "en_unmasked": "We shouldn't want for anything, right?",
+   "jp": [
+    "好きじゃない",
+    "何も欲しがるべきじゃないだろ"
+   ],
+   "start": 20.216249999999945,
+   "end": 21.966249999999473
+  },
+  {
+   "line_id": "Clip_33_L004",
+   "src_start": 1115.8699999999994,
+   "src_end": 1119.94,
+   "en": [
+    "I need people to accept the",
+    "version of me for exactly who I am,"
+   ],
+   "en_unmasked": "I need people to accept the version of me for exactly who I am,",
+   "jp": [
+    "ありのままの俺を",
+    "受け入れてほしい"
+   ],
+   "start": 21.986249999999472,
+   "end": 26.03625000000009
+  },
+  {
+   "line_id": "Clip_33_L005",
+   "src_start": 1119.94,
+   "src_end": 1125.14,
+   "en": [
+    "for me to do the best version",
+    "of you up before the people."
+   ],
+   "en_unmasked": "for me to do the best version of you up before the people.",
+   "jp": [
+    "人前で最高の自分を",
+    "出すためにな"
+   ],
+   "start": 26.05625000000009,
+   "end": 31.626249999999555
+  },
+  {
+   "line_id": "Clip_33_L005",
+   "src_start": 1125.5299999999995,
+   "src_end": 1128.24,
+   "en": [
+    "Meaning, like, like, you're going to",
+    "do the version of you regardless."
+   ],
+   "en_unmasked": "Meaning, like, like, you're going to do the version of you regardless.",
+   "jp": [
+    "どのみちお前は",
+    "お前のままやるんだから"
+   ],
+   "start": 31.646249999999554,
+   "end": 34.33625000000004
+  },
+  {
+   "line_id": "Clip_33_L006",
+   "src_start": 1128.24,
+   "src_end": 1131.5,
+   "en": [
+    "Yeah. So say, so say Ye is in office,"
+   ],
+   "en_unmasked": "Yeah. So say, so say Ye is in office,",
+   "jp": [
+    "だからもし",
+    "2024年にYeが大統領になったら"
+   ],
+   "start": 34.356250000000045,
+   "end": 37.59625000000003
+  },
+  {
+   "line_id": "Clip_33_L006",
+   "src_start": 1131.5,
+   "src_end": 1135.16,
+   "en": [
+    "2024. Look at what I did at Adidas."
+   ],
+   "en_unmasked": "2024. Look at what I did at Adidas.",
+   "jp": [
+    "Adidasで俺がやったことを見ろ"
+   ],
+   "start": 37.616250000000036,
+   "end": 41.256250000000115
+  },
+  {
+   "line_id": "Clip_33_L007",
+   "src_start": 1135.16,
+   "src_end": 1139.1000000000001,
+   "en": [
+    "Look at what I did next to Jay-Z.",
+    "Look at what I did next to Kim."
+   ],
+   "en_unmasked": "Look at what I did next to Jay-Z. Look at what I did next to Kim.",
+   "jp": [
+    "Jay-Zの隣でやったこと",
+    "Kimの隣でやったこと"
+   ],
+   "start": 41.27625000000012,
+   "end": 45.42624999999973
+  },
+  {
+   "line_id": "Clip_33_L007",
+   "src_start": 1139.3299999999997,
+   "src_end": 1142.3,
+   "en": [
+    "Look what I did for myself.",
+    "That's exactly what I would do."
+   ],
+   "en_unmasked": "Look what I did for myself. That's exactly what I would do.",
+   "jp": [
+    "自分のためにやったことを見ろ",
+    "まさにそれをやるんだよ"
+   ],
+   "start": 45.446249999999736,
+   "end": 48.39624999999999
+  },
+  {
+   "line_id": "Clip_33_L008",
+   "src_start": 1142.3,
+   "src_end": 1145.62,
+   "en": [
+    "I'm 45 years old. Yes, I'm old",
+    "enough to be president now, right?"
+   ],
+   "en_unmasked": "I'm 45 years old. Yes, I'm old enough to be president now, right?",
+   "jp": [
+    "俺は45歳",
+    "もう大統領になれる歳だろ"
+   ],
+   "start": 48.41624999999999,
+   "end": 52.076249999999824
+  },
+  {
+   "line_id": "Clip_33_L009",
+   "src_start": 1145.9799999999998,
+   "src_end": 1154.06,
+   "en": [
+    "So the, the same things I did, you",
+    "know, within high school or college,"
+   ],
+   "en_unmasked": "So the, the same things I did, you know, within high school or college,",
+   "jp": [
+    "高校や大学の頃から",
+    "俺がやってきたこと"
+   ],
+   "start": 52.09624999999983,
+   "end": 60.15624999999998
+  },
+  {
+   "line_id": "Clip_33_L009",
+   "src_start": 1154.06,
+   "src_end": 1156.52,
+   "en": [
+    "you know, college, as a",
+    "producer, or going into rap,"
+   ],
+   "en_unmasked": "you know, college, as a producer, or going into rap,",
+   "jp": [
+    "プロデューサーとして",
+    "ラップの道に入って"
+   ],
+   "start": 60.17624999999998,
+   "end": 62.806249999999615
+  },
+  {
+   "line_id": "Clip_33_L009",
+   "src_start": 1156.7099999999996,
+   "src_end": 1160.16,
+   "en": [
+    "going into production,",
+    "going into creating merch,"
+   ],
+   "en_unmasked": "going into production, going into creating merch,",
+   "jp": [
+    "制作に入って",
+    "マーチを作って"
+   ],
+   "start": 62.82624999999962,
+   "end": 66.25625000000012
+  },
+  {
+   "line_id": "Clip_33_L010",
+   "src_start": 1160.16,
+   "src_end": 1162.1,
+   "en": [
+    "going into creating the, you know,"
+   ],
+   "en_unmasked": "going into creating the, you know,",
+   "jp": [
+    "第二次大戦以来初の"
+   ],
+   "start": 66.27625000000012,
+   "end": 68.19624999999995
+  },
+  {
+   "line_id": "Clip_33_L010",
+   "src_start": 1162.1,
+   "src_end": 1165.3,
+   "en": [
+    "the first sportswear factories",
+    "in America since World War II."
+   ],
+   "en_unmasked": "the first sportswear factories in America since World War II.",
+   "jp": [
+    "アメリカのスポーツウェア工場を",
+    "作ったりな"
+   ],
+   "start": 68.21624999999995,
+   "end": 71.96624999999993
+  },
+  {
+   "line_id": "Clip_33_L011",
+   "src_start": 1165.87,
+   "src_end": 1169.32,
+   "en": [
+    "That's the mentality I have.",
+    "And I'm a minimalist. I'm like,"
+   ],
+   "en_unmasked": "That's the mentality I have. And I'm a minimalist. I'm like,",
+   "jp": [
+    "それが俺の考え方だ　俺はミニマリストで",
+    "アーミッシュの"
+   ],
+   "start": 71.98624999999993,
+   "end": 75.70624999999949
+  },
+  {
+   "line_id": "Clip_33_L011",
+   "src_start": 1169.6099999999994,
+   "src_end": 1175.3600000000001,
+   "en": [
+    "I've mixed a bit of the Amish",
+    "idea of simple life with Apple,"
+   ],
+   "en_unmasked": "I've mixed a bit of the Amish idea of simple life with Apple,",
+   "jp": [
+    "シンプルな暮らしと",
+    "Apple、Mercedes-Benz"
+   ],
+   "start": 75.72624999999948,
+   "end": 81.58625000000005
+  },
+  {
+   "line_id": "Clip_33_L011",
+   "src_start": 1175.49,
+   "src_end": 1177.4,
+   "en": [
+    "Mercedes-Benz, Louis Vuitton."
+   ],
+   "en_unmasked": "Mercedes-Benz, Louis Vuitton.",
+   "jp": [
+    "Louis Vuittonを",
+    "ミックスしてるんだ"
+   ],
+   "start": 81.60625000000005,
+   "end": 83.68862499999999
+  }
+ ]
+}

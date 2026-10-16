@@ -1,0 +1,96 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm always being honest,
+Dialogue: 0,0:00:00.00,0:00:02.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}so we'll get to that point.
+Dialogue: 0,0:00:00.00,0:00:02.54,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺はいつだって正直だ
+Dialogue: 0,0:00:02.56,0:00:07.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I'm saying that every time a
+Dialogue: 0,0:00:02.56,0:00:07.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}celebrity does something, you know,
+Dialogue: 0,0:00:02.56,0:00:07.24,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}その話はまたするとして
+Dialogue: 0,0:00:02.56,0:00:07.24,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}セレブが人前で何かすると　毎回それは
+Dialogue: 0,0:00:07.26,0:00:12.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}in the public, it's, you know, to raise
+Dialogue: 0,0:00:07.26,0:00:12.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}their profile or something, some way.
+Dialogue: 0,0:00:07.26,0:00:12.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}自分の評判を上げるためだって
+Dialogue: 0,0:00:07.26,0:00:12.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}言われるだろ
+Dialogue: 0,0:00:12.36,0:00:14.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, I'm here, right?
+Dialogue: 0,0:00:12.36,0:00:14.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺はここにいる
+Dialogue: 0,0:00:14.35,0:00:17.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I would love for people to
+Dialogue: 0,0:00:14.35,0:00:17.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}understand my perspective.
+Dialogue: 0,0:00:14.35,0:00:17.75,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも俺の視点を
+Dialogue: 0,0:00:14.35,0:00:17.75,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかってほしいんだ
+Dialogue: 0,0:00:17.77,0:00:20.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to be... I don't
+Dialogue: 0,0:00:17.77,0:00:20.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}even like the word want.
+Dialogue: 0,0:00:17.77,0:00:20.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「〜したい」…
+Dialogue: 0,0:00:17.77,0:00:20.20,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}いや「欲しい」って言葉も
+Dialogue: 0,0:00:20.22,0:00:21.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We shouldn't want
+Dialogue: 0,0:00:20.22,0:00:21.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}for anything, right?
+Dialogue: 0,0:00:20.22,0:00:21.97,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}好きじゃない
+Dialogue: 0,0:00:20.22,0:00:21.97,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何も欲しがるべきじゃないだろ
+Dialogue: 0,0:00:21.99,0:00:26.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I need people to accept the
+Dialogue: 0,0:00:21.99,0:00:26.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}version of me for exactly who I am,
+Dialogue: 0,0:00:21.99,0:00:26.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ありのままの俺を
+Dialogue: 0,0:00:21.99,0:00:26.04,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}受け入れてほしい
+Dialogue: 0,0:00:26.06,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}for me to do the best version
+Dialogue: 0,0:00:26.06,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of you up before the people.
+Dialogue: 0,0:00:26.06,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人前で最高の自分を
+Dialogue: 0,0:00:26.06,0:00:31.63,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}出すためにな
+Dialogue: 0,0:00:31.65,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Meaning, like, like, you're going to
+Dialogue: 0,0:00:31.65,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}do the version of you regardless.
+Dialogue: 0,0:00:31.65,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どのみちお前は
+Dialogue: 0,0:00:31.65,0:00:34.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前のままやるんだから
+Dialogue: 0,0:00:34.36,0:00:37.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. So say, so say Ye is in office,
+Dialogue: 0,0:00:34.36,0:00:37.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だからもし
+Dialogue: 0,0:00:34.36,0:00:37.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}2024年にYeが大統領になったら
+Dialogue: 0,0:00:37.62,0:00:41.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}2024. Look at what I did at Adidas.
+Dialogue: 0,0:00:37.62,0:00:41.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Adidasで俺がやったことを見ろ
+Dialogue: 0,0:00:41.28,0:00:45.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Look at what I did next to Jay-Z.
+Dialogue: 0,0:00:41.28,0:00:45.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Look at what I did next to Kim.
+Dialogue: 0,0:00:41.28,0:00:45.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Jay-Zの隣でやったこと
+Dialogue: 0,0:00:41.28,0:00:45.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Kimの隣でやったこと
+Dialogue: 0,0:00:45.45,0:00:48.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Look what I did for myself.
+Dialogue: 0,0:00:45.45,0:00:48.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's exactly what I would do.
+Dialogue: 0,0:00:45.45,0:00:48.40,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}自分のためにやったことを見ろ
+Dialogue: 0,0:00:45.45,0:00:48.40,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}まさにそれをやるんだよ
+Dialogue: 0,0:00:48.42,0:00:52.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm 45 years old. Yes, I'm old
+Dialogue: 0,0:00:48.42,0:00:52.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}enough to be president now, right?
+Dialogue: 0,0:00:48.42,0:00:52.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は45歳
+Dialogue: 0,0:00:48.42,0:00:52.08,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もう大統領になれる歳だろ
+Dialogue: 0,0:00:52.10,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So the, the same things I did, you
+Dialogue: 0,0:00:52.10,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know, within high school or college,
+Dialogue: 0,0:00:52.10,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}高校や大学の頃から
+Dialogue: 0,0:00:52.10,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺がやってきたこと
+Dialogue: 0,0:01:00.18,0:01:02.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, college, as a
+Dialogue: 0,0:01:00.18,0:01:02.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}producer, or going into rap,
+Dialogue: 0,0:01:00.18,0:01:02.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}プロデューサーとして
+Dialogue: 0,0:01:00.18,0:01:02.81,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ラップの道に入って
+Dialogue: 0,0:01:02.83,0:01:06.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}going into production,
+Dialogue: 0,0:01:02.83,0:01:06.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}going into creating merch,
+Dialogue: 0,0:01:02.83,0:01:06.26,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}制作に入って
+Dialogue: 0,0:01:02.83,0:01:06.26,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}マーチを作って
+Dialogue: 0,0:01:06.28,0:01:08.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}going into creating the, you know,
+Dialogue: 0,0:01:06.28,0:01:08.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}第二次大戦以来初の
+Dialogue: 0,0:01:08.22,0:01:11.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the first sportswear factories
+Dialogue: 0,0:01:08.22,0:01:11.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}in America since World War II.
+Dialogue: 0,0:01:08.22,0:01:11.97,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}アメリカのスポーツウェア工場を
+Dialogue: 0,0:01:08.22,0:01:11.97,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}作ったりな
+Dialogue: 0,0:01:11.99,0:01:15.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's the mentality I have.
+Dialogue: 0,0:01:11.99,0:01:15.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}And I'm a minimalist. I'm like,
+Dialogue: 0,0:01:11.99,0:01:15.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それが俺の考え方だ　俺はミニマリストで
+Dialogue: 0,0:01:11.99,0:01:15.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}アーミッシュの
+Dialogue: 0,0:01:15.73,0:01:21.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I've mixed a bit of the Amish
+Dialogue: 0,0:01:15.73,0:01:21.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}idea of simple life with Apple,
+Dialogue: 0,0:01:15.73,0:01:21.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}シンプルな暮らしと
+Dialogue: 0,0:01:15.73,0:01:21.59,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Apple、Mercedes-Benz
+Dialogue: 0,0:01:21.61,0:01:23.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Mercedes-Benz, Louis Vuitton.
+Dialogue: 0,0:01:21.61,0:01:23.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Louis Vuittonを
+Dialogue: 0,0:01:21.61,0:01:23.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ミックスしてるんだ

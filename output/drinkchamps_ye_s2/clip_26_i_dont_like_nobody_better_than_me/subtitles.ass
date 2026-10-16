@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Can we address this hat?
+Dialogue: 0,0:00:00.00,0:00:03.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}What does the 2024 mean?
+Dialogue: 0,0:00:00.00,0:00:03.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}この帽子の話をしようか　「2024」って
+Dialogue: 0,0:00:00.00,0:00:03.66,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どういう意味？
+Dialogue: 0,0:00:05.40,0:00:06.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}2024...
+Dialogue: 0,0:00:05.40,0:00:06.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}2024は…
+Dialogue: 0,0:00:08.03,0:00:09.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the run.
+Dialogue: 0,0:00:08.03,0:00:09.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}出馬だよ
+Dialogue: 0,0:00:11.28,0:00:13.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's time for us to rise up.
+Dialogue: 0,0:00:11.28,0:00:13.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺たちが立ち上がる時だ
+Dialogue: 0,0:00:13.11,0:00:18.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's time for us to put
+Dialogue: 0,0:00:13.11,0:00:18.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}somebody in office that is us,
+Dialogue: 0,0:00:13.11,0:00:18.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺たちの側の人間を
+Dialogue: 0,0:00:13.11,0:00:18.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺たちを気にかける人間を
+Dialogue: 0,0:00:18.05,0:00:19.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that cares about us,
+Dialogue: 0,0:00:18.05,0:00:19.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}政権に就ける時だ
+Dialogue: 0,0:00:19.75,0:00:23.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that serves God and serves the
+Dialogue: 0,0:00:19.75,0:00:23.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}people. That's what 2024 means.
+Dialogue: 0,0:00:19.75,0:00:23.12,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神に仕え　人々に仕える人間をな
+Dialogue: 0,0:00:19.75,0:00:23.12,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それが2024の意味だ
+Dialogue: 0,0:00:25.98,0:00:27.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So you can't say this right now.
+Dialogue: 0,0:00:25.98,0:00:27.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}じゃあ今は
+Dialogue: 0,0:00:25.98,0:00:27.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}まだ言えないってことか
+Dialogue: 0,0:00:27.96,0:00:29.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So that...
+Dialogue: 0,0:00:27.96,0:00:29.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ってことは…
+Dialogue: 0,0:00:30.44,0:00:34.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Ye might be against...
+Dialogue: 0,0:00:30.44,0:00:34.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}But what if Trump runs?
+Dialogue: 0,0:00:30.44,0:00:34.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Yeが対抗するのは…
+Dialogue: 0,0:00:30.44,0:00:34.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}でもトランプが出たら？
+Dialogue: 0,0:00:35.10,0:00:37.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, that's... He might. Yeah.
+Dialogue: 0,0:00:35.10,0:00:37.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いや、それは…
+Dialogue: 0,0:00:35.10,0:00:37.45,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}出るかもな
+Dialogue: 0,0:00:40.06,0:00:42.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I think that's what
+Dialogue: 0,0:00:40.06,0:00:42.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}America's been waiting for.
+Dialogue: 0,0:00:40.06,0:00:42.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}アメリカはそれを
+Dialogue: 0,0:00:40.06,0:00:42.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}待ってたんだと思うよ
+Dialogue: 0,0:00:43.21,0:00:44.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You against Trump?
+Dialogue: 0,0:00:43.21,0:00:44.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}トランプと対決？
+Dialogue: 0,0:00:44.65,0:00:47.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. Who you voting for?
+Dialogue: 0,0:00:44.65,0:00:47.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう
+Dialogue: 0,0:00:44.65,0:00:47.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あんたは誰に投票する？
+Dialogue: 0,0:00:50.06,0:00:51.22,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a good one.
+Dialogue: 0,0:00:50.06,0:00:51.22,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いい質問だな
+Dialogue: 0,0:00:53.10,0:00:56.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm not even going to lie, man.
+Dialogue: 0,0:00:53.10,0:00:56.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm a fan of a lot of people, but,
+Dialogue: 0,0:00:53.10,0:00:56.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ウソはつかないよ
+Dialogue: 0,0:00:53.10,0:00:56.46,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ファンな人はたくさんいる
+Dialogue: 0,0:00:56.48,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, respectfully, I don't
+Dialogue: 0,0:00:56.48,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like nobody better than me.
+Dialogue: 0,0:00:56.48,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも悪いけど
+Dialogue: 0,0:00:56.48,0:00:59.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺より好きな奴はいない
+Dialogue: 0,0:01:00.01,0:01:00.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right.
+Dialogue: 0,0:01:00.01,0:01:00.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}なるほど
+Dialogue: 0,0:01:01.66,0:01:04.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If he asked you to be VP, would you?
+Dialogue: 0,0:01:01.66,0:01:04.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}もしトランプに副大統領を頼まれたら
+Dialogue: 0,0:01:01.66,0:01:04.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}やる？
+Dialogue: 0,0:01:08.77,0:01:10.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. Absolutely. If that
+Dialogue: 0,0:01:08.77,0:01:10.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}was a piece that's like me,
+Dialogue: 0,0:01:08.77,0:01:10.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ああ、もちろん
+Dialogue: 0,0:01:08.77,0:01:10.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それは俺にとって
+Dialogue: 0,0:01:10.35,0:01:11.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}let's say, Watch the Throne then.
+Dialogue: 0,0:01:10.35,0:01:11.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}『Watch the Throne』みたいなもんだ
+Dialogue: 0,0:01:12.67,0:01:14.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Well, you thought he was the
+Dialogue: 0,0:01:12.67,0:01:14.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}VP on Watch the Throne?
+Dialogue: 0,0:01:12.67,0:01:14.53,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}『Watch the Throne』では
+Dialogue: 0,0:01:12.67,0:01:14.53,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Jayが副大統領だったって？
+Dialogue: 0,0:01:14.55,0:01:16.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I thought you was
+Dialogue: 0,0:01:14.55,0:01:16.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}equals, co-president.
+Dialogue: 0,0:01:14.55,0:01:16.97,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}対等な共同大統領だと思ってたわ
+Dialogue: 0,0:01:16.99,0:01:19.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But still, that's my elder.
+Dialogue: 0,0:01:16.99,0:01:19.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}That's my senior.
+Dialogue: 0,0:01:16.99,0:01:19.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもやっぱり
+Dialogue: 0,0:01:16.99,0:01:19.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あの人は俺の先輩
+Dialogue: 0,0:01:19.25,0:01:22.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's the person with more
+Dialogue: 0,0:01:19.25,0:01:22.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}experience. I love the respect.
+Dialogue: 0,0:01:19.25,0:01:22.15,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}経験も上だ
+Dialogue: 0,0:01:19.25,0:01:22.15,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}その敬意が大事なんだよ

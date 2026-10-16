@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I remember I used to play ball with
+Dialogue: 0,0:00:00.00,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Common, with Rashid, at UCLA.
+Dialogue: 0,0:00:00.00,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}昔UCLAで　CommonとRashidと
+Dialogue: 0,0:00:00.00,0:00:05.40,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}バスケしてたんだけど
+Dialogue: 0,0:00:05.42,0:00:07.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And afterwards, I was like,
+Dialogue: 0,0:00:05.42,0:00:07.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we can go to Denny's.
+Dialogue: 0,0:00:05.42,0:00:07.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}終わった後に「デニーズに行こう」って
+Dialogue: 0,0:00:07.72,0:00:10.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, this ni**a's a skinny
+Dialogue: 0,0:00:07.72,0:00:10.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}actor. He said, Denny's?
+Dialogue: 0,0:00:07.72,0:00:10.40,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつは細身の俳優だからさ
+Dialogue: 0,0:00:07.72,0:00:10.40,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「デニーズ？」って
+Dialogue: 0,0:00:11.17,0:00:12.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I like Denny's.
+Dialogue: 0,0:00:11.17,0:00:12.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも俺はデニーズ好きなんだよ
+Dialogue: 0,0:00:13.12,0:00:17.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I want to just take this moment
+Dialogue: 0,0:00:13.12,0:00:17.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of breath and just soak it in, and how,
+Dialogue: 0,0:00:13.12,0:00:17.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもここで一息ついて　噛みしめたいんだ
+Dialogue: 0,0:00:13.12,0:00:17.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前らの声が
+Dialogue: 0,0:00:19.37,0:00:23.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}how important you guys' voice is.
+Dialogue: 0,0:00:19.37,0:00:23.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どれだけ大事かってことを
+Dialogue: 0,0:00:23.31,0:00:25.64,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I want to just
+Dialogue: 0,0:00:23.31,0:00:25.64,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}compliment, you know,
+Dialogue: 0,0:00:23.31,0:00:25.64,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それと世界で一番好きな人を
+Dialogue: 0,0:00:25.66,0:00:28.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}my favorite person in the world.
+Dialogue: 0,0:00:25.66,0:00:28.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Do you know who that is?
+Dialogue: 0,0:00:25.66,0:00:28.36,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}褒めたいんだ
+Dialogue: 0,0:00:25.66,0:00:28.36,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}誰だかわかる？
+Dialogue: 0,0:00:30.01,0:00:32.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Does anyone here know... no,
+Dialogue: 0,0:00:30.01,0:00:32.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ここにいる誰か…
+Dialogue: 0,0:00:32.28,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}does anyone here know who
+Dialogue: 0,0:00:32.28,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my favorite human being is?
+Dialogue: 0,0:00:32.28,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺が一番好きな人間が
+Dialogue: 0,0:00:32.28,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}誰か知ってる？
+Dialogue: 0,0:00:34.84,0:00:36.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I would think your mom is.
+Dialogue: 0,0:00:34.84,0:00:36.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}お母さんだろ
+Dialogue: 0,0:00:36.64,0:00:38.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, no, not my mom. Close.
+Dialogue: 0,0:00:36.64,0:00:38.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いやいや、母ちゃんじゃない
+Dialogue: 0,0:00:36.64,0:00:38.50,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}惜しいけど
+Dialogue: 0,0:00:39.10,0:00:41.22,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Me. I want to compliment me.
+Dialogue: 0,0:00:39.10,0:00:41.22,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺だよ
+Dialogue: 0,0:00:39.10,0:00:41.22,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は俺を褒めたい
+Dialogue: 0,0:00:43.84,0:00:46.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Through your mom.
+Dialogue: 0,0:00:43.84,0:00:46.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Your mom empowered you.
+Dialogue: 0,0:00:43.84,0:00:46.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}お母さんのおかげだろ　お母さんが
+Dialogue: 0,0:00:43.84,0:00:46.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あんたに力をくれたんだ
+Dialogue: 0,0:00:46.62,0:00:48.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah. Second favorite.
+Dialogue: 0,0:00:46.62,0:00:48.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}そう、2番目に好き
+Dialogue: 0,0:00:48.30,0:00:51.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I want to compliment me
+Dialogue: 0,0:00:48.30,0:00:51.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}on having the wherewithal
+Dialogue: 0,0:00:48.30,0:00:51.80,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから俺を褒めたいんだよ
+Dialogue: 0,0:00:51.82,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to be sitting there through
+Dialogue: 0,0:00:51.82,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the divorce, through all that,
+Dialogue: 0,0:00:51.82,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}離婚とか全部を　耐えながら
+Dialogue: 0,0:00:51.82,0:00:55.01,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「次に俺が話すのは
+Dialogue: 0,0:00:55.03,0:00:57.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and say, the next time
+Dialogue: 0,0:00:55.03,0:00:57.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that people hear me talk,
+Dialogue: 0,0:00:55.03,0:00:57.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drink Champsだ」って
+Dialogue: 0,0:00:57.16,0:00:58.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm going to Drink Champs.
+Dialogue: 0,0:00:57.16,0:00:58.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}決めた俺をな
+Dialogue: 0,0:00:58.56,0:00:59.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And think about this.
+Dialogue: 0,0:00:58.56,0:00:59.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それに考えてみろよ
+Dialogue: 0,0:00:59.74,0:01:01.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You know, when I
+Dialogue: 0,0:00:59.74,0:01:01.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}was at Rolling Loud,
+Dialogue: 0,0:00:59.74,0:01:01.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Rolling Loudの時
+Dialogue: 0,0:00:59.74,0:01:01.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Futureとはステージで
+Dialogue: 0,0:01:01.16,0:01:04.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I hadn't seen Future
+Dialogue: 0,0:01:01.16,0:01:04.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}until I saw him on stage.
+Dialogue: 0,0:01:01.16,0:01:04.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}初めて顔を合わせたんだ
+Dialogue: 0,0:01:05.17,0:01:06.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said, freestyle, freestyle.
+Dialogue: 0,0:01:05.17,0:01:06.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あいつが
+Dialogue: 0,0:01:05.17,0:01:06.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「フリースタイル、フリースタイル」って
+Dialogue: 0,0:01:06.97,0:01:08.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And he looked at me and said, like,
+Dialogue: 0,0:01:06.97,0:01:08.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、俺を見て
+Dialogue: 0,0:01:06.97,0:01:08.18,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「世界一影響力のある男だ」
+Dialogue: 0,0:01:08.20,0:01:10.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}man, most influential in the world.
+Dialogue: 0,0:01:08.20,0:01:10.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}って言ったんだよ

@@ -1,0 +1,119 @@
+{
+ "clip": "Clip_36",
+ "candidate": "S14",
+ "title": "I like the love and I like the fear",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 15917,
+   "end_frame_excl": 17811,
+   "start_pts": 15933901,
+   "end_pts_excl": 17829795,
+   "start_s": 663.912542,
+   "end_s": 742.908125
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 31867802,
+   "end_sample_48k_excl": 35659590,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 15917,
+   "end_frame_excl": 16244,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 488,
+    "y": 0
+   },
+   "basis": "face cx=1047 cy=307 w=362 n=5/11"
+  },
+  {
+   "start_frame": 16244,
+   "end_frame_excl": 16921,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 312,
+    "y": 0
+   },
+   "basis": "face cx=872 cy=418 w=308 n=4/12"
+  },
+  {
+   "start_frame": 16921,
+   "end_frame_excl": 17132,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 400,
+    "y": 146
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 17132,
+   "end_frame_excl": 17220,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 400,
+    "y": 146
+   },
+   "basis": "face cx=866 cy=416 w=262 n=6/8"
+  },
+  {
+   "start_frame": 17220,
+   "end_frame_excl": 17610,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 400,
+    "y": 146
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 17610,
+   "end_frame_excl": 17811,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 440,
+    "y": 0
+   },
+   "basis": "face cx=1000 cy=309 w=402 n=11/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_36/subtitles.ass",
+  "sha256": "ad1ee050d0628acb5cd73f7ca55b0c962745db7a06ea8da01b37dfa6535d36a5"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_36/render.mp4",
+  "sha256": "9d1c70e2b0afa453b8431cbc2c7644df804745f6d868ba235940ef19dcd6f2da"
+ }
+}

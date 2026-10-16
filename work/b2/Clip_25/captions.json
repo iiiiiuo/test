@@ -1,0 +1,482 @@
+{
+ "clip": "Clip_25",
+ "total_s": 76.0759999999998,
+ "segments": [
+  [
+   1108.1487083333334,
+   1164.788625,
+   0.0
+  ],
+  [
+   1171.6287916666668,
+   1191.064875,
+   56.63991666666652
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_25_L001",
+   "src_start": 1108.58,
+   "src_end": 1110.88,
+   "en": [
+    "I want to change something",
+    "I said. I am the leader."
+   ],
+   "en_unmasked": "I want to change something I said. I am the leader.",
+   "jp": [
+    "さっき言ったことを訂正したい",
+    "「俺が“その”リーダーだ」って言ったけど"
+   ],
+   "start": 0.43129166666653873,
+   "end": 2.7112916666667206
+  },
+  {
+   "line_id": "Clip_25_L001",
+   "src_start": 1110.88,
+   "src_end": 1112.78,
+   "en": [
+    "Now let me change",
+    "that. I am a leader,"
+   ],
+   "en_unmasked": "Now let me change that. I am a leader,",
+   "jp": [
+    "言い直す",
+    "俺は“一人の”リーダーだ"
+   ],
+   "start": 2.7312916666667206,
+   "end": 5.00129166666623
+  },
+  {
+   "line_id": "Clip_25_L002",
+   "src_start": 1113.1699999999996,
+   "src_end": 1115.88,
+   "en": [
+    "and there's a new leader",
+    "being born every day,"
+   ],
+   "en_unmasked": "and there's a new leader being born every day,",
+   "jp": [
+    "そして毎日",
+    "新しいリーダーが生まれてる"
+   ],
+   "start": 5.0212916666662295,
+   "end": 7.711291666666721
+  },
+  {
+   "line_id": "Clip_25_L003",
+   "src_start": 1115.88,
+   "src_end": 1119.84,
+   "en": [
+    "and there's leaders locally that",
+    "will hear this, that can play this."
+   ],
+   "en_unmasked": "and there's leaders locally that will hear this, that can play this.",
+   "jp": [
+    "地元にもリーダーがいて　これを聞いて",
+    "流してくれる"
+   ],
+   "start": 7.731291666666721,
+   "end": 12.06129166666663
+  },
+  {
+   "line_id": "Clip_25_L004",
+   "src_start": 1120.23,
+   "src_end": 1123.5,
+   "en": [
+    "Leaders of their school,",
+    "leaders of their boys club,"
+   ],
+   "en_unmasked": "Leaders of their school, leaders of their boys club,",
+   "jp": [
+    "学校のリーダー",
+    "ボーイズクラブのリーダー"
+   ],
+   "start": 12.08129166666663,
+   "end": 15.331291666666612
+  },
+  {
+   "line_id": "Clip_25_L004",
+   "src_start": 1123.5,
+   "src_end": 1126.72,
+   "en": [
+    "leaders of their church, leaders of",
+    "their crew, leaders of their crew,"
+   ],
+   "en_unmasked": "leaders of their church, leaders of their crew, leaders of their crew,",
+   "jp": [
+    "教会のリーダー",
+    "仲間内のリーダー"
+   ],
+   "start": 15.351291666666611,
+   "end": 18.88129166666634
+  },
+  {
+   "line_id": "Clip_25_L005",
+   "src_start": 1127.0499999999997,
+   "src_end": 1128.48,
+   "en": [
+    "and that's another word for crew:"
+   ],
+   "en_unmasked": "and that's another word for crew:",
+   "jp": [
+    "仲間っていうのは",
+    "言い換えれば"
+   ],
+   "start": 18.90129166666634,
+   "end": 20.83129166666663
+  },
+  {
+   "line_id": "Clip_25_L005",
+   "src_start": 1129.9,
+   "src_end": 1131.0,
+   "en": [
+    "leaders of their gang."
+   ],
+   "en_unmasked": "leaders of their gang.",
+   "jp": [
+    "ギャングのリーダーだ"
+   ],
+   "start": 21.751291666666702,
+   "end": 23.04129166666642
+  },
+  {
+   "line_id": "Clip_25_L006",
+   "src_start": 1131.2099999999998,
+   "src_end": 1133.08,
+   "en": [
+    "You see what I'm saying?",
+    "Gang has, like,"
+   ],
+   "en_unmasked": "You see what I'm saying? Gang has, like,",
+   "jp": [
+    "わかるか？",
+    "ギャングって言葉は"
+   ],
+   "start": 23.06129166666642,
+   "end": 24.91129166666654
+  },
+  {
+   "line_id": "Clip_25_L006",
+   "src_start": 1133.08,
+   "src_end": 1136.68,
+   "en": [
+    "a negative connotation, but by",
+    "removing the gang leaders..."
+   ],
+   "en_unmasked": "a negative connotation, but by removing the gang leaders...",
+   "jp": [
+    "悪いイメージがあるけど",
+    "ギャングのリーダーを排除すると…"
+   ],
+   "start": 24.93129166666654,
+   "end": 28.511291666666676
+  },
+  {
+   "line_id": "Clip_25_L007",
+   "src_start": 1136.68,
+   "src_end": 1137.93,
+   "en": [
+    "Gangs originated in Chicago."
+   ],
+   "en_unmasked": "Gangs originated in Chicago.",
+   "jp": [
+    "ギャングの発祥は",
+    "Chicagoだよな"
+   ],
+   "start": 28.531291666666675,
+   "end": 29.691291666666512
+  },
+  {
+   "line_id": "Clip_25_L008",
+   "src_start": 1137.86,
+   "src_end": 1140.98,
+   "en": [
+    "Yeah, exactly. By removing",
+    "the gang leaders,"
+   ],
+   "en_unmasked": "Yeah, exactly. By removing the gang leaders,",
+   "jp": [
+    "そう、その通り",
+    "ギャングのリーダーを排除すれば"
+   ],
+   "start": 29.71129166666651,
+   "end": 33.33129166666663
+  },
+  {
+   "line_id": "Clip_25_L008",
+   "src_start": 1141.9399999999996,
+   "src_end": 1142.99,
+   "en": [
+    "you're removing the leaders."
+   ],
+   "en_unmasked": "you're removing the leaders.",
+   "jp": [
+    "リーダーそのものを",
+    "排除することになる"
+   ],
+   "start": 33.79129166666621,
+   "end": 34.82129166666662
+  },
+  {
+   "line_id": "Clip_25_L009",
+   "src_start": 1142.99,
+   "src_end": 1144.11,
+   "en": [
+    "And that was something,"
+   ],
+   "en_unmasked": "And that was something,",
+   "jp": [
+    "それが世界を"
+   ],
+   "start": 34.84129166666662,
+   "end": 35.94129166666651
+  },
+  {
+   "line_id": "Clip_25_L009",
+   "src_start": 1144.11,
+   "src_end": 1147.47,
+   "en": [
+    "and that f**ked up the world, right?"
+   ],
+   "en_unmasked": "and that fucked up the world, right?",
+   "jp": [
+    "めちゃくちゃにしたんだよ"
+   ],
+   "start": 35.96129166666651,
+   "end": 39.5312916666662
+  },
+  {
+   "line_id": "Clip_25_L009",
+   "src_start": 1147.6999999999996,
+   "src_end": 1149.53,
+   "en": [
+    "Because those gang",
+    "leaders would organize."
+   ],
+   "en_unmasked": "Because those gang leaders would organize.",
+   "jp": [
+    "ギャングのリーダーは",
+    "人をまとめてたからな"
+   ],
+   "start": 39.5512916666662,
+   "end": 41.881291666666584
+  },
+  {
+   "line_id": "Clip_25_L010",
+   "src_start": 1150.7000000000003,
+   "src_end": 1152.49,
+   "en": [
+    "Right there, you know",
+    "what I'm saying?"
+   ],
+   "en_unmasked": "Right there, you know what I'm saying?",
+   "jp": [
+    "そういうこと",
+    "Chicagoでは"
+   ],
+   "start": 42.551291666666884,
+   "end": 44.32129166666662
+  },
+  {
+   "line_id": "Clip_25_L010",
+   "src_start": 1152.49,
+   "src_end": 1154.63,
+   "en": [
+    "Gangster Disciples",
+    "saved my life in Chicago."
+   ],
+   "en_unmasked": "Gangster Disciples saved my life in Chicago.",
+   "jp": [
+    "Gangster Disciplesが",
+    "俺の命を救ってくれた"
+   ],
+   "start": 44.34129166666662,
+   "end": 46.58129166666661
+  },
+  {
+   "line_id": "Clip_25_L011",
+   "src_start": 1154.75,
+   "src_end": 1156.45,
+   "en": [
+    "I'm here because of",
+    "Gangster Disciples."
+   ],
+   "en_unmasked": "I'm here because of Gangster Disciples.",
+   "jp": [
+    "俺がここにいるのは",
+    "Gangster Disciplesのおかげだ"
+   ],
+   "start": 46.60129166666661,
+   "end": 48.42129166666653
+  },
+  {
+   "line_id": "Clip_25_L012",
+   "src_start": 1156.59,
+   "src_end": 1160.31,
+   "en": [
+    "And I am exactly who",
+    "Larry Hoover wanted to"
+   ],
+   "en_unmasked": "And I am exactly who Larry Hoover wanted to",
+   "jp": [
+    "俺はまさに　Larry Hooverが",
+    "自分の作った組織から"
+   ],
+   "start": 48.44129166666653,
+   "end": 52.141291666666554
+  },
+  {
+   "line_id": "Clip_25_L012",
+   "src_start": 1160.31,
+   "src_end": 1162.89,
+   "en": [
+    "see come out of the",
+    "organization that he created."
+   ],
+   "en_unmasked": "see come out of the organization that he created.",
+   "jp": [
+    "出てきてほしかった人間なんだよ"
+   ],
+   "start": 52.16129166666656,
+   "end": 54.92129166666653
+  },
+  {
+   "line_id": "Clip_25_L013",
+   "src_start": 1163.09,
+   "src_end": 1164.55,
+   "en": [
+    "Took out leaders, took out structure."
+   ],
+   "en_unmasked": "Took out leaders, took out structure.",
+   "jp": [
+    "リーダーを消して",
+    "組織を壊したんだ"
+   ],
+   "start": 54.94129166666653,
+   "end": 56.62112499999987
+  },
+  {
+   "line_id": "Clip_25_L014",
+   "src_start": 1171.63,
+   "src_end": 1174.31,
+   "en": [
+    "Nothing f**ks with a",
+    "Drink Champs interview, right?"
+   ],
+   "en_unmasked": "Nothing fucks with a Drink Champs interview, right?",
+   "jp": [
+    "Drink Champsのインタビューに",
+    "勝るもんはないよな"
+   ],
+   "start": 56.641124999999874,
+   "end": 59.38112499999986
+  },
+  {
+   "line_id": "Clip_25_L015",
+   "src_start": 1174.39,
+   "src_end": 1174.99,
+   "en": [
+    "No, no, no."
+   ],
+   "en_unmasked": "No, no, no.",
+   "jp": [
+    "いやいや"
+   ],
+   "start": 59.401124999999865,
+   "end": 60.161124999999835
+  },
+  {
+   "line_id": "Clip_25_L016",
+   "src_start": 1175.17,
+   "src_end": 1178.49,
+   "en": [
+    "Because, you know,",
+    "when I go to Tucker Carlson,"
+   ],
+   "en_unmasked": "Because, you know, when I go to Tucker Carlson,",
+   "jp": [
+    "Tucker Carlsonに出ても",
+    "なんか…"
+   ],
+   "start": 60.18112499999984,
+   "end": 63.48112499999977
+  },
+  {
+   "line_id": "Clip_25_L016",
+   "src_start": 1178.49,
+   "src_end": 1179.41,
+   "en": [
+    "they're just like... it's not the same."
+   ],
+   "en_unmasked": "they're just like... it's not the same.",
+   "jp": [
+    "やっぱ違うんだよ"
+   ],
+   "start": 63.501124999999774,
+   "end": 64.62112499999988
+  },
+  {
+   "line_id": "Clip_25_L017",
+   "src_start": 1179.63,
+   "src_end": 1183.01,
+   "en": [
+    "They're just so marveled by",
+    "the fact of the brilliance."
+   ],
+   "en_unmasked": "They're just so marveled by the fact of the brilliance.",
+   "jp": [
+    "あっちは俺の才能に",
+    "ただ驚いてるだけで"
+   ],
+   "start": 64.64112499999987,
+   "end": 68.00112499999976
+  },
+  {
+   "line_id": "Clip_25_L017",
+   "src_start": 1183.01,
+   "src_end": 1185.21,
+   "en": [
+    "They're not respecting the brilliance."
+   ],
+   "en_unmasked": "They're not respecting the brilliance.",
+   "jp": [
+    "リスペクトはしてない"
+   ],
+   "start": 68.02112499999976,
+   "end": 70.2011249999998
+  },
+  {
+   "line_id": "Clip_25_L017",
+   "src_start": 1185.21,
+   "src_end": 1187.6899999999998,
+   "en": [
+    "They're more like shocked",
+    "and, like, marveled by it."
+   ],
+   "en_unmasked": "They're more like shocked and, like, marveled by it.",
+   "jp": [
+    "ショック受けて",
+    "面白がってるだけ"
+   ],
+   "start": 70.2211249999998,
+   "end": 72.6811249999996
+  },
+  {
+   "line_id": "Clip_25_L017",
+   "src_start": 1187.6899999999998,
+   "src_end": 1190.71,
+   "en": [
+    "It's like hilarious to them. It's",
+    "like, that squirrel can jet-ski!"
+   ],
+   "en_unmasked": "It's like hilarious to them. It's like, that squirrel can jet-ski!",
+   "jp": [
+    "「このリス、水上スキーできるぞ！」",
+    "みたいな感じ"
+   ],
+   "start": 72.70112499999959,
+   "end": 76.0559999999998
+  }
+ ]
+}

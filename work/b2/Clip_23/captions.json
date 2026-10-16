@@ -1,0 +1,475 @@
+{
+ "clip": "Clip_23",
+ "total_s": 86.25283333333346,
+ "segments": [
+  [
+   1096.4286666666667,
+   1143.142,
+   0.0
+  ],
+  [
+   1157.7399166666667,
+   1197.2794166666667,
+   46.71333333333337
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_23_L001",
+   "src_start": 1096.7499999999998,
+   "src_end": 1099.54,
+   "en": [
+    "You know, they done",
+    "f**k with me too long."
+   ],
+   "en_unmasked": "You know, they done fuck with me too long.",
+   "jp": [
+    "あいつら　長いこと俺を　ナメすぎたんだよ"
+   ],
+   "start": 0.32133333333308656,
+   "end": 3.3713333333332502
+  },
+  {
+   "line_id": "Clip_23_L002",
+   "src_start": 1099.82,
+   "src_end": 1101.8600000000001,
+   "en": [
+    "Every time they say my name wrong,"
+   ],
+   "en_unmasked": "Every time they say my name wrong,",
+   "jp": [
+    "名前を間違えて呼ばれるたびに"
+   ],
+   "start": 3.3913333333332503,
+   "end": 5.9613333333329415
+  },
+  {
+   "line_id": "Clip_23_L002",
+   "src_start": 1102.4099999999996,
+   "src_end": 1105.4,
+   "en": [
+    "it's like they calling me",
+    "Cassius. My name Ali."
+   ],
+   "en_unmasked": "it's like they calling me Cassius. My name Ali.",
+   "jp": [
+    "Cassiusって呼ばれてる気分",
+    "俺の名前はAliだ"
+   ],
+   "start": 5.981333333332941,
+   "end": 9.471333333333405
+  },
+  {
+   "line_id": "Clip_23_L003",
+   "src_start": 1107.5099999999995,
+   "src_end": 1110.44,
+   "en": [
+    "If I change my name, you",
+    "respect that I changed my name."
+   ],
+   "en_unmasked": "If I change my name, you respect that I changed my name.",
+   "jp": [
+    "名前を変えたなら",
+    "それを尊重しろよ"
+   ],
+   "start": 11.08133333333285,
+   "end": 13.991333333333369
+  },
+  {
+   "line_id": "Clip_23_L003",
+   "src_start": 1110.44,
+   "src_end": 1112.54,
+   "en": [
+    "It shows you the level of disrespect."
+   ],
+   "en_unmasked": "It shows you the level of disrespect.",
+   "jp": [
+    "どれだけナメてるかって話だ"
+   ],
+   "start": 14.011333333333369,
+   "end": 16.661333333332987
+  },
+  {
+   "line_id": "Clip_23_L004",
+   "src_start": 1113.1099999999997,
+   "src_end": 1115.4,
+   "en": [
+    "Every time they say one",
+    "of my outfits are bizarre,"
+   ],
+   "en_unmasked": "Every time they say one of my outfits are bizarre,",
+   "jp": [
+    "俺の服を毎回",
+    "「奇抜」って書くくせに"
+   ],
+   "start": 16.681333333332987,
+   "end": 19.151333333333223
+  },
+  {
+   "line_id": "Clip_23_L005",
+   "src_start": 1115.6,
+   "src_end": 1117.24,
+   "en": [
+    "when the last time",
+    "you read a headline"
+   ],
+   "en_unmasked": "when the last time you read a headline",
+   "jp": [
+    "見出しで俺を",
+    "「億万長者」って書いてたのを"
+   ],
+   "start": 19.171333333333223,
+   "end": 20.791333333333323
+  },
+  {
+   "line_id": "Clip_23_L005",
+   "src_start": 1117.24,
+   "src_end": 1118.42,
+   "en": [
+    "and they called me a billionaire?"
+   ],
+   "en_unmasked": "and they called me a billionaire?",
+   "jp": [
+    "最後に見たのはいつだ？"
+   ],
+   "start": 20.811333333333323,
+   "end": 22.491333333333387
+  },
+  {
+   "line_id": "Clip_23_L006",
+   "src_start": 1119.3899999999996,
+   "src_end": 1122.44,
+   "en": [
+    "For three years, Forbes",
+    "wouldn't say I was a billionaire."
+   ],
+   "en_unmasked": "For three years, Forbes wouldn't say I was a billionaire.",
+   "jp": [
+    "3年間Forbesは",
+    "俺を億万長者と認めなかった"
+   ],
+   "start": 22.96133333333296,
+   "end": 26.32133333333284
+  },
+  {
+   "line_id": "Clip_23_L006",
+   "src_start": 1122.7699999999995,
+   "src_end": 1125.88,
+   "en": [
+    "It's all to diminish me,",
+    "so y'all wouldn't listen to me."
+   ],
+   "en_unmasked": "It's all to diminish me, so y'all wouldn't listen to me.",
+   "jp": [
+    "全部俺を小さく見せて",
+    "お前らが耳を貸さないようにするためだ"
+   ],
+   "start": 26.34133333333284,
+   "end": 29.701333333333178
+  },
+  {
+   "line_id": "Clip_23_L007",
+   "src_start": 1126.1499999999999,
+   "src_end": 1128.38,
+   "en": [
+    "So, say, when I did the Ye",
+    "and Drake show, right?"
+   ],
+   "en_unmasked": "So, say, when I did the Ye and Drake show, right?",
+   "jp": [
+    "で、俺とDrakeの",
+    "ライブをやった時な"
+   ],
+   "start": 29.721333333333178,
+   "end": 31.931333333333423
+  },
+  {
+   "line_id": "Clip_23_L008",
+   "src_start": 1128.38,
+   "src_end": 1131.9099999999992,
+   "en": [
+    "It's so funny, I look up and it say Ye,"
+   ],
+   "en_unmasked": "It's so funny, I look up and it say Ye,",
+   "jp": [
+    "笑えるんだけど",
+    "見上げたら"
+   ],
+   "start": 31.951333333333423,
+   "end": 35.46133333333248
+  },
+  {
+   "line_id": "Clip_23_L008",
+   "src_start": 1131.9099999999992,
+   "src_end": 1133.5,
+   "en": [
+    "D-R-K, right there."
+   ],
+   "en_unmasked": "D-R-K, right there.",
+   "jp": [
+    "「Ye、D-R-K」って書いてあって"
+   ],
+   "start": 35.481333333332486,
+   "end": 37.52133333333288
+  },
+  {
+   "line_id": "Clip_23_L009",
+   "src_start": 1133.9699999999996,
+   "src_end": 1138.06,
+   "en": [
+    "But, uh, I just... it's",
+    "just a similarity to it."
+   ],
+   "en_unmasked": "But, uh, I just... it's just a similarity to it.",
+   "jp": [
+    "なんか…",
+    "似てるってだけなんだけど"
+   ],
+   "start": 37.54133333333289,
+   "end": 41.611333333333256
+  },
+  {
+   "line_id": "Clip_23_L010",
+   "src_start": 1138.06,
+   "src_end": 1139.0199999999993,
+   "en": [
+    "Are you dyslexic like me?"
+   ],
+   "en_unmasked": "Are you dyslexic like me?",
+   "jp": [
+    "俺みたいに",
+    "失読症なのか？"
+   ],
+   "start": 41.63133333333326,
+   "end": 42.83133333333328
+  },
+  {
+   "line_id": "Clip_23_L011",
+   "src_start": 1139.28,
+   "src_end": 1141.34,
+   "en": [
+    "Yeah, absolutely. Gemini,",
+    "dyslexic, left-handed,"
+   ],
+   "en_unmasked": "Yeah, absolutely. Gemini, dyslexic, left-handed,",
+   "jp": [
+    "ああ、もちろん　双子座で失読症",
+    "左利きなのに"
+   ],
+   "start": 42.85133333333329,
+   "end": 44.89133333333323
+  },
+  {
+   "line_id": "Clip_23_L011",
+   "src_start": 1141.34,
+   "src_end": 1143.02,
+   "en": [
+    "made to be right-handed",
+    "so I could fit in."
+   ],
+   "en_unmasked": "made to be right-handed so I could fit in.",
+   "jp": [
+    "周りに合わせて右利きにされた"
+   ],
+   "start": 44.91133333333323,
+   "end": 46.833416666666814
+  },
+  {
+   "line_id": "Clip_23_L012",
+   "src_start": 1157.88,
+   "src_end": 1159.1,
+   "en": [
+    "Think about, like, Nike."
+   ],
+   "en_unmasked": "Think about, like, Nike.",
+   "jp": [
+    "Nikeを考えてみろよ"
+   ],
+   "start": 46.85341666666682,
+   "end": 48.11341666666679
+  },
+  {
+   "line_id": "Clip_23_L013",
+   "src_start": 1159.16,
+   "src_end": 1161.72,
+   "en": [
+    "Nike is as popular as Apple,"
+   ],
+   "en_unmasked": "Nike is as popular as Apple,",
+   "jp": [
+    "NikeはAppleと同じくらい人気なのに"
+   ],
+   "start": 48.13341666666679,
+   "end": 50.67341666666673
+  },
+  {
+   "line_id": "Clip_23_L013",
+   "src_start": 1161.72,
+   "src_end": 1164.52,
+   "en": [
+    "but it's company number",
+    "321. Apple's number one."
+   ],
+   "en_unmasked": "but it's company number 321. Apple's number one.",
+   "jp": [
+    "企業ランキングは321位",
+    "Appleは1位だ"
+   ],
+   "start": 50.693416666666735,
+   "end": 53.99341666666669
+  },
+  {
+   "line_id": "Clip_23_L014",
+   "src_start": 1166.17,
+   "src_end": 1168.35,
+   "en": [
+    "Nike's on defense. It's not on offense."
+   ],
+   "en_unmasked": "Nike's on defense. It's not on offense.",
+   "jp": [
+    "Nikeは守りの会社なんだよ",
+    "攻めじゃない"
+   ],
+   "start": 55.14341666666678,
+   "end": 57.82341666666662
+  },
+  {
+   "line_id": "Clip_23_L015",
+   "src_start": 1169.45,
+   "src_end": 1171.99,
+   "en": [
+    "Right? Because ni**as love Nike."
+   ],
+   "en_unmasked": "Right? Because niggas love Nike.",
+   "jp": [
+    "だろ？",
+    "みんなNikeが大好きだからな"
+   ],
+   "start": 58.42341666666675,
+   "end": 61.46341666666672
+  },
+  {
+   "line_id": "Clip_23_L016",
+   "src_start": 1172.91,
+   "src_end": 1175.05,
+   "en": [
+    "Right? So Nike is used",
+    "for political influence,"
+   ],
+   "en_unmasked": "Right? So Nike is used for political influence,",
+   "jp": [
+    "だからNikeは",
+    "政治的な影響力に使われる"
+   ],
+   "start": 61.88341666666679,
+   "end": 64.00341666666667
+  },
+  {
+   "line_id": "Clip_23_L016",
+   "src_start": 1175.05,
+   "src_end": 1177.63,
+   "en": [
+    "because it's not about",
+    "the money you make."
+   ],
+   "en_unmasked": "because it's not about the money you make.",
+   "jp": [
+    "稼ぐ金じゃなくて"
+   ],
+   "start": 64.02341666666666,
+   "end": 66.58341666666682
+  },
+  {
+   "line_id": "Clip_23_L016",
+   "src_start": 1177.63,
+   "src_end": 1179.19,
+   "en": [
+    "It's about the position you have."
+   ],
+   "en_unmasked": "It's about the position you have.",
+   "jp": [
+    "どんな立場にいるかが大事なんだ"
+   ],
+   "start": 66.60341666666682,
+   "end": 68.3634166666668
+  },
+  {
+   "line_id": "Clip_23_L017",
+   "src_start": 1179.41,
+   "src_end": 1183.01,
+   "en": [
+    "So when they signed me to Gap,",
+    "it wasn't to raise a stock price."
+   ],
+   "en_unmasked": "So when they signed me to Gap, it wasn't to raise a stock price.",
+   "jp": [
+    "だからGapが俺と契約したのも",
+    "株価を上げるためじゃない"
+   ],
+   "start": 68.38341666666679,
+   "end": 72.18341666666673
+  },
+  {
+   "line_id": "Clip_23_L018",
+   "src_start": 1183.23,
+   "src_end": 1184.93,
+   "en": [
+    "It was to be able to, like,"
+   ],
+   "en_unmasked": "It was to be able to, like,",
+   "jp": [
+    "中国と取引してる"
+   ],
+   "start": 72.20341666666673,
+   "end": 74.30341666666662
+  },
+  {
+   "line_id": "Clip_23_L018",
+   "src_start": 1185.35,
+   "src_end": 1188.8500000000001,
+   "en": [
+    "tell the Fortune 500 companies",
+    "that do deals with China,"
+   ],
+   "en_unmasked": "tell the Fortune 500 companies that do deals with China,",
+   "jp": [
+    "Fortune 500の企業に",
+    "「Gapは低所得層の地域に"
+   ],
+   "start": 74.32341666666662,
+   "end": 78.23341666666623
+  },
+  {
+   "line_id": "Clip_23_L018",
+   "src_start": 1189.2799999999995,
+   "src_end": 1194.19,
+   "en": [
+    "to tell them, hey, Gap has influence",
+    "in the underserved communities."
+   ],
+   "en_unmasked": "to tell them, hey, Gap has influence in the underserved communities.",
+   "jp": [
+    "影響力がある」って",
+    "示すためだった"
+   ],
+   "start": 78.25341666666623,
+   "end": 83.66341666666676
+  },
+  {
+   "line_id": "Clip_23_L019",
+   "src_start": 1195.3999999999999,
+   "src_end": 1197.01,
+   "en": [
+    "That was what the deal was about."
+   ],
+   "en_unmasked": "That was what the deal was about.",
+   "jp": [
+    "あの契約は",
+    "そういうことだったんだよ"
+   ],
+   "start": 84.37341666666657,
+   "end": 86.23283333333346
+  }
+ ]
+}

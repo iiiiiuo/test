@@ -1,1 +1,127 @@
-{}
+{
+ "Clip_22_L019": {
+  "chunks": [
+   [
+    9,
+    [
+     0,
+     3
+    ]
+   ],
+   [
+    10,
+    [
+     1,
+     2
+    ]
+   ]
+  ],
+  "reason": "critic Clip_22 r1 note: names shown ~3 s before spoken; JP placed on the chunk where each part is said"
+ },
+ "Clip_24_L012": {
+  "chunks": [
+   [
+    10,
+    []
+   ],
+   [
+    12,
+    [
+     0,
+     3
+    ]
+   ],
+   [
+    7,
+    [
+     1,
+     2
+    ]
+   ]
+  ],
+  "reason": "critic Clip_24 r2: JP question shown before EN question; JP placed on the chunk where it is spoken"
+ },
+ "Clip_27_L012": {
+  "chunks": [
+   [
+    10,
+    [
+     0,
+     1,
+     2
+    ]
+   ]
+  ],
+  "reason": "critic Clip_27 r1: 0.40 s flash 'But it's like,' merged into one caption"
+ },
+ "Clip_34_L004": {
+  "chunks": [
+   [
+    1,
+    []
+   ],
+   [
+    5,
+    [
+     0
+    ]
+   ],
+   [
+    3,
+    [
+     1
+    ]
+   ]
+  ],
+  "reason": "critic Clip_34 r1: 'Yeah.' carried the JP of 'I fuck with you'; EN-only now"
+ },
+ "Clip_35_L009": {
+  "en": "Hip-hop is a race. That's what I've been trying to tell you the whole time. Hip-hop has no color.",
+  "reason": "critic Clip_35 r1: speech has 'the whole time. This is a race, I've been trying to tell you that'; repetition removed by jump cut, 'the whole time' kept (JP ずっと already covers it)"
+ },
+ "Clip_38_L010": {
+  "chunks": [
+   [
+    7,
+    []
+   ],
+   [
+    2,
+    [
+     0
+    ]
+   ],
+   [
+    2,
+    [
+     1
+    ]
+   ],
+   [
+    5,
+    [
+     2
+    ]
+   ]
+  ],
+  "reason": "critic Clip_38 r1 note: same JP repeated on two consecutive captions; merged"
+ },
+ "Clip_39_L003": {
+  "chunks": [
+   [
+    8,
+    [
+     0
+    ]
+   ],
+   [
+    7,
+    [
+     1,
+     2
+    ]
+   ]
+  ],
+  "reason": "critic Clip_39 r1: 'I'm not Moses' JP shown ~4 s before spoken"
+ }
+}

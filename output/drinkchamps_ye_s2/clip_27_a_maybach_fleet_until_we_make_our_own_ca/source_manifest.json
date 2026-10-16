@@ -1,0 +1,86 @@
+{
+ "clip": "Clip_27",
+ "candidate": "S07",
+ "title": "A Maybach fleet until we make our own cars",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 15777,
+   "end_frame_excl": 17380,
+   "start_pts": 15792777,
+   "end_pts_excl": 17397380,
+   "start_s": 658.032375,
+   "end_s": 724.890833
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 31585554,
+   "end_sample_48k_excl": 34794760,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 15777,
+   "end_frame_excl": 15792,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 376,
+    "y": 0
+   },
+   "basis": "face cx=935 cy=245 w=350 n=3/3"
+  },
+  {
+   "start_frame": 15792,
+   "end_frame_excl": 15894,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 290,
+    "y": 0
+   },
+   "basis": "face cx=849 cy=316 w=316 n=7/9"
+  },
+  {
+   "start_frame": 15894,
+   "end_frame_excl": 17380,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 260,
+    "y": 6
+   },
+   "basis": "face cx=726 cy=276 w=244 n=9/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_27/subtitles.ass",
+  "sha256": "dee7f549831cdcc400047a3970f51bf196ec7660c29d28f25f153c9aadd1ed58"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_27/render.mp4",
+  "sha256": "18037f9b78a2ddab9ba49408f5b370a12b8a62917df1e2512731e6435e1b0e2b"
+ }
+}

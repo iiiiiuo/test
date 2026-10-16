@@ -1,0 +1,86 @@
+{
+ "clip": "Clip_28",
+ "candidate": "S06",
+ "title": "Stella McCartney's husband gets a pass",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 24042,
+   "end_frame_excl": 25592,
+   "start_pts": 24066042,
+   "end_pts_excl": 25617592,
+   "start_s": 1002.75175,
+   "end_s": 1067.399667
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 48132084,
+   "end_sample_48k_excl": 51235184,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 24042,
+   "end_frame_excl": 24131,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 412,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 24131,
+   "end_frame_excl": 24238,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 412,
+    "y": 0
+   },
+   "basis": "face cx=971 cy=303 w=426 n=9/9"
+  },
+  {
+   "start_frame": 24238,
+   "end_frame_excl": 25592,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 514,
+    "y": 70
+   },
+   "basis": "face cx=980 cy=340 w=294 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_28/subtitles.ass",
+  "sha256": "8410cfd4ae79d6399b66cbb5fba844e187bec5f5a8d86f88a92935dc5ef045fc"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_28/render.mp4",
+  "sha256": "3f89be9543ea73bd00993b5e3a9ce7385f8ad61026f80910c18689d94d22d972"
+ }
+}

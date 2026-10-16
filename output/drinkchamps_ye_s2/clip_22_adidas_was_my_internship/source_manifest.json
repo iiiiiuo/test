@@ -1,0 +1,130 @@
+{
+ "clip": "Clip_22",
+ "candidate": "S01",
+ "title": "Adidas was my internship",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 3726,
+   "end_frame_excl": 6017,
+   "start_pts": 3729726,
+   "end_pts_excl": 6023017,
+   "start_s": 155.40525,
+   "end_s": 250.959042
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 7459452,
+   "end_sample_48k_excl": 12046034,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 3726,
+   "end_frame_excl": 4238,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 442,
+    "y": 97
+   },
+   "basis": "face cx=909 cy=367 w=234 n=11/11"
+  },
+  {
+   "start_frame": 4238,
+   "end_frame_excl": 4275,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 302,
+    "y": 0
+   },
+   "basis": "face cx=861 cy=360 w=345 n=6/6"
+  },
+  {
+   "start_frame": 4275,
+   "end_frame_excl": 4639,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 326,
+    "y": 68
+   },
+   "basis": "face cx=792 cy=338 w=290 n=10/11"
+  },
+  {
+   "start_frame": 4639,
+   "end_frame_excl": 5328,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 436,
+    "y": 70
+   },
+   "basis": "face cx=902 cy=340 w=297 n=10/12"
+  },
+  {
+   "start_frame": 5328,
+   "end_frame_excl": 5354,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 212,
+    "y": 0
+   },
+   "basis": "face cx=772 cy=365 w=304 n=5/5"
+  },
+  {
+   "start_frame": 5354,
+   "end_frame_excl": 5989,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 378,
+    "y": 0
+   },
+   "basis": "face cx=938 cy=342 w=319 n=10/12"
+  },
+  {
+   "start_frame": 5989,
+   "end_frame_excl": 6017,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 317,
+    "y": 0
+   },
+   "basis": "face cx=876 cy=338 w=348 n=4/4"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_22/subtitles.ass",
+  "sha256": "3d00a60d28090fd9d64c7a9ff0c4fd36404221673be86deb5ac72c8021c1a4b8"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_22/render.mp4",
+  "sha256": "0d8b4ae002abed9e4cd91b4ee79c8508e6ecdff9ec182390511b1fd6971d30f3"
+ }
+}

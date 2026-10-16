@@ -1,0 +1,132 @@
+{
+ "clip": "Clip_23",
+ "candidate": "S02",
+ "title": "They called me Cassius / Nike is on defense",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 26288,
+   "end_frame_excl": 27408,
+   "start_pts": 26314288,
+   "end_pts_excl": 27435408,
+   "start_s": 1096.428667,
+   "end_s": 1143.142
+  },
+  {
+   "start_frame": 27758,
+   "end_frame_excl": 28706,
+   "start_pts": 27785758,
+   "end_pts_excl": 28734706,
+   "start_s": 1157.739917,
+   "end_s": 1197.279417
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 52628576,
+   "end_sample_48k_excl": 54870816,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 55571516,
+   "end_sample_48k_excl": 57469412,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 26288,
+   "end_frame_excl": 27200,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 464,
+    "y": 0
+   },
+   "basis": "face cx=1023 cy=328 w=384 n=10/12"
+  },
+  {
+   "start_frame": 27200,
+   "end_frame_excl": 27265,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 464,
+    "y": 0
+   },
+   "basis": "face cx=1023 cy=342 w=389 n=8/11"
+  },
+  {
+   "start_frame": 27265,
+   "end_frame_excl": 27304,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 308,
+    "y": 0
+   },
+   "basis": "face cx=868 cy=385 w=302 n=7/7"
+  },
+  {
+   "start_frame": 27304,
+   "end_frame_excl": 27408,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 460,
+    "y": 0
+   },
+   "basis": "face cx=1019 cy=333 w=360 n=9/9"
+  },
+  {
+   "start_frame": 27758,
+   "end_frame_excl": 27766,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 464,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 27766,
+   "end_frame_excl": 28706,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 464,
+    "y": 0
+   },
+   "basis": "face cx=1023 cy=344 w=346 n=10/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_23/subtitles.ass",
+  "sha256": "b365090d80fa04a18935d48e06db4351dfad090bfc14e9a5ea73002d5297deb9"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_23/render.mp4",
+  "sha256": "fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8"
+ }
+}

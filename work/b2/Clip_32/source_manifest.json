@@ -1,0 +1,207 @@
+{
+ "clip": "Clip_32",
+ "candidate": "S11",
+ "title": "President Ye ends all wars",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 14419,
+   "end_frame_excl": 16712,
+   "start_pts": 14434403,
+   "end_pts_excl": 16729696,
+   "start_s": 601.433458,
+   "end_s": 697.070667
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 28868806,
+   "end_sample_48k_excl": 33459392,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 14419,
+   "end_frame_excl": 14428,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 297,
+    "y": 112
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 14428,
+   "end_frame_excl": 14489,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 297,
+    "y": 112
+   },
+   "basis": "face cx=764 cy=382 w=274 n=4/10"
+  },
+  {
+   "start_frame": 14489,
+   "end_frame_excl": 14711,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 236,
+    "y": 0
+   },
+   "basis": "face cx=796 cy=372 w=404 n=10/10"
+  },
+  {
+   "start_frame": 14711,
+   "end_frame_excl": 14827,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 276,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 14827,
+   "end_frame_excl": 15012,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 276,
+    "y": 0
+   },
+   "basis": "face cx=835 cy=357 w=408 n=11/11"
+  },
+  {
+   "start_frame": 15012,
+   "end_frame_excl": 15195,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 62,
+    "y": 0
+   },
+   "basis": "face cx=621 cy=474 w=462 n=5/11"
+  },
+  {
+   "start_frame": 15195,
+   "end_frame_excl": 15284,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 356,
+    "y": 0
+   },
+   "basis": "face cx=916 cy=262 w=404 n=8/8"
+  },
+  {
+   "start_frame": 15284,
+   "end_frame_excl": 15398,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 70,
+    "y": 0
+   },
+   "basis": "face cx=630 cy=478 w=466 n=9/10"
+  },
+  {
+   "start_frame": 15398,
+   "end_frame_excl": 15425,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 170,
+    "y": 0
+   },
+   "basis": "face cx=729 cy=276 w=412 n=3/4"
+  },
+  {
+   "start_frame": 15425,
+   "end_frame_excl": 15796,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 398,
+    "y": 0
+   },
+   "basis": "face cx=958 cy=291 w=374 n=8/11"
+  },
+  {
+   "start_frame": 15796,
+   "end_frame_excl": 15950,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 252,
+    "y": 0
+   },
+   "basis": "face cx=812 cy=358 w=404 n=5/9"
+  },
+  {
+   "start_frame": 15950,
+   "end_frame_excl": 16274,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 432,
+    "y": 0
+   },
+   "basis": "face cx=991 cy=280 w=380 n=11/11"
+  },
+  {
+   "start_frame": 16274,
+   "end_frame_excl": 16378,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 184,
+    "y": 0
+   },
+   "basis": "face cx=743 cy=272 w=402 n=9/9"
+  },
+  {
+   "start_frame": 16378,
+   "end_frame_excl": 16712,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 416,
+    "y": 0
+   },
+   "basis": "face cx=975 cy=268 w=381 n=10/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_32/subtitles.ass",
+  "sha256": "086938b28741d57eef029febcc0e6a1d9062574041f3500789574a73c7ed7354"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_32/render.mp4",
+  "sha256": "26e3c8f321b6adbff1e9d989afb9934aaa704e8a0cdd63228bc1447109c7a11d"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "clip": "Clip_39",
+ "candidate": "S18",
+ "title": "I'm not Moses, I'm Quincy Jones",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 34607,
+   "end_frame_excl": 36468,
+   "start_pts": 34642591,
+   "end_pts_excl": 36505452,
+   "start_s": 1443.441292,
+   "end_s": 1521.0605
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 69285182,
+   "end_sample_48k_excl": 73010904,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 34607,
+   "end_frame_excl": 36468,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 400,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_39/subtitles.ass",
+  "sha256": "ade40b4ef973f89621a94ee85d5b24057d03b35c8a6fd85ccfb66e70d11dbe14"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_39/render.mp4",
+  "sha256": "313a0121dd1dd6e71f00e74234eeac90f5a6acedd74cc594272b61a754a2a572"
+ }
+}

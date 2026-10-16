@@ -1,0 +1,58 @@
+# Clip_31 source context (part_5.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 157.36-215.92s (frames 3772-5176)
+     133.72-  139.62 articulated it because it's very important that we stay in constant communication that's what the
+     139.62-  141.78 that's what the enemy wants us to do.
+     141.90-  143.82 They don't want us to talk like the slave ships, right?
+     143.90-  146.46 They cut our tongues and told us not to talk to each other.
+     147.40-  150.54 Yeah, like, the thing is, even in the way we chop this up,
+     150.66-  151.78 we need to bring it.
+     151.80-  152.34 You bust that Denny's down.
+     152.58-  152.90 What's that?
+     153.16-  154.72 You bust that Denny's down.
+     156.24-  157.32 Got that Denny's?
+>>   157.50-  162.74 I remember I used to play ball with Common and with Rashid at UCLA,
+>>   162.74-  165.08 and afterwards, I was like, we can go to Denny's.
+>>   165.18-  166.46 You know, this nigga's skinny actor.
+>>   166.56-  167.44 He said, Denny's?
+>>   168.36-  169.38 But I like Denny's.
+>>   170.58-  180.25 But I want to just take this moment of breath and just soak it in how important you guys' voice is.
+>>   180.61-  184.55 And I want to just compliment, you know, my favorite person in the world.
+>>   184.71-  185.31 Do you know who that is?
+>>   187.47-  192.43 Does anyone here know my favorite human being is in the world?
+>>   192.47-  193.51 I would think your mom is.
+>>   194.27-  195.15 No, no, not my mom.
+>>   195.33-  195.51 Of course.
+>>   196.65-  197.03 Me.
+>>   197.27-  198.21 I want to compliment me.
+>>   201.07-  204.05 but through your mom, your mom empowered you.
+>>   204.19-  205.47 Yeah, second favorite.
+>>   206.07-  209.31 So I want to compliment me on having the wherewithal
+>>   209.31-  211.65 to be sitting there through the divorce,
+>>   211.79-  212.53 through all that and say,
+>>   212.65-  214.47 the next time that people hear me talk,
+>>   214.59-  215.79 I'm going to drink champs.
+     220.77-  221.95 And think about this.
+     222.07-  223.27 You know, when I was at Rolling Loud,
+     223.55-  226.49 I hadn't seen Future until I saw him on stage.
+     227.31-  228.55 He said, freestyle, freestyle.
+     228.91-  230.45 And he looked at me, he said like,
+     230.45-  236.05 man most influential in the world we sat there and i was that i moved to miami to work on dollar
+
+## interval 220.80-232.77s (frames 5293-5580)
+     201.07-  204.05 but through your mom, your mom empowered you.
+     204.19-  205.47 Yeah, second favorite.
+     206.07-  209.31 So I want to compliment me on having the wherewithal
+     209.31-  211.65 to be sitting there through the divorce,
+     211.79-  212.53 through all that and say,
+     212.65-  214.47 the next time that people hear me talk,
+     214.59-  215.79 I'm going to drink champs.
+>>   220.77-  221.95 And think about this.
+>>   222.07-  223.27 You know, when I was at Rolling Loud,
+>>   223.55-  226.49 I hadn't seen Future until I saw him on stage.
+>>   227.31-  228.55 He said, freestyle, freestyle.
+>>   228.91-  230.45 And he looked at me, he said like,
+     230.45-  236.05 man most influential in the world we sat there and i was that i moved to miami to work on dollar
+     236.05-  241.17 to a future i put a small hoodie on took a uber over everything future kept on being like you know
+     241.17-  245.97 i'm saying like future would be happy now because i have maybach fleet you know houses all this type
+     245.97-  256.98 of buying houses for all my girlfriends so uh so uh uh but it's proven you think and the funny thing

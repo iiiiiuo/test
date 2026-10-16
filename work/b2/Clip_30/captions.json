@@ -1,0 +1,446 @@
+{
+ "clip": "Clip_30",
+ "total_s": 94.76133333333334,
+ "segments": [
+  [
+   51.675916666666666,
+   146.43725,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_30_L001",
+   "src_start": 51.72,
+   "src_end": 52.42,
+   "en": [
+    "This is the thing."
+   ],
+   "en_unmasked": "This is the thing.",
+   "jp": [
+    "ここが大事なんだけど"
+   ],
+   "start": 0.04408333333333303,
+   "end": 1.2440833333333359
+  },
+  {
+   "line_id": "Clip_30_L001",
+   "src_start": 53.62000000000004,
+   "src_end": 54.76,
+   "en": [
+    "You could say all this stuff."
+   ],
+   "en_unmasked": "You could say all this stuff.",
+   "jp": [
+    "いろいろ言うのはいい"
+   ],
+   "start": 1.9440833333333742,
+   "end": 3.064083333333332
+  },
+  {
+   "line_id": "Clip_30_L001",
+   "src_start": 54.76,
+   "src_end": 57.4,
+   "en": [
+    "You could say Tuskegee and people",
+    "don't even know what that is."
+   ],
+   "en_unmasked": "You could say Tuskegee and people don't even know what that is.",
+   "jp": [
+    "でも「Tuskegee」って言っても",
+    "みんな知らないんだよ"
+   ],
+   "start": 3.084083333333332,
+   "end": 5.804083333333335
+  },
+  {
+   "line_id": "Clip_30_L002",
+   "src_start": 57.5,
+   "src_end": 58.64,
+   "en": [
+    "Right. Hold on. Hold on."
+   ],
+   "en_unmasked": "Right. Hold on. Hold on.",
+   "jp": [
+    "そうだな",
+    "待て待て"
+   ],
+   "start": 5.824083333333334,
+   "end": 7.434083333333408
+  },
+  {
+   "line_id": "Clip_30_L003",
+   "src_start": 59.130000000000074,
+   "src_end": 59.94,
+   "en": [
+    "No, I know. Hold up."
+   ],
+   "en_unmasked": "No, I know. Hold up.",
+   "jp": [
+    "いや、わかってる",
+    "待って"
+   ],
+   "start": 7.454083333333408,
+   "end": 8.764083333333332
+  },
+  {
+   "line_id": "Clip_30_L004",
+   "src_start": 60.75000000000004,
+   "src_end": 63.78,
+   "en": [
+    "And they just think you're",
+    "throwing things out there,"
+   ],
+   "en_unmasked": "And they just think you're throwing things out there,",
+   "jp": [
+    "みんな「適当に言ってる」"
+   ],
+   "start": 9.074083333333377,
+   "end": 12.474083333333336
+  },
+  {
+   "line_id": "Clip_30_L004",
+   "src_start": 64.17,
+   "src_end": 66.38,
+   "en": [
+    "and they're like, yeah,",
+    "he's just saying things."
+   ],
+   "en_unmasked": "and they're like, yeah, he's just saying things.",
+   "jp": [
+    "「口から出まかせだ」って",
+    "思っちゃうんだよ"
+   ],
+   "start": 12.494083333333336,
+   "end": 15.274083333333277
+  },
+  {
+   "line_id": "Clip_30_L005",
+   "src_start": 66.96999999999994,
+   "src_end": 71.2,
+   "en": [
+    "But if people do the research,",
+    "if you can articulate what Tuskegee..."
+   ],
+   "en_unmasked": "But if people do the research, if you can articulate what Tuskegee...",
+   "jp": [
+    "でもみんなが調べたら　Tuskegeeで",
+    "実際に何があったか説明できたら"
+   ],
+   "start": 15.294083333333276,
+   "end": 19.504083333333337
+  },
+  {
+   "line_id": "Clip_30_L005",
+   "src_start": 71.2,
+   "src_end": 75.34,
+   "en": [
+    "what really happened, which",
+    "is legit, it really happened,"
+   ],
+   "en_unmasked": "what really happened, which is legit, it really happened,",
+   "jp": [
+    "あれは本当にあったことだから"
+   ],
+   "start": 19.524083333333337,
+   "end": 24.054083333333264
+  },
+  {
+   "line_id": "Clip_30_L006",
+   "src_start": 75.74999999999993,
+   "src_end": 80.0,
+   "en": [
+    "it's not a conspiracy theory. The",
+    "government did this to people."
+   ],
+   "en_unmasked": "it's not a conspiracy theory. The government did this to people.",
+   "jp": [
+    "陰謀論じゃない　政府が実際に",
+    "やったことなんだ"
+   ],
+   "start": 24.074083333333263,
+   "end": 28.824083333333334
+  },
+  {
+   "line_id": "Clip_30_L007",
+   "src_start": 81.62999999999992,
+   "src_end": 85.02,
+   "en": [
+    "Then you can get people on",
+    "the side of what you're saying."
+   ],
+   "en_unmasked": "Then you can get people on the side of what you're saying.",
+   "jp": [
+    "そうすれば",
+    "みんな味方してくれる"
+   ],
+   "start": 29.95408333333326,
+   "end": 33.95408333333324
+  },
+  {
+   "line_id": "Clip_30_L007",
+   "src_start": 85.6499999999999,
+   "src_end": 91.83,
+   "en": [
+    "It all becomes about articulation",
+    "and history, because history is real."
+   ],
+   "en_unmasked": "It all becomes about articulation and history, because history is real.",
+   "jp": [
+    "大事なのは伝え方と歴史",
+    "歴史は事実だからな"
+   ],
+   "start": 33.97408333333324,
+   "end": 40.65408333333333
+  },
+  {
+   "line_id": "Clip_30_L008",
+   "src_start": 93.60999999999991,
+   "src_end": 97.28,
+   "en": [
+    "And that's what I think.",
+    "Sometimes I think we as Americans,"
+   ],
+   "en_unmasked": "And that's what I think. Sometimes I think we as Americans,",
+   "jp": [
+    "俺はそう思う",
+    "アメリカ人には"
+   ],
+   "start": 41.93408333333325,
+   "end": 45.934083333333255
+  },
+  {
+   "line_id": "Clip_30_L008",
+   "src_start": 97.62999999999992,
+   "src_end": 98.54,
+   "en": [
+    "we have no history anymore."
+   ],
+   "en_unmasked": "we have no history anymore.",
+   "jp": [
+    "もう歴史がないんじゃないかって"
+   ],
+   "start": 45.95408333333326,
+   "end": 47.434083333333255
+  },
+  {
+   "line_id": "Clip_30_L009",
+   "src_start": 99.12999999999992,
+   "src_end": 101.72,
+   "en": [
+    "We're not learning",
+    "history, real history."
+   ],
+   "en_unmasked": "We're not learning history, real history.",
+   "jp": [
+    "歴史を学んでない",
+    "本当の歴史をな"
+   ],
+   "start": 47.45408333333326,
+   "end": 50.41408333333326
+  },
+  {
+   "line_id": "Clip_30_L009",
+   "src_start": 102.10999999999993,
+   "src_end": 104.62,
+   "en": [
+    "Teaching history,",
+    "it's all done, it's gone."
+   ],
+   "en_unmasked": "Teaching history, it's all done, it's gone.",
+   "jp": [
+    "歴史の授業なんて",
+    "もう消えちまった"
+   ],
+   "start": 50.43408333333326,
+   "end": 53.44408333333334
+  },
+  {
+   "line_id": "Clip_30_L010",
+   "src_start": 106.00999999999999,
+   "src_end": 110.14,
+   "en": [
+    "And we need to bring that back,",
+    "and bring it back in the right way,"
+   ],
+   "en_unmasked": "And we need to bring that back, and bring it back in the right way,",
+   "jp": [
+    "それを取り戻さなきゃ　正しいやり方でな",
+    "何が本当にあったか"
+   ],
+   "start": 54.334083333333325,
+   "end": 58.81408333333322
+  },
+  {
+   "line_id": "Clip_30_L010",
+   "src_start": 110.50999999999989,
+   "src_end": 112.22999999999999,
+   "en": [
+    "where people articulate",
+    "what really happened."
+   ],
+   "en_unmasked": "where people articulate what really happened.",
+   "jp": [
+    "ちゃんと伝えられるように"
+   ],
+   "start": 58.834083333333226,
+   "end": 61.054083333333324
+  },
+  {
+   "line_id": "Clip_30_L011",
+   "src_start": 113.72999999999993,
+   "src_end": 115.54,
+   "en": [
+    "What you guys are doing,",
+    "what's different right here,"
+   ],
+   "en_unmasked": "What you guys are doing, what's different right here,",
+   "jp": [
+    "お前らがやってることは",
+    "ここが違うんだよ"
+   ],
+   "start": 62.05408333333327,
+   "end": 63.84408333333334
+  },
+  {
+   "line_id": "Clip_30_L011",
+   "src_start": 115.54,
+   "src_end": 118.2,
+   "en": [
+    "because as you're talking,",
+    "I felt, I was like, wow,"
+   ],
+   "en_unmasked": "because as you're talking, I felt, I was like, wow,",
+   "jp": [
+    "話を聞いてて思った"
+   ],
+   "start": 63.86408333333334,
+   "end": 67.02408333333334
+  },
+  {
+   "line_id": "Clip_30_L011",
+   "src_start": 119.17999999999994,
+   "src_end": 121.14,
+   "en": [
+    "there wouldn't have been",
+    "no way for me to become"
+   ],
+   "en_unmasked": "there wouldn't have been no way for me to become",
+   "jp": [
+    "「Drink Champsに来なかったら"
+   ],
+   "start": 67.50408333333327,
+   "end": 69.59408333333333
+  },
+  {
+   "line_id": "Clip_30_L011",
+   "src_start": 121.28999999999999,
+   "src_end": 123.56,
+   "en": [
+    "president without",
+    "coming to Drink Champs."
+   ],
+   "en_unmasked": "president without coming to Drink Champs.",
+   "jp": [
+    "大統領にはなれなかった」って"
+   ],
+   "start": 69.61408333333333,
+   "end": 72.17408333333333
+  },
+  {
+   "line_id": "Clip_30_L012",
+   "src_start": 123.86999999999999,
+   "src_end": 127.08,
+   "en": [
+    "When you were talking",
+    "right now, like..."
+   ],
+   "en_unmasked": "When you were talking right now, like...",
+   "jp": [
+    "今の話を聞いてて…"
+   ],
+   "start": 72.19408333333332,
+   "end": 75.90408333333333
+  },
+  {
+   "line_id": "Clip_30_L013",
+   "src_start": 130.86,
+   "src_end": 134.92,
+   "en": [
+    "you know, what you...",
+    "the way you articulated it,"
+   ],
+   "en_unmasked": "you know, what you... the way you articulated it,",
+   "jp": [
+    "その伝え方だよ",
+    "俺たちがずっと"
+   ],
+   "start": 79.18408333333335,
+   "end": 83.33408333333345
+  },
+  {
+   "line_id": "Clip_30_L013",
+   "src_start": 135.03000000000011,
+   "src_end": 137.82,
+   "en": [
+    "because it's very important that we",
+    "stay in constant communication."
+   ],
+   "en_unmasked": "because it's very important that we stay in constant communication.",
+   "jp": [
+    "話し合い続けることが",
+    "すごく大事なんだ"
+   ],
+   "start": 83.35408333333345,
+   "end": 86.64408333333333
+  },
+  {
+   "line_id": "Clip_30_L014",
+   "src_start": 139.62,
+   "src_end": 141.98,
+   "en": [
+    "That's what the",
+    "enemy wants us to do."
+   ],
+   "en_unmasked": "That's what the enemy wants us to do.",
+   "jp": [
+    "敵の狙いはそこなんだ"
+   ],
+   "start": 87.94408333333334,
+   "end": 90.49408333333334
+  },
+  {
+   "line_id": "Clip_30_L014",
+   "src_start": 142.19,
+   "src_end": 144.01,
+   "en": [
+    "They don't want us to talk.",
+    "Like the slave ships, right?"
+   ],
+   "en_unmasked": "They don't want us to talk. Like the slave ships, right?",
+   "jp": [
+    "俺たちに話させたくない",
+    "奴隷船と同じだよ"
+   ],
+   "start": 90.51408333333333,
+   "end": 92.31408333333333
+  },
+  {
+   "line_id": "Clip_30_L014",
+   "src_start": 144.01,
+   "src_end": 146.4700000000002,
+   "en": [
+    "They cut our tongues and told",
+    "us not to talk to each other."
+   ],
+   "en_unmasked": "They cut our tongues and told us not to talk to each other.",
+   "jp": [
+    "舌を切って",
+    "互いに話すなって言った"
+   ],
+   "start": 92.33408333333333,
+   "end": 94.74133333333334
+  }
+ ]
+}

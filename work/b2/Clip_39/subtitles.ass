@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:03.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And so let's be easy on everybody.
+Dialogue: 0,0:00:00.56,0:00:03.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だからみんなに
+Dialogue: 0,0:00:00.56,0:00:03.08,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}優しくいこうぜ
+Dialogue: 0,0:00:03.61,0:00:07.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}At the end of the day,
+Dialogue: 0,0:00:03.61,0:00:07.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we're all dirt beneath God,
+Dialogue: 0,0:00:03.61,0:00:07.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}結局のところ　俺たちはみんな
+Dialogue: 0,0:00:03.61,0:00:07.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}神の前ではただの土くれで
+Dialogue: 0,0:00:07.23,0:00:08.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and we argue amongst each other.
+Dialogue: 0,0:00:07.23,0:00:08.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}互いに言い争ってるだけなんだ
+Dialogue: 0,0:00:08.96,0:00:12.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But my job, as a
+Dialogue: 0,0:00:08.96,0:00:12.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Quincy Jones beneath...
+Dialogue: 0,0:00:08.96,0:00:12.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも俺の役目は…
+Dialogue: 0,0:00:12.96,0:00:16.24,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm not Moses.
+Dialogue: 0,0:00:12.96,0:00:16.24,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I'm Quincy Jones, right?
+Dialogue: 0,0:00:12.96,0:00:16.24,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺はモーゼじゃない
+Dialogue: 0,0:00:12.96,0:00:16.24,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Quincy Jonesなんだよ
+Dialogue: 0,0:00:16.26,0:00:18.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And we're playing all a symphony,
+Dialogue: 0,0:00:16.26,0:00:18.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}みんなで一つの交響曲を
+Dialogue: 0,0:00:16.26,0:00:18.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}演奏してるけど
+Dialogue: 0,0:00:18.86,0:00:20.78,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but we're all playing
+Dialogue: 0,0:00:18.86,0:00:20.78,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}on different notes.
+Dialogue: 0,0:00:18.86,0:00:20.78,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それぞれ違う音を
+Dialogue: 0,0:00:18.86,0:00:20.78,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}弾いてるんだ
+Dialogue: 0,0:00:20.80,0:00:24.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's people that are there for
+Dialogue: 0,0:00:20.80,0:00:24.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}greed. It's people there for...
+Dialogue: 0,0:00:20.80,0:00:24.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}欲のために　いる奴もいる
+Dialogue: 0,0:00:20.80,0:00:24.87,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}間違った理由とまでは
+Dialogue: 0,0:00:24.89,0:00:27.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}let's not say for the wrong
+Dialogue: 0,0:00:24.89,0:00:27.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}reasons, but we're all here.
+Dialogue: 0,0:00:24.89,0:00:27.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言わないけど
+Dialogue: 0,0:00:24.89,0:00:27.65,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}とにかくみんなここにいる
+Dialogue: 0,0:00:27.67,0:00:33.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And God calls me to
+Dialogue: 0,0:00:27.67,0:00:33.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}bring everybody together,
+Dialogue: 0,0:00:27.67,0:00:33.16,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神は俺に
+Dialogue: 0,0:00:27.67,0:00:33.16,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}みんなをまとめろって言ってる
+Dialogue: 0,0:00:33.18,0:00:37.31,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}everybody together:
+Dialogue: 0,0:00:33.18,0:00:37.31,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the left, the right,
+Dialogue: 0,0:00:33.18,0:00:37.31,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}左も右も
+Dialogue: 0,0:00:33.18,0:00:37.31,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}差別する奴もしない奴も
+Dialogue: 0,0:00:37.33,0:00:42.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the racist, the non-racist,
+Dialogue: 0,0:00:37.33,0:00:42.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the Christians, the atheists,
+Dialogue: 0,0:00:37.33,0:00:42.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}クリスチャンも無神論者も
+Dialogue: 0,0:00:42.62,0:00:47.87,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}the straight, the trans,
+Dialogue: 0,0:00:42.62,0:00:47.87,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the this, the everybody.
+Dialogue: 0,0:00:42.62,0:00:47.87,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ストレートもトランスも
+Dialogue: 0,0:00:42.62,0:00:47.87,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}とにかく全員
+Dialogue: 0,0:00:47.89,0:00:49.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's what God is calling.
+Dialogue: 0,0:00:47.89,0:00:49.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それが神のお告げなんだ
+Dialogue: 0,0:00:50.35,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I accept everyone together,
+Dialogue: 0,0:00:50.35,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}because we're all,
+Dialogue: 0,0:00:50.35,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺はみんなを受け入れる
+Dialogue: 0,0:00:50.35,0:00:54.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺たちは
+Dialogue: 0,0:00:54.51,0:00:56.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you know, we can't judge our sins.
+Dialogue: 0,0:00:54.51,0:00:56.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}罪を裁けないんだから
+Dialogue: 0,0:00:56.67,0:01:00.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}In God's eyes, looking
+Dialogue: 0,0:00:56.67,0:01:00.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}at somebody's wife
+Dialogue: 0,0:00:56.67,0:01:00.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神の目から見たら
+Dialogue: 0,0:00:56.67,0:01:00.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}人の妻をいやらしい目で見るのも
+Dialogue: 0,0:01:00.36,0:01:03.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and killing somebody is
+Dialogue: 0,0:01:00.36,0:01:03.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the same level of sin.
+Dialogue: 0,0:01:00.36,0:01:03.04,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人を殺すのも
+Dialogue: 0,0:01:00.36,0:01:03.04,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}同じ重さの罪だ
+Dialogue: 0,0:01:03.06,0:01:05.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's all the equal level of sin.
+Dialogue: 0,0:01:03.06,0:01:05.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どれも同じ罪なんだよ
+Dialogue: 0,0:01:05.20,0:01:07.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Looking at somebody's
+Dialogue: 0,0:01:05.20,0:01:07.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}wife and killing
+Dialogue: 0,0:01:05.20,0:01:07.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}人の妻を見るのも
+Dialogue: 0,0:01:07.36,0:01:09.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}somebody is the same level of sin.
+Dialogue: 0,0:01:07.36,0:01:09.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}人を殺すのも
+Dialogue: 0,0:01:07.36,0:01:09.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}同じ罪なんだ
+Dialogue: 0,0:01:11.59,0:01:13.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We should not be judged by man.
+Dialogue: 0,0:01:11.59,0:01:13.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}人間に裁かれるべきじゃない
+Dialogue: 0,0:01:13.23,0:01:17.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We perform for an audience
+Dialogue: 0,0:01:13.23,0:01:17.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of one, and that's God.
+Dialogue: 0,0:01:13.23,0:01:17.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺たちが演じてる相手は　たった一人の観客
+Dialogue: 0,0:01:13.23,0:01:17.42,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それが神だ

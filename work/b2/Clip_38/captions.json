@@ -1,0 +1,404 @@
+{
+ "clip": "Clip_38",
+ "total_s": 75.4086666666667,
+ "segments": [
+  [
+   1366.6145416666666,
+   1442.0232083333333,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_38_L001",
+   "src_start": 1367.25,
+   "src_end": 1369.29,
+   "en": [
+    "So did you get, like, any calls?"
+   ],
+   "en_unmasked": "So did you get, like, any calls?",
+   "jp": [
+    "で、誰かから",
+    "電話はあった？"
+   ],
+   "start": 0.6354583333334176,
+   "end": 3.1754583333333812
+  },
+  {
+   "line_id": "Clip_38_L002",
+   "src_start": 1370.7499999999998,
+   "src_end": 1372.78,
+   "en": [
+    "I mean, I'm getting calls",
+    "at all times, but, yeah,"
+   ],
+   "en_unmasked": "I mean, I'm getting calls at all times, but, yeah,",
+   "jp": [
+    "電話はいつも来てるよ",
+    "でも言いたいことはわかる"
+   ],
+   "start": 4.13545833333319,
+   "end": 6.145458333333391
+  },
+  {
+   "line_id": "Clip_38_L002",
+   "src_start": 1372.78,
+   "src_end": 1375.72,
+   "en": [
+    "I feel what you're saying, because",
+    "Tucker Carlson did the interview."
+   ],
+   "en_unmasked": "I feel what you're saying, because Tucker Carlson did the interview.",
+   "jp": [
+    "Tucker Carlsonがインタビューしたから"
+   ],
+   "start": 6.16545833333339,
+   "end": 9.78545833333349
+  },
+  {
+   "line_id": "Clip_38_L003",
+   "src_start": 1376.42,
+   "src_end": 1379.64,
+   "en": [
+    "I just feel like there was",
+    "people in the group, and s**t,"
+   ],
+   "en_unmasked": "I just feel like there was people in the group, and shit,",
+   "jp": [
+    "仲間内にもいろいろいて"
+   ],
+   "start": 9.80545833333349,
+   "end": 13.315458333333009
+  },
+  {
+   "line_id": "Clip_38_L003",
+   "src_start": 1379.9499999999996,
+   "src_end": 1382.08,
+   "en": [
+    "and the whole interview",
+    "was just more like on some,"
+   ],
+   "en_unmasked": "and the whole interview was just more like on some,",
+   "jp": [
+    "インタビュー全体が",
+    "メンタルヘルスの話"
+   ],
+   "start": 13.335458333333008,
+   "end": 15.445458333333345
+  },
+  {
+   "line_id": "Clip_38_L003",
+   "src_start": 1382.08,
+   "src_end": 1384.2,
+   "en": [
+    "like, a conversation",
+    "about mental health."
+   ],
+   "en_unmasked": "like, a conversation about mental health.",
+   "jp": [
+    "みたいになってたからな"
+   ],
+   "start": 15.465458333333345,
+   "end": 18.335458333332763
+  },
+  {
+   "line_id": "Clip_38_L004",
+   "src_start": 1384.9699999999993,
+   "src_end": 1386.12,
+   "en": [
+    "And it's hard for, like..."
+   ],
+   "en_unmasked": "And it's hard for, like...",
+   "jp": [
+    "それって…"
+   ],
+   "start": 18.355458333332763,
+   "end": 19.925458333333363
+  },
+  {
+   "line_id": "Clip_38_L005",
+   "src_start": 1386.56,
+   "src_end": 1388.74,
+   "en": [
+    "Is it a conversation about",
+    "mental health? Is that real?"
+   ],
+   "en_unmasked": "Is it a conversation about mental health? Is that real?",
+   "jp": [
+    "メンタルヘルスの話なの？",
+    "それって本当？"
+   ],
+   "start": 19.945458333333363,
+   "end": 22.625458333333427
+  },
+  {
+   "line_id": "Clip_38_L006",
+   "src_start": 1389.88,
+   "src_end": 1395.0,
+   "en": [
+    "I just think that people",
+    "don't know how to"
+   ],
+   "en_unmasked": "I just think that people don't know how to",
+   "jp": [
+    "みんな今",
+    "何を相手にしてるのか"
+   ],
+   "start": 23.265458333333527,
+   "end": 28.365458333333418
+  },
+  {
+   "line_id": "Clip_38_L006",
+   "src_start": 1395.0,
+   "src_end": 1397.22,
+   "en": [
+    "understand what they're",
+    "dealing with now."
+   ],
+   "en_unmasked": "understand what they're dealing with now.",
+   "jp": [
+    "わかってないんだと思う"
+   ],
+   "start": 28.385458333333418,
+   "end": 31.105458333333445
+  },
+  {
+   "line_id": "Clip_38_L007",
+   "src_start": 1398.2499999999998,
+   "src_end": 1401.31,
+   "en": [
+    "They've always saw",
+    "Black people that were"
+   ],
+   "en_unmasked": "They've always saw Black people that were",
+   "jp": [
+    "今までの黒人は"
+   ],
+   "start": 31.63545833333319,
+   "end": 35.135458333333396
+  },
+  {
+   "line_id": "Clip_38_L007",
+   "src_start": 1401.77,
+   "src_end": 1404.21,
+   "en": [
+    "an athlete that would",
+    "follow their contract,"
+   ],
+   "en_unmasked": "an athlete that would follow their contract,",
+   "jp": [
+    "契約に従うアスリート"
+   ],
+   "start": 35.1554583333334,
+   "end": 37.57545833333345
+  },
+  {
+   "line_id": "Clip_38_L007",
+   "src_start": 1404.21,
+   "src_end": 1406.39,
+   "en": [
+    "a rapper that would",
+    "follow their contract,"
+   ],
+   "en_unmasked": "a rapper that would follow their contract,",
+   "jp": [
+    "契約に従うラッパー"
+   ],
+   "start": 37.595458333333454,
+   "end": 39.78545833333303
+  },
+  {
+   "line_id": "Clip_38_L007",
+   "src_start": 1406.4199999999996,
+   "src_end": 1409.77,
+   "en": [
+    "an actor that would",
+    "follow their contract."
+   ],
+   "en_unmasked": "an actor that would follow their contract.",
+   "jp": [
+    "契約に従う俳優だった"
+   ],
+   "start": 39.805458333333036,
+   "end": 43.135458333333396
+  },
+  {
+   "line_id": "Clip_38_L008",
+   "src_start": 1409.77,
+   "src_end": 1415.02,
+   "en": [
+    "They never had to walk into",
+    "the room and deal with a Black"
+   ],
+   "en_unmasked": "They never had to walk into the room and deal with a Black",
+   "jp": [
+    "部屋に入って",
+    "こんな黒人を相手にしたことはない"
+   ],
+   "start": 43.1554583333334,
+   "end": 48.385458333333396
+  },
+  {
+   "line_id": "Clip_38_L008",
+   "src_start": 1415.02,
+   "src_end": 1420.8,
+   "en": [
+    "man that would have the",
+    "audacity to give the most famous,"
+   ],
+   "en_unmasked": "man that would have the audacity to give the most famous,",
+   "jp": [
+    "世界一有名で影響力のある",
+    "白人女性に"
+   ],
+   "start": 48.4054583333334,
+   "end": 54.16545833333337
+  },
+  {
+   "line_id": "Clip_38_L008",
+   "src_start": 1420.8,
+   "src_end": 1424.64,
+   "en": [
+    "most influential white woman",
+    "in the world four Black children,"
+   ],
+   "en_unmasked": "most influential white woman in the world four Black children,",
+   "jp": [
+    "黒人の子どもを4人も",
+    "授けるような度胸の男をな"
+   ],
+   "start": 54.18545833333337,
+   "end": 58.63545833333294
+  },
+  {
+   "line_id": "Clip_38_L009",
+   "src_start": 1425.2699999999995,
+   "src_end": 1426.86,
+   "en": [
+    "that would have the",
+    "audacity to wear a"
+   ],
+   "en_unmasked": "that would have the audacity to wear a",
+   "jp": [
+    "トランプ支持者の赤の帽子や"
+   ],
+   "start": 58.655458333332945,
+   "end": 60.225458333333314
+  },
+  {
+   "line_id": "Clip_38_L009",
+   "src_start": 1426.86,
+   "src_end": 1428.5700000000002,
+   "en": [
+    "red hat or a",
+    "White Lives Matter t-shirt,"
+   ],
+   "en_unmasked": "red hat or a White Lives Matter t-shirt,",
+   "jp": [
+    "White Lives MatterのTシャツを",
+    "着る度胸のある男"
+   ],
+   "start": 60.24545833333332,
+   "end": 62.06545833333346
+  },
+  {
+   "line_id": "Clip_38_L010",
+   "src_start": 1428.7,
+   "src_end": 1430.26,
+   "en": [
+    "that would have the audacity to have"
+   ],
+   "en_unmasked": "that would have the audacity to have",
+   "jp": [],
+   "start": 62.08545833333346,
+   "end": 63.62545833333363
+  },
+  {
+   "line_id": "Clip_38_L010",
+   "src_start": 1430.2600000000002,
+   "src_end": 1432.9133333333332,
+   "en": [
+    "multiple",
+    "hundred-thousand-square-foot,"
+   ],
+   "en_unmasked": "multiple hundred-thousand-square-foot,",
+   "jp": [
+    "何千坪もの倉庫を"
+   ],
+   "start": 63.645458333333636,
+   "end": 66.2787916666666
+  },
+  {
+   "line_id": "Clip_38_L010",
+   "src_start": 1432.9133333333332,
+   "src_end": 1435.3,
+   "en": [
+    "57,000-square-foot warehouses,"
+   ],
+   "en_unmasked": "57,000-square-foot warehouses,",
+   "jp": [
+    "いくつも持つ度胸のある男"
+   ],
+   "start": 66.2987916666666,
+   "end": 68.66545833333338
+  },
+  {
+   "line_id": "Clip_38_L010",
+   "src_start": 1435.3,
+   "src_end": 1436.94,
+   "en": [
+    "that would have the audacity."
+   ],
+   "en_unmasked": "that would have the audacity.",
+   "jp": [
+    "そういう度胸のな"
+   ],
+   "start": 68.68545833333337,
+   "end": 70.74545833333308
+  },
+  {
+   "line_id": "Clip_38_L011",
+   "src_start": 1437.3799999999997,
+   "src_end": 1438.42,
+   "en": [
+    "They've never dealt with it."
+   ],
+   "en_unmasked": "They've never dealt with it.",
+   "jp": [
+    "そんなの相手にしたことがないんだ"
+   ],
+   "start": 70.76545833333307,
+   "end": 71.7854583333335
+  },
+  {
+   "line_id": "Clip_38_L011",
+   "src_start": 1438.42,
+   "src_end": 1440.26,
+   "en": [
+    "So between Black",
+    "people or white people,"
+   ],
+   "en_unmasked": "So between Black people or white people,",
+   "jp": [
+    "黒人も白人も"
+   ],
+   "start": 71.80545833333349,
+   "end": 73.62545833333341
+  },
+  {
+   "line_id": "Clip_38_L011",
+   "src_start": 1440.26,
+   "src_end": 1442.1,
+   "en": [
+    "they've never seen this before."
+   ],
+   "en_unmasked": "they've never seen this before.",
+   "jp": [
+    "こんなの見たことがないんだよ"
+   ],
+   "start": 73.64545833333341,
+   "end": 75.38866666666671
+  }
+ ]
+}

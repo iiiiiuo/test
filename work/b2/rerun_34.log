@@ -1,0 +1,8 @@
+Clip_34 [(5, 1), (1, 0)]
+Traceback (most recent call last):
+  File "/home/user/test/scripts/build_subs_s2.py", line 286, in <module>
+    spec = CHUNKS[r['line_id']]; assert sum(n for n, _ in spec) == len(tokens), (r['line_id'], tokens)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('Clip_34_L004', ['Yeah.', 'So,', 'I', 'fuck', 'with', 'you.', 'I', 'love', 'you.'])
+FAIL subs Clip_34
+BATCHDONE

@@ -1,0 +1,112 @@
+{
+ "clip": "Clip_24",
+ "candidate": "S03",
+ "title": "I'm not a designer, I'm an imagineer",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 35384,
+   "end_frame_excl": 35421,
+   "start_pts": 35419384,
+   "end_pts_excl": 35456421,
+   "start_s": 1475.807667,
+   "end_s": 1477.350875
+  },
+  {
+   "start_frame": 35657,
+   "end_frame_excl": 35825,
+   "start_pts": 35692657,
+   "end_pts_excl": 35860825,
+   "start_s": 1487.194042,
+   "end_s": 1494.201042
+  },
+  {
+   "start_frame": 36068,
+   "end_frame_excl": 37433,
+   "start_pts": 36104068,
+   "end_pts_excl": 37470433,
+   "start_s": 1504.336167,
+   "end_s": 1561.268042
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 70838768,
+   "end_sample_48k_excl": 70912842,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 71385314,
+   "end_sample_48k_excl": 71721650,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 72208136,
+   "end_sample_48k_excl": 74940866,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 35384,
+   "end_frame_excl": 35421,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 440,
+    "y": 0
+   },
+   "basis": "face cx=999 cy=307 w=328 n=7/7"
+  },
+  {
+   "start_frame": 35657,
+   "end_frame_excl": 35825,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 236,
+    "y": 0
+   },
+   "basis": "face cx=796 cy=322 w=300 n=5/10"
+  },
+  {
+   "start_frame": 36068,
+   "end_frame_excl": 37433,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 370,
+    "y": 0
+   },
+   "basis": "face cx=930 cy=348 w=312 n=7/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_24/subtitles.ass",
+  "sha256": "509ab4cd1d61b433a7edb2a9050f879c14e364fd5c18e0a0559fba30626ccb91"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_24/render.mp4",
+  "sha256": "3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40"
+ }
+}

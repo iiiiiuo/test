@@ -1,6 +1,6 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-16T06:37:36Z",
+ "updated": "2026-10-16T08:54:53Z",
  "status": "PHASE_B_COMPLETE",
  "phase": "B",
  "inputs": {
@@ -114,7 +114,7 @@
   "Auto-segmented lines mixed speakers; numeric s/e guesses drifted: use anchor phrases with advancing search bound"
  ],
  "blockers": [],
- "next_action": "series2: awaiting translation approval",
+ "next_action": "none: series 1 and 2 delivered",
  "legacy": "work/legacy/state.SOURCE_INTERVIEW.json",
  "translation_style": {
   "proper_nouns": "English spelling in Japanese subtitles (people, places, brands, artists); generic loanwords stay katakana",
@@ -249,7 +249,7 @@
   "series": "output/drinkchamps_ye/shared/final_series_qa.md"
  },
  "series2": {
-  "status": "PHASE_B_IN_PROGRESS",
+  "status": "PHASE_B_COMPLETE",
   "request": "User 2026-10-16: pick new intervals not used by the 21 clips, draft Japanese, present for confirmation, render only after approval.",
   "clip_ids": [
    "Clip_22",
@@ -278,10 +278,109 @@
   "manifest": "review/s2/approval_manifest.json",
   "asr_runs": "work/asr/S01..S18.large.json",
   "reservations": "ledger reservations with series=2",
-  "next_action": "Phase B: boundary check, framing, subs, render, critic loop into work/b2",
+  "next_action": "none: series 2 delivered; await user feedback",
   "review_revision": 2,
   "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
   "approved_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b",
-  "approved_at": "2026-10-16T07:35:42Z"
+  "approved_at": "2026-10-16T07:35:42Z",
+  "updated": "2026-10-16T08:54:53Z",
+  "completed_clips": {
+   "Clip_22": {
+    "dir": "output/drinkchamps_ye_s2/clip_22_adidas_was_my_internship",
+    "duration_s": 95.554,
+    "render_sha256": "0d8b4ae002abed9e4cd91b4ee79c8508e6ecdff9ec182390511b1fd6971d30f3"
+   },
+   "Clip_23": {
+    "dir": "output/drinkchamps_ye_s2/clip_23_they_called_me_cassius_nike_is_on_defens",
+    "duration_s": 86.253,
+    "render_sha256": "fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8"
+   },
+   "Clip_24": {
+    "dir": "output/drinkchamps_ye_s2/clip_24_im_not_a_designer_im_an_imagineer",
+    "duration_s": 65.482,
+    "render_sha256": "3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40"
+   },
+   "Clip_25": {
+    "dir": "output/drinkchamps_ye_s2/clip_25_i_am_a_leader_not_the_leader",
+    "duration_s": 76.076,
+    "render_sha256": "a61b701dba128792a37cc2b46543365f02187df904e24f9fcfad62314e5da07b"
+   },
+   "Clip_26": {
+    "dir": "output/drinkchamps_ye_s2/clip_26_i_dont_like_nobody_better_than_me",
+    "duration_s": 82.165,
+    "render_sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c"
+   },
+   "Clip_27": {
+    "dir": "output/drinkchamps_ye_s2/clip_27_a_maybach_fleet_until_we_make_our_own_ca",
+    "duration_s": 66.858,
+    "render_sha256": "18037f9b78a2ddab9ba49408f5b370a12b8a62917df1e2512731e6435e1b0e2b"
+   },
+   "Clip_28": {
+    "dir": "output/drinkchamps_ye_s2/clip_28_stella_mccartneys_husband_gets_a_pass",
+    "duration_s": 64.648,
+    "render_sha256": "3f89be9543ea73bd00993b5e3a9ce7385f8ad61026f80910c18689d94d22d972"
+   },
+   "Clip_29": {
+    "dir": "output/drinkchamps_ye_s2/clip_29_nothing_i_cant_play_in_front_of_my_kids",
+    "duration_s": 73.991,
+    "render_sha256": "e101e6b19d659a55fbf90f5645d455f6146ec32c851e0c305cc8f2be8e1d3f13"
+   },
+   "Clip_30": {
+    "dir": "output/drinkchamps_ye_s2/clip_30_tuskegee_is_not_a_conspiracy_theory",
+    "duration_s": 94.761,
+    "render_sha256": "010a3b6d030037c7b236f81e1bcd6ee3ab3bbdc128d26f24775c9e6cd9347f27"
+   },
+   "Clip_31": {
+    "dir": "output/drinkchamps_ye_s2/clip_31_my_favorite_human_being_is_me",
+    "duration_s": 70.529,
+    "render_sha256": "8326f691a03fd2e5059ca9d0f3e8c464305a34d73b589d2908d5d395cac78aa7"
+   },
+   "Clip_32": {
+    "dir": "output/drinkchamps_ye_s2/clip_32_president_ye_ends_all_wars",
+    "duration_s": 95.637,
+    "render_sha256": "26e3c8f321b6adbff1e9d989afb9934aaa704e8a0cdd63228bc1447109c7a11d"
+   },
+   "Clip_33": {
+    "dir": "output/drinkchamps_ye_s2/clip_33_old_enough_to_be_president",
+    "duration_s": 83.709,
+    "render_sha256": "3e47b274c2e83bcfedee6f47cd5867569077c7f0d957827d25f35b047b8868ee"
+   },
+   "Clip_34": {
+    "dir": "output/drinkchamps_ye_s2/clip_34_the_pharrell_of_politics",
+    "duration_s": 83.125,
+    "render_sha256": "56f684ea752e2ae117fd75e7b92cf1dc0674c40eeed8f299292d18ee505ce8c2"
+   },
+   "Clip_35": {
+    "dir": "output/drinkchamps_ye_s2/clip_35_hip_hop_is_a_race_by_itself",
+    "duration_s": 64.106,
+    "render_sha256": "15974f7c95b188607b19be24967ed07940c8c87a6a043c1a34fe92c465552fd8"
+   },
+   "Clip_36": {
+    "dir": "output/drinkchamps_ye_s2/clip_36_i_like_the_love_and_i_like_the_fear",
+    "duration_s": 78.996,
+    "render_sha256": "9d1c70e2b0afa453b8431cbc2c7644df804745f6d868ba235940ef19dcd6f2da"
+   },
+   "Clip_37": {
+    "dir": "output/drinkchamps_ye_s2/clip_37_tremaine_tremendous_and_reverse_appropri",
+    "duration_s": 67.15,
+    "render_sha256": "d1f2c04cdbaac9473196b83583be8aae9cd1cfeb92f07491be795dca0251a8b8"
+   },
+   "Clip_38": {
+    "dir": "output/drinkchamps_ye_s2/clip_38_the_audacity",
+    "duration_s": 75.409,
+    "render_sha256": "a798ef9121093c3b9971cd43b7e61b534a7efd7ebd96d3b3fa4ad6a74e77aa29"
+   },
+   "Clip_39": {
+    "dir": "output/drinkchamps_ye_s2/clip_39_im_not_moses_im_quincy_jones",
+    "duration_s": 77.619,
+    "render_sha256": "313a0121dd1dd6e71f00e74234eeac90f5a6acedd74cc594272b61a754a2a572"
+   }
+  },
+  "qa": {
+   "frozen": "work/b2/frozen.json",
+   "gauntlet": "work/b2/gauntlet.json",
+   "series": "output/drinkchamps_ye_s2/shared/final_series_qa.md"
+  },
+  "blockers": []
  }
 }

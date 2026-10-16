@@ -1,0 +1,537 @@
+{
+ "clip": "Clip_32",
+ "total_s": 95.63720833333332,
+ "segments": [
+  [
+   601.4334583333333,
+   697.0706666666666,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_32_L001",
+   "src_start": 602.31,
+   "src_end": 603.95,
+   "en": [
+    "Let me ask a presidential question."
+   ],
+   "en_unmasked": "Let me ask a presidential question.",
+   "jp": [
+    "大統領っぽい質問をさせてくれ"
+   ],
+   "start": 0.8765416666666397,
+   "end": 3.086541666666658
+  },
+  {
+   "line_id": "Clip_32_L001",
+   "src_start": 604.54,
+   "src_end": 608.21,
+   "en": [
+    "Let's just say in one future,",
+    "you're running for president, right?"
+   ],
+   "en_unmasked": "Let's just say in one future, you're running for president, right?",
+   "jp": [
+    "もしもの話　あんたが大統領選に",
+    "出るとするだろ"
+   ],
+   "start": 3.106541666666658,
+   "end": 7.276541666666731
+  },
+  {
+   "line_id": "Clip_32_L002",
+   "src_start": 609.5999999999999,
+   "src_end": 613.33,
+   "en": [
+    "And we're still in the quagmire",
+    "that is the Ukraine war."
+   ],
+   "en_unmasked": "And we're still in the quagmire that is the Ukraine war.",
+   "jp": [
+    "で、ウクライナ戦争の泥沼が",
+    "まだ続いてる"
+   ],
+   "start": 8.166541666666603,
+   "end": 12.246541666666513
+  },
+  {
+   "line_id": "Clip_32_L003",
+   "src_start": 613.6999999999998,
+   "src_end": 614.85,
+   "en": [
+    "I made y'all see the 2024."
+   ],
+   "en_unmasked": "I made y'all see the 2024.",
+   "jp": [
+    "2024を見せただろ"
+   ],
+   "start": 12.266541666666512,
+   "end": 13.916541666666717
+  },
+  {
+   "line_id": "Clip_32_L004",
+   "src_start": 616.0899999999999,
+   "src_end": 618.46,
+   "en": [
+    "But he's talking. What do you,"
+   ],
+   "en_unmasked": "But he's talking. What do you,",
+   "jp": [
+    "まだ話してるだろ"
+   ],
+   "start": 14.656541666666612,
+   "end": 17.00654166666673
+  },
+  {
+   "line_id": "Clip_32_L004",
+   "src_start": 618.46,
+   "src_end": 626.67,
+   "en": [
+    "what would a President Ye do to",
+    "avoid what might be World War III?"
+   ],
+   "en_unmasked": "what would a President Ye do to avoid what might be World War III?",
+   "jp": [
+    "大統領Yeなら",
+    "第三次世界大戦を避けるために　何をする？"
+   ],
+   "start": 17.02654166666673,
+   "end": 25.826541666666213
+  },
+  {
+   "line_id": "Clip_32_L005",
+   "src_start": 627.2799999999995,
+   "src_end": 628.35,
+   "en": [
+    "I'm ending all wars."
+   ],
+   "en_unmasked": "I'm ending all wars.",
+   "jp": [
+    "全ての戦争を終わらせる"
+   ],
+   "start": 25.846541666666212,
+   "end": 27.586541666666204
+  },
+  {
+   "line_id": "Clip_32_L006",
+   "src_start": 629.0399999999995,
+   "src_end": 629.19,
+   "en": [
+    "How?"
+   ],
+   "en_unmasked": "How?",
+   "jp": [
+    "どうやって？"
+   ],
+   "start": 27.606541666666203,
+   "end": 28.166541666666472
+  },
+  {
+   "line_id": "Clip_32_L007",
+   "src_start": 629.6199999999998,
+   "src_end": 631.15,
+   "en": [
+    "2024. We ended all wars."
+   ],
+   "en_unmasked": "2024. We ended all wars.",
+   "jp": [
+    "2024年",
+    "俺たちは全ての戦争を終わらせた"
+   ],
+   "start": 28.18654166666647,
+   "end": 30.08654166666643
+  },
+  {
+   "line_id": "Clip_32_L008",
+   "src_start": 631.5399999999997,
+   "src_end": 632.33,
+   "en": [
+    "Because wars..."
+   ],
+   "en_unmasked": "Because wars...",
+   "jp": [
+    "でも戦争は…"
+   ],
+   "start": 30.10654166666643,
+   "end": 31.396541666666735
+  },
+  {
+   "line_id": "Clip_32_L008",
+   "src_start": 633.24,
+   "src_end": 635.75,
+   "en": [
+    "but how do you end wars?",
+    "Don't just say end wars."
+   ],
+   "en_unmasked": "but how do you end wars? Don't just say end wars.",
+   "jp": [
+    "どうやって終わらせる？",
+    "「終わらせる」だけじゃなくて"
+   ],
+   "start": 31.806541666666703,
+   "end": 34.29654166666669
+  },
+  {
+   "line_id": "Clip_32_L008",
+   "src_start": 635.75,
+   "src_end": 637.03,
+   "en": [
+    "You got to, you got to have real..."
+   ],
+   "en_unmasked": "You got to, you got to have real...",
+   "jp": [
+    "ちゃんとした中身がないと"
+   ],
+   "start": 34.316541666666694,
+   "end": 35.576541666666664
+  },
+  {
+   "line_id": "Clip_32_L009",
+   "src_start": 637.03,
+   "src_end": 641.35,
+   "en": [
+    "Because war is made",
+    "off of greed and deceit."
+   ],
+   "en_unmasked": "Because war is made off of greed and deceit.",
+   "jp": [
+    "戦争は　欲と嘘で　できてるからな"
+   ],
+   "start": 35.59654166666667,
+   "end": 40.306541666666455
+  },
+  {
+   "line_id": "Clip_32_L010",
+   "src_start": 641.7599999999998,
+   "src_end": 643.15,
+   "en": [
+    "And economy as well."
+   ],
+   "en_unmasked": "And economy as well.",
+   "jp": [
+    "経済もな"
+   ],
+   "start": 40.32654166666646,
+   "end": 41.69654166666667
+  },
+  {
+   "line_id": "Clip_32_L011",
+   "src_start": 643.15,
+   "src_end": 647.03,
+   "en": [
+    "Economy. But there is a free",
+    "economy that the world"
+   ],
+   "en_unmasked": "Economy. But there is a free economy that the world",
+   "jp": [
+    "経済もだ　でも世界が作った　自由な経済を"
+   ],
+   "start": 41.71654166666667,
+   "end": 45.576541666666664
+  },
+  {
+   "line_id": "Clip_32_L011",
+   "src_start": 647.03,
+   "src_end": 651.49,
+   "en": [
+    "has created for us that",
+    "needs to be simplified by me."
+   ],
+   "en_unmasked": "has created for us that needs to be simplified by me.",
+   "jp": [
+    "俺がシンプルにする必要がある"
+   ],
+   "start": 45.59654166666667,
+   "end": 50.486541666666746
+  },
+  {
+   "line_id": "Clip_32_L012",
+   "src_start": 651.94,
+   "src_end": 653.35,
+   "en": [
+    "I am the visionary."
+   ],
+   "en_unmasked": "I am the visionary.",
+   "jp": [
+    "俺はビジョナリーだ"
+   ],
+   "start": 50.50654166666675,
+   "end": 52.41654166666672
+  },
+  {
+   "line_id": "Clip_32_L012",
+   "src_start": 654.41,
+   "src_end": 659.32,
+   "en": [
+    "I can end war. I can end",
+    "war. We can end war."
+   ],
+   "en_unmasked": "I can end war. I can end war. We can end war.",
+   "jp": [
+    "戦争は終わらせられる",
+    "俺たちなら終わらせられる"
+   ],
+   "start": 52.97654166666666,
+   "end": 57.86654166666674
+  },
+  {
+   "line_id": "Clip_32_L013",
+   "src_start": 659.32,
+   "src_end": 661.7,
+   "en": [
+    "But how? Don't just",
+    "say that. Give me..."
+   ],
+   "en_unmasked": "But how? Don't just say that. Give me...",
+   "jp": [
+    "でもどうやって？"
+   ],
+   "start": 57.886541666666744,
+   "end": 60.24654166666674
+  },
+  {
+   "line_id": "Clip_32_L013",
+   "src_start": 661.7,
+   "src_end": 663.3000000000001,
+   "en": [
+    "if you were the",
+    "presidential candidate,"
+   ],
+   "en_unmasked": "if you were the presidential candidate,",
+   "jp": [
+    "言うだけじゃなくてさ",
+    "大統領候補として"
+   ],
+   "start": 60.26654166666674,
+   "end": 62.07654166666644
+  },
+  {
+   "line_id": "Clip_32_L013",
+   "src_start": 663.5299999999997,
+   "src_end": 665.64,
+   "en": [
+    "what would you say?",
+    "How would you end it?"
+   ],
+   "en_unmasked": "what would you say? How would you end it?",
+   "jp": [
+    "どう終わらせるか",
+    "言ってくれよ"
+   ],
+   "start": 62.09654166666644,
+   "end": 64.18654166666668
+  },
+  {
+   "line_id": "Clip_32_L014",
+   "src_start": 665.64,
+   "src_end": 666.32,
+   "en": [
+    "You know, the biggest thing is,"
+   ],
+   "en_unmasked": "You know, the biggest thing is,",
+   "jp": [
+    "一番大事なのは"
+   ],
+   "start": 64.20654166666668,
+   "end": 64.86654166666675
+  },
+  {
+   "line_id": "Clip_32_L014",
+   "src_start": 666.32,
+   "src_end": 668.26,
+   "en": [
+    "I can see things.",
+    "I live 20 years ahead."
+   ],
+   "en_unmasked": "I can see things. I live 20 years ahead.",
+   "jp": [
+    "俺には先が見えるってこと",
+    "20年先を生きてるんだ"
+   ],
+   "start": 64.88654166666674,
+   "end": 66.80654166666669
+  },
+  {
+   "line_id": "Clip_32_L014",
+   "src_start": 668.26,
+   "src_end": 669.38,
+   "en": [
+    "Everything I do is like something"
+   ],
+   "en_unmasked": "Everything I do is like something",
+   "jp": [
+    "俺のやることは全部"
+   ],
+   "start": 66.82654166666669,
+   "end": 67.9265416666667
+  },
+  {
+   "line_id": "Clip_32_L014",
+   "src_start": 669.38,
+   "src_end": 671.9599999999999,
+   "en": [
+    "someone would do 20",
+    "years ahead, right?"
+   ],
+   "en_unmasked": "someone would do 20 years ahead, right?",
+   "jp": [
+    "20年先の人間のやることなんだよ"
+   ],
+   "start": 67.94654166666669,
+   "end": 70.85654166666676
+  },
+  {
+   "line_id": "Clip_32_L015",
+   "src_start": 672.3100000000001,
+   "src_end": 676.1,
+   "en": [
+    "So it's laying out the plans,",
+    "the same way how I lay out..."
+   ],
+   "en_unmasked": "So it's laying out the plans, the same way how I lay out...",
+   "jp": [
+    "だから計画を描くんだ",
+    "俺が描いてきたように"
+   ],
+   "start": 70.87654166666675,
+   "end": 74.83654166666655
+  },
+  {
+   "line_id": "Clip_32_L015",
+   "src_start": 676.2899999999998,
+   "src_end": 677.9,
+   "en": [
+    "I laid out the blueprint for Blueprint."
+   ],
+   "en_unmasked": "I laid out the blueprint for Blueprint.",
+   "jp": [
+    "『The Blueprint』の",
+    "設計図を描いたのは俺だ"
+   ],
+   "start": 74.85654166666654,
+   "end": 76.6665416666667
+  },
+  {
+   "line_id": "Clip_32_L016",
+   "src_start": 678.12,
+   "src_end": 679.32,
+   "en": [
+    "But you got to give us a layman."
+   ],
+   "en_unmasked": "But you got to give us a layman.",
+   "jp": [
+    "でも素人にもわかるように"
+   ],
+   "start": 76.6865416666667,
+   "end": 77.86654166666675
+  },
+  {
+   "line_id": "Clip_32_L016",
+   "src_start": 679.32,
+   "src_end": 680.94,
+   "en": [
+    "You're going to be",
+    "speaking to constituents"
+   ],
+   "en_unmasked": "You're going to be speaking to constituents",
+   "jp": [
+    "言ってくれよ",
+    "何もわかってない有権者に"
+   ],
+   "start": 77.88654166666674,
+   "end": 79.77654166666638
+  },
+  {
+   "line_id": "Clip_32_L016",
+   "src_start": 681.2299999999997,
+   "src_end": 682.36,
+   "en": [
+    "that don't understand anything."
+   ],
+   "en_unmasked": "that don't understand anything.",
+   "jp": [
+    "話すことになるんだから"
+   ],
+   "start": 79.79654166666637,
+   "end": 81.10654166666664
+  },
+  {
+   "line_id": "Clip_32_L017",
+   "src_start": 682.56,
+   "src_end": 683.6400000000001,
+   "en": [
+    "Here's the rap language."
+   ],
+   "en_unmasked": "Here's the rap language.",
+   "jp": [
+    "じゃあラップの言葉で言う"
+   ],
+   "start": 81.12654166666664,
+   "end": 82.57654166666656
+  },
+  {
+   "line_id": "Clip_32_L017",
+   "src_start": 684.0299999999999,
+   "src_end": 686.56,
+   "en": [
+    "I made the blueprint for Blueprint."
+   ],
+   "en_unmasked": "I made the blueprint for Blueprint.",
+   "jp": [
+    "『The Blueprint』の設計図を",
+    "描いたのは俺だ"
+   ],
+   "start": 82.59654166666655,
+   "end": 85.62654166666664
+  },
+  {
+   "line_id": "Clip_32_L018",
+   "src_start": 688.1199999999999,
+   "src_end": 691.93,
+   "en": [
+    "I made the blueprint for",
+    "Blueprint as a vessel of God."
+   ],
+   "en_unmasked": "I made the blueprint for Blueprint as a vessel of God.",
+   "jp": [
+    "神の器として　『The Blueprint』の",
+    "設計図を描いたんだ"
+   ],
+   "start": 86.68654166666659,
+   "end": 90.63654166666673
+  },
+  {
+   "line_id": "Clip_32_L019",
+   "src_start": 692.09,
+   "src_end": 694.45,
+   "en": [
+    "Now, I mean, God is",
+    "actually the only artist."
+   ],
+   "en_unmasked": "Now, I mean, God is actually the only artist.",
+   "jp": [
+    "つまり　本当のアーティストは",
+    "神だけなんだよ"
+   ],
+   "start": 90.65654166666673,
+   "end": 93.28654166666648
+  },
+  {
+   "line_id": "Clip_32_L019",
+   "src_start": 694.7399999999998,
+   "src_end": 696.45,
+   "en": [
+    "This is the thing. God runs the world."
+   ],
+   "en_unmasked": "This is the thing. God runs the world.",
+   "jp": [
+    "そういうことだ",
+    "世界を動かしてるのは神だ"
+   ],
+   "start": 93.30654166666648,
+   "end": 95.51654166666674
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "clip": "Clip_34",
+ "total_s": 83.12470833333327,
+ "segments": [
+  [
+   1652.1080833333333,
+   1718.132375,
+   0.0
+  ],
+  [
+   1720.134375,
+   1737.2347916666668,
+   66.02429166666661
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_34_L001",
+   "src_start": 1651.7,
+   "src_end": 1654.8400000000001,
+   "en": [
+    "This real s**t, like, um,"
+   ],
+   "en_unmasked": "This real shit, like, um,",
+   "jp": [
+    "マジな話"
+   ],
+   "start": 0.0,
+   "end": 3.231916666666848
+  },
+  {
+   "line_id": "Clip_34_L001",
+   "src_start": 1656.5699999999997,
+   "src_end": 1661.16,
+   "en": [
+    "there was so many people that was",
+    "conflicted and then switched sides,"
+   ],
+   "en_unmasked": "there was so many people that was conflicted and then switched sides,",
+   "jp": [
+    "迷ったあげく　離れていった人が",
+    "たくさんいたんだよ"
+   ],
+   "start": 4.461916666666411,
+   "end": 9.551916666666784
+  },
+  {
+   "line_id": "Clip_34_L001",
+   "src_start": 1662.62,
+   "src_end": 1665.62,
+   "en": [
+    "because we didn't understand",
+    "what was your plight."
+   ],
+   "en_unmasked": "because we didn't understand what was your plight.",
+   "jp": [
+    "あんたの訴えが",
+    "わからなかったから"
+   ],
+   "start": 10.511916666666593,
+   "end": 14.011916666666593
+  },
+  {
+   "line_id": "Clip_34_L002",
+   "src_start": 1666.51,
+   "src_end": 1669.14,
+   "en": [
+    "You mean on a red hat, or the",
+    "t-shirt, or what? Which part?"
+   ],
+   "en_unmasked": "You mean on a red hat, or the t-shirt, or what? Which part?",
+   "jp": [
+    "トランプ支持者の赤の帽子のこと？",
+    "Tシャツ？　どの話？"
+   ],
+   "start": 14.401916666666693,
+   "end": 17.011916666666803
+  },
+  {
+   "line_id": "Clip_34_L003",
+   "src_start": 1669.14,
+   "src_end": 1671.1,
+   "en": [
+    "Yeah, I mean, like, his specifics.",
+    "Your specific plight?"
+   ],
+   "en_unmasked": "Yeah, I mean, like, his specifics. Your specific plight?",
+   "jp": [
+    "そう、具体的に",
+    "あんたが訴えてることって何？"
+   ],
+   "start": 17.031916666666802,
+   "end": 19.131916666666694
+  },
+  {
+   "line_id": "Clip_34_L004",
+   "src_start": 1671.26,
+   "src_end": 1671.7,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [],
+   "start": 19.151916666666693,
+   "end": 20.091916666666748
+  },
+  {
+   "line_id": "Clip_34_L004",
+   "src_start": 1673.6899999999998,
+   "src_end": 1675.24,
+   "en": [
+    "So, I f**k with you."
+   ],
+   "en_unmasked": "So, I fuck with you.",
+   "jp": [
+    "俺はあんたが好きだ"
+   ],
+   "start": 21.58191666666653,
+   "end": 23.63191666666671
+  },
+  {
+   "line_id": "Clip_34_L004",
+   "src_start": 1676.1999999999998,
+   "src_end": 1676.85,
+   "en": [
+    "I love you."
+   ],
+   "en_unmasked": "I love you.",
+   "jp": [
+    "愛してる"
+   ],
+   "start": 24.09191666666652,
+   "end": 25.24191666666661
+  },
+  {
+   "line_id": "Clip_34_L005",
+   "src_start": 1678.65,
+   "src_end": 1679.82,
+   "en": [
+    "I consider you my brother."
+   ],
+   "en_unmasked": "I consider you my brother.",
+   "jp": [
+    "兄弟だと思ってる"
+   ],
+   "start": 26.541916666666793,
+   "end": 28.21191666666664
+  },
+  {
+   "line_id": "Clip_34_L006",
+   "src_start": 1680.6699999999996,
+   "src_end": 1685.0800000000002,
+   "en": [
+    "And I, to these people",
+    "that is complaining,"
+   ],
+   "en_unmasked": "And I, to these people that is complaining,",
+   "jp": [
+    "文句言ってる連中と"
+   ],
+   "start": 28.56191666666632,
+   "end": 33.47191666666686
+  },
+  {
+   "line_id": "Clip_34_L006",
+   "src_start": 1685.91,
+   "src_end": 1687.64,
+   "en": [
+    "I'm the guy that's talking to them."
+   ],
+   "en_unmasked": "I'm the guy that's talking to them.",
+   "jp": [
+    "話してるのは俺なんだよ"
+   ],
+   "start": 33.801916666666784,
+   "end": 36.0319166666668
+  },
+  {
+   "line_id": "Clip_34_L007",
+   "src_start": 1689.4499999999996,
+   "src_end": 1694.33,
+   "en": [
+    "So help me out on",
+    "what's your actual plight."
+   ],
+   "en_unmasked": "So help me out on what's your actual plight.",
+   "jp": [
+    "だから教えてくれ　あんたは本当は",
+    "何を訴えてるんだ？"
+   ],
+   "start": 37.34191666666629,
+   "end": 42.811916666666754
+  },
+  {
+   "line_id": "Clip_34_L008",
+   "src_start": 1694.94,
+   "src_end": 1697.28,
+   "en": [
+    "Who's your number one",
+    "producer you ever worked with?"
+   ],
+   "en_unmasked": "Who's your number one producer you ever worked with?",
+   "jp": [
+    "今まで一緒にやった中で",
+    "ナンバーワンのプロデューサーは？"
+   ],
+   "start": 42.83191666666676,
+   "end": 45.671916666666675
+  },
+  {
+   "line_id": "Clip_34_L009",
+   "src_start": 1698.11,
+   "src_end": 1700.65,
+   "en": [
+    "Me. Okay. Who you say?"
+   ],
+   "en_unmasked": "Me. Okay. Who you say?",
+   "jp": [
+    "俺だよ",
+    "で、誰って言うと思う？"
+   ],
+   "start": 46.0019166666666,
+   "end": 49.04191666666679
+  },
+  {
+   "line_id": "Clip_34_L010",
+   "src_start": 1701.4599999999996,
+   "src_end": 1701.49,
+   "en": [
+    "Pharrell."
+   ],
+   "en_unmasked": "Pharrell.",
+   "jp": [
+    "ファレルウィリアムズ"
+   ],
+   "start": 49.351916666666284,
+   "end": 49.80191666666676
+  },
+  {
+   "line_id": "Clip_34_L011",
+   "src_start": 1701.93,
+   "src_end": 1703.43,
+   "en": [
+    "Pharrell. I said Pharrell."
+   ],
+   "en_unmasked": "Pharrell. I said Pharrell.",
+   "jp": [
+    "ファレルウィリアムズ",
+    "俺もファレルウィリアムズって言った"
+   ],
+   "start": 49.821916666666766,
+   "end": 51.30191666666676
+  },
+  {
+   "line_id": "Clip_34_L011",
+   "src_start": 1703.43,
+   "src_end": 1705.03,
+   "en": [
+    "Pharrell. My wife said Pharrell."
+   ],
+   "en_unmasked": "Pharrell. My wife said Pharrell.",
+   "jp": [
+    "嫁もファレルウィリアムズって言う"
+   ],
+   "start": 51.321916666666766,
+   "end": 53.19191666666641
+  },
+  {
+   "line_id": "Clip_34_L012",
+   "src_start": 1705.3199999999997,
+   "src_end": 1709.49,
+   "en": [
+    "I'm the Pharrell. I'm",
+    "the Pharrell of politics."
+   ],
+   "en_unmasked": "I'm the Pharrell. I'm the Pharrell of politics.",
+   "jp": [
+    "俺がファレルウィリアムズなんだよ",
+    "政治界のファレルウィリアムズだ"
+   ],
+   "start": 53.21191666666641,
+   "end": 57.88191666666671
+  },
+  {
+   "line_id": "Clip_34_L013",
+   "src_start": 1710.86,
+   "src_end": 1713.14,
+   "en": [
+    "For me, I'm the first",
+    "time you see a Black"
+   ],
+   "en_unmasked": "For me, I'm the first time you see a Black",
+   "jp": [
+    "俺はさ",
+    "Harley-Davidsonの帽子をかぶって"
+   ],
+   "start": 58.7519166666666,
+   "end": 61.0119166666668
+  },
+  {
+   "line_id": "Clip_34_L013",
+   "src_start": 1713.14,
+   "src_end": 1715.64,
+   "en": [
+    "dude wearing a Harley-Davidson hat,"
+   ],
+   "en_unmasked": "dude wearing a Harley-Davidson hat,",
+   "jp": [
+    "HaroとかGTのBMXに乗る"
+   ],
+   "start": 61.0319166666668,
+   "end": 63.5119166666668
+  },
+  {
+   "line_id": "Clip_34_L013",
+   "src_start": 1715.64,
+   "src_end": 1717.56,
+   "en": [
+    "riding on a, you know,"
+   ],
+   "en_unmasked": "riding on a, you know,",
+   "jp": [
+    "黒人の第一号なんだよ"
+   ],
+   "start": 63.5319166666668,
+   "end": 66.12991666666652
+  },
+  {
+   "line_id": "Clip_34_L013",
+   "src_start": 1720.26,
+   "src_end": 1723.34,
+   "en": [
+    "a Haro GT or GT bike,",
+    "because I used to freestyle bike."
+   ],
+   "en_unmasked": "a Haro GT or GT bike, because I used to freestyle bike.",
+   "jp": [
+    "昔フリースタイルBMXやってたからな"
+   ],
+   "start": 66.14991666666651,
+   "end": 69.24991666666664
+  },
+  {
+   "line_id": "Clip_34_L014",
+   "src_start": 1723.38,
+   "src_end": 1725.84,
+   "en": [
+    "I was a extreme",
+    "gamer and s**t. I can,"
+   ],
+   "en_unmasked": "I was a extreme gamer and shit. I can,",
+   "jp": [
+    "エクストリーム系だったんだよ"
+   ],
+   "start": 69.26991666666663,
+   "end": 71.70991666666644
+  },
+  {
+   "line_id": "Clip_34_L014",
+   "src_start": 1725.84,
+   "src_end": 1728.5,
+   "en": [
+    "I can stand up on top of a bike",
+    "like this and ride and s**t."
+   ],
+   "en_unmasked": "I can stand up on top of a bike like this and ride and shit.",
+   "jp": [
+    "こうやってチャリの上に",
+    "立って乗れたりな"
+   ],
+   "start": 71.72991666666644,
+   "end": 74.36991666666653
+  },
+  {
+   "line_id": "Clip_34_L015",
+   "src_start": 1728.5,
+   "src_end": 1731.22,
+   "en": [
+    "Like, just like Pharrell,",
+    "I was a nerd also."
+   ],
+   "en_unmasked": "Like, just like Pharrell, I was a nerd also.",
+   "jp": [
+    "ファレルウィリアムズと同じで",
+    "俺もオタクだった"
+   ],
+   "start": 74.38991666666652,
+   "end": 77.08991666666655
+  },
+  {
+   "line_id": "Clip_34_L015",
+   "src_start": 1731.22,
+   "src_end": 1733.74,
+   "en": [
+    "You're going to say I was a ni**a",
+    "with the pink polo and, you know."
+   ],
+   "en_unmasked": "You're going to say I was a nigga with the pink polo and, you know.",
+   "jp": [
+    "ピンクのポロシャツ着てた奴だって",
+    "言われるだろうけどさ"
+   ],
+   "start": 77.10991666666655,
+   "end": 79.62991666666652
+  },
+  {
+   "line_id": "Clip_34_L016",
+   "src_start": 1733.76,
+   "src_end": 1737.22,
+   "en": [
+    "We love you. We're ruling",
+    "the world right now."
+   ],
+   "en_unmasked": "We love you. We're ruling the world right now.",
+   "jp": [
+    "愛してるよ　今は俺たちが",
+    "世界を仕切ってるんだ"
+   ],
+   "start": 79.64991666666651,
+   "end": 83.10470833333328
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.43,0:00:02.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want to change something
+Dialogue: 0,0:00:00.43,0:00:02.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I said. I am the leader.
+Dialogue: 0,0:00:00.43,0:00:02.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}さっき言ったことを訂正したい
+Dialogue: 0,0:00:00.43,0:00:02.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「俺が“その”リーダーだ」って言ったけど
+Dialogue: 0,0:00:02.73,0:00:05.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Now let me change
+Dialogue: 0,0:00:02.73,0:00:05.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}that. I am a leader,
+Dialogue: 0,0:00:02.73,0:00:05.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言い直す
+Dialogue: 0,0:00:02.73,0:00:05.00,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺は“一人の”リーダーだ
+Dialogue: 0,0:00:05.02,0:00:07.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and there's a new leader
+Dialogue: 0,0:00:05.02,0:00:07.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}being born every day,
+Dialogue: 0,0:00:05.02,0:00:07.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そして毎日
+Dialogue: 0,0:00:05.02,0:00:07.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}新しいリーダーが生まれてる
+Dialogue: 0,0:00:07.73,0:00:12.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and there's leaders locally that
+Dialogue: 0,0:00:07.73,0:00:12.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}will hear this, that can play this.
+Dialogue: 0,0:00:07.73,0:00:12.06,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}地元にもリーダーがいて　これを聞いて
+Dialogue: 0,0:00:07.73,0:00:12.06,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}流してくれる
+Dialogue: 0,0:00:12.08,0:00:15.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Leaders of their school,
+Dialogue: 0,0:00:12.08,0:00:15.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}leaders of their boys club,
+Dialogue: 0,0:00:12.08,0:00:15.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}学校のリーダー
+Dialogue: 0,0:00:12.08,0:00:15.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ボーイズクラブのリーダー
+Dialogue: 0,0:00:15.35,0:00:18.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}leaders of their church, leaders of
+Dialogue: 0,0:00:15.35,0:00:18.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}their crew, leaders of their crew,
+Dialogue: 0,0:00:15.35,0:00:18.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}教会のリーダー
+Dialogue: 0,0:00:15.35,0:00:18.88,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}仲間内のリーダー
+Dialogue: 0,0:00:18.90,0:00:20.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and that's another word for crew:
+Dialogue: 0,0:00:18.90,0:00:20.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}仲間っていうのは
+Dialogue: 0,0:00:18.90,0:00:20.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言い換えれば
+Dialogue: 0,0:00:21.75,0:00:23.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}leaders of their gang.
+Dialogue: 0,0:00:21.75,0:00:23.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ギャングのリーダーだ
+Dialogue: 0,0:00:23.06,0:00:24.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You see what I'm saying?
+Dialogue: 0,0:00:23.06,0:00:24.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Gang has, like,
+Dialogue: 0,0:00:23.06,0:00:24.91,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}わかるか？
+Dialogue: 0,0:00:23.06,0:00:24.91,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ギャングって言葉は
+Dialogue: 0,0:00:24.93,0:00:28.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}a negative connotation, but by
+Dialogue: 0,0:00:24.93,0:00:28.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}removing the gang leaders...
+Dialogue: 0,0:00:24.93,0:00:28.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}悪いイメージがあるけど
+Dialogue: 0,0:00:24.93,0:00:28.51,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ギャングのリーダーを排除すると…
+Dialogue: 0,0:00:28.53,0:00:29.69,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Gangs originated in Chicago.
+Dialogue: 0,0:00:28.53,0:00:29.69,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ギャングの発祥は
+Dialogue: 0,0:00:28.53,0:00:29.69,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Chicagoだよな
+Dialogue: 0,0:00:29.71,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, exactly. By removing
+Dialogue: 0,0:00:29.71,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the gang leaders,
+Dialogue: 0,0:00:29.71,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そう、その通り
+Dialogue: 0,0:00:29.71,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ギャングのリーダーを排除すれば
+Dialogue: 0,0:00:33.79,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}you're removing the leaders.
+Dialogue: 0,0:00:33.79,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}リーダーそのものを
+Dialogue: 0,0:00:33.79,0:00:34.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}排除することになる
+Dialogue: 0,0:00:34.84,0:00:35.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And that was something,
+Dialogue: 0,0:00:34.84,0:00:35.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それが世界を
+Dialogue: 0,0:00:35.96,0:00:39.53,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and that f**ked up the world, right?
+Dialogue: 0,0:00:35.96,0:00:39.53,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}めちゃくちゃにしたんだよ
+Dialogue: 0,0:00:39.55,0:00:41.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because those gang
+Dialogue: 0,0:00:39.55,0:00:41.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}leaders would organize.
+Dialogue: 0,0:00:39.55,0:00:41.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ギャングのリーダーは
+Dialogue: 0,0:00:39.55,0:00:41.88,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}人をまとめてたからな
+Dialogue: 0,0:00:42.55,0:00:44.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right there, you know
+Dialogue: 0,0:00:42.55,0:00:44.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}what I'm saying?
+Dialogue: 0,0:00:42.55,0:00:44.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういうこと
+Dialogue: 0,0:00:42.55,0:00:44.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Chicagoでは
+Dialogue: 0,0:00:44.34,0:00:46.58,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Gangster Disciples
+Dialogue: 0,0:00:44.34,0:00:46.58,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}saved my life in Chicago.
+Dialogue: 0,0:00:44.34,0:00:46.58,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Gangster Disciplesが
+Dialogue: 0,0:00:44.34,0:00:46.58,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺の命を救ってくれた
+Dialogue: 0,0:00:46.60,0:00:48.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm here because of
+Dialogue: 0,0:00:46.60,0:00:48.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Gangster Disciples.
+Dialogue: 0,0:00:46.60,0:00:48.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺がここにいるのは
+Dialogue: 0,0:00:46.60,0:00:48.42,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Gangster Disciplesのおかげだ
+Dialogue: 0,0:00:48.44,0:00:52.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I am exactly who
+Dialogue: 0,0:00:48.44,0:00:52.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Larry Hoover wanted to
+Dialogue: 0,0:00:48.44,0:00:52.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺はまさに　Larry Hooverが
+Dialogue: 0,0:00:48.44,0:00:52.14,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}自分の作った組織から
+Dialogue: 0,0:00:52.16,0:00:54.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}see come out of the
+Dialogue: 0,0:00:52.16,0:00:54.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}organization that he created.
+Dialogue: 0,0:00:52.16,0:00:54.92,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}出てきてほしかった人間なんだよ
+Dialogue: 0,0:00:54.94,0:00:56.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Took out leaders, took out structure.
+Dialogue: 0,0:00:54.94,0:00:56.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}リーダーを消して
+Dialogue: 0,0:00:54.94,0:00:56.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}組織を壊したんだ
+Dialogue: 0,0:00:56.64,0:00:59.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Nothing f**ks with a
+Dialogue: 0,0:00:56.64,0:00:59.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Drink Champs interview, right?
+Dialogue: 0,0:00:56.64,0:00:59.38,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drink Champsのインタビューに
+Dialogue: 0,0:00:56.64,0:00:59.38,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}勝るもんはないよな
+Dialogue: 0,0:00:59.40,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}No, no, no.
+Dialogue: 0,0:00:59.40,0:01:00.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いやいや
+Dialogue: 0,0:01:00.18,0:01:03.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because, you know,
+Dialogue: 0,0:01:00.18,0:01:03.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when I go to Tucker Carlson,
+Dialogue: 0,0:01:00.18,0:01:03.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Tucker Carlsonに出ても
+Dialogue: 0,0:01:00.18,0:01:03.48,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}なんか…
+Dialogue: 0,0:01:03.50,0:01:04.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}they're just like... it's not the same.
+Dialogue: 0,0:01:03.50,0:01:04.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}やっぱ違うんだよ
+Dialogue: 0,0:01:04.64,0:01:08.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They're just so marveled by
+Dialogue: 0,0:01:04.64,0:01:08.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the fact of the brilliance.
+Dialogue: 0,0:01:04.64,0:01:08.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あっちは俺の才能に
+Dialogue: 0,0:01:04.64,0:01:08.00,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ただ驚いてるだけで
+Dialogue: 0,0:01:08.02,0:01:10.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They're not respecting the brilliance.
+Dialogue: 0,0:01:08.02,0:01:10.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}リスペクトはしてない
+Dialogue: 0,0:01:10.22,0:01:12.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}They're more like shocked
+Dialogue: 0,0:01:10.22,0:01:12.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and, like, marveled by it.
+Dialogue: 0,0:01:10.22,0:01:12.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ショック受けて
+Dialogue: 0,0:01:10.22,0:01:12.68,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}面白がってるだけ
+Dialogue: 0,0:01:12.70,0:01:16.06,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's like hilarious to them. It's
+Dialogue: 0,0:01:12.70,0:01:16.06,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, that squirrel can jet-ski!
+Dialogue: 0,0:01:12.70,0:01:16.06,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「このリス、水上スキーできるぞ！」
+Dialogue: 0,0:01:12.70,0:01:16.06,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}みたいな感じ

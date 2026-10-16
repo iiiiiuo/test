@@ -1,0 +1,27 @@
+# Clip_38 source context (part_6.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1366.61-1442.02s (frames 32765-34573)
+    1340.90- 1353.62 after the tug of carson is black people called you and said what's going on with you you know
+    1353.62- 1360.80 I mean, because, you know, Tucker Carlson is, he's a y'all of y'all.
+    1361.04- 1362.76 He's on the other side.
+    1363.56- 1364.52 He's on the other side.
+    1364.90- 1366.28 We're on the other y'all.
+>>  1367.36- 1369.56 So did you get, like, any calls?
+>>  1370.54- 1374.00 I mean, I'm getting calls at all times, but, yeah, I feel what you're saying, because
+>>  1374.00- 1379.32 Tucker Carlson did the interview, and I just feel like there was people in the group and
+>>  1379.32- 1383.96 shit, and the whole interview was just more like on some, like, a conversation about mental
+>>  1383.96- 1391.32 health and it's hard for like is it a conversation on mental health is that real i just think that
+>>  1393.26- 1400.72 people don't know how to understand what they're dealing with now they've always saw black people
+>>  1400.72- 1405.96 that were an athlete that would follow their contract a rapper that would follow their
+>>  1405.96- 1411.84 contract an actor that would follow their contract they never had to walk into the room
+>>  1411.84- 1418.06 and deal with a black man that would have the audacity
+>>  1418.78- 1423.30 to give the most famous, most influential white woman in the world
+>>  1423.30- 1427.52 for black children, that would have the audacity to wear a red hat
+>>  1427.52- 1429.82 or White Lives Matter t-shirt, that would have the audacity
+>>  1429.82- 1435.30 to have multiple 100,000 square foot, 57,000 square foot warehouses
+>>  1435.30- 1436.94 that would have the audacity.
+>>  1437.24- 1438.48 They've never dealt with it.
+>>  1438.62- 1440.32 So between black people or white people,
+    1440.32- 1448.04 they've never seen this before you know saying so let's be easy on everybody at the end of the day
+    1448.04- 1455.22 we're all dirt beneath god and we argue amongst each other but my job as a quincy jones
+    1455.22- 1462.82 beneath i'm not moses i'm quincy jones right and we're playing all a symphony but we're all

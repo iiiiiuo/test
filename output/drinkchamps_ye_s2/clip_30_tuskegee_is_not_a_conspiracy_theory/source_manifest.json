@@ -1,0 +1,119 @@
+{
+ "clip": "Clip_30",
+ "candidate": "S09",
+ "title": "Tuskegee is not a conspiracy theory",
+ "source": {
+  "id": "part_5",
+  "path": "/mnt/project-files/part_5.mp4",
+  "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 1238,
+   "end_frame_excl": 3510,
+   "start_pts": 1240222,
+   "end_pts_excl": 3514494,
+   "start_s": 51.675917,
+   "end_s": 146.43725
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 2480444,
+   "end_sample_48k_excl": 7028988,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 1238,
+   "end_frame_excl": 1400,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 408,
+    "y": 0
+   },
+   "basis": "face cx=967 cy=302 w=415 n=8/9"
+  },
+  {
+   "start_frame": 1400,
+   "end_frame_excl": 1427,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 350,
+    "y": 0
+   },
+   "basis": "face cx=909 cy=373 w=310 n=3/5"
+  },
+  {
+   "start_frame": 1427,
+   "end_frame_excl": 2725,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 394,
+    "y": 0
+   },
+   "basis": "face cx=953 cy=334 w=423 n=12/12"
+  },
+  {
+   "start_frame": 2725,
+   "end_frame_excl": 3032,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 296,
+    "y": 0
+   },
+   "basis": "face cx=855 cy=382 w=363 n=4/11"
+  },
+  {
+   "start_frame": 3032,
+   "end_frame_excl": 3059,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 322,
+    "y": 0
+   },
+   "basis": "face cx=881 cy=371 w=310 n=5/5"
+  },
+  {
+   "start_frame": 3059,
+   "end_frame_excl": 3510,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 258,
+    "y": 0
+   },
+   "basis": "face cx=818 cy=399 w=321 n=4/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_30/subtitles.ass",
+  "sha256": "a6ce6faa01f47d2a21939be915eaa0b349e260eccaf5954f6ca9694b515ddc40"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_30/render.mp4",
+  "sha256": "010a3b6d030037c7b236f81e1bcd6ee3ab3bbdc128d26f24775c9e6cd9347f27"
+ }
+}

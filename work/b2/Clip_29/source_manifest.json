@@ -1,0 +1,86 @@
+{
+ "clip": "Clip_29",
+ "candidate": "S08",
+ "title": "Nothing I can't play in front of my kids",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 31824,
+   "end_frame_excl": 33598,
+   "start_pts": 31855824,
+   "end_pts_excl": 33631598,
+   "start_s": 1327.326,
+   "end_s": 1401.316583
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 63711648,
+   "end_sample_48k_excl": 67263196,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 31824,
+   "end_frame_excl": 32948,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 0,
+    "y": 0
+   },
+   "basis": "face cx=516 cy=453 w=466 n=6/12"
+  },
+  {
+   "start_frame": 32948,
+   "end_frame_excl": 32981,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 356,
+    "y": 0
+   },
+   "basis": "face cx=915 cy=392 w=334 n=5/5"
+  },
+  {
+   "start_frame": 32981,
+   "end_frame_excl": 33598,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 263,
+    "y": 0
+   },
+   "basis": "face cx=822 cy=254 w=350 n=8/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_29/subtitles.ass",
+  "sha256": "b710acb34c9e6a3c2adcb739103ee0cf5e5689fad80c1baf4a791011f56fbc8c"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_29/render.mp4",
+  "sha256": "e101e6b19d659a55fbf90f5645d455f6146ec32c851e0c305cc8f2be8e1d3f13"
+ }
+}

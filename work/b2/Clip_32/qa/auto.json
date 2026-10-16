@@ -1,0 +1,82 @@
+{
+ "clip": "Clip_32",
+ "render_sha256": "26e3c8f321b6adbff1e9d989afb9934aaa704e8a0cdd63228bc1447109c7a11d",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "sar": "1:1",
+  "fps": "24000/1001",
+  "video_frames": 2293,
+  "expected_frames": 2293,
+  "video_duration_s": 95.637208,
+  "audio_duration_s": 95.637,
+  "v_start": "0.000000",
+  "a_start": "0.000000",
+  "rotation": null,
+  "decode_errors": "",
+  "PASS": true
+ },
+ "subtitles": {
+  "events": 103,
+  "captions": 35,
+  "max_end": 95.52000000000001,
+  "beyond_video": [],
+  "unmasked_hits": [],
+  "captions_without_jp": [],
+  "max_lines": 4
+ },
+ "sync": {
+  "caption_tokens": 263,
+  "asr_words": 266,
+  "matched": 247,
+  "match_ratio": 0.939,
+  "matched_words_inside_their_caption": 0.947,
+  "caption_onset_vs_first_word_s": {
+   "n": 32,
+   "median": -0.127,
+   "max_abs": 1.367
+  }
+ },
+ "frames": {
+  "times": [
+   0.05,
+   0.5,
+   1.0,
+   3.04,
+   5.19,
+   12.3,
+   17.14,
+   21.43,
+   24.86,
+   32.49,
+   36.2,
+   40.96,
+   72.86,
+   88.66,
+   94.64,
+   95.56
+  ],
+  "sheets": [
+   "sheet_1.jpg",
+   "sheet_2.jpg"
+  ],
+  "full_res": [
+   "/home/user/test/work/b2/Clip_32/qa/f_0000.05.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0000.50.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0001.00.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0003.04.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0005.19.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0012.30.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0017.14.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0021.43.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0024.86.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0032.49.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0036.20.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0040.96.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0072.86.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0088.66.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0094.64.png",
+   "/home/user/test/work/b2/Clip_32/qa/f_0095.56.png"
+  ]
+ }
+}

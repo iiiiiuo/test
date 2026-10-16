@@ -1,0 +1,154 @@
+{
+ "clip": "Clip_35",
+ "candidate": "S15",
+ "title": "Hip-hop is a race by itself",
+ "source": {
+  "id": "part_6",
+  "path": "/mnt/project-files/part_6.mp4",
+  "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 14306,
+   "end_frame_excl": 15306,
+   "start_pts": 14321290,
+   "end_pts_excl": 15322290,
+   "start_s": 596.720417,
+   "end_s": 638.42875
+  },
+  {
+   "start_frame": 15380,
+   "end_frame_excl": 15917,
+   "start_pts": 15396364,
+   "end_pts_excl": 15933901,
+   "start_s": 641.515167,
+   "end_s": 663.912542
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 28642580,
+   "end_sample_48k_excl": 30644580,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 30792728,
+   "end_sample_48k_excl": 31867802,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 14306,
+   "end_frame_excl": 15084,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 541,
+    "y": 0
+   },
+   "basis": "face cx=1100 cy=262 w=325 n=8/12"
+  },
+  {
+   "start_frame": 15084,
+   "end_frame_excl": 15129,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 292,
+    "y": 0
+   },
+   "basis": "face cx=852 cy=322 w=412 n=8/8"
+  },
+  {
+   "start_frame": 15129,
+   "end_frame_excl": 15306,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 305,
+    "y": 0
+   },
+   "basis": "face cx=864 cy=286 w=403 n=4/10"
+  },
+  {
+   "start_frame": 15380,
+   "end_frame_excl": 15637,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 411,
+    "y": 0
+   },
+   "basis": "face cx=970 cy=300 w=412 n=6/11"
+  },
+  {
+   "start_frame": 15637,
+   "end_frame_excl": 15697,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 344,
+    "y": 0
+   },
+   "basis": "face cx=903 cy=380 w=414 n=10/10"
+  },
+  {
+   "start_frame": 15697,
+   "end_frame_excl": 15800,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 344,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 15800,
+   "end_frame_excl": 15904,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 345,
+    "y": 0
+   },
+   "basis": "face cx=904 cy=371 w=415 n=8/9"
+  },
+  {
+   "start_frame": 15904,
+   "end_frame_excl": 15917,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 398,
+    "y": 0
+   },
+   "basis": "face cx=957 cy=350 w=336 n=2/2"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b2/Clip_35/subtitles.ass",
+  "sha256": "385c78232736323122f1c5b9504926762683434f559cb3b382cd0e212436d3f5"
+ },
+ "translation": {
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "revision": 2,
+  "series": 2
+ },
+ "render": {
+  "path": "/home/user/test/work/b2/Clip_35/render.mp4",
+  "sha256": "15974f7c95b188607b19be24967ed07940c8c87a6a043c1a34fe92c465552fd8"
+ }
+}
