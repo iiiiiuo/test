@@ -1,0 +1,578 @@
+[
+ {
+  "clip": "Clip_22",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   155.3,
+   155.45
+  ],
+  "cut_s": 155.39,
+  "cut_rms_dbfs": -26.7,
+  "reason": "auto: between 'start.' and 'I'"
+ },
+ {
+  "clip": "Clip_22",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   250.89,
+   251.04
+  ],
+  "cut_s": 250.94,
+  "cut_rms_dbfs": -28.6,
+  "reason": "auto: between 'right' and 'yeah'"
+ },
+ {
+  "clip": "Clip_23",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1096.04,
+   1096.42
+  ],
+  "cut_s": 1096.41,
+  "cut_rms_dbfs": -39.8,
+  "reason": "auto: between 'up.' and 'You'"
+ },
+ {
+  "clip": "Clip_23",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1142.87,
+   1143.02
+  ],
+  "cut_s": 1142.9,
+  "cut_rms_dbfs": -17.0,
+  "reason": "auto: between 'in' and 'okay'"
+ },
+ {
+  "clip": "Clip_23",
+  "interval": 1,
+  "kind": "start",
+  "window": [
+   1157.64,
+   1157.88
+  ],
+  "cut_s": 1157.755,
+  "cut_rms_dbfs": -18.6,
+  "reason": "auto: between 'beautiful.' and 'Think'"
+ },
+ {
+  "clip": "Clip_23",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1196.82,
+   1197.02
+  ],
+  "cut_s": 1196.965,
+  "cut_rms_dbfs": -21.2,
+  "reason": "end after 'what the deal was about.', before 'That's a girl part'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1475.78,
+   1475.93
+  ],
+  "cut_s": 1475.81,
+  "cut_rms_dbfs": -12.7,
+  "reason": "auto: between 'now.' and 'OK,'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1477.21,
+   1477.36
+  ],
+  "cut_s": 1477.35,
+  "cut_rms_dbfs": -13.0,
+  "reason": "auto: between 'Balenciaga.' and 'OK.'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 1,
+  "kind": "start",
+  "window": [
+   1485.92,
+   1486.08
+  ],
+  "cut_s": 1486.055,
+  "cut_rms_dbfs": -26.5,
+  "reason": "auto: between 'too.' and 'I've'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1493.98,
+   1494.22
+  ],
+  "cut_s": 1494.195,
+  "cut_rms_dbfs": -22.1,
+  "reason": "auto: between '-Yala.' and 'That's'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 2,
+  "kind": "start",
+  "window": [
+   1504.26,
+   1505.26
+  ],
+  "cut_s": 1504.32,
+  "cut_rms_dbfs": -31.9,
+  "reason": "auto: between 'Balenciaga.' and 'Balenciaga'"
+ },
+ {
+  "clip": "Clip_24",
+  "interval": 2,
+  "kind": "end",
+  "window": [
+   1561.25,
+   1561.4
+  ],
+  "cut_s": 1561.28,
+  "cut_rms_dbfs": -26.7,
+  "reason": "auto: between 'economy' and 'you'"
+ },
+ {
+  "clip": "Clip_25",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1108.58,
+   1108.73
+  ],
+  "cut_s": 1108.72,
+  "cut_rms_dbfs": -13.1,
+  "reason": "auto: between 'and' and 'i'"
+ },
+ {
+  "clip": "Clip_25",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1164.55,
+   1164.81
+  ],
+  "cut_s": 1164.785,
+  "cut_rms_dbfs": -28.7,
+  "reason": "auto: between 'structure.' and 'Yeah.'"
+ },
+ {
+  "clip": "Clip_25",
+  "interval": 1,
+  "kind": "start",
+  "window": [
+   1171.37,
+   1171.63
+  ],
+  "cut_s": 1171.62,
+  "cut_rms_dbfs": -16.8,
+  "reason": "auto: between 'too.' and 'Nothing'"
+ },
+ {
+  "clip": "Clip_25",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1191.0,
+   1191.15
+  ],
+  "cut_s": 1191.045,
+  "cut_rms_dbfs": -21.8,
+  "reason": "auto: between 'ski' and 'oh'"
+ },
+ {
+  "clip": "Clip_26",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1861.2,
+   1861.35
+  ],
+  "cut_s": 1861.34,
+  "cut_rms_dbfs": -26.0,
+  "reason": "auto: between 'let's' and 'can'"
+ },
+ {
+  "clip": "Clip_26",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1889.15,
+   1889.3
+  ],
+  "cut_s": 1889.29,
+  "cut_rms_dbfs": -13.6,
+  "reason": "auto: between 'now.' and 'Or'"
+ },
+ {
+  "clip": "Clip_26",
+  "interval": 1,
+  "kind": "start",
+  "window": [
+   1895.52,
+   1895.67
+  ],
+  "cut_s": 1895.66,
+  "cut_rms_dbfs": -15.3,
+  "reason": "auto: between 'Yeah.' and 'So'"
+ },
+ {
+  "clip": "Clip_26",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1949.6,
+   1949.88
+  ],
+  "cut_s": 1949.87,
+  "cut_rms_dbfs": -34.1,
+  "reason": "end after 'I love the respect', before the host's 'yeah'"
+ },
+ {
+  "clip": "Clip_27",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   658.29,
+   658.44
+  ],
+  "cut_s": 658.395,
+  "cut_rms_dbfs": -29.1,
+  "reason": "auto: between 'uh' and 'because'"
+ },
+ {
+  "clip": "Clip_27",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   724.57,
+   724.72
+  ],
+  "cut_s": 724.705,
+  "cut_rms_dbfs": -19.4,
+  "reason": "auto: between 'manner' and 'what'"
+ },
+ {
+  "clip": "Clip_28",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1002.26,
+   1002.82
+  ],
+  "cut_s": 1002.755,
+  "cut_rms_dbfs": -33.8,
+  "reason": "auto: between 'shot.' and 'No,'"
+ },
+ {
+  "clip": "Clip_28",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1067.33,
+   1067.48
+  ],
+  "cut_s": 1067.415,
+  "cut_rms_dbfs": -11.5,
+  "reason": "auto: between 'right?' and 'But'"
+ },
+ {
+  "clip": "Clip_29",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1327.2,
+   1327.35
+  ],
+  "cut_s": 1327.325,
+  "cut_rms_dbfs": -17.5,
+  "reason": "auto: between 'so' and 'think'"
+ },
+ {
+  "clip": "Clip_29",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1400.79,
+   1401.79
+  ],
+  "cut_s": 1401.3,
+  "cut_rms_dbfs": -20.6,
+  "reason": "auto: between 'possibly.' and 'I'"
+ },
+ {
+  "clip": "Clip_30",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   51.72,
+   51.87
+  ],
+  "cut_s": 51.835,
+  "cut_rms_dbfs": -12.5,
+  "reason": "auto: between 'is,' and 'this'"
+ },
+ {
+  "clip": "Clip_30",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   146.29,
+   146.44
+  ],
+  "cut_s": 146.43,
+  "cut_rms_dbfs": -33.7,
+  "reason": "end after 'each other', before the trailing 'and'"
+ },
+ {
+  "clip": "Clip_31",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   157.2,
+   157.36
+  ],
+  "cut_s": 157.35,
+  "cut_rms_dbfs": -22.1,
+  "reason": "auto: between 'Denny's?' and 'I'"
+ },
+ {
+  "clip": "Clip_31",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   215.76,
+   216.76
+  ],
+  "cut_s": 215.94,
+  "cut_rms_dbfs": -38.9,
+  "reason": "auto: between 'Champs.' and 'And'"
+ },
+ {
+  "clip": "Clip_31",
+  "interval": 1,
+  "kind": "start",
+  "window": [
+   219.72,
+   220.72
+  ],
+  "cut_s": 220.38,
+  "cut_rms_dbfs": -17.4,
+  "reason": "auto: between 'Champs.' and 'And'"
+ },
+ {
+  "clip": "Clip_31",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   232.5,
+   232.72
+  ],
+  "cut_s": 232.51,
+  "cut_rms_dbfs": -17.6,
+  "reason": "end after 'in the world.', before 'we sat there'"
+ },
+ {
+  "clip": "Clip_32",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   601.31,
+   602.31
+  ],
+  "cut_s": 601.45,
+  "cut_rms_dbfs": -26.9,
+  "reason": "auto: between 'let' and 'me'"
+ },
+ {
+  "clip": "Clip_32",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   696.45,
+   697.3
+  ],
+  "cut_s": 697.065,
+  "cut_rms_dbfs": -38.3,
+  "reason": "auto: between 'world.' and 'In'"
+ },
+ {
+  "clip": "Clip_33",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1093.8,
+   1093.95
+  ],
+  "cut_s": 1093.89,
+  "cut_rms_dbfs": -23.8,
+  "reason": "auto: between 'it' and 'i'm'"
+ },
+ {
+  "clip": "Clip_33",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1177.4,
+   1177.591
+  ],
+  "cut_s": 1177.58,
+  "cut_rms_dbfs": -18.1,
+  "reason": "auto: between 'Vuitton.' and ''"
+ },
+ {
+  "clip": "Clip_34",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1651.98,
+   1652.13
+  ],
+  "cut_s": 1652.12,
+  "cut_rms_dbfs": -14.3,
+  "reason": "auto: between 'yeah' and 'this'"
+ },
+ {
+  "clip": "Clip_34",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1737.05,
+   1737.2
+  ],
+  "cut_s": 1737.085,
+  "cut_rms_dbfs": -17.0,
+  "reason": "auto: between 'now.' and 'Yeah,'"
+ },
+ {
+  "clip": "Clip_35",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   596.3,
+   596.74
+  ],
+  "cut_s": 596.72,
+  "cut_rms_dbfs": -35.4,
+  "reason": "auto: between 'better.' and 'But'"
+ },
+ {
+  "clip": "Clip_35",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   663.6,
+   664.22
+  ],
+  "cut_s": 663.93,
+  "cut_rms_dbfs": -37.5,
+  "reason": "auto: between 'now.' and 'Did'"
+ },
+ {
+  "clip": "Clip_36",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   663.621,
+   664.3
+  ],
+  "cut_s": 663.931,
+  "cut_rms_dbfs": -36.9,
+  "reason": "auto: between 'now.' and 'Did'"
+ },
+ {
+  "clip": "Clip_36",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   742.76,
+   742.91
+  ],
+  "cut_s": 742.9,
+  "cut_rms_dbfs": -12.3,
+  "reason": "auto: between 'about.' and 'At'"
+ },
+ {
+  "clip": "Clip_37",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   863.12,
+   863.34
+  ],
+  "cut_s": 863.33,
+  "cut_rms_dbfs": -21.8,
+  "reason": "auto: between 'building.' and 'Why'"
+ },
+ {
+  "clip": "Clip_37",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   929.82,
+   930.74
+  ],
+  "cut_s": 930.47,
+  "cut_rms_dbfs": -35.1,
+  "reason": "auto: between 'my' and 'well'"
+ },
+ {
+  "clip": "Clip_38",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1366.25,
+   1367.25
+  ],
+  "cut_s": 1366.605,
+  "cut_rms_dbfs": -39.3,
+  "reason": "auto: between ''all.' and 'So'"
+ },
+ {
+  "clip": "Clip_38",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1441.95,
+   1442.1
+  ],
+  "cut_s": 1442.005,
+  "cut_rms_dbfs": -27.9,
+  "reason": "auto: between 'before' and 'you'"
+ },
+ {
+  "clip": "Clip_39",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1443.7,
+   1444.0
+  ],
+  "cut_s": 1443.89,
+  "cut_rms_dbfs": -16.9,
+  "reason": "auto: between '' and 'And'"
+ },
+ {
+  "clip": "Clip_39",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1520.36,
+   1521.36
+  ],
+  "cut_s": 1521.08,
+  "cut_rms_dbfs": -37.0,
+  "reason": "auto: between 'God.' and 'And'"
+ }
+]

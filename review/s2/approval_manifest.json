@@ -1,5 +1,5 @@
 {
- "status": "AWAITING_TRANSLATION_APPROVAL",
+ "status": "APPROVED",
  "generated_at": "2026-10-16T07:33:19Z",
  "editable_file": "review/s2/translations_review.csv",
  "editable_column": "ja_final",
@@ -663,9 +663,12 @@
   "NOTE": 57
  },
  "approval": {
-  "approved": false,
-  "approved_by": null,
-  "approved_at": null,
-  "note": "Approval requires an explicit human message in the project thread. File edits alone are not approval."
+  "approved": true,
+  "approved_by": "giub (user_017sz8qba3m9XhWsSGKWYthm)",
+  "approved_at": "2026-10-16T07:35:42Z",
+  "message_id": "cmsg_01Xrxe8q4Xq38eAwgyQN8zaA1WqP3pUYbiX5Yy1o4v14KU",
+  "message": "この和訳でいいので動画を生成して",
+  "approved_file": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "approved_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b"
  }
 }

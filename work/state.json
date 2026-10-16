@@ -249,7 +249,7 @@
   "series": "output/drinkchamps_ye/shared/final_series_qa.md"
  },
  "series2": {
-  "status": "AWAITING_TRANSLATION_APPROVAL",
+  "status": "PHASE_B_IN_PROGRESS",
   "request": "User 2026-10-16: pick new intervals not used by the 21 clips, draft Japanese, present for confirmation, render only after approval.",
   "clip_ids": [
    "Clip_22",
@@ -278,7 +278,10 @@
   "manifest": "review/s2/approval_manifest.json",
   "asr_runs": "work/asr/S01..S18.large.json",
   "reservations": "ledger reservations with series=2",
-  "next_action": "Wait for explicit human approval in the thread; then freeze review/s2 CSV into review/s2/approved and run Phase B into work/b2 and output/drinkchamps_ye_s2 (do not touch series 1 frozen files).",
-  "review_revision": 2
+  "next_action": "Phase B: boundary check, framing, subs, render, critic loop into work/b2",
+  "review_revision": 2,
+  "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
+  "approved_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b",
+  "approved_at": "2026-10-16T07:35:42Z"
  }
 }
