@@ -17,7 +17,7 @@
    "end": 166.78,
    "speaker": "Host",
    "en": "And then you saying that you wanted to be like Ralph, or you wanted to be up there with that caliber.",
-   "ja": "あんたはRalphみたいになりたい\nあのレベルに行きたいって\n言ってたよな",
+   "ja": "あんたはRalph Laurenみたいになりたい\nあのレベルに行きたいって\n言ってたよな",
    "ctx": "Ralph = Ralph Lauren.",
    "unc": "Large-v3 'want', turbo 'wanted'; same meaning.",
    "asr": "And then you saying that you want to be like Ralph or you want to be up there with that caliber."
@@ -28,7 +28,7 @@
    "end": 172.46,
    "speaker": "Host",
    "en": "And now it's like you are Ralph. You are that caliber.",
-   "ja": "で、今じゃあんたが\nRalphそのもの\nあのレベルにいる",
+   "ja": "で、今じゃあんたが\nRalph Laurenそのもの\nあのレベルにいる",
    "ctx": "",
    "unc": "",
    "asr": "And now it's like you are Ralph. You are that caliber."
@@ -872,7 +872,7 @@
    "end": 1901.91,
    "speaker": "Host",
    "en": "So that... Ye might be against... But what if Trump runs?",
-   "ja": "ってことは…\nYeが対抗するのは…\nでもTrumpが出たら？",
+   "ja": "ってことは…\nYeが対抗するのは…\nでもトランプが出たら？",
    "ctx": "",
    "unc": "MEDIUM: the host's first half is fragmentary in both passes ('So that that that the yay might be against').",
    "asr": "So that that that the yay might be against. But what if Trump runs?"
@@ -894,7 +894,7 @@
    "end": 1909.96,
    "speaker": "Ye",
    "en": "I think that's what America's been waiting for.",
-   "ja": "Americaはそれを\n待ってたんだと思うよ",
+   "ja": "アメリカはそれを\n待ってたんだと思うよ",
    "ctx": "",
    "unc": "",
    "asr": "I think that's what I think that's what America's been waiting for."
@@ -905,7 +905,7 @@
    "end": 1911.93,
    "speaker": "Host",
    "en": "You against Trump?",
-   "ja": "Trumpと対決？",
+   "ja": "トランプと対決？",
    "ctx": "",
    "unc": "",
    "asr": "You against Trump?"
@@ -949,7 +949,7 @@
    "end": 1931.21,
    "speaker": "Host",
    "en": "Right. If he asked you to be VP, would you?",
-   "ja": "なるほど\nもしTrumpに副大統領を頼まれたら\nやる？",
+   "ja": "なるほど\nもしトランプに副大統領を頼まれたら\nやる？",
    "ctx": "VP = vice president.",
    "unc": "",
    "asr": "Right. If he asked you to be VP, would you?"
@@ -1195,7 +1195,7 @@
    "end": 677.99,
    "speaker": "Ye",
    "en": "We got to put it together, whether it's like, you know what I'm saying, like, look at, like, Warren Buffett's factory or something.",
-   "ja": "形にしなきゃいけない\nたとえばWarren Buffettの\n工場みたいにさ",
+   "ja": "形にしなきゃいけない\nたとえばウォーレンバフェットの\n工場みたいにさ",
    "ctx": "",
    "unc": "",
    "asr": "you gotta put it together whether it's like you know i'm saying like look at like warren buffett's factory or something"
@@ -1294,7 +1294,7 @@
    "end": 724.72,
    "speaker": "Ye",
    "en": "We're not limited to the master. We get with a legal BMF, you know, we have to think, like, in that manner.",
-   "ja": "主人に縛られる必要はない\n合法版のBMFみたいに\nそういう考え方を\nしなきゃいけない",
+   "ja": "主人に縛られる必要はない\n合法版のBlack Mafia Familyみたいに\nそういう考え方を\nしなきゃいけない",
    "ctx": "BMF = Black Mafia Family, the Detroit drug and hip-hop organization (subject of the TV series 'BMF'); 'legal BMF' = the same organizing power, legitimately.",
    "unc": "Large-v3 'we're the legal bmf', turbo 'get with a legal BMF'.",
    "asr": "we're not limited to the master we we get we're the legal bmf you know we have to think like in that manner"
@@ -1619,7 +1619,7 @@
    "end": 164.98,
    "speaker": "Ye",
    "en": "I remember I used to play ball with Common, with Rashid, at UCLA. And afterwards, I was like, we can go to Denny's.",
-   "ja": "昔UCLAで\nCommonとRashidと\nバスケしてたんだけど\n終わった後に「Denny'sに行こう」って",
+   "ja": "昔UCLAで\nCommonとRashidと\nバスケしてたんだけど\n終わった後に「デニーズに行こう」って",
    "ctx": "Common (rapper/actor, real name Lonnie Rashid Lynn). Denny's = US diner chain.",
    "unc": "Large-v3 'with Common, with Rashid' may be one person (Common's middle name is Rashid).",
    "asr": "I remember I used to play ball with Common, with Rashid, at UCLA. And afterwards, I was like, we can go to Denny's."
@@ -1630,7 +1630,7 @@
    "end": 167.26,
    "speaker": "Ye",
    "en": "You know, this nigga's a skinny actor. He said, Denny's?",
-   "ja": "あいつは細身の俳優だからさ\n「Denny's？」って",
+   "ja": "あいつは細身の俳優だからさ\n「デニーズ？」って",
    "ctx": "Joke: Common, an actor keeping slim, balks at diner food.",
    "unc": "",
    "asr": "You know, this nigga's a skinny actor. He said, Denny's?"
@@ -1641,7 +1641,7 @@
    "end": 169.3,
    "speaker": "Ye",
    "en": "But I like Denny's.",
-   "ja": "でも俺はDenny's好きなんだよ",
+   "ja": "でも俺はデニーズ好きなんだよ",
    "ctx": "",
    "unc": "",
    "asr": "But I like Denny's."
@@ -1808,7 +1808,7 @@
    "end": 613.33,
    "speaker": "Host",
    "en": "And we're still in the quagmire that is the Ukraine war.",
-   "ja": "で、Ukraine戦争の泥沼が\nまだ続いてる",
+   "ja": "で、ウクライナ戦争の泥沼が\nまだ続いてる",
    "ctx": "",
    "unc": "",
    "asr": "and we're still in the quagmire that is the ukraine war"
@@ -2107,7 +2107,7 @@
    "end": 1165.3,
    "speaker": "Ye",
    "en": "going into creating the, you know, the first sportswear factories in America since World War II.",
-   "ja": "第二次大戦以来初の\nAmericaのスポーツウェア工場を\n作ったりな",
+   "ja": "第二次大戦以来初の\nアメリカのスポーツウェア工場を\n作ったりな",
    "ctx": "Ye's own claim about his Yeezy factories.",
    "unc": "",
    "asr": "going into creating the you know the first sportswear factories in america since world war ii"
@@ -2142,7 +2142,7 @@
    "end": 1669.14,
    "speaker": "Ye",
    "en": "You mean on a red hat, or the t-shirt, or what? Which part?",
-   "ja": "赤い帽子のこと？\nTシャツ？\nどの話？",
+   "ja": "トランプ支持者の赤の帽子のこと？\nTシャツ？\nどの話？",
    "ctx": "Red hat = Trump 'Make America Great Again' cap; t-shirt = 'White Lives Matter'.",
    "unc": "Speaker inferred as Ye.",
    "asr": "you mean on a red hat or the t -shirt or what which part"
@@ -2241,7 +2241,7 @@
    "end": 1705.03,
    "speaker": "Ye",
    "en": "Pharrell. I said Pharrell. Pharrell. My wife said Pharrell.",
-   "ja": "Pharrell\n俺もPharrellって言った\n嫁もPharrellって言う",
+   "ja": "ファレルウィリアムズ\n俺もファレルウィリアムズって言った\n嫁もファレルウィリアムズって言う",
    "ctx": "",
    "unc": "MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'.",
    "asr": "Pharrell. I said Pharrell. Pharrell. My wife said Pharrell."
@@ -2252,7 +2252,7 @@
    "end": 1709.49,
    "speaker": "Ye",
    "en": "I'm the Pharrell. I'm the Pharrell of politics.",
-   "ja": "俺がPharrellなんだよ\n政治界のPharrellだ",
+   "ja": "俺がファレルウィリアムズなんだよ\n政治界のファレルウィリアムズだ",
    "ctx": "Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star.",
    "unc": "",
    "asr": "I'm the Pharrell. I'm the Pharrell of politics"
@@ -2285,7 +2285,7 @@
    "end": 1733.58,
    "speaker": "Ye",
    "en": "Like, just like Pharrell, I was a nerd also. You're going to say I was a nigga with the pink polo and, you know.",
-   "ja": "Pharrellと同じで\n俺もオタクだった\nピンクのポロシャツ着てた奴だって\n言われるだろうけどさ",
+   "ja": "ファレルウィリアムズと同じで\n俺もオタクだった\nピンクのポロシャツ着てた奴だって\n言われるだろうけどさ",
    "ctx": "Ye's early-2000s pink Polo look.",
    "unc": "",
    "asr": "like just like Pharrell I was a nerd also you're gonna say I was a nigga with the pink polo and"
@@ -2485,7 +2485,7 @@
    "end": 740.89,
    "speaker": "Ye",
    "en": "And by the way, because that's the thing, Tucker Carlson, they're going to help me up to the point where I'm, like, supporting Trump, right?",
-   "ja": "それにTucker Carlsonだって\n俺がTrumpを支持してる\nところまでしか\n助けてくれない",
+   "ja": "それにTucker Carlsonだって\n俺がトランプを支持してる\nところまでしか\n助けてくれない",
    "ctx": "",
    "unc": "MEDIUM: large-v3 'they don't want to help me up to the point', turbo 'They're going to help me up to the point'. Turbo fits the next line.",
    "asr": "And by the way, because that's the thing, Tucker Carlson, they don't want to help me up to the point where I'm like supporting Trump, right?"
@@ -2676,7 +2676,7 @@
    "end": 867.86,
    "speaker": "Host",
    "en": "Why are you wearing the Trump... excuse me...",
-   "ja": "なんでTrumpの…\nいや、失礼",
+   "ja": "なんでトランプの…\nいや、失礼",
    "ctx": "Ye is wearing a 'Supreme Lives Matter'-style shirt.",
    "unc": "",
    "asr": "Why are you wearing the Trump, excuse me."
@@ -2687,7 +2687,7 @@
    "end": 869.38,
    "speaker": "Ye",
    "en": "It's not Trump. It's not Trump.",
-   "ja": "Trumpじゃない\nTrumpじゃないって",
+   "ja": "トランプじゃない\nトランプじゃないって",
    "ctx": "",
    "unc": "MEDIUM: turbo hears only the host's 'um' here; large-v3 'It's not Trump. It's not Trump.' Speaker inferred as Ye.",
    "asr": "It's not Trump. It's not Trump."
@@ -2942,7 +2942,7 @@
    "end": 1428.92,
    "speaker": "Ye",
    "en": "that would have the audacity to wear a red hat or a White Lives Matter t-shirt,",
-   "ja": "赤い帽子や\nWhite Lives MatterのTシャツを\n着る度胸のある男",
+   "ja": "トランプ支持者の赤の帽子や\nWhite Lives MatterのTシャツを\n着る度胸のある男",
    "ctx": "Red hat = Trump MAGA cap.",
    "unc": "",
    "asr": "that would have the audacity to wear a red hat or white lives matter t -shirt"

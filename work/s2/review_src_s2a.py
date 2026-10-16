@@ -7,8 +7,8 @@ CLIPS = {}
 
 CLIPS['S01'] = [
  E([1, 2], 'Host', "I want to start because, you know, the very famous interview was you and Sway, right?", "まず聞きたいのは\nあの有名なSwayとの\nインタビューのことなんだけど", "Ye's 2013 Sway in the Morning interview ('You ain't got the answers, Sway!')."),
- E([3, 4], 'Host', "And then you saying that you wanted to be like Ralph, or you wanted to be up there with that caliber.", "あんたはRalphみたいになりたい\nあのレベルに行きたいって\n言ってたよな", "Ralph = Ralph Lauren.", "Large-v3 'want', turbo 'wanted'; same meaning."),
- E([5, 6], 'Host', "And now it's like you are Ralph. You are that caliber.", "で、今じゃあんたが\nRalphそのもの\nあのレベルにいる"),
+ E([3, 4], 'Host', "And then you saying that you wanted to be like Ralph, or you wanted to be up there with that caliber.", "あんたはRalph Laurenみたいになりたい\nあのレベルに行きたいって\n言ってたよな", "Ralph = Ralph Lauren.", "Large-v3 'want', turbo 'wanted'; same meaning."),
+ E([5, 6], 'Host', "And now it's like you are Ralph. You are that caliber.", "で、今じゃあんたが\nRalph Laurenそのもの\nあのレベルにいる"),
  E([7, 8], 'Host', "And then I guess what I'm trying to say is, so that's where we get confused.", "だから何が言いたいかっていうと\nそこで俺らは\n混乱するわけよ"),
  E([9], 'Host', "Did Sway have the answers?", "Swayは答えを\n持ってたのか？", "Callback to Ye's famous line 'You ain't got the answers, Sway!'"),
  E([10], 'Host', "I think you already admitted Sway had the answers.", "Swayが正しかったって\nもう認めてたよな", "", "MEDIUM: large-v3 'admitted Sway had the answers', turbo 'admitted the way he had the answer'. Large-v3 fits the context; speaker inferred as a host."),

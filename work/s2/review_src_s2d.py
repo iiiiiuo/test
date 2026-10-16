@@ -21,8 +21,8 @@ CLIPS['S15'] = [
 ]
 
 CLIPS['S16'] = [
- E([1], 'Host', "Why are you wearing the Trump... excuse me...", "なんでTrumpの…\nいや、失礼", "Ye is wearing a 'Supreme Lives Matter'-style shirt."),
- E([2, 3], 'Ye', "It's not Trump. It's not Trump.", "Trumpじゃない\nTrumpじゃないって", "", "MEDIUM: turbo hears only the host's 'um' here; large-v3 'It's not Trump. It's not Trump.' Speaker inferred as Ye."),
+ E([1], 'Host', "Why are you wearing the Trump... excuse me...", "なんでトランプの…\nいや、失礼", "Ye is wearing a 'Supreme Lives Matter'-style shirt."),
+ E([2, 3], 'Ye', "It's not Trump. It's not Trump.", "トランプじゃない\nトランプじゃないって", "", "MEDIUM: turbo hears only the host's 'um' here; large-v3 'It's not Trump. It's not Trump.' Speaker inferred as Ye."),
  E([4], 'Host', "The Supreme Lives Matter.", "その\n“Supreme Lives Matter”", "", "Turbo 'the, um, the, um, the Supreme Lives Matter'."),
  E([5, 6, 7], 'Ye', "This is not Lives Matter. This is Tremaine. This is Tremaine.", "これは“Lives Matter”じゃない\nTremaineだよ\nTremaineだ", "Tremaine Emory, then creative director of Supreme, who criticized Ye publicly.", "Large-v3 'Tremaine', turbo 'Jermaine'; Tremaine Emory fits."),
  E([8], 'Ye', "This is my boy that's at Supreme now.", "今Supremeにいる\n俺の仲間"),
@@ -48,7 +48,7 @@ CLIPS['S17'] = [
  E([10, 11], 'Ye', "I just think that people don't know how to understand what they're dealing with now.", "みんな今\n何を相手にしてるのか\nわかってないんだと思う", e='dealing with now'),
  E([11, 12, 13, 14], 'Ye', "They've always saw Black people that were an athlete that would follow their contract, a rapper that would follow their contract, an actor that would follow their contract.", "今までの黒人は\n契約に従うアスリート\n契約に従うラッパー\n契約に従う俳優だった", s='theyve'),
  E([14, 15, 16, 17], 'Ye', "They never had to walk into the room and deal with a Black man that would have the audacity to give the most famous, most influential white woman in the world four Black children,", "部屋に入って\nこんな黒人を相手にしたことはない\n世界一有名で影響力のある\n白人女性に\n黒人の子どもを4人も\n授けるような度胸の男をな", "Kim Kardashian; Ye and Kim have four children.", "Both passes 'for black children' = 'four Black children'.", s='they never', e='for black children'),
- E([17, 18], 'Ye', "that would have the audacity to wear a red hat or a White Lives Matter t-shirt,", "赤い帽子や\nWhite Lives MatterのTシャツを\n着る度胸のある男", "Red hat = Trump MAGA cap.", s='that would have the audacity to wear'),
+ E([17, 18], 'Ye', "that would have the audacity to wear a red hat or a White Lives Matter t-shirt,", "トランプ支持者の赤の帽子や\nWhite Lives MatterのTシャツを\n着る度胸のある男", "Red hat = Trump MAGA cap.", s='that would have the audacity to wear'),
  E([19, 20], 'Ye', "that would have the audacity to have multiple hundred-thousand-square-foot, 57,000-square-foot warehouses, that would have the audacity.", "何千坪もの倉庫を\nいくつも持つ度胸のある男\nそういう度胸のな", "100,000 sq ft ≈ 9,300 m² (about 2,800 tsubo).", "Large-v3 'that would have to audacity'; turbo 'that would have the audacity'."),
  E([21, 22], 'Ye', "They've never dealt with it. So between Black people or white people, they've never seen this before.", "そんなの相手にしたことがないんだ\n黒人も白人も\nこんなの見たことがないんだよ"),
 ]

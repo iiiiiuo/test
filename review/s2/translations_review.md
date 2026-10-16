@@ -17,8 +17,8 @@
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
 | Clip_22_L001 | 0:02:35.340 | Host | I want to start because, you know, the very famous interview was you and Sway, right? | まず聞きたいのは<br>あの有名なSwayとの<br>インタビューのことなんだけど | Ye's 2013 Sway in the Morning interview ('You ain't got the answers, Sway!'). |
-| Clip_22_L002 | 0:02:40.700 | Host | And then you saying that you wanted to be like Ralph, or you wanted to be up there with that caliber. | あんたはRalphみたいになりたい<br>あのレベルに行きたいって<br>言ってたよな | Ralph = Ralph Lauren. / Large-v3 'want', turbo 'wanted'; same meaning. |
-| Clip_22_L003 | 0:02:47.000 | Host | And now it's like you are Ralph. You are that caliber. | で、今じゃあんたが<br>Ralphそのもの<br>あのレベルにいる |  |
+| Clip_22_L002 | 0:02:40.700 | Host | And then you saying that you wanted to be like Ralph, or you wanted to be up there with that caliber. | あんたはRalph Laurenみたいになりたい<br>あのレベルに行きたいって<br>言ってたよな | Ralph = Ralph Lauren. / Large-v3 'want', turbo 'wanted'; same meaning. |
+| Clip_22_L003 | 0:02:47.000 | Host | And now it's like you are Ralph. You are that caliber. | で、今じゃあんたが<br>Ralph Laurenそのもの<br>あのレベルにいる |  |
 | Clip_22_L004 | 0:02:52.880 | Host | And then I guess what I'm trying to say is, so that's where we get confused. | だから何が言いたいかっていうと<br>そこで俺らは<br>混乱するわけよ |  |
 | Clip_22_L005 | 0:02:56.860 | Host | Did Sway have the answers? | Swayは答えを<br>持ってたのか？ | Callback to Ye's famous line 'You ain't got the answers, Sway!' |
 | ⚠ Clip_22_L006 | 0:02:58.460 | Host | I think you already admitted Sway had the answers. | Swayが正しかったって<br>もう認めてたよな | MEDIUM: large-v3 'admitted Sway had the answers', turbo 'admitted the way he had the answer'. Large-v3 fits the context; speaker inferred as a host. |
@@ -124,7 +124,7 @@
 
 - SOURCE: `part_3.mp4` 0:31:01.180–0:31:29.240, 0:31:35.640–0:32:29.880
 - 想定尺: 82.3 秒
-- 内容: 帽子の「2024」の意味、Trumpが出馬したら？、「俺より好きな奴はいない」、副大統領なら？を一気に答える
+- 内容: 帽子の「2024」の意味、トランプが出馬したら？、「俺より好きな奴はいない」、副大統領なら？を一気に答える
 - Hook: 「悪いけど、俺より好きな奴はいない」
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
@@ -134,14 +134,14 @@
 | Clip_26_L003 | 0:31:09.960 | Ye | It's time for us to rise up. It's time for us to put somebody in office that is us, that cares about us, | 俺たちが立ち上がる時だ<br>俺たちの側の人間を<br>俺たちを気にかける人間を<br>政権に就ける時だ |  |
 | Clip_26_L004 | 0:31:20.700 | Ye | that serves God and serves the people. That's what 2024 means. | 神に仕え<br>人々に仕える人間をな<br>それが2024の意味だ | Large-v3 repeats 'Twenty four means twenty'; turbo 'That's what 2024 means'. |
 | Clip_26_L005 | 0:31:26.800 | Host | So you can't say this right now. | じゃあ今は<br>まだ言えないってことか | Large-v3 'you can't', turbo 'we can't'. Speaker inferred as a host. |
-| ⚠ Clip_26_L006 | 0:31:35.660 | Host | So that... Ye might be against... But what if Trump runs? | ってことは…<br>Yeが対抗するのは…<br>でもTrumpが出たら？ | MEDIUM: the host's first half is fragmentary in both passes ('So that that that the yay might be against'). |
+| ⚠ Clip_26_L006 | 0:31:35.660 | Host | So that... Ye might be against... But what if Trump runs? | ってことは…<br>Yeが対抗するのは…<br>でもトランプが出たら？ | MEDIUM: the host's first half is fragmentary in both passes ('So that that that the yay might be against'). |
 | ⚠ Clip_26_L007 | 0:31:42.530 | Ye | No, that's... He might. Yeah. | いや、それは…<br>出るかもな | MEDIUM: large-v3 'No, that's all in 24. He might. Yeah'; turbo 'No, that's, oh, he might, yeah.' Kept to the shared words. |
-| Clip_26_L008 | 0:31:44.650 | Ye | I think that's what America's been waiting for. | Americaはそれを<br>待ってたんだと思うよ |  |
-| Clip_26_L009 | 0:31:50.910 | Host | You against Trump? | Trumpと対決？ |  |
+| Clip_26_L008 | 0:31:44.650 | Ye | I think that's what America's been waiting for. | アメリカはそれを<br>待ってたんだと思うよ |  |
+| Clip_26_L009 | 0:31:50.910 | Host | You against Trump? | トランプと対決？ |  |
 | Clip_26_L010 | 0:31:52.350 | Host | Yeah. Who you voting for? | そう<br>あんたは誰に投票する？ | Speaker split inferred: the 'Yeah' may be Ye's answer. |
 | Clip_26_L011 | 0:31:57.760 | Ye | That's a good one. | いい質問だな |  |
 | Clip_26_L012 | 0:32:00.800 | Ye | I'm not even going to lie, man. I'm a fan of a lot of people, but, you know, respectfully, I don't like nobody better than me. | ウソはつかないよ<br>ファンな人はたくさんいる<br>でも悪いけど<br>俺より好きな奴はいない |  |
-| Clip_26_L013 | 0:32:06.780 | Host | Right. If he asked you to be VP, would you? | なるほど<br>もしTrumpに副大統領を頼まれたら<br>やる？ | VP = vice president. |
+| Clip_26_L013 | 0:32:06.780 | Host | Right. If he asked you to be VP, would you? | なるほど<br>もしトランプに副大統領を頼まれたら<br>やる？ | VP = vice president. |
 | ⚠ Clip_26_L014 | 0:32:15.330 | Ye | Yeah. Absolutely. If that was a piece that's like me, let's say, Watch the Throne then. | ああ、もちろん<br>それは俺にとって<br>『Watch the Throne』みたいなもんだ | Watch the Throne = Ye and Jay-Z's 2011 joint album, where Ye was the junior partner in Jay-Z's eyes. / MEDIUM: 'If that was a piece that's like me' is unclear in both passes; the gist is the Watch the Throne comparison. |
 | ⚠ Clip_26_L015 | 0:32:20.370 | Host | Well, you thought he was the VP on Watch the Throne? I thought you was equals, co-president. | 『Watch the Throne』では<br>Jayが副大統領だったって？<br>対等な共同大統領だと思ってたわ | MEDIUM: large-v3 'he was the VP ... I thought that was his co-president'; turbo 'I thought I was equals co-president'. Merged reading. |
 | Clip_26_L016 | 0:32:24.690 | Ye | But still, that's my elder. That's my senior. That's the person with more experience. I love the respect. | でもやっぱり<br>あの人は俺の先輩<br>経験も上だ<br>その敬意が大事なんだよ | Ye means Jay-Z. / Large-v3 'that's the first one more experience'; turbo 'a person with more experience'. |
@@ -150,7 +150,7 @@
 
 - SOURCE: `part_4.mp4` 0:10:58.270–0:12:04.740
 - 想定尺: 66.5 秒
-- 内容: 誰にも腹を立てず自分たちでやればいい。工場を持ち、Maybachの車隊を揃え、「合法版BMF」として考えるべきだと語る
+- 内容: 誰にも腹を立てず自分たちでやればいい。工場を持ち、Maybachの車隊を揃え、「合法版Black Mafia Family」として考えるべきだと語る
 - Hook: 「自分たちの車を作るまではMaybachの車隊だ」
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
@@ -158,7 +158,7 @@
 | ⚠ Clip_27_L001 | 0:10:58.290 | Ye | Because why not we just do it ourself and not be mad at nobody? Jewish, nobody Chinese, nobody black, nobody, | だって俺たちで<br>やればいいだけだろ<br>誰にも腹を立てずに<br>ユダヤ人にも中国人にも<br>黒人にも | MEDIUM: turbo hears 'nobody Jewish, nobody Chinese'; large-v3 has 'but i think' in place of 'Jewish'. Review the audio around 662 s. |
 | Clip_27_L002 | 0:11:05.310 | Ye | anywhere. We got to get like the Chinese world. | どこの誰にもな<br>中国みたいに<br>ならなきゃいけない |  |
 | Clip_27_L003 | 0:11:08.030 | Ye | We got it on point. We got to get our own factories. | あそこはしっかりしてる<br>自分たちの工場を<br>持たなきゃダメだ | Large-v3 repeats 'we gotta get like a point'. |
-| Clip_27_L004 | 0:11:13.290 | Ye | We got to put it together, whether it's like, you know what I'm saying, like, look at, like, Warren Buffett's factory or something. | 形にしなきゃいけない<br>たとえばWarren Buffettの<br>工場みたいにさ |  |
+| Clip_27_L004 | 0:11:13.290 | Ye | We got to put it together, whether it's like, you know what I'm saying, like, look at, like, Warren Buffett's factory or something. | 形にしなきゃいけない<br>たとえばウォーレンバフェットの<br>工場みたいにさ |  |
 | Clip_27_L005 | 0:11:17.990 | Ye | It's got to, like, when you walk in, you got to feel. That's the reason why. | 入った瞬間に<br>感じるものがないとダメなんだ<br>それが理由だよ |  |
 | Clip_27_L006 | 0:11:20.390 | Ye | One of the things is, like, when me and Puffy was, like, going back and forth on Instagram or text, | たとえばさ<br>俺とPuff DaddyがInstagramや<br>メールでやり合ってた時 | Puffy = Puff Daddy (Diddy). |
 | Clip_27_L007 | 0:11:27.650 | Ye | I went and changed my... I was on the car service. I'm like, I want to just do Maybach fleets for the whole... for everybody. | 俺はハイヤーを<br>変えたんだよ<br>全員分Maybachの車隊に<br>したくてさ | Large-v3 'i wouldn't change my', turbo 'I went and changed my'. |
@@ -167,7 +167,7 @@
 | ⚠ Clip_27_L010 | 0:11:46.180 | Ye | This is back to back to back to back to back, back, back, back... Ye-bachs and shit, | 後ろにずらっと<br>何台も何台も…<br>“Ye-bach”だよ | MEDIUM: large-v3 'right yay backs and shit' (a Ye/Maybach pun, 'Ye-bachs'?); turbo only repeats 'back'. Review the audio around 709-711 s. |
 | Clip_27_L011 | 0:11:50.720 | Ye | until we make our own cars. You know, until we make our own cars. | 自分たちの車を作るまでは<br>自分たちの車を作るまではな | Large-v3 'cards' = cars. |
 | Clip_27_L012 | 0:11:53.980 | Ye | But it's like, we're not really maximizing who we are. | でもまだ俺たちは<br>自分たちの力を<br>出し切れてない |  |
-| Clip_27_L013 | 0:11:57.900 | Ye | We're not limited to the master. We get with a legal BMF, you know, we have to think, like, in that manner. | 主人に縛られる必要はない<br>合法版のBMFみたいに<br>そういう考え方を<br>しなきゃいけない | BMF = Black Mafia Family, the Detroit drug and hip-hop organization (subject of the TV series 'BMF'); 'legal BMF' = the same organizing power, legitimately. / Large-v3 'we're the legal bmf', turbo 'get with a legal BMF'. |
+| Clip_27_L013 | 0:11:57.900 | Ye | We're not limited to the master. We get with a legal BMF, you know, we have to think, like, in that manner. | 主人に縛られる必要はない<br>合法版のBlack Mafia Familyみたいに<br>そういう考え方を<br>しなきゃいけない | BMF = Black Mafia Family, the Detroit drug and hip-hop organization (subject of the TV series 'BMF'); 'legal BMF' = the same organizing power, legitimately. / Large-v3 'we're the legal bmf', turbo 'get with a legal BMF'. |
 
 ## Clip_28 — Stella McCartney's husband gets a pass
 
@@ -246,14 +246,14 @@
 
 - SOURCE: `part_5.mp4` 0:02:37.340–0:03:35.780, 0:03:40.700–0:03:52.700
 - 想定尺: 70.4 秒
-- 内容: CommonとのDenny's話から、「世界で一番好きな人間は俺だ」と自分を褒め、Futureの言葉で締める
+- 内容: Commonとのデニーズ話から、「世界で一番好きな人間は俺だ」と自分を褒め、Futureの言葉で締める
 - Hook: 「世界で一番好きな人間？ 俺だよ」
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_31_L001 | 0:02:37.360 | Ye | I remember I used to play ball with Common, with Rashid, at UCLA. And afterwards, I was like, we can go to Denny's. | 昔UCLAで<br>CommonとRashidと<br>バスケしてたんだけど<br>終わった後に「Denny'sに行こう」って | Common (rapper/actor, real name Lonnie Rashid Lynn). Denny's = US diner chain. / Large-v3 'with Common, with Rashid' may be one person (Common's middle name is Rashid). |
-| Clip_31_L002 | 0:02:45.080 | Ye | You know, this nigga's a skinny actor. He said, Denny's? | あいつは細身の俳優だからさ<br>「Denny's？」って | Joke: Common, an actor keeping slim, balks at diner food. |
-| Clip_31_L003 | 0:02:48.260 | Ye | But I like Denny's. | でも俺はDenny's好きなんだよ |  |
+| Clip_31_L001 | 0:02:37.360 | Ye | I remember I used to play ball with Common, with Rashid, at UCLA. And afterwards, I was like, we can go to Denny's. | 昔UCLAで<br>CommonとRashidと<br>バスケしてたんだけど<br>終わった後に「デニーズに行こう」って | Common (rapper/actor, real name Lonnie Rashid Lynn). Denny's = US diner chain. / Large-v3 'with Common, with Rashid' may be one person (Common's middle name is Rashid). |
+| Clip_31_L002 | 0:02:45.080 | Ye | You know, this nigga's a skinny actor. He said, Denny's? | あいつは細身の俳優だからさ<br>「デニーズ？」って | Joke: Common, an actor keeping slim, balks at diner food. |
+| Clip_31_L003 | 0:02:48.260 | Ye | But I like Denny's. | でも俺はデニーズ好きなんだよ |  |
 | Clip_31_L004 | 0:02:50.480 | Ye | But I want to just take this moment of breath and just soak it in, and how, how important you guys' voice is. | でもここで一息ついて<br>噛みしめたいんだ<br>お前らの声が<br>どれだけ大事かってことを |  |
 | Clip_31_L005 | 0:03:00.380 | Ye | And I want to just compliment, you know, my favorite person in the world. Do you know who that is? | それと世界で一番好きな人を<br>褒めたいんだ<br>誰だかわかる？ |  |
 | Clip_31_L006 | 0:03:06.570 | Ye | Does anyone here know... no, does anyone here know who my favorite human being is? | ここにいる誰か…<br>俺が一番好きな人間が<br>誰か知ってる？ |  |
@@ -278,7 +278,7 @@
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
 | Clip_32_L001 | 0:10:02.310 | Host | Let me ask a presidential question. Let's just say in one future, you're running for president, right? | 大統領っぽい質問をさせてくれ<br>もしもの話<br>あんたが大統領選に<br>出るとするだろ | Large-v3 drops 'Let'; turbo 'Let me ask a presidential question.' |
-| Clip_32_L002 | 0:10:08.210 | Host | And we're still in the quagmire that is the Ukraine war. | で、Ukraine戦争の泥沼が<br>まだ続いてる |  |
+| Clip_32_L002 | 0:10:08.210 | Host | And we're still in the quagmire that is the Ukraine war. | で、ウクライナ戦争の泥沼が<br>まだ続いてる |  |
 | ⚠ Clip_32_L003 | 0:10:13.330 | Ye | I made y'all see the 2024. | 2024を見せただろ | Ye points to his '2024' cap. / MEDIUM: brief aside over the host; wording uncertain. |
 | Clip_32_L004 | 0:10:15.790 | Host | But he's talking. What do you, what would a President Ye do to avoid what might be World War III? | まだ話してるだろ<br>大統領Yeなら<br>第三次世界大戦を避けるために<br>何をする？ | Large-v3 'Why he's talking', turbo 'But he's talking' (a host hushing someone). |
 | Clip_32_L005 | 0:10:26.870 | Ye | I'm ending all wars. | 全ての戦争を終わらせる |  |
@@ -315,20 +315,20 @@
 | Clip_33_L007 | 0:18:55.160 | Ye | Look at what I did next to Jay-Z. Look at what I did next to Kim. Look what I did for myself. That's exactly what I would do. | Jay-Zの隣でやったこと<br>Kimの隣でやったこと<br>自分のためにやったことを見ろ<br>まさにそれをやるんだよ |  |
 | Clip_33_L008 | 0:19:02.300 | Ye | I'm 45 years old. Yes, I'm old enough to be president now, right? | 俺は45歳<br>もう大統領になれる歳だろ | The US Constitution requires a president to be at least 35. |
 | Clip_33_L009 | 0:19:05.620 | Ye | So the, the same things I did, you know, within high school or college, you know, college, as a producer, or going into rap, going into production, going into creating merch, | 高校や大学の頃から<br>俺がやってきたこと<br>プロデューサーとして<br>ラップの道に入って<br>制作に入って<br>マーチを作って |  |
-| Clip_33_L010 | 0:19:20.160 | Ye | going into creating the, you know, the first sportswear factories in America since World War II. | 第二次大戦以来初の<br>Americaのスポーツウェア工場を<br>作ったりな | Ye's own claim about his Yeezy factories. |
+| Clip_33_L010 | 0:19:20.160 | Ye | going into creating the, you know, the first sportswear factories in America since World War II. | 第二次大戦以来初の<br>アメリカのスポーツウェア工場を<br>作ったりな | Ye's own claim about his Yeezy factories. |
 | Clip_33_L011 | 0:19:25.300 | Ye | That's the mentality I have. And I'm a minimalist. I'm like, I've mixed a bit of the Amish idea of simple life with Apple, Mercedes-Benz, Louis Vuitton. | それが俺の考え方だ<br>俺はミニマリストで<br>アーミッシュの<br>シンプルな暮らしと<br>Apple、Mercedes-Benz<br>Louis Vuittonを<br>ミックスしてるんだ | Amish = US religious community known for plain, simple living. |
 
 ## Clip_34 — The Pharrell of politics
 
 - SOURCE: `part_5.mp4` 0:27:31.960–0:28:57.160
 - 想定尺: 85.2 秒
-- 内容: Noreが「あんたは本当は何を訴えてるのか」と迫り、Yeは「俺は政治界のPharrellだ」と答える
-- Hook: 「俺は政治界のPharrellだ」
+- 内容: Noreが「あんたは本当は何を訴えてるのか」と迫り、Yeは「俺は政治界のファレルウィリアムズだ」と答える
+- Hook: 「俺は政治界のファレルウィリアムズだ」
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
 | Clip_34_L001 | 0:27:31.980 | Host | This real shit, like, um, there was so many people that was conflicted and then switched sides, because we didn't understand what was your plight. | マジな話<br>迷ったあげく<br>離れていった人が<br>たくさんいたんだよ<br>あんたの訴えが<br>わからなかったから | N.O.R.E. raises Ye's red MAGA hat and 'White Lives Matter' shirt. / Large-v3 'who was your plight'; 'what' in meaning. |
-| Clip_34_L002 | 0:27:45.620 | Ye | You mean on a red hat, or the t-shirt, or what? Which part? | 赤い帽子のこと？<br>Tシャツ？<br>どの話？ | Red hat = Trump 'Make America Great Again' cap; t-shirt = 'White Lives Matter'. / Speaker inferred as Ye. |
+| Clip_34_L002 | 0:27:45.620 | Ye | You mean on a red hat, or the t-shirt, or what? Which part? | トランプ支持者の赤の帽子のこと？<br>Tシャツ？<br>どの話？ | Red hat = Trump 'Make America Great Again' cap; t-shirt = 'White Lives Matter'. / Speaker inferred as Ye. |
 | Clip_34_L003 | 0:27:49.140 | Host | Yeah, I mean, like, his specifics. Your specific plight? | そう、具体的に<br>あんたが訴えてることって何？ | Large-v3 'like his Your specifics plight'; the host corrects himself. |
 | Clip_34_L004 | 0:27:51.260 | Host | Yeah. So, I fuck with you. I love you. | 俺はあんたが好きだ<br>愛してる |  |
 | Clip_34_L005 | 0:27:57.130 | Host | I consider you my brother. | 兄弟だと思ってる |  |
@@ -337,11 +337,11 @@
 | Clip_34_L008 | 0:28:14.940 | Ye | Who's your number one producer you ever worked with? | 今まで一緒にやった中で<br>ナンバーワンのプロデューサーは？ |  |
 | ⚠ Clip_34_L009 | 0:28:18.110 | Host | Me. Okay. Who you say? | 俺だよ<br>で、誰って言うと思う？ | MEDIUM: speaker split of 'Me. / Okay. Who you say?' is inferred; 'Me' may be Ye joking about himself. |
 | Clip_34_L010 | 0:28:20.970 | Host | Pharrell. | Pharrell |  |
-| ⚠ Clip_34_L011 | 0:28:21.930 | Ye | Pharrell. I said Pharrell. Pharrell. My wife said Pharrell. | Pharrell<br>俺もPharrellって言った<br>嫁もPharrellって言う | MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'. |
-| Clip_34_L012 | 0:28:25.030 | Ye | I'm the Pharrell. I'm the Pharrell of politics. | 俺がPharrellなんだよ<br>政治界のPharrellだ | Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star. |
+| ⚠ Clip_34_L011 | 0:28:21.930 | Ye | Pharrell. I said Pharrell. Pharrell. My wife said Pharrell. | ファレルウィリアムズ<br>俺もファレルウィリアムズって言った<br>嫁もファレルウィリアムズって言う | MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'. |
+| Clip_34_L012 | 0:28:25.030 | Ye | I'm the Pharrell. I'm the Pharrell of politics. | 俺がファレルウィリアムズなんだよ<br>政治界のファレルウィリアムズだ | Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star. |
 | ⚠ Clip_34_L013 | 0:28:30.300 | Ye | For me, I'm the first time you see a Black dude wearing a Harley-Davidson hat, riding on a, you know, a Haro GT or GT bike, because I used to freestyle bike. | 俺はさ<br>Harley-Davidsonの帽子をかぶって<br>HaroとかGTのBMXに乗る<br>黒人の第一号なんだよ<br>昔フリースタイルBMXやってたからな | Haro, GT = BMX brands. / LOW: large-v3 garbles 1719-1722 s ('Your transcending what a horror GT'); turbo 'gt on a haro gt or gt bike because i used to freestyle'. Review the audio around 1719 s. |
 | Clip_34_L014 | 0:28:43.380 | Ye | I was a extreme gamer and shit. I can, I can stand up on top of a bike like this and ride and shit. | エクストリーム系だったんだよ<br>こうやってチャリの上に<br>立って乗れたりな | 'Extreme gamer' = into extreme sports. |
-| Clip_34_L015 | 0:28:48.500 | Ye | Like, just like Pharrell, I was a nerd also. You're going to say I was a nigga with the pink polo and, you know. | Pharrellと同じで<br>俺もオタクだった<br>ピンクのポロシャツ着てた奴だって<br>言われるだろうけどさ | Ye's early-2000s pink Polo look. |
+| Clip_34_L015 | 0:28:48.500 | Ye | Like, just like Pharrell, I was a nerd also. You're going to say I was a nigga with the pink polo and, you know. | ファレルウィリアムズと同じで<br>俺もオタクだった<br>ピンクのポロシャツ着てた奴だって<br>言われるだろうけどさ | Ye's early-2000s pink Polo look. |
 | ⚠ Clip_34_L016 | 0:28:53.580 | Host | We love you. We're ruling the world right now. | 愛してるよ<br>今は俺たちが<br>世界を仕切ってるんだ | MEDIUM: large-v3 'we love moving the world right now', turbo 'We love you. We're ruling the world right now.'; speaker inferred. |
 
 ## Clip_35 — Hip-hop is a race by itself
@@ -394,7 +394,7 @@
 | Clip_36_L014 | 0:12:01.100 | Ye | I like that. I like the love, and I like the fear also. | それもいい<br>愛されるのもいいし<br>恐れられるのもいい |  |
 | Clip_36_L015 | 0:12:05.360 | Host | Nah, but on the cultural standpoint, we love what you do. You mean so much to us. | いや、カルチャー的にさ<br>俺たちはあんたを愛してる<br>すごく大事な存在なんだよ |  |
 | Clip_36_L016 | 0:12:11.450 | Ye | Good Morning America? Nah, they don't give a fuck. | Good Morning America？<br>あいつらは<br>何とも思ってない | Good Morning America = ABC morning show. / Large-v3 and turbo both hear 'Good money America'; context makes it Good Morning America. Speaker inferred as Ye. |
-| ⚠ Clip_36_L017 | 0:12:13.830 | Ye | And by the way, because that's the thing, Tucker Carlson, they're going to help me up to the point where I'm, like, supporting Trump, right? | それにTucker Carlsonだって<br>俺がTrumpを支持してる<br>ところまでしか<br>助けてくれない | MEDIUM: large-v3 'they don't want to help me up to the point', turbo 'They're going to help me up to the point'. Turbo fits the next line. |
+| ⚠ Clip_36_L017 | 0:12:13.830 | Ye | And by the way, because that's the thing, Tucker Carlson, they're going to help me up to the point where I'm, like, supporting Trump, right? | それにTucker Carlsonだって<br>俺がトランプを支持してる<br>ところまでしか<br>助けてくれない | MEDIUM: large-v3 'they don't want to help me up to the point', turbo 'They're going to help me up to the point'. Turbo fits the next line. |
 | Clip_36_L018 | 0:12:21.710 | Ye | That's all they care about. | あいつらが気にするのは<br>それだけだ |  |
 
 ## Clip_37 — Tremaine, Tremendous and reverse appropriation
@@ -406,8 +406,8 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_37_L001 | 0:14:23.340 | Host | Why are you wearing the Trump... excuse me... | なんでTrumpの…<br>いや、失礼 | Ye is wearing a 'Supreme Lives Matter'-style shirt. |
-| ⚠ Clip_37_L002 | 0:14:27.920 | Ye | It's not Trump. It's not Trump. | Trumpじゃない<br>Trumpじゃないって | MEDIUM: turbo hears only the host's 'um' here; large-v3 'It's not Trump. It's not Trump.' Speaker inferred as Ye. |
+| Clip_37_L001 | 0:14:23.340 | Host | Why are you wearing the Trump... excuse me... | なんでトランプの…<br>いや、失礼 | Ye is wearing a 'Supreme Lives Matter'-style shirt. |
+| ⚠ Clip_37_L002 | 0:14:27.920 | Ye | It's not Trump. It's not Trump. | トランプじゃない<br>トランプじゃないって | MEDIUM: turbo hears only the host's 'um' here; large-v3 'It's not Trump. It's not Trump.' Speaker inferred as Ye. |
 | Clip_37_L003 | 0:14:29.720 | Host | The Supreme Lives Matter. | その<br>“Supreme Lives Matter” | Turbo 'the, um, the, um, the Supreme Lives Matter'. |
 | Clip_37_L004 | 0:14:34.340 | Ye | This is not Lives Matter. This is Tremaine. This is Tremaine. | これは“Lives Matter”じゃない<br>Tremaineだよ<br>Tremaineだ | Tremaine Emory, then creative director of Supreme, who criticized Ye publicly. / Large-v3 'Tremaine', turbo 'Jermaine'; Tremaine Emory fits. |
 | Clip_37_L005 | 0:14:37.600 | Ye | This is my boy that's at Supreme now. | 今Supremeにいる<br>俺の仲間 |  |
@@ -440,7 +440,7 @@
 | Clip_38_L006 | 0:23:09.880 | Ye | I just think that people don't know how to understand what they're dealing with now. | みんな今<br>何を相手にしてるのか<br>わかってないんだと思う |  |
 | Clip_38_L007 | 0:23:17.220 | Ye | They've always saw Black people that were an athlete that would follow their contract, a rapper that would follow their contract, an actor that would follow their contract. | 今までの黒人は<br>契約に従うアスリート<br>契約に従うラッパー<br>契約に従う俳優だった |  |
 | Clip_38_L008 | 0:23:29.770 | Ye | They never had to walk into the room and deal with a Black man that would have the audacity to give the most famous, most influential white woman in the world four Black children, | 部屋に入って<br>こんな黒人を相手にしたことはない<br>世界一有名で影響力のある<br>白人女性に<br>黒人の子どもを4人も<br>授けるような度胸の男をな | Kim Kardashian; Ye and Kim have four children. / Both passes 'for black children' = 'four Black children'. |
-| Clip_38_L009 | 0:23:44.640 | Ye | that would have the audacity to wear a red hat or a White Lives Matter t-shirt, | 赤い帽子や<br>White Lives MatterのTシャツを<br>着る度胸のある男 | Red hat = Trump MAGA cap. |
+| Clip_38_L009 | 0:23:44.640 | Ye | that would have the audacity to wear a red hat or a White Lives Matter t-shirt, | トランプ支持者の赤の帽子や<br>White Lives MatterのTシャツを<br>着る度胸のある男 | Red hat = Trump MAGA cap. |
 | Clip_38_L010 | 0:23:48.920 | Ye | that would have the audacity to have multiple hundred-thousand-square-foot, 57,000-square-foot warehouses, that would have the audacity. | 何千坪もの倉庫を<br>いくつも持つ度胸のある男<br>そういう度胸のな | 100,000 sq ft ≈ 9,300 m² (about 2,800 tsubo). / Large-v3 'that would have to audacity'; turbo 'that would have the audacity'. |
 | Clip_38_L011 | 0:23:56.700 | Ye | They've never dealt with it. So between Black people or white people, they've never seen this before. | そんなの相手にしたことがないんだ<br>黒人も白人も<br>こんなの見たことがないんだよ |  |
 

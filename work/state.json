@@ -274,10 +274,11 @@
   "clips_def": "work/s2/clips_def.json",
   "review_lines": "work/s2/review_lines.json",
   "review_csv": "review/s2/translations_review.csv",
-  "review_csv_sha256": "cd02c4647b7a482bd54c42f255e4c24434503c3415a33fbc75af97e6e71e7c1e",
+  "review_csv_sha256": "10ac1a278ef488ce079bb05905c8af2cab2cfb473d4acbd7a77ed8b955c1a930",
   "manifest": "review/s2/approval_manifest.json",
   "asr_runs": "work/asr/S01..S18.large.json",
   "reservations": "ledger reservations with series=2",
-  "next_action": "Wait for explicit human approval in the thread; then freeze review/s2 CSV into review/s2/approved and run Phase B into work/b2 and output/drinkchamps_ye_s2 (do not touch series 1 frozen files)."
+  "next_action": "Wait for explicit human approval in the thread; then freeze review/s2 CSV into review/s2/approved and run Phase B into work/b2 and output/drinkchamps_ye_s2 (do not touch series 1 frozen files).",
+  "review_revision": 2
  }
 }

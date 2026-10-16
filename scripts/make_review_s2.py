@@ -144,7 +144,7 @@ for out in (ROOT, SHARED):
 manifest = dict(
     status='AWAITING_TRANSLATION_APPROVAL', generated_at=datetime.datetime.now(datetime.UTC).strftime('%Y-%m-%dT%H:%M:%SZ'),
     editable_file='review/s2/translations_review.csv', editable_column='ja_final',
-    review_file_sha256=csv_sha, series=2, review_revision=1, revision_note='Series 2 rev 1: new intervals not used by series 1; naming rules from rev 3 applied.',
+    review_file_sha256=csv_sha, series=2, review_revision=2, revision_note='Series 2 rev 2 (giub 2026-10-16): Ralph Lauren, トランプ, ウォーレンバフェット, Black Mafia Family, デニーズ, ウクライナ, アメリカ, ファレルウィリアムズ, トランプ支持者の赤の帽子. Timing and line_ids unchanged.',
     sources={k: dict(file=v['file'], sha256=v['sha256']) for k, v in src.items()},
     clips=[dict(clip_id=c['clip_id'], candidate=c['candidate'], title=c['title'], source=c['source_file'],
                 intervals=[{k: i[k] for k in ('start_frame', 'end_frame_excl', 'start_s', 'end_s')} for i in c['intervals']],

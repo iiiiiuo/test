@@ -18,7 +18,7 @@ SOURCE: 6 files (`part_1.mp4`, `part_2 2.mp4`, `part_3.mp4`–`part_6.mp4`), con
 | Clip_31 | `part_5.mp4` 0:02:37.340–0:03:35.780 (frames 3772–5173)<br>`part_5.mp4` 0:03:40.700–0:03:52.700 (frames 5291–5579) | 70.4s | My favorite human being is me | 「世界で一番好きな人間？ 俺だよ」 |
 | Clip_32 | `part_5.mp4` 0:10:02.000–0:11:36.470 (frames 14433–16698) | 94.5s | President Ye ends all wars | 「全ての戦争を終わらせる」 |
 | Clip_33 | `part_5.mp4` 0:18:13.780–0:19:37.420 (frames 26224–28229) | 83.6s | Old enough to be president | 「俺は45歳、もう大統領になれる歳だ」 |
-| Clip_34 | `part_5.mp4` 0:27:31.960–0:28:57.160 (frames 39607–41650) | 85.2s | The Pharrell of politics | 「俺は政治界のPharrellだ」 |
+| Clip_34 | `part_5.mp4` 0:27:31.960–0:28:57.160 (frames 39607–41650) | 85.2s | The Pharrell of politics | 「俺は政治界のファレルウィリアムズだ」 |
 | Clip_35 | `part_6.mp4` 0:09:56.720–0:11:03.620 (frames 14306–15910) | 66.9s | Hip-hop is a race by itself | 「ヒップホップはそれ自体が一つの人種だ」 |
 | Clip_36 | `part_6.mp4` 0:11:04.280–0:12:22.910 (frames 15926–17812) | 78.7s | I like the love and I like the fear | 「愛されるのもいいし、恐れられるのもいい」 |
 | Clip_37 | `part_6.mp4` 0:14:23.320–0:15:29.800 (frames 20698–22292) | 66.5s | Tremaine, Tremendous and reverse appropriation | 「これは“Lives Matter”じゃない、Tremaineだ」 |
@@ -30,7 +30,7 @@ SOURCE: 6 files (`part_1.mp4`, `part_2 2.mp4`, `part_3.mp4`–`part_6.mp4`), con
 ### Clip_22 — Adidas was my internship
 
 - 採用理由: 質問から答えまでが一続きで、第一世代の富というテーマで締まる
-- 単体で成立する理由: Sway・Ralph・Adidasの前提をホスト自身が説明している
+- 単体で成立する理由: Sway・Ralph Lauren・Adidasの前提をホスト自身が説明している
 - 編集: カットなし（1区間）
 - 他クリップとの重複: なし（フレーム単位・音声サンプル単位で検査済み）
 
@@ -114,7 +114,7 @@ SOURCE: 6 files (`part_1.mp4`, `part_2 2.mp4`, `part_3.mp4`–`part_6.mp4`), con
 ### Clip_34 — The Pharrell of politics
 
 - 採用理由: ホストの本音の問いかけに独特な答えで返す
-- 単体で成立する理由: 赤い帽子・Tシャツの文脈を会話内で確認している
+- 単体で成立する理由: トランプ支持者の赤の帽子・Tシャツの文脈を会話内で確認している
 - 編集: カットなし（1区間）
 - 他クリップとの重複: なし（フレーム単位・音声サンプル単位で検査済み）
 
