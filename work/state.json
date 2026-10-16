@@ -274,7 +274,7 @@
   "clips_def": "work/s2/clips_def.json",
   "review_lines": "work/s2/review_lines.json",
   "review_csv": "review/s2/translations_review.csv",
-  "review_csv_sha256": "10ac1a278ef488ce079bb05905c8af2cab2cfb473d4acbd7a77ed8b955c1a930",
+  "review_csv_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b",
   "manifest": "review/s2/approval_manifest.json",
   "asr_runs": "work/asr/S01..S18.large.json",
   "reservations": "ledger reservations with series=2",

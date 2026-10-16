@@ -1,9 +1,9 @@
 {
  "status": "AWAITING_TRANSLATION_APPROVAL",
- "generated_at": "2026-10-16T07:33:01Z",
+ "generated_at": "2026-10-16T07:33:19Z",
  "editable_file": "review/s2/translations_review.csv",
  "editable_column": "ja_final",
- "review_file_sha256": "10ac1a278ef488ce079bb05905c8af2cab2cfb473d4acbd7a77ed8b955c1a930",
+ "review_file_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b",
  "series": 2,
  "review_revision": 2,
  "revision_note": "Series 2 rev 2 (giub 2026-10-16): Ralph Lauren, トランプ, ウォーレンバフェット, Black Mafia Family, デニーズ, ウクライナ, アメリカ, ファレルウィリアムズ, トランプ支持者の赤の帽子. Timing and line_ids unchanged.",

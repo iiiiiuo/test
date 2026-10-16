@@ -336,7 +336,7 @@
 | Clip_34_L007 | 0:28:09.120 | Host | So help me out on what's your actual plight. | だから教えてくれ<br>あんたは本当は<br>何を訴えてるんだ？ |  |
 | Clip_34_L008 | 0:28:14.940 | Ye | Who's your number one producer you ever worked with? | 今まで一緒にやった中で<br>ナンバーワンのプロデューサーは？ |  |
 | ⚠ Clip_34_L009 | 0:28:18.110 | Host | Me. Okay. Who you say? | 俺だよ<br>で、誰って言うと思う？ | MEDIUM: speaker split of 'Me. / Okay. Who you say?' is inferred; 'Me' may be Ye joking about himself. |
-| Clip_34_L010 | 0:28:20.970 | Host | Pharrell. | Pharrell |  |
+| Clip_34_L010 | 0:28:20.970 | Host | Pharrell. | ファレルウィリアムズ |  |
 | ⚠ Clip_34_L011 | 0:28:21.930 | Ye | Pharrell. I said Pharrell. Pharrell. My wife said Pharrell. | ファレルウィリアムズ<br>俺もファレルウィリアムズって言った<br>嫁もファレルウィリアムズって言う | MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'. |
 | Clip_34_L012 | 0:28:25.030 | Ye | I'm the Pharrell. I'm the Pharrell of politics. | 俺がファレルウィリアムズなんだよ<br>政治界のファレルウィリアムズだ | Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star. |
 | ⚠ Clip_34_L013 | 0:28:30.300 | Ye | For me, I'm the first time you see a Black dude wearing a Harley-Davidson hat, riding on a, you know, a Haro GT or GT bike, because I used to freestyle bike. | 俺はさ<br>Harley-Davidsonの帽子をかぶって<br>HaroとかGTのBMXに乗る<br>黒人の第一号なんだよ<br>昔フリースタイルBMXやってたからな | Haro, GT = BMX brands. / LOW: large-v3 garbles 1719-1722 s ('Your transcending what a horror GT'); turbo 'gt on a haro gt or gt bike because i used to freestyle'. Review the audio around 1719 s. |

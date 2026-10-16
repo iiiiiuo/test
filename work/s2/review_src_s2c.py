@@ -67,7 +67,7 @@ CLIPS['S13'] = [
  E([15, 16], 'Host', "So help me out on what's your actual plight.", "だから教えてくれ\nあんたは本当は\n何を訴えてるんだ？"),
  E([17], 'Ye', "Who's your number one producer you ever worked with?", "今まで一緒にやった中で\nナンバーワンのプロデューサーは？"),
  E([18], 'Host', "Me. Okay. Who you say?", "俺だよ\nで、誰って言うと思う？", "", "MEDIUM: speaker split of 'Me. / Okay. Who you say?' is inferred; 'Me' may be Ye joking about himself.", e='who you say'),
- E([19], 'Host', "Pharrell.", "Pharrell", s='pharrell', e='pharrell'),
+ E([19], 'Host', "Pharrell.", "ファレルウィリアムズ", s='pharrell', e='pharrell'),
  E([19, 20], 'Ye', "Pharrell. I said Pharrell. Pharrell. My wife said Pharrell.", "ファレルウィリアムズ\n俺もファレルウィリアムズって言った\n嫁もファレルウィリアムズって言う", "", "MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'.", s='pharrell i said', e='wife said pharrell'),
  E([21, 22], 'Ye', "I'm the Pharrell. I'm the Pharrell of politics.", "俺がファレルウィリアムズなんだよ\n政治界のファレルウィリアムズだ", "Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star."),
  E([23, 24, 25, 26], 'Ye', "For me, I'm the first time you see a Black dude wearing a Harley-Davidson hat, riding on a, you know, a Haro GT or GT bike, because I used to freestyle bike.", "俺はさ\nHarley-Davidsonの帽子をかぶって\nHaroとかGTのBMXに乗る\n黒人の第一号なんだよ\n昔フリースタイルBMXやってたからな", "Haro, GT = BMX brands.", "LOW: large-v3 garbles 1719-1722 s ('Your transcending what a horror GT'); turbo 'gt on a haro gt or gt bike because i used to freestyle'. Review the audio around 1719 s."),
