@@ -1,0 +1,272 @@
+[
+{
+"n": 1,
+"start": 157.36,
+"end": 160.86,
+"text": "I remember I used to play ball with Common, with Rashid,",
+"turbo": "I remember I used to play ball with Common and with Rashid",
+"agree": 0.96,
+"minp": 0.77
+},
+{
+"n": 2,
+"start": 160.86,
+"end": 164.48,
+"text": "at UCLA. And afterwards, I was like, we can go to",
+"turbo": "at UCLA, and afterwards, I was like, we can go to",
+"agree": 1.0,
+"minp": 0.689
+},
+{
+"n": 3,
+"start": 164.48,
+"end": 166.38,
+"text": "Denny's. You know, this nigga's a skinny actor.",
+"turbo": "we can go to Denny's. You know, this nigga's skinny actor. He",
+"agree": 0.7,
+"minp": 0.905
+},
+{
+"n": 4,
+"start": 166.5,
+"end": 167.26,
+"text": "He said, Denny's?",
+"turbo": "He said, Denny's?",
+"agree": 1.0,
+"minp": 0.784
+},
+{
+"n": 5,
+"start": 168.26,
+"end": 169.3,
+"text": "But I like Denny's.",
+"turbo": "But I like Denny's.",
+"agree": 1.0,
+"minp": 0.995
+},
+{
+"n": 6,
+"start": 170.48,
+"end": 173.0,
+"text": "But I want to just take this moment of breath and",
+"turbo": "But I want to just take this moment of breath and just",
+"agree": 0.96,
+"minp": 0.84
+},
+{
+"n": 7,
+"start": 173.0,
+"end": 173.72,
+"text": "just soak it in.",
+"turbo": "and just soak it in",
+"agree": 0.89,
+"minp": 1.0
+},
+{
+"n": 8,
+"start": 173.72,
+"end": 175.52,
+"text": "and how, how",
+"turbo": "it in how",
+"agree": 0.33,
+"minp": 0.173
+},
+{
+"n": 9,
+"start": 177.06,
+"end": 180.04,
+"text": "important you guys' voice is.",
+"turbo": "you guys' voice is.",
+"agree": 0.89,
+"minp": 0.887
+},
+{
+"n": 10,
+"start": 180.38,
+"end": 183.98,
+"text": "And I want to just compliment, you know, my favorite person",
+"turbo": "And I want to just compliment, you know, my favorite person in",
+"agree": 0.96,
+"minp": 0.669
+},
+{
+"n": 11,
+"start": 183.98,
+"end": 184.5,
+"text": "in the world.",
+"turbo": "in the world. Do you",
+"agree": 0.75,
+"minp": 0.998
+},
+{
+"n": 12,
+"start": 184.62,
+"end": 185.22,
+"text": "Do you know who that is?",
+"turbo": "Do you know who that is?",
+"agree": 1.0,
+"minp": 0.962
+},
+{
+"n": 13,
+"start": 186.57,
+"end": 190.72,
+"text": "Does anyone here know my, no, does anyone here know who",
+"turbo": "Does anyone here know my favorite",
+"agree": 0.59,
+"minp": 0.651
+},
+{
+"n": 14,
+"start": 190.72,
+"end": 192.18,
+"text": "my favorite human being is?",
+"turbo": "being is in the world?",
+"agree": 0.4,
+"minp": 0.995
+},
+{
+"n": 15,
+"start": 192.2,
+"end": 193.4,
+"text": "I would think your mom is.",
+"turbo": "is in the world? I would think your mom is.",
+"agree": 0.75,
+"minp": 0.834
+},
+{
+"n": 16,
+"start": 194.0,
+"end": 195.36,
+"text": "No, no, not my mom, close.",
+"turbo": "No, no, not my mom. Of course.",
+"agree": 0.77,
+"minp": 0.879
+},
+{
+"n": 17,
+"start": 196.46,
+"end": 198.08,
+"text": "Me, I want to compliment me.",
+"turbo": "Me. I want to compliment me.",
+"agree": 1.0,
+"minp": 0.985
+},
+{
+"n": 18,
+"start": 201.2,
+"end": 203.98,
+"text": "Through your mom, your mom empowered you.",
+"turbo": "but through your mom, your mom empowered you.",
+"agree": 0.93,
+"minp": 0.416
+},
+{
+"n": 19,
+"start": 203.98,
+"end": 205.38,
+"text": "Yeah, second favorite.",
+"turbo": "you. Yeah, second favorite.",
+"agree": 0.86,
+"minp": 0.412
+},
+{
+"n": 20,
+"start": 205.66,
+"end": 209.48,
+"text": "So I want to compliment me on having the wherewithal to",
+"turbo": "So I want to compliment me on having the wherewithal to be",
+"agree": 0.96,
+"minp": 0.493
+},
+{
+"n": 21,
+"start": 209.48,
+"end": 212.42,
+"text": "be sitting there through the divorce, through all that, and say,",
+"turbo": "to be sitting there through the divorce, through all that and say,",
+"agree": 0.96,
+"minp": 0.888
+},
+{
+"n": 22,
+"start": 212.54,
+"end": 215.04,
+"text": "the next time that people hear me talk, I'm going to",
+"turbo": "say, the next time that people hear me talk, I'm going to drink",
+"agree": 0.92,
+"minp": 0.916
+},
+{
+"n": 23,
+"start": 215.04,
+"end": 215.76,
+"text": "Drink Champs.",
+"turbo": "going to drink champs.",
+"agree": 0.67,
+"minp": 0.57
+},
+{
+"n": 24,
+"start": 220.72,
+"end": 221.88,
+"text": "And think about this.",
+"turbo": "And think about this. You",
+"agree": 0.89,
+"minp": 0.998
+},
+{
+"n": 25,
+"start": 221.98,
+"end": 224.32,
+"text": "You know, when I was at Rolling Loud, I hadn't seen",
+"turbo": "You know, when I was at Rolling Loud, I hadn't seen",
+"agree": 1.0,
+"minp": 0.944
+},
+{
+"n": 26,
+"start": 224.32,
+"end": 226.36,
+"text": "Future until I saw him on stage.",
+"turbo": "seen Future until I saw him on stage.",
+"agree": 0.93,
+"minp": 0.996
+},
+{
+"n": 27,
+"start": 227.08,
+"end": 228.34,
+"text": "He said, freestyle, freestyle.",
+"turbo": "He said, freestyle, freestyle.",
+"agree": 1.0,
+"minp": 0.934
+},
+{
+"n": 28,
+"start": 228.86,
+"end": 231.52,
+"text": "And he looked at me and said, like, man, most influential",
+"turbo": "And he looked at me, he said like, man most influential",
+"agree": 0.91,
+"minp": 0.601
+},
+{
+"n": 29,
+"start": 231.52,
+"end": 232.68,
+"text": "in the world.",
+"turbo": "in the world we",
+"agree": 0.86,
+"minp": 0.997
+},
+{
+"n": 30,
+"start": 232.68,
+"end": 232.78,
+"text": "we",
+"turbo": "the world we",
+"agree": 0.5,
+"minp": 0.181
+}
+]

@@ -1,0 +1,98 @@
+# Series 2 review line sources, batch C (S10-S14).
+from review_src_s2a import E
+CLIPS = {}
+
+CLIPS['S10'] = [
+ E([1, 2, 3], 'Ye', "I remember I used to play ball with Common, with Rashid, at UCLA. And afterwards, I was like, we can go to Denny's.", "昔UCLAで\nCommonとRashidと\nバスケしてたんだけど\n終わった後に「Denny'sに行こう」って", "Common (rapper/actor, real name Lonnie Rashid Lynn). Denny's = US diner chain.", "Large-v3 'with Common, with Rashid' may be one person (Common's middle name is Rashid).", e='go to dennys'),
+ E([3, 4], 'Ye', "You know, this nigga's a skinny actor. He said, Denny's?", "あいつは細身の俳優だからさ\n「Denny's？」って", "Joke: Common, an actor keeping slim, balks at diner food.", s='you know this', e='he said dennys'),
+ E([5], 'Ye', "But I like Denny's.", "でも俺はDenny's好きなんだよ"),
+ E([6, 7, 8, 9], 'Ye', "But I want to just take this moment of breath and just soak it in, and how, how important you guys' voice is.", "でもここで一息ついて\n噛みしめたいんだ\nお前らの声が\nどれだけ大事かってことを"),
+ E([10, 11, 12], 'Ye', "And I want to just compliment, you know, my favorite person in the world. Do you know who that is?", "それと世界で一番好きな人を\n褒めたいんだ\n誰だかわかる？"),
+ E([13, 14], 'Ye', "Does anyone here know... no, does anyone here know who my favorite human being is?", "ここにいる誰か…\n俺が一番好きな人間が\n誰か知ってる？"),
+ E([15], 'Host', "I would think your mom is.", "お母さんだろ"),
+ E([16], 'Ye', "No, no, not my mom. Close.", "いやいや、母ちゃんじゃない\n惜しいけど"),
+ E([17], 'Ye', "Me. I want to compliment me.", "俺だよ\n俺は俺を褒めたい"),
+ E([18], 'Host', "Through your mom. Your mom empowered you.", "お母さんのおかげだろ\nお母さんが\nあんたに力をくれたんだ"),
+ E([19], 'Ye', "Yeah. Second favorite.", "そう、2番目に好き"),
+ E([20, 21, 22, 23], 'Ye', "So I want to compliment me on having the wherewithal to be sitting there through the divorce, through all that, and say, the next time that people hear me talk, I'm going to Drink Champs.", "だから俺を褒めたいんだよ\n離婚とか全部を\n耐えながら\n「次に俺が話すのは\nDrink Champsだ」って\n決めた俺をな"),
+ E([24], 'Ye', "And think about this.", "それに考えてみろよ"),
+ E([25, 26], 'Ye', "You know, when I was at Rolling Loud, I hadn't seen Future until I saw him on stage.", "Rolling Loudの時\nFutureとはステージで\n初めて顔を合わせたんだ", "Rolling Loud = hip-hop festival; Ye joined Future on stage in Miami in July 2022."),
+ E([27], 'Ye', "He said, freestyle, freestyle.", "あいつが\n「フリースタイル、フリースタイル」って"),
+ E([28, 29], 'Ye', "And he looked at me and said, like, man, most influential in the world.", "で、俺を見て\n「世界一影響力のある男だ」\nって言ったんだよ", e='in the world'),
+]
+
+CLIPS['S11'] = [
+ E([1, 2], 'Host', "Let me ask a presidential question. Let's just say in one future, you're running for president, right?", "大統領っぽい質問をさせてくれ\nもしもの話\nあんたが大統領選に\n出るとするだろ", "", "Large-v3 drops 'Let'; turbo 'Let me ask a presidential question.'", e='president right'),
+ E([2, 3], 'Host', "And we're still in the quagmire that is the Ukraine war.", "で、Ukraine戦争の泥沼が\nまだ続いてる", s='and'),
+ E([3, 4], 'Ye', "I made y'all see the 2024.", "2024を見せただろ", "Ye points to his '2024' cap.", "MEDIUM: brief aside over the host; wording uncertain.", s='i'),
+ E([5, 6, 7], 'Host', "But he's talking. What do you, what would a President Ye do to avoid what might be World War III?", "まだ話してるだろ\n大統領Yeなら\n第三次世界大戦を避けるために\n何をする？", "", "Large-v3 'Why he's talking', turbo 'But he's talking' (a host hushing someone).", e='world war three'),
+ E([7, 8], 'Ye', "I'm ending all wars.", "全ての戦争を終わらせる", s='im ending', e='all wars'),
+ E([8], 'Host', "How?", "どうやって？", s='how', e='how'),
+ E([8], 'Ye', "2024. We ended all wars.", "2024年\n俺たちは全ての戦争を終わらせた", s='2024', e='ended all wars'),
+ E([8, 9, 10], 'Host', "Because wars... but how do you end wars? Don't just say end wars. You got to, you got to have real...", "でも戦争は…\nどうやって終わらせる？\n「終わらせる」だけじゃなくて\nちゃんとした中身がないと", "", "Large-v3 'let's just say end wars'; the host means 'don't just say'.", s='because wars', e='have real'),
+ E([10, 11], 'Ye', "Because war is made off of greed and deceit.", "戦争は\n欲と嘘で\nできてるからな", s='because war', e='and deceit'),
+ E([11], 'Host', "And economy as well.", "経済もな", s='and economy', e='as well'),
+ E([11, 12, 13], 'Ye', "Economy. But there is a free economy that the world has created for us that needs to be simplified by me.", "経済もだ\nでも世界が作った\n自由な経済を\n俺がシンプルにする必要がある", s='economy but'),
+ E([13, 14], 'Ye', "I am the visionary. I can end war. I can end war. We can end war.", "俺はビジョナリーだ\n戦争は終わらせられる\n俺たちなら終わらせられる", s='i am the', e='we can end war'),
+ E([14, 15, 16], 'Host', "But how? Don't just say that. Give me... if you were the presidential candidate, what would you say? How would you end it?", "でもどうやって？\n言うだけじゃなくてさ\n大統領候補として\nどう終わらせるか\n言ってくれよ", s='but how'),
+ E([17, 18, 19], 'Ye', "You know, the biggest thing is, I can see things. I live 20 years ahead. Everything I do is like something someone would do 20 years ahead, right?", "一番大事なのは\n俺には先が見えるってこと\n20年先を生きてるんだ\n俺のやることは全部\n20年先の人間のやることなんだよ", "", "Large-v3 'would do as you should 20 years ahead'; filler dropped.", e='would do as you should 20 years ahead'),
+ E([19, 20, 21], 'Ye', "So it's laying out the plans, the same way how I lay out... I laid out the blueprint for Blueprint.", "だから計画を描くんだ\n俺が描いてきたように\n『The Blueprint』の\n設計図を描いたのは俺だ", "'The Blueprint' = Jay-Z's 2001 album, which Ye co-produced.", s='right so its'),
+ E([22, 23], 'Host', "But you got to give us a layman. You're going to be speaking to constituents that don't understand anything.", "でも素人にもわかるように\n言ってくれよ\n何もわかってない有権者に\n話すことになるんだから"),
+ E([24, 25], 'Ye', "Here's the rap language. I made the blueprint for Blueprint.", "じゃあラップの言葉で言う\n『The Blueprint』の設計図を\n描いたのは俺だ"),
+ E([26, 27], 'Ye', "I made the blueprint for Blueprint as a vessel of God.", "神の器として\n『The Blueprint』の\n設計図を描いたんだ"),
+ E([28, 29, 30], 'Ye', "Now, I mean, God is actually the only artist. This is the thing. God runs the world.", "つまり\n本当のアーティストは\n神だけなんだよ\nそういうことだ\n世界を動かしてるのは神だ"),
+]
+
+CLIPS['S12'] = [
+ E([1, 2, 3, 4], 'Ye', "I'm always being honest, so we'll get to that point. So I'm saying that every time a celebrity does something, you know, in the public, it's, you know, to raise their profile or something, some way.", "俺はいつだって正直だ\nその話はまたするとして\nセレブが人前で何かすると\n毎回それは\n自分の評判を上げるためだって\n言われるだろ", e='some way'),
+ E([4, 5], 'Ye', "You know, I'm here, right? But I would love for people to understand my perspective.", "俺はここにいる\nでも俺の視点を\nわかってほしいんだ", s='you know im'),
+ E([5, 6, 7], 'Ye', "I want to be... I don't even like the word want. We shouldn't want for anything, right?", "「〜したい」…\nいや「欲しい」って言葉も\n好きじゃない\n何も欲しがるべきじゃないだろ", s='i want to', e='for anything right'),
+ E([7, 8], 'Ye', "I need people to accept the version of me for exactly who I am,", "ありのままの俺を\n受け入れてほしい", s='i need people', e='who i am'),
+ E([8, 9, 10], 'Ye', "for me to do the best version of you up before the people. Meaning, like, like, you're going to do the version of you regardless.", "人前で最高の自分を\n出すためにな\nどのみちお前は\nお前のままやるんだから", "", "Large-v3 'the best version of you up before the people' is as spoken; Ye shifts from 'me' to 'you'.", s='for me to', e='of you regardless'),
+ E([10, 11, 12], 'Ye', "Yeah. So say, so say Ye is in office, 2024. Look at what I did at Adidas.", "だからもし\n2024年にYeが大統領になったら\nAdidasで俺がやったことを見ろ", s='yeah so', e='at adidas'),
+ E([12, 13, 14], 'Ye', "Look at what I did next to Jay-Z. Look at what I did next to Kim. Look what I did for myself. That's exactly what I would do.", "Jay-Zの隣でやったこと\nKimの隣でやったこと\n自分のためにやったことを見ろ\nまさにそれをやるんだよ", s='look at what i did next', e='what i would do'),
+ E([14, 15], 'Ye', "I'm 45 years old. Yes, I'm old enough to be president now, right?", "俺は45歳\nもう大統領になれる歳だろ", "The US Constitution requires a president to be at least 35.", s='im 45', e='president now right'),
+ E([16, 17, 18, 19], 'Ye', "So the, the same things I did, you know, within high school or college, you know, college, as a producer, or going into rap, going into production, going into creating merch,", "高校や大学の頃から\n俺がやってきたこと\nプロデューサーとして\nラップの道に入って\n制作に入って\nマーチを作って", e='creating merch'),
+ E([19, 20, 21], 'Ye', "going into creating the, you know, the first sportswear factories in America since World War II.", "第二次大戦以来初の\nAmericaのスポーツウェア工場を\n作ったりな", "Ye's own claim about his Yeezy factories.", s='going into creating the'),
+ E([21, 22, 23], 'Ye', "That's the mentality I have. And I'm a minimalist. I'm like, I've mixed a bit of the Amish idea of simple life with Apple, Mercedes-Benz, Louis Vuitton.", "それが俺の考え方だ\n俺はミニマリストで\nアーミッシュの\nシンプルな暮らしと\nApple、Mercedes-Benz\nLouis Vuittonを\nミックスしてるんだ", "Amish = US religious community known for plain, simple living.", s='thats the mentality'),
+]
+
+CLIPS['S13'] = [
+ E([1, 2, 3], 'Host', "This real shit, like, um, there was so many people that was conflicted and then switched sides, because we didn't understand what was your plight.", "マジな話\n迷ったあげく\n離れていった人が\nたくさんいたんだよ\nあんたの訴えが\nわからなかったから", "N.O.R.E. raises Ye's red MAGA hat and 'White Lives Matter' shirt.", "Large-v3 'who was your plight'; 'what' in meaning.", e='your plight'),
+ E([3, 4, 5], 'Ye', "You mean on a red hat, or the t-shirt, or what? Which part?", "赤い帽子のこと？\nTシャツ？\nどの話？", "Red hat = Trump 'Make America Great Again' cap; t-shirt = 'White Lives Matter'.", "Speaker inferred as Ye.", s='you mean', e='which part'),
+ E([5, 6], 'Host', "Yeah, I mean, like, his specifics. Your specific plight?", "そう、具体的に\nあんたが訴えてることって何？", "", "Large-v3 'like his Your specifics plight'; the host corrects himself.", s='yeah i mean'),
+ E([7, 8, 9], 'Host', "Yeah. So, I fuck with you. I love you.", "俺はあんたが好きだ\n愛してる", s='yeah so', e='i love you'),
+ E([10, 11], 'Host', "I consider you my brother.", "兄弟だと思ってる"),
+ E([12, 13, 14], 'Host', "And I, to these people that is complaining, I'm the guy that's talking to them.", "文句言ってる連中と\n話してるのは俺なんだよ"),
+ E([15, 16], 'Host', "So help me out on what's your actual plight.", "だから教えてくれ\nあんたは本当は\n何を訴えてるんだ？"),
+ E([17], 'Ye', "Who's your number one producer you ever worked with?", "今まで一緒にやった中で\nナンバーワンのプロデューサーは？"),
+ E([18], 'Host', "Me. Okay. Who you say?", "俺だよ\nで、誰って言うと思う？", "", "MEDIUM: speaker split of 'Me. / Okay. Who you say?' is inferred; 'Me' may be Ye joking about himself.", e='who you say'),
+ E([19], 'Host', "Pharrell.", "Pharrell", s='pharrell', e='pharrell'),
+ E([19, 20], 'Ye', "Pharrell. I said Pharrell. Pharrell. My wife said Pharrell.", "Pharrell\n俺もPharrellって言った\n嫁もPharrellって言う", "", "MEDIUM: large-v3 'My wife said Pharrell', turbo 'my wife is a Pharrell'.", s='pharrell i said', e='wife said pharrell'),
+ E([21, 22], 'Ye', "I'm the Pharrell. I'm the Pharrell of politics.", "俺がPharrellなんだよ\n政治界のPharrellだ", "Pharrell Williams: the 'nerd' skater/BMX kid who became a hip-hop star."),
+ E([23, 24, 25, 26], 'Ye', "For me, I'm the first time you see a Black dude wearing a Harley-Davidson hat, riding on a, you know, a Haro GT or GT bike, because I used to freestyle bike.", "俺はさ\nHarley-Davidsonの帽子をかぶって\nHaroとかGTのBMXに乗る\n黒人の第一号なんだよ\n昔フリースタイルBMXやってたからな", "Haro, GT = BMX brands.", "LOW: large-v3 garbles 1719-1722 s ('Your transcending what a horror GT'); turbo 'gt on a haro gt or gt bike because i used to freestyle'. Review the audio around 1719 s."),
+ E([26, 27, 28], 'Ye', "I was a extreme gamer and shit. I can, I can stand up on top of a bike like this and ride and shit.", "エクストリーム系だったんだよ\nこうやってチャリの上に\n立って乗れたりな", "'Extreme gamer' = into extreme sports.", s='i was a extreme'),
+ E([28, 29, 30], 'Ye', "Like, just like Pharrell, I was a nerd also. You're going to say I was a nigga with the pink polo and, you know.", "Pharrellと同じで\n俺もオタクだった\nピンクのポロシャツ着てた奴だって\n言われるだろうけどさ", "Ye's early-2000s pink Polo look.", s='like just like'),
+ E([30, 31], 'Host', "We love you. We're ruling the world right now.", "愛してるよ\n今は俺たちが\n世界を仕切ってるんだ", "", "MEDIUM: large-v3 'we love moving the world right now', turbo 'We love you. We're ruling the world right now.'; speaker inferred.", s='and you know we love', e='right now'),
+]
+
+CLIPS['S14'] = [
+ E([1, 2], 'Host', "Did you express everything that you wanted to express? Did we get that, like...", "言いたいことは\n全部言えた？\nちゃんと聞けたかな"),
+ E([3, 4, 5], 'Ye', "Because I got to go in 20 minutes. I got to go. I got to leave soon.", "あと20分で\n出なきゃいけないんだ\nもうすぐ行かないと"),
+ E([6, 7], 'Host', "I ain't going to lie to you, Kanye. I'm going to be honest with you.", "ウソはつかないよ、Kanye\n正直に言う"),
+ E([8], 'Host', "You didn't have to do this.", "あんたはここに\n来なくてもよかった"),
+ E([9, 10], 'Host', "You could have went to Stephen A. Smith.", "Stephen A. Smithのとこに\n行ってもよかった", "Stephen A. Smith = ESPN commentator and interviewer.", "Large-v3 'Steve and A. Smith'."),
+ E([11, 12], 'Host', "You could have went to Oprah. You could have went to anybody.", "Oprahでもいいし\n誰のとこでもよかった", "", "Large-v3 'everybody', turbo 'anybody'."),
+ E([13, 14], 'Host', "But you know what you did? You came back to the culture.", "でもあんたは\nカルチャーに戻ってきてくれた"),
+ E([15, 16], 'Host', "Boy, they did. Don't clap yet.", "まだ拍手するな", "", "MEDIUM: large-v3 'you or anything don't clap yet', turbo 'Boy, they did. Don't clap yet.' Only 'Don't clap yet' is clear in both.", e='clap yet'),
+ E([16, 17], 'Host', "We could have been scared, and guess what? We were scared.", "ビビってもおかしくなかったし\n実際ビビってた", s='we', e='were scared'),
+ E([17, 18], 'Host', "But you're my brother.", "でもあんたは兄弟だから", s='but', e='my brother'),
+ E([18, 19], 'Ye', "I like that I have that effect on people.", "人をそういう気持ちにさせるのは\n悪くないね", s='i like that', e='on people'),
+ E([19, 20], 'Host', "I like that I have that... You don't want to let me finish my speech? Go ahead, go ahead, go ahead.", "「悪くないね」って…\n俺に最後まで言わせない気？\nどうぞどうぞ", "", "MEDIUM: overlapping talk. Turbo 'I like that I have that 730. You don't want to let me finish my speech? Go ahead...'; large-v3 keeps only 'go ahead'. '730' unclear and dropped.", s='i', e='go ahead go ahead go ahead'),
+ E([21, 22], 'Host', "Wait, wait. Do you not think you have the effect that we really love what you do?", "待って\n俺たちがあんたのやることを\n本気で愛してるって\nわかってる？", e='love what you do'),
+ E([22, 23], 'Ye', "I like that. I like the love, and I like the fear also.", "それもいい\n愛されるのもいいし\n恐れられるのもいい", s='i like that'),
+ E([24, 25], 'Host', "Nah, but on the cultural standpoint, we love what you do. You mean so much to us.", "いや、カルチャー的にさ\n俺たちはあんたを愛してる\nすごく大事な存在なんだよ"),
+ E([26, 27], 'Ye', "Good Morning America? Nah, they don't give a fuck.", "Good Morning America？\nあいつらは\n何とも思ってない", "Good Morning America = ABC morning show.", "Large-v3 and turbo both hear 'Good money America'; context makes it Good Morning America. Speaker inferred as Ye."),
+ E([28, 29, 30], 'Ye', "And by the way, because that's the thing, Tucker Carlson, they're going to help me up to the point where I'm, like, supporting Trump, right?", "それにTucker Carlsonだって\n俺がTrumpを支持してる\nところまでしか\n助けてくれない", "", "MEDIUM: large-v3 'they don't want to help me up to the point', turbo 'They're going to help me up to the point'. Turbo fits the next line."),
+ E([31], 'Ye', "That's all they care about.", "あいつらが気にするのは\nそれだけだ"),
+]

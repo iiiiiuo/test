@@ -1,0 +1,236 @@
+[
+{
+"n": 1,
+"start": 863.34,
+"end": 867.86,
+"text": "Why are you wearing the Trump, excuse me.",
+"turbo": "Why are you wearing the Trump, um, the, excuse me,",
+"agree": 0.89,
+"minp": 0.763
+},
+{
+"n": 2,
+"start": 867.92,
+"end": 868.6,
+"text": "It's not Trump.",
+"turbo": "me,",
+"agree": 0.0,
+"minp": 0.794
+},
+{
+"n": 3,
+"start": 868.66,
+"end": 869.38,
+"text": "It's not Trump.",
+"turbo": "um,",
+"agree": 0.0,
+"minp": 0.732
+},
+{
+"n": 4,
+"start": 869.72,
+"end": 873.78,
+"text": "The Supreme Lives Matter.",
+"turbo": "the, um, the, um, the, um, the Supreme Lives Matter.",
+"agree": 0.57,
+"minp": 0.926
+},
+{
+"n": 5,
+"start": 874.34,
+"end": 875.54,
+"text": "This is not Lives Matter.",
+"turbo": "This is not Lives Matter.",
+"agree": 1.0,
+"minp": 0.802
+},
+{
+"n": 6,
+"start": 875.68,
+"end": 876.54,
+"text": "This is Tremaine.",
+"turbo": "Matter. This is Jermaine.",
+"agree": 0.57,
+"minp": 0.937
+},
+{
+"n": 7,
+"start": 876.68,
+"end": 877.5,
+"text": "This is Tremaine.",
+"turbo": "This is Jermaine.",
+"agree": 0.67,
+"minp": 0.932
+},
+{
+"n": 8,
+"start": 877.6,
+"end": 880.08,
+"text": "This is my boy that's at Supreme now.",
+"turbo": "This is my boy. This is at Supreme now.",
+"agree": 0.82,
+"minp": 0.941
+},
+{
+"n": 9,
+"start": 880.3,
+"end": 881.86,
+"text": "And the weird thing is like, you know.",
+"turbo": "And the weird thing is like, you know,",
+"agree": 1.0,
+"minp": 0.528
+},
+{
+"n": 10,
+"start": 881.96,
+"end": 882.38,
+"text": "He's a good guy.",
+"turbo": "you know,",
+"agree": 0.0,
+"minp": 1.0
+},
+{
+"n": 11,
+"start": 882.6,
+"end": 883.5,
+"text": "He's a good guy.",
+"turbo": "he's a good guy. So",
+"agree": 0.89,
+"minp": 0.89
+},
+{
+"n": 12,
+"start": 883.64,
+"end": 884.84,
+"text": "So you think about like Pete Davidson.",
+"turbo": "guy. So you think about like Pete Davis. I",
+"agree": 0.75,
+"minp": 0.766
+},
+{
+"n": 13,
+"start": 884.88,
+"end": 887.64,
+"text": "I gave him a negative nickname.",
+"turbo": "Davis. I gave him, I gave him money. uh a negative nickname",
+"agree": 0.67,
+"minp": 0.983
+},
+{
+"n": 14,
+"start": 887.64,
+"end": 891.42,
+"text": "named skeet davidson with tremaine i gave him something that was",
+"turbo": "nickname ski davidson with tremaine i gave him something that was",
+"agree": 0.82,
+"minp": 0.184
+},
+{
+"n": 15,
+"start": 891.42,
+"end": 894.84,
+"text": "even more powerful i yayed him up i gave him tremendous",
+"turbo": "was even more powerful i yayed him up i gave him tremendous",
+"agree": 0.96,
+"minp": 0.89
+},
+{
+"n": 16,
+"start": 894.84,
+"end": 897.88,
+"text": "right and then we went in we appropriate we did a",
+"turbo": "tremendous right and then we went in we appropriate we did a",
+"agree": 0.96,
+"minp": 0.943
+},
+{
+"n": 17,
+"start": 897.88,
+"end": 901.58,
+"text": "reverse appropriation of everything supreme and i went to studio with",
+"turbo": "did a reverse appropriation of everything supreme and i went to the studio with e",
+"agree": 0.85,
+"minp": 0.622
+},
+{
+"n": 18,
+"start": 901.58,
+"end": 904.98,
+"text": "ian connor right and we went in is this you know",
+"turbo": "e and connor right and we went supreme is this you know it's",
+"agree": 0.75,
+"minp": 0.28
+},
+{
+"n": 19,
+"start": 904.98,
+"end": 907.06,
+"text": "it's a skate brand it's the high school right you know",
+"turbo": "know it's a skate brand it's the high school right you know what i'm saying",
+"agree": 0.85,
+"minp": 0.574
+},
+{
+"n": 20,
+"start": 907.06,
+"end": 909.98,
+"text": "i'm saying so it's like we went in and flipped everything",
+"turbo": "you know what i'm saying so it's like we went in and flipped everything",
+"agree": 0.88,
+"minp": 0.839
+},
+{
+"n": 21,
+"start": 909.98,
+"end": 915.18,
+"text": "this thing is so the tremendous movement is more i don't",
+"turbo": "this thing is so the tremendous movement is more I don't want to call",
+"agree": 0.88,
+"minp": 0.934
+},
+{
+"n": 22,
+"start": 915.18,
+"end": 917.56,
+"text": "call it a movement because you don't move nowhere that's like",
+"turbo": "don't want to call it a movement because you don't move nowhere. That's like the",
+"agree": 0.85,
+"minp": 0.369
+},
+{
+"n": 23,
+"start": 917.56,
+"end": 921.18,
+"text": "the tremendous idea is so much bigger than even a t",
+"turbo": "That's like the tremendous idea is so much bigger than even a T",
+"agree": 0.92,
+"minp": 0.525
+},
+{
+"n": 24,
+"start": 921.18,
+"end": 923.94,
+"text": "-shirt the other t -shirt i wore like this is finna",
+"turbo": "a T -shirt, the other T -shirt I wore. Like, this is finna go",
+"agree": 0.88,
+"minp": 0.425
+},
+{
+"n": 25,
+"start": 923.94,
+"end": 927.88,
+"text": "go crazy people are love this and they love because you",
+"turbo": "go crazy. People are, love this, and they love because you got",
+"agree": 0.96,
+"minp": 0.924
+},
+{
+"n": 26,
+"start": 927.88,
+"end": 929.82,
+"text": "got duff charlie bigger than white that's my",
+"turbo": "you got Dove Charney. It's bigger than White Lives Matter.",
+"agree": 0.44,
+"minp": 0.174
+}
+]

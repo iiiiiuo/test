@@ -1,0 +1,326 @@
+[
+{
+"n": 1,
+"start": 155.34,
+"end": 159.22,
+"text": "I want to start because, you know, the very famous interview",
+"turbo": "start. I want to start because, you know, the very famous interview",
+"agree": 0.96,
+"minp": 0.976
+},
+{
+"n": 2,
+"start": 159.22,
+"end": 160.48,
+"text": "was you and Sway, right?",
+"turbo": "is you and Sway, right?",
+"agree": 0.8,
+"minp": 0.613
+},
+{
+"n": 3,
+"start": 160.7,
+"end": 164.4,
+"text": "And then you saying that you want to be like Ralph",
+"turbo": "right? And then you saying that you wanted to be like Ralph or",
+"agree": 0.83,
+"minp": 0.337
+},
+{
+"n": 4,
+"start": 164.4,
+"end": 166.78,
+"text": "or you want to be up there with that caliber.",
+"turbo": "Ralph or you wanted to be up there with that caliber.",
+"agree": 0.86,
+"minp": 0.956
+},
+{
+"n": 5,
+"start": 167.0,
+"end": 170.26,
+"text": "And now it's like you are Ralph.",
+"turbo": "And now it's like you are Ralph.",
+"agree": 1.0,
+"minp": 0.979
+},
+{
+"n": 6,
+"start": 170.54,
+"end": 172.46,
+"text": "You are that caliber.",
+"turbo": "You are that caliber.",
+"agree": 1.0,
+"minp": 1.0
+},
+{
+"n": 7,
+"start": 172.88,
+"end": 175.3,
+"text": "And then I guess what I'm trying to say is, so",
+"turbo": "And then I guess what I'm trying to say is so that's",
+"agree": 0.96,
+"minp": 0.716
+},
+{
+"n": 8,
+"start": 175.3,
+"end": 176.5,
+"text": "that's where we get confused.",
+"turbo": "is so that's where we get confused.",
+"agree": 0.83,
+"minp": 0.999
+},
+{
+"n": 9,
+"start": 176.86,
+"end": 177.88,
+"text": "Did Sway have the answers?",
+"turbo": "Did Sway have the answers?",
+"agree": 1.0,
+"minp": 0.912
+},
+{
+"n": 10,
+"start": 178.46,
+"end": 180.48,
+"text": "I think you already admitted Sway had the answers.",
+"turbo": "I think you already admitted the way he had the answer.",
+"agree": 0.7,
+"minp": 0.663
+},
+{
+"n": 11,
+"start": 180.48,
+"end": 183.68,
+"text": "But I guess that's where we get confused with the Adidas",
+"turbo": "the answer. But I guess that's where we get confused with the Adidas",
+"agree": 0.92,
+"minp": 0.505
+},
+{
+"n": 12,
+"start": 183.68,
+"end": 188.44,
+"text": "part of it is because like didn't like that's that's how",
+"turbo": "part of it is because that's how you",
+"agree": 0.74,
+"minp": 0.335
+},
+{
+"n": 13,
+"start": 188.44,
+"end": 189.16,
+"text": "you became a billionaire.",
+"turbo": "how you became a billionaire,",
+"agree": 0.89,
+"minp": 0.983
+},
+{
+"n": 14,
+"start": 189.24,
+"end": 190.34,
+"text": "Right. Through the easy.",
+"turbo": "billionaire, right? Through the Yeezy.",
+"agree": 0.67,
+"minp": 0.432
+},
+{
+"n": 15,
+"start": 190.48,
+"end": 193.06,
+"text": "So like what was the discrepancy with Adidas?",
+"turbo": "Yeezy. So what was the discrepancy with Adidas?",
+"agree": 0.88,
+"minp": 0.895
+},
+{
+"n": 16,
+"start": 193.66,
+"end": 196.62,
+"text": "You know, I just didn't have a relationships with the factories",
+"turbo": "You know, I just didn't have the relationships with the factories",
+"agree": 0.91,
+"minp": 0.849
+},
+{
+"n": 17,
+"start": 196.62,
+"end": 197.94,
+"text": "at that time.",
+"turbo": "at that time. And I",
+"agree": 0.75,
+"minp": 0.972
+},
+{
+"n": 18,
+"start": 197.96,
+"end": 201.12,
+"text": "And I was managing a lot of ideas like I was,",
+"turbo": "time. And I was managing a lot of ideas. Like I was",
+"agree": 0.96,
+"minp": 0.811
+},
+{
+"n": 19,
+"start": 201.12,
+"end": 202.84,
+"text": "you know, a new dad.",
+"turbo": "was a new dad.",
+"agree": 0.67,
+"minp": 1.0
+},
+{
+"n": 20,
+"start": 203.32,
+"end": 205.88,
+"text": "I was newly married.",
+"turbo": "I was newly married.",
+"agree": 1.0,
+"minp": 1.0
+},
+{
+"n": 21,
+"start": 206.16,
+"end": 208.82,
+"text": "I had a bunch of team, like a big team of",
+"turbo": "I had a bunch of team. Like a big team of",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 22,
+"start": 208.82,
+"end": 209.76,
+"text": "designers with me.",
+"turbo": "of designers with me And",
+"agree": 0.75,
+"minp": 1.0
+},
+{
+"n": 23,
+"start": 209.76,
+"end": 212.22,
+"text": "And we hadn't established who we were.",
+"turbo": "me And we hadn't established who we were We",
+"agree": 0.88,
+"minp": 0.243
+},
+{
+"n": 24,
+"start": 212.28,
+"end": 214.96,
+"text": "We were still fighting to get our respect in fashion.",
+"turbo": "were We were still fighting to get our respect In fashion",
+"agree": 0.95,
+"minp": 0.927
+},
+{
+"n": 25,
+"start": 215.24,
+"end": 217.7,
+"text": "So there's a lot of fights at the same time.",
+"turbo": "So there's a lot of fights at the same time",
+"agree": 1.0,
+"minp": 0.911
+},
+{
+"n": 26,
+"start": 217.86,
+"end": 221.14,
+"text": "So we had to go and basically like intern almost up",
+"turbo": "So we had to go and basically like intern Almost up",
+"agree": 1.0,
+"minp": 0.336
+},
+{
+"n": 27,
+"start": 221.14,
+"end": 222.0,
+"text": "under these companies.",
+"turbo": "up under these companies Because",
+"agree": 0.75,
+"minp": 0.849
+},
+{
+"n": 28,
+"start": 222.12,
+"end": 223.86,
+"text": "Because you interned for Louis Vuitton at one time, right?",
+"turbo": "Because you interned for Louis Vuitton at once Yeah,",
+"agree": 0.74,
+"minp": 0.713
+},
+{
+"n": 29,
+"start": 223.92,
+"end": 225.5,
+"text": "Yeah, Louis Vuitton, Fendi.",
+"turbo": "Louis Vuitton, Fendi",
+"agree": 0.86,
+"minp": 0.226
+},
+{
+"n": 30,
+"start": 226.32,
+"end": 229.0,
+"text": "And we interned in a way at Adidas.",
+"turbo": "And we interned in a way at Adidas",
+"agree": 1.0,
+"minp": 0.902
+},
+{
+"n": 31,
+"start": 229.22,
+"end": 233.42,
+"text": "Like the licensing deal was my intern to become, you know,",
+"turbo": "Like the licensing deal was my intern To become, you know",
+"agree": 1.0,
+"minp": 0.723
+},
+{
+"n": 32,
+"start": 233.46,
+"end": 238.74,
+"text": "more in that Bernard Arnault, Bezos, Elon territory.",
+"turbo": "know More in that Bernard Arnault bezos right elon",
+"agree": 0.82,
+"minp": 0.875
+},
+{
+"n": 33,
+"start": 238.74,
+"end": 242.24,
+"text": "territory and just understanding how to you know how money works",
+"turbo": "territory and just understanding how to you know how money works",
+"agree": 1.0,
+"minp": 0.119
+},
+{
+"n": 34,
+"start": 242.24,
+"end": 243.68,
+"text": "like this is first generation",
+"turbo": "works like this is first",
+"agree": 0.8,
+"minp": 0.922
+},
+{
+"n": 35,
+"start": 244.86,
+"end": 247.22,
+"text": "like you can say like look at like jay with the",
+"turbo": "you can say like look at like jay with the",
+"agree": 0.95,
+"minp": 0.813
+},
+{
+"n": 36,
+"start": 247.22,
+"end": 251.04,
+"text": "do say this is first generation of wealth those infrastructures right",
+"turbo": "with the douce this is first generation of wealth those infrastructures right",
+"agree": 0.78,
+"minp": 0.416
+}
+]

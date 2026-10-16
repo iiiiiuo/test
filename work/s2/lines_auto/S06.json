@@ -1,0 +1,272 @@
+[
+{
+"n": 1,
+"start": 1002.82,
+"end": 1003.92,
+"text": "No, man, come on.",
+"turbo": "man come on",
+"agree": 0.86,
+"minp": 0.898
+},
+{
+"n": 2,
+"start": 1004.04,
+"end": 1004.72,
+"text": "What was the question?",
+"turbo": "on what's the question you had",
+"agree": 0.4,
+"minp": 0.897
+},
+{
+"n": 3,
+"start": 1004.76,
+"end": 1005.98,
+"text": "You had a good question I want to answer, though.",
+"turbo": "question you had a good question i want to answer though no",
+"agree": 0.91,
+"minp": 0.773
+},
+{
+"n": 4,
+"start": 1006.04,
+"end": 1008.1,
+"text": "No, we were just talking about that moment when you showed",
+"turbo": "though no we were just talking about that moment when you showed the",
+"agree": 0.92,
+"minp": 0.997
+},
+{
+"n": 5,
+"start": 1008.1,
+"end": 1009.0,
+"text": "the porn to the executives.",
+"turbo": "you showed the porn to the executive",
+"agree": 0.67,
+"minp": 0.974
+},
+{
+"n": 6,
+"start": 1009.14,
+"end": 1010.48,
+"text": "And now we're talking about your sneaker.",
+"turbo": "and now we're talking about your sneaker",
+"agree": 1.0,
+"minp": 0.545
+},
+{
+"n": 7,
+"start": 1010.58,
+"end": 1014.16,
+"text": "Yeah. At Adidas, at this point, I should be the person",
+"turbo": "yeah at adidas at this point i should be the person that",
+"agree": 0.96,
+"minp": 0.434
+},
+{
+"n": 8,
+"start": 1014.16,
+"end": 1015.44,
+"text": "that says, Nori, get a sneaker.",
+"turbo": "person that says nori get a sneaker",
+"agree": 0.92,
+"minp": 0.611
+},
+{
+"n": 9,
+"start": 1015.64,
+"end": 1017.8,
+"text": "That's right. I should be the person that delegates.",
+"turbo": "that's right i should be the person that delegates",
+"agree": 1.0,
+"minp": 0.996
+},
+{
+"n": 10,
+"start": 1018.28,
+"end": 1020.44,
+"text": "But instead, they gave it to Stella McCartney's husband.",
+"turbo": "instead they gave it to stella mccartney's husband",
+"agree": 0.94,
+"minp": 0.992
+},
+{
+"n": 11,
+"start": 1020.44,
+"end": 1023.72,
+"text": "And I'm not going to speak no ill on Stella McCartney's",
+"turbo": "husband and i'm not gonna speak speak no ill on stella mccartney's",
+"agree": 0.78,
+"minp": 0.168
+},
+{
+"n": 12,
+"start": 1023.72,
+"end": 1027.38,
+"text": "husband because I'm cool with her, uh, with his father -in",
+"turbo": "husband because i'm cool with her uh with his father -in -law",
+"agree": 0.96,
+"minp": 0.2
+},
+{
+"n": 13,
+"start": 1027.38,
+"end": 1029.76,
+"text": "-law, you know, that's my man, you know what I'm saying?",
+"turbo": "-in -law you know that's my man you know i'm saying that",
+"agree": 0.87,
+"minp": 0.952
+},
+{
+"n": 14,
+"start": 1029.84,
+"end": 1031.12,
+"text": "That man stood next to me.",
+"turbo": "know i'm saying that man stood next to me",
+"agree": 0.8,
+"minp": 0.954
+},
+{
+"n": 15,
+"start": 1031.26,
+"end": 1032.42,
+"text": "We went into the studio.",
+"turbo": "me we went into the studio",
+"agree": 0.91,
+"minp": 0.969
+},
+{
+"n": 16,
+"start": 1032.52,
+"end": 1033.4,
+"text": "We did all day.",
+"turbo": "we did all day",
+"agree": 1.0,
+"minp": 0.841
+},
+{
+"n": 17,
+"start": 1033.6,
+"end": 1034.48,
+"text": "We did only one.",
+"turbo": "we did only one",
+"agree": 1.0,
+"minp": 0.985
+},
+{
+"n": 18,
+"start": 1034.58,
+"end": 1035.68,
+"text": "We did four or five seconds.",
+"turbo": "one we did four or five seconds",
+"agree": 0.92,
+"minp": 0.995
+},
+{
+"n": 19,
+"start": 1035.76,
+"end": 1037.58,
+"text": "Like me and Paul McCartney got joints.",
+"turbo": "like me and paul mccartney got joints",
+"agree": 1.0,
+"minp": 0.967
+},
+{
+"n": 20,
+"start": 1037.78,
+"end": 1038.46,
+"text": "You know what I'm saying?",
+"turbo": "you know i'm saying",
+"agree": 0.89,
+"minp": 0.984
+},
+{
+"n": 21,
+"start": 1038.52,
+"end": 1042.04,
+"text": "So that's the reason why Adidas, you really found you a",
+"turbo": "know i'm saying so that's the reason why adidas you really found you a",
+"agree": 0.88,
+"minp": 0.966
+},
+{
+"n": 22,
+"start": 1042.04,
+"end": 1045.36,
+"text": "Virgil and Stella McCartney's husband and a person that I'm going",
+"turbo": "you a virgil and stella mccartney's husband and a person that i'm gonna give",
+"agree": 0.8,
+"minp": 0.789
+},
+{
+"n": 23,
+"start": 1045.36,
+"end": 1046.94,
+"text": "to give a hug no matter what.",
+"turbo": "i'm gonna give a hug no matter what",
+"agree": 0.8,
+"minp": 0.981
+},
+{
+"n": 24,
+"start": 1046.94,
+"end": 1048.96,
+"text": "Mmm, so because that's the way it is.",
+"turbo": "what so because that's the way it is it's",
+"agree": 0.82,
+"minp": 0.109
+},
+{
+"n": 25,
+"start": 1049.0,
+"end": 1052.22,
+"text": "It's like even at war even in John wick even with",
+"turbo": "it is it's like even at war even in John Wick even with",
+"agree": 0.92,
+"minp": 0.514
+},
+{
+"n": 26,
+"start": 1052.22,
+"end": 1055.48,
+"text": "neo It's ones that they just have to pass on so",
+"turbo": "with Neo it's ones that they just have to pass on so",
+"agree": 0.96,
+"minp": 0.576
+},
+{
+"n": 27,
+"start": 1055.48,
+"end": 1059.94,
+"text": "it's just like Stella McCartney's husband because he's Stella McCartney's husband",
+"turbo": "it's just like Stella McCartney's husband because he's Stella McCartney's husband",
+"agree": 1.0,
+"minp": 0.456
+},
+{
+"n": 28,
+"start": 1059.94,
+"end": 1063.26,
+"text": "Part of reason why he became Stella McCartney's husband He'd get",
+"turbo": "husband part of the reason why he became Stella McCartney's husband he get a",
+"agree": 0.8,
+"minp": 0.266
+},
+{
+"n": 29,
+"start": 1063.26,
+"end": 1065.48,
+"text": "a pass from yay, and you get a pass from yay.",
+"turbo": "get a pass from Ye and you get a pass from Ye you",
+"agree": 0.75,
+"minp": 0.67
+},
+{
+"n": 30,
+"start": 1065.54,
+"end": 1067.4,
+"text": "You get a pass from the culture, right?",
+"turbo": "from Ye you get a pass from the culture right",
+"agree": 0.89,
+"minp": 0.856
+}
+]

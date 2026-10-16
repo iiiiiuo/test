@@ -1,6 +1,6 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-16T01:16:25Z",
+ "updated": "2026-10-16T06:37:36Z",
  "status": "PHASE_B_COMPLETE",
  "phase": "B",
  "inputs": {
@@ -114,7 +114,7 @@
   "Auto-segmented lines mixed speakers; numeric s/e guesses drifted: use anchor phrases with advancing search bound"
  ],
  "blockers": [],
- "next_action": "none: series delivered; await user feedback",
+ "next_action": "series2: awaiting translation approval",
  "legacy": "work/legacy/state.SOURCE_INTERVIEW.json",
  "translation_style": {
   "proper_nouns": "English spelling in Japanese subtitles (people, places, brands, artists); generic loanwords stay katakana",
@@ -247,5 +247,37 @@
   "frozen": "work/b/frozen.json",
   "gauntlet": "work/b/gauntlet.json",
   "series": "output/drinkchamps_ye/shared/final_series_qa.md"
+ },
+ "series2": {
+  "status": "AWAITING_TRANSLATION_APPROVAL",
+  "request": "User 2026-10-16: pick new intervals not used by the 21 clips, draft Japanese, present for confirmation, render only after approval.",
+  "clip_ids": [
+   "Clip_22",
+   "Clip_23",
+   "Clip_24",
+   "Clip_25",
+   "Clip_26",
+   "Clip_27",
+   "Clip_28",
+   "Clip_29",
+   "Clip_30",
+   "Clip_31",
+   "Clip_32",
+   "Clip_33",
+   "Clip_34",
+   "Clip_35",
+   "Clip_36",
+   "Clip_37",
+   "Clip_38",
+   "Clip_39"
+  ],
+  "clips_def": "work/s2/clips_def.json",
+  "review_lines": "work/s2/review_lines.json",
+  "review_csv": "review/s2/translations_review.csv",
+  "review_csv_sha256": "cd02c4647b7a482bd54c42f255e4c24434503c3415a33fbc75af97e6e71e7c1e",
+  "manifest": "review/s2/approval_manifest.json",
+  "asr_runs": "work/asr/S01..S18.large.json",
+  "reservations": "ledger reservations with series=2",
+  "next_action": "Wait for explicit human approval in the thread; then freeze review/s2 CSV into review/s2/approved and run Phase B into work/b2 and output/drinkchamps_ye_s2 (do not touch series 1 frozen files)."
  }
 }

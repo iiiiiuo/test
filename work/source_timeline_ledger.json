@@ -1,6 +1,6 @@
 {
  "schema": "multi-source-v2",
- "updated": "2026-10-16T01:16:25Z",
+ "updated": "2026-10-16T06:37:36Z",
  "interval_convention": "half-open [start_frame,end_frame_exclusive); frame=ceil((t*24000-start_pts)/1001); timebase 1/24000",
  "sources": {
   "part_1": {
@@ -369,6 +369,366 @@
    "audio_48k": [
     57168000,
     60446400
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_22",
+   "candidate": "S01",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 3724,
+   "end_frame_excl": 6020,
+   "start_s": 155.3,
+   "end_s": 251.06,
+   "audio_48k": [
+    7454400,
+    12050880
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_23",
+   "candidate": "S02",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 26288,
+   "end_frame_excl": 27406,
+   "start_s": 1096.4,
+   "end_s": 1143.02,
+   "audio_48k": [
+    52627200,
+    54864960
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_23",
+   "candidate": "S02",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 27761,
+   "end_frame_excl": 28701,
+   "start_s": 1157.86,
+   "end_s": 1197.05,
+   "audio_48k": [
+    55577280,
+    57458400
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "candidate": "S03",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 35384,
+   "end_frame_excl": 35421,
+   "start_s": 1475.8,
+   "end_s": 1477.32,
+   "audio_48k": [
+    70838400,
+    70911360
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "candidate": "S03",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 35630,
+   "end_frame_excl": 35821,
+   "start_s": 1486.06,
+   "end_s": 1494.0,
+   "audio_48k": [
+    71330880,
+    71712000
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_1",
+   "clip_id": "Clip_24",
+   "candidate": "S03",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 36090,
+   "end_frame_excl": 37437,
+   "start_s": 1505.24,
+   "end_s": 1561.42,
+   "audio_48k": [
+    72251520,
+    74948160
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_3",
+   "clip_id": "Clip_25",
+   "candidate": "S04",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 26579,
+   "end_frame_excl": 27922,
+   "start_s": 1108.56,
+   "end_s": 1164.57,
+   "audio_48k": [
+    53210880,
+    55899360
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_3",
+   "clip_id": "Clip_25",
+   "candidate": "S04",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 28091,
+   "end_frame_excl": 28560,
+   "start_s": 1171.61,
+   "end_s": 1191.17,
+   "audio_48k": [
+    56237280,
+    57176160
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_3",
+   "clip_id": "Clip_26",
+   "candidate": "S05",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 44624,
+   "end_frame_excl": 45297,
+   "start_s": 1861.18,
+   "end_s": 1889.24,
+   "audio_48k": [
+    89336640,
+    90683520
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_3",
+   "clip_id": "Clip_26",
+   "candidate": "S05",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 45450,
+   "end_frame_excl": 46751,
+   "start_s": 1895.64,
+   "end_s": 1949.88,
+   "audio_48k": [
+    90990720,
+    93594240
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_4",
+   "clip_id": "Clip_27",
+   "candidate": "S07",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 15783,
+   "end_frame_excl": 17377,
+   "start_s": 658.27,
+   "end_s": 724.74,
+   "audio_48k": [
+    31596960,
+    34787520
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_4",
+   "clip_id": "Clip_28",
+   "candidate": "S06",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 24044,
+   "end_frame_excl": 25593,
+   "start_s": 1002.8,
+   "end_s": 1067.42,
+   "audio_48k": [
+    48134400,
+    51236160
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_4",
+   "clip_id": "Clip_29",
+   "candidate": "S08",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 31821,
+   "end_frame_excl": 33586,
+   "start_s": 1327.18,
+   "end_s": 1400.81,
+   "audio_48k": [
+    63704640,
+    67238880
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_30",
+   "candidate": "S09",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 1239,
+   "end_frame_excl": 3511,
+   "start_s": 51.7,
+   "end_s": 146.44,
+   "audio_48k": [
+    2481600,
+    7029120
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_31",
+   "candidate": "S10",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 3772,
+   "end_frame_excl": 5173,
+   "start_s": 157.34,
+   "end_s": 215.78,
+   "audio_48k": [
+    7552320,
+    10357440
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_31",
+   "candidate": "S10",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 5291,
+   "end_frame_excl": 5579,
+   "start_s": 220.7,
+   "end_s": 232.7,
+   "audio_48k": [
+    10593600,
+    11169600
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_32",
+   "candidate": "S11",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 14433,
+   "end_frame_excl": 16698,
+   "start_s": 602.0,
+   "end_s": 696.47,
+   "audio_48k": [
+    28896000,
+    33430560
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_33",
+   "candidate": "S12",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 26224,
+   "end_frame_excl": 28229,
+   "start_s": 1093.78,
+   "end_s": 1177.42,
+   "audio_48k": [
+    52501440,
+    56516160
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_5",
+   "clip_id": "Clip_34",
+   "candidate": "S13",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 39607,
+   "end_frame_excl": 41650,
+   "start_s": 1651.96,
+   "end_s": 1737.16,
+   "audio_48k": [
+    79294080,
+    83383680
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_6",
+   "clip_id": "Clip_35",
+   "candidate": "S15",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 14306,
+   "end_frame_excl": 15910,
+   "start_s": 596.72,
+   "end_s": 663.62,
+   "audio_48k": [
+    28642560,
+    31853760
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_6",
+   "clip_id": "Clip_36",
+   "candidate": "S14",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 15926,
+   "end_frame_excl": 17812,
+   "start_s": 664.28,
+   "end_s": 742.91,
+   "audio_48k": [
+    31885440,
+    35659680
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_6",
+   "clip_id": "Clip_37",
+   "candidate": "S16",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 20698,
+   "end_frame_excl": 22292,
+   "start_s": 863.32,
+   "end_s": 929.8,
+   "audio_48k": [
+    41439360,
+    44630400
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_6",
+   "clip_id": "Clip_38",
+   "candidate": "S17",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 32780,
+   "end_frame_excl": 34576,
+   "start_s": 1367.23,
+   "end_s": 1442.12,
+   "audio_48k": [
+    65627040,
+    69221760
+   ]
+  },
+  {
+   "series": 2,
+   "source_id": "part_6",
+   "clip_id": "Clip_39",
+   "candidate": "S18",
+   "status": "RESERVED_AWAITING_APPROVAL",
+   "start_frame": 34618,
+   "end_frame_excl": 36453,
+   "start_s": 1443.9,
+   "end_s": 1520.4,
+   "audio_48k": [
+    69307200,
+    72979200
    ]
   }
  ],

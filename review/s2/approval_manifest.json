@@ -1,0 +1,671 @@
+{
+ "status": "AWAITING_TRANSLATION_APPROVAL",
+ "generated_at": "2026-10-16T06:37:36Z",
+ "editable_file": "review/s2/translations_review.csv",
+ "editable_column": "ja_final",
+ "review_file_sha256": "cd02c4647b7a482bd54c42f255e4c24434503c3415a33fbc75af97e6e71e7c1e",
+ "series": 2,
+ "review_revision": 1,
+ "revision_note": "Series 2 rev 1: new intervals not used by series 1; naming rules from rev 3 applied.",
+ "sources": {
+  "part_1": {
+   "file": "part_1.mp4",
+   "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f"
+  },
+  "part_2_2": {
+   "file": "part_2 2.mp4",
+   "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523"
+  },
+  "part_3": {
+   "file": "part_3.mp4",
+   "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6"
+  },
+  "part_4": {
+   "file": "part_4.mp4",
+   "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e"
+  },
+  "part_5": {
+   "file": "part_5.mp4",
+   "sha256": "8ebc0ad8ed109fae5a9b110359e21d9dd4e089de4416788166d402cef316eec7"
+  },
+  "part_6": {
+   "file": "part_6.mp4",
+   "sha256": "c76d1d2bdc58d6dab9285d9825052d5dd84d12a2f4d22d14f86c205539b63591"
+  }
+ },
+ "clips": [
+  {
+   "clip_id": "Clip_22",
+   "candidate": "S01",
+   "title": "Adidas was my internship",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 3724,
+     "end_frame_excl": 6020,
+     "start_s": 155.3,
+     "end_s": 251.06
+    }
+   ],
+   "est_duration_s": 95.762,
+   "line_ids": [
+    "Clip_22_L001",
+    "Clip_22_L002",
+    "Clip_22_L003",
+    "Clip_22_L004",
+    "Clip_22_L005",
+    "Clip_22_L006",
+    "Clip_22_L007",
+    "Clip_22_L008",
+    "Clip_22_L009",
+    "Clip_22_L010",
+    "Clip_22_L011",
+    "Clip_22_L012",
+    "Clip_22_L013",
+    "Clip_22_L014",
+    "Clip_22_L015",
+    "Clip_22_L016",
+    "Clip_22_L017",
+    "Clip_22_L018",
+    "Clip_22_L019",
+    "Clip_22_L020",
+    "Clip_22_L021"
+   ]
+  },
+  {
+   "clip_id": "Clip_23",
+   "candidate": "S02",
+   "title": "They called me Cassius / Nike is on defense",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 26288,
+     "end_frame_excl": 27406,
+     "start_s": 1096.4,
+     "end_s": 1143.02
+    },
+    {
+     "start_frame": 27761,
+     "end_frame_excl": 28701,
+     "start_s": 1157.86,
+     "end_s": 1197.05
+    }
+   ],
+   "est_duration_s": 85.836,
+   "line_ids": [
+    "Clip_23_L001",
+    "Clip_23_L002",
+    "Clip_23_L003",
+    "Clip_23_L004",
+    "Clip_23_L005",
+    "Clip_23_L006",
+    "Clip_23_L007",
+    "Clip_23_L008",
+    "Clip_23_L009",
+    "Clip_23_L010",
+    "Clip_23_L011",
+    "Clip_23_L012",
+    "Clip_23_L013",
+    "Clip_23_L014",
+    "Clip_23_L015",
+    "Clip_23_L016",
+    "Clip_23_L017",
+    "Clip_23_L018",
+    "Clip_23_L019"
+   ]
+  },
+  {
+   "clip_id": "Clip_24",
+   "candidate": "S03",
+   "title": "I'm not a designer, I'm an imagineer",
+   "source": "part_1.mp4",
+   "intervals": [
+    {
+     "start_frame": 35384,
+     "end_frame_excl": 35421,
+     "start_s": 1475.8,
+     "end_s": 1477.32
+    },
+    {
+     "start_frame": 35630,
+     "end_frame_excl": 35821,
+     "start_s": 1486.06,
+     "end_s": 1494.0
+    },
+    {
+     "start_frame": 36090,
+     "end_frame_excl": 37437,
+     "start_s": 1505.24,
+     "end_s": 1561.42
+    }
+   ],
+   "est_duration_s": 65.691,
+   "line_ids": [
+    "Clip_24_L001",
+    "Clip_24_L002",
+    "Clip_24_L003",
+    "Clip_24_L004",
+    "Clip_24_L005",
+    "Clip_24_L006",
+    "Clip_24_L007",
+    "Clip_24_L008",
+    "Clip_24_L009",
+    "Clip_24_L010",
+    "Clip_24_L011",
+    "Clip_24_L012",
+    "Clip_24_L013",
+    "Clip_24_L014",
+    "Clip_24_L015",
+    "Clip_24_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_25",
+   "candidate": "S04",
+   "title": "I am a leader, not the leader",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 26579,
+     "end_frame_excl": 27922,
+     "start_s": 1108.56,
+     "end_s": 1164.57
+    },
+    {
+     "start_frame": 28091,
+     "end_frame_excl": 28560,
+     "start_s": 1171.61,
+     "end_s": 1191.17
+    }
+   ],
+   "est_duration_s": 75.576,
+   "line_ids": [
+    "Clip_25_L001",
+    "Clip_25_L002",
+    "Clip_25_L003",
+    "Clip_25_L004",
+    "Clip_25_L005",
+    "Clip_25_L006",
+    "Clip_25_L007",
+    "Clip_25_L008",
+    "Clip_25_L009",
+    "Clip_25_L010",
+    "Clip_25_L011",
+    "Clip_25_L012",
+    "Clip_25_L013",
+    "Clip_25_L014",
+    "Clip_25_L015",
+    "Clip_25_L016",
+    "Clip_25_L017"
+   ]
+  },
+  {
+   "clip_id": "Clip_26",
+   "candidate": "S05",
+   "title": "I don't like nobody better than me",
+   "source": "part_3.mp4",
+   "intervals": [
+    {
+     "start_frame": 44624,
+     "end_frame_excl": 45297,
+     "start_s": 1861.18,
+     "end_s": 1889.24
+    },
+    {
+     "start_frame": 45450,
+     "end_frame_excl": 46751,
+     "start_s": 1895.64,
+     "end_s": 1949.88
+    }
+   ],
+   "est_duration_s": 82.332,
+   "line_ids": [
+    "Clip_26_L001",
+    "Clip_26_L002",
+    "Clip_26_L003",
+    "Clip_26_L004",
+    "Clip_26_L005",
+    "Clip_26_L006",
+    "Clip_26_L007",
+    "Clip_26_L008",
+    "Clip_26_L009",
+    "Clip_26_L010",
+    "Clip_26_L011",
+    "Clip_26_L012",
+    "Clip_26_L013",
+    "Clip_26_L014",
+    "Clip_26_L015",
+    "Clip_26_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_27",
+   "candidate": "S07",
+   "title": "A Maybach fleet until we make our own cars",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 15783,
+     "end_frame_excl": 17377,
+     "start_s": 658.27,
+     "end_s": 724.74
+    }
+   ],
+   "est_duration_s": 66.483,
+   "line_ids": [
+    "Clip_27_L001",
+    "Clip_27_L002",
+    "Clip_27_L003",
+    "Clip_27_L004",
+    "Clip_27_L005",
+    "Clip_27_L006",
+    "Clip_27_L007",
+    "Clip_27_L008",
+    "Clip_27_L009",
+    "Clip_27_L010",
+    "Clip_27_L011",
+    "Clip_27_L012",
+    "Clip_27_L013"
+   ]
+  },
+  {
+   "clip_id": "Clip_28",
+   "candidate": "S06",
+   "title": "Stella McCartney's husband gets a pass",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 24044,
+     "end_frame_excl": 25593,
+     "start_s": 1002.8,
+     "end_s": 1067.42
+    }
+   ],
+   "est_duration_s": 64.606,
+   "line_ids": [
+    "Clip_28_L001",
+    "Clip_28_L002",
+    "Clip_28_L003",
+    "Clip_28_L004",
+    "Clip_28_L005",
+    "Clip_28_L006",
+    "Clip_28_L007",
+    "Clip_28_L008",
+    "Clip_28_L009",
+    "Clip_28_L010",
+    "Clip_28_L011",
+    "Clip_28_L012",
+    "Clip_28_L013",
+    "Clip_28_L014",
+    "Clip_28_L015"
+   ]
+  },
+  {
+   "clip_id": "Clip_29",
+   "candidate": "S08",
+   "title": "Nothing I can't play in front of my kids",
+   "source": "part_4.mp4",
+   "intervals": [
+    {
+     "start_frame": 31821,
+     "end_frame_excl": 33586,
+     "start_s": 1327.18,
+     "end_s": 1400.81
+    }
+   ],
+   "est_duration_s": 73.615,
+   "line_ids": [
+    "Clip_29_L001",
+    "Clip_29_L002",
+    "Clip_29_L003",
+    "Clip_29_L004",
+    "Clip_29_L005",
+    "Clip_29_L006",
+    "Clip_29_L007",
+    "Clip_29_L008",
+    "Clip_29_L009",
+    "Clip_29_L010",
+    "Clip_29_L011",
+    "Clip_29_L012",
+    "Clip_29_L013",
+    "Clip_29_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_30",
+   "candidate": "S09",
+   "title": "Tuskegee is not a conspiracy theory",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 1239,
+     "end_frame_excl": 3511,
+     "start_s": 51.7,
+     "end_s": 146.44
+    }
+   ],
+   "est_duration_s": 94.761,
+   "line_ids": [
+    "Clip_30_L001",
+    "Clip_30_L002",
+    "Clip_30_L003",
+    "Clip_30_L004",
+    "Clip_30_L005",
+    "Clip_30_L006",
+    "Clip_30_L007",
+    "Clip_30_L008",
+    "Clip_30_L009",
+    "Clip_30_L010",
+    "Clip_30_L011",
+    "Clip_30_L012",
+    "Clip_30_L013",
+    "Clip_30_L014"
+   ]
+  },
+  {
+   "clip_id": "Clip_31",
+   "candidate": "S10",
+   "title": "My favorite human being is me",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 3772,
+     "end_frame_excl": 5173,
+     "start_s": 157.34,
+     "end_s": 215.78
+    },
+    {
+     "start_frame": 5291,
+     "end_frame_excl": 5579,
+     "start_s": 220.7,
+     "end_s": 232.7
+    }
+   ],
+   "est_duration_s": 70.445,
+   "line_ids": [
+    "Clip_31_L001",
+    "Clip_31_L002",
+    "Clip_31_L003",
+    "Clip_31_L004",
+    "Clip_31_L005",
+    "Clip_31_L006",
+    "Clip_31_L007",
+    "Clip_31_L008",
+    "Clip_31_L009",
+    "Clip_31_L010",
+    "Clip_31_L011",
+    "Clip_31_L012",
+    "Clip_31_L013",
+    "Clip_31_L014",
+    "Clip_31_L015",
+    "Clip_31_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_32",
+   "candidate": "S11",
+   "title": "President Ye ends all wars",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 14433,
+     "end_frame_excl": 16698,
+     "start_s": 602.0,
+     "end_s": 696.47
+    }
+   ],
+   "est_duration_s": 94.469,
+   "line_ids": [
+    "Clip_32_L001",
+    "Clip_32_L002",
+    "Clip_32_L003",
+    "Clip_32_L004",
+    "Clip_32_L005",
+    "Clip_32_L006",
+    "Clip_32_L007",
+    "Clip_32_L008",
+    "Clip_32_L009",
+    "Clip_32_L010",
+    "Clip_32_L011",
+    "Clip_32_L012",
+    "Clip_32_L013",
+    "Clip_32_L014",
+    "Clip_32_L015",
+    "Clip_32_L016",
+    "Clip_32_L017",
+    "Clip_32_L018",
+    "Clip_32_L019"
+   ]
+  },
+  {
+   "clip_id": "Clip_33",
+   "candidate": "S12",
+   "title": "Old enough to be president",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 26224,
+     "end_frame_excl": 28229,
+     "start_s": 1093.78,
+     "end_s": 1177.42
+    }
+   ],
+   "est_duration_s": 83.625,
+   "line_ids": [
+    "Clip_33_L001",
+    "Clip_33_L002",
+    "Clip_33_L003",
+    "Clip_33_L004",
+    "Clip_33_L005",
+    "Clip_33_L006",
+    "Clip_33_L007",
+    "Clip_33_L008",
+    "Clip_33_L009",
+    "Clip_33_L010",
+    "Clip_33_L011"
+   ]
+  },
+  {
+   "clip_id": "Clip_34",
+   "candidate": "S13",
+   "title": "The Pharrell of politics",
+   "source": "part_5.mp4",
+   "intervals": [
+    {
+     "start_frame": 39607,
+     "end_frame_excl": 41650,
+     "start_s": 1651.96,
+     "end_s": 1737.16
+    }
+   ],
+   "est_duration_s": 85.21,
+   "line_ids": [
+    "Clip_34_L001",
+    "Clip_34_L002",
+    "Clip_34_L003",
+    "Clip_34_L004",
+    "Clip_34_L005",
+    "Clip_34_L006",
+    "Clip_34_L007",
+    "Clip_34_L008",
+    "Clip_34_L009",
+    "Clip_34_L010",
+    "Clip_34_L011",
+    "Clip_34_L012",
+    "Clip_34_L013",
+    "Clip_34_L014",
+    "Clip_34_L015",
+    "Clip_34_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_35",
+   "candidate": "S15",
+   "title": "Hip-hop is a race by itself",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 14306,
+     "end_frame_excl": 15910,
+     "start_s": 596.72,
+     "end_s": 663.62
+    }
+   ],
+   "est_duration_s": 66.9,
+   "line_ids": [
+    "Clip_35_L001",
+    "Clip_35_L002",
+    "Clip_35_L003",
+    "Clip_35_L004",
+    "Clip_35_L005",
+    "Clip_35_L006",
+    "Clip_35_L007",
+    "Clip_35_L008",
+    "Clip_35_L009",
+    "Clip_35_L010",
+    "Clip_35_L011",
+    "Clip_35_L012",
+    "Clip_35_L013",
+    "Clip_35_L014",
+    "Clip_35_L015"
+   ]
+  },
+  {
+   "clip_id": "Clip_36",
+   "candidate": "S14",
+   "title": "I like the love and I like the fear",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 15926,
+     "end_frame_excl": 17812,
+     "start_s": 664.28,
+     "end_s": 742.91
+    }
+   ],
+   "est_duration_s": 78.662,
+   "line_ids": [
+    "Clip_36_L001",
+    "Clip_36_L002",
+    "Clip_36_L003",
+    "Clip_36_L004",
+    "Clip_36_L005",
+    "Clip_36_L006",
+    "Clip_36_L007",
+    "Clip_36_L008",
+    "Clip_36_L009",
+    "Clip_36_L010",
+    "Clip_36_L011",
+    "Clip_36_L012",
+    "Clip_36_L013",
+    "Clip_36_L014",
+    "Clip_36_L015",
+    "Clip_36_L016",
+    "Clip_36_L017",
+    "Clip_36_L018"
+   ]
+  },
+  {
+   "clip_id": "Clip_37",
+   "candidate": "S16",
+   "title": "Tremaine, Tremendous and reverse appropriation",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 20698,
+     "end_frame_excl": 22292,
+     "start_s": 863.32,
+     "end_s": 929.8
+    }
+   ],
+   "est_duration_s": 66.483,
+   "line_ids": [
+    "Clip_37_L001",
+    "Clip_37_L002",
+    "Clip_37_L003",
+    "Clip_37_L004",
+    "Clip_37_L005",
+    "Clip_37_L006",
+    "Clip_37_L007",
+    "Clip_37_L008",
+    "Clip_37_L009",
+    "Clip_37_L010",
+    "Clip_37_L011",
+    "Clip_37_L012",
+    "Clip_37_L013",
+    "Clip_37_L014",
+    "Clip_37_L015",
+    "Clip_37_L016"
+   ]
+  },
+  {
+   "clip_id": "Clip_38",
+   "candidate": "S17",
+   "title": "The audacity",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 32780,
+     "end_frame_excl": 34576,
+     "start_s": 1367.23,
+     "end_s": 1442.12
+    }
+   ],
+   "est_duration_s": 74.908,
+   "line_ids": [
+    "Clip_38_L001",
+    "Clip_38_L002",
+    "Clip_38_L003",
+    "Clip_38_L004",
+    "Clip_38_L005",
+    "Clip_38_L006",
+    "Clip_38_L007",
+    "Clip_38_L008",
+    "Clip_38_L009",
+    "Clip_38_L010",
+    "Clip_38_L011"
+   ]
+  },
+  {
+   "clip_id": "Clip_39",
+   "candidate": "S18",
+   "title": "I'm not Moses, I'm Quincy Jones",
+   "source": "part_6.mp4",
+   "intervals": [
+    {
+     "start_frame": 34618,
+     "end_frame_excl": 36453,
+     "start_s": 1443.9,
+     "end_s": 1520.4
+    }
+   ],
+   "est_duration_s": 76.535,
+   "line_ids": [
+    "Clip_39_L001",
+    "Clip_39_L002",
+    "Clip_39_L003",
+    "Clip_39_L004",
+    "Clip_39_L005",
+    "Clip_39_L006",
+    "Clip_39_L007",
+    "Clip_39_L008",
+    "Clip_39_L009",
+    "Clip_39_L010",
+    "Clip_39_L011",
+    "Clip_39_L012"
+   ]
+  }
+ ],
+ "line_count": 279,
+ "uncertain_counts": {
+  "LOW": 1,
+  "MEDIUM": 26,
+  "NOTE": 57
+ },
+ "approval": {
+  "approved": false,
+  "approved_by": null,
+  "approved_at": null,
+  "note": "Approval requires an explicit human message in the project thread. File edits alone are not approval."
+ }
+}

@@ -1,0 +1,290 @@
+[
+{
+"n": 1,
+"start": 664.3,
+"end": 668.26,
+"text": "Did you express everything that you wanted to express?",
+"turbo": "Did you express everything that you wanted to express?",
+"agree": 1.0,
+"minp": 0.844
+},
+{
+"n": 2,
+"start": 668.62,
+"end": 670.14,
+"text": "Did we get that, like...",
+"turbo": "Did we get that, like?",
+"agree": 1.0,
+"minp": 0.748
+},
+{
+"n": 3,
+"start": 670.96,
+"end": 672.8,
+"text": "Because I got to go in 20 minutes.",
+"turbo": "Because I got to go on 20 minutes. I",
+"agree": 0.82,
+"minp": 0.632
+},
+{
+"n": 4,
+"start": 672.86,
+"end": 673.32,
+"text": "I got to go.",
+"turbo": "minutes. I got to go. I got",
+"agree": 0.73,
+"minp": 0.978
+},
+{
+"n": 5,
+"start": 673.38,
+"end": 673.98,
+"text": "I got to leave soon.",
+"turbo": "to go. I got to leave soon.",
+"agree": 0.83,
+"minp": 0.999
+},
+{
+"n": 6,
+"start": 674.06,
+"end": 675.42,
+"text": "I ain't going to lie to you, Kanye.",
+"turbo": "soon. I ain't going to lie to you, Kanye.",
+"agree": 0.94,
+"minp": 0.587
+},
+{
+"n": 7,
+"start": 675.64,
+"end": 676.6,
+"text": "I'm going to be honest with you.",
+"turbo": "Kanye. I'm going to be honest with you.",
+"agree": 0.93,
+"minp": 0.982
+},
+{
+"n": 8,
+"start": 679.3,
+"end": 680.98,
+"text": "You didn't have to do this.",
+"turbo": "You didn't have to do this.",
+"agree": 1.0,
+"minp": 1.0
+},
+{
+"n": 9,
+"start": 682.06,
+"end": 683.84,
+"text": "You could have went to Steve and A.",
+"turbo": "You could have went to Steve and A.",
+"agree": 1.0,
+"minp": 0.959
+},
+{
+"n": 10,
+"start": 683.94,
+"end": 684.2,
+"text": "Smith.",
+"turbo": "A. Smith.",
+"agree": 0.67,
+"minp": 0.999
+},
+{
+"n": 11,
+"start": 684.82,
+"end": 686.18,
+"text": "You could have went to Oprah.",
+"turbo": "You could have went to Oprah.",
+"agree": 1.0,
+"minp": 0.997
+},
+{
+"n": 12,
+"start": 686.36,
+"end": 687.08,
+"text": "You could have went to everybody.",
+"turbo": "You could have went to anybody.",
+"agree": 0.83,
+"minp": 0.548
+},
+{
+"n": 13,
+"start": 687.54,
+"end": 688.44,
+"text": "But you know what you did?",
+"turbo": "But you know what you did?",
+"agree": 1.0,
+"minp": 0.978
+},
+{
+"n": 14,
+"start": 689.12,
+"end": 690.52,
+"text": "You came back to the culture.",
+"turbo": "You came back to the culture.",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 15,
+"start": 690.52,
+"end": 691.46,
+"text": "you or",
+"turbo": "culture.",
+"agree": 0.0,
+"minp": 0.011
+},
+{
+"n": 16,
+"start": 692.94,
+"end": 697.16,
+"text": "anything don't clap yet we",
+"turbo": "Boy, they did. Don't clap yet.",
+"agree": 0.55,
+"minp": 0.77
+},
+{
+"n": 17,
+"start": 698.95,
+"end": 703.49,
+"text": "could have been scared and guess what we were scared but",
+"turbo": "We could have been scared, and guess what? We were scared,",
+"agree": 0.91,
+"minp": 0.879
+},
+{
+"n": 18,
+"start": 704.48,
+"end": 707.68,
+"text": "you're my brother i like that i have that effect on",
+"turbo": "you're my brother. I like that I have that effect on",
+"agree": 1.0,
+"minp": 0.817
+},
+{
+"n": 19,
+"start": 707.68,
+"end": 708.86,
+"text": "people i",
+"turbo": "on people.",
+"agree": 0.5,
+"minp": 0.958
+},
+{
+"n": 20,
+"start": 710.04,
+"end": 714.36,
+"text": "like to have that 730 go ahead go ahead go ahead",
+"turbo": "I like that I have that 730. You don't want to let me finish my speech? Go ahead, go ahead, go ahead. You don't",
+"agree": 0.57,
+"minp": 0.021
+},
+{
+"n": 21,
+"start": 716.38,
+"end": 719.08,
+"text": "wait wait do you not think you have the effect that",
+"turbo": "I mean, you can do it. Wait, wait, wait. Do you not think you have the effect that",
+"agree": 0.76,
+"minp": 0.577
+},
+{
+"n": 22,
+"start": 719.08,
+"end": 723.18,
+"text": "we we really love what you do i like that I",
+"turbo": "that we really love what you do? I like",
+"agree": 0.8,
+"minp": 0.714
+},
+{
+"n": 23,
+"start": 723.18,
+"end": 724.52,
+"text": "like the love and I like the fear also.",
+"turbo": "love and I like the fear also.",
+"agree": 0.88,
+"minp": 0.703
+},
+{
+"n": 24,
+"start": 725.36,
+"end": 729.02,
+"text": "Nah, but on the cultural standpoint, we love what you do.",
+"turbo": "Nah, but on the cultural standpoint, we love what you do.",
+"agree": 1.0,
+"minp": 0.578
+},
+{
+"n": 25,
+"start": 729.12,
+"end": 730.38,
+"text": "You mean so much to us.",
+"turbo": "do. You mean so much to us.",
+"agree": 0.92,
+"minp": 0.553
+},
+{
+"n": 26,
+"start": 731.45,
+"end": 732.55,
+"text": "Good money, America.",
+"turbo": "Good money America",
+"agree": 1.0,
+"minp": 0.882
+},
+{
+"n": 27,
+"start": 732.57,
+"end": 733.61,
+"text": "Nah, they don't give a fuck.",
+"turbo": "America They don't give a fuck",
+"agree": 0.83,
+"minp": 0.269
+},
+{
+"n": 28,
+"start": 733.83,
+"end": 736.91,
+"text": "And by the way, because that's the thing, Tucker Carlson, they",
+"turbo": "And by the way Because that's the thing Tucker Carlson They're",
+"agree": 0.91,
+"minp": 0.905
+},
+{
+"n": 29,
+"start": 736.91,
+"end": 739.15,
+"text": "don't want to help me up to the point where I'm",
+"turbo": "They're going to help me Up to the point Where I'm like",
+"agree": 0.78,
+"minp": 0.756
+},
+{
+"n": 30,
+"start": 739.15,
+"end": 740.89,
+"text": "like supporting Trump, right?",
+"turbo": "I'm like Supporting Trump Right",
+"agree": 0.89,
+"minp": 0.688
+},
+{
+"n": 31,
+"start": 741.71,
+"end": 742.89,
+"text": "That's all they care about.",
+"turbo": "That's all they care about At the",
+"agree": 0.83,
+"minp": 0.933
+},
+{
+"n": 32,
+"start": 742.91,
+"end": 743.05,
+"text": "At the",
+"turbo": "about At the end of",
+"agree": 0.57,
+"minp": 0.863
+}
+]

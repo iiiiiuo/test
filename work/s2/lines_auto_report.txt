@@ -1,0 +1,514 @@
+## S01 Adidas was my internship dur=95.8s lines=36
+01 155.34-159.22 I want to start because, you know, the very famous interview
+02 159.22-160.48 was you and Sway, right?
+03 160.70-164.40 And then you saying that you want to be like Ralph   <<T: right? And then you saying that you wanted to be like Ralph or  (ag=0.83 p=0.337)
+04 164.40-166.78 or you want to be up there with that caliber.
+05 167.00-170.26 And now it's like you are Ralph.
+06 170.54-172.46 You are that caliber.
+07 172.88-175.30 And then I guess what I'm trying to say is, so
+08 175.30-176.50 that's where we get confused.
+09 176.86-177.88 Did Sway have the answers?
+10 178.46-180.48 I think you already admitted Sway had the answers.   <<T: I think you already admitted the way he had the answer.  (ag=0.7 p=0.663)
+11 180.48-183.68 But I guess that's where we get confused with the Adidas
+12 183.68-188.44 part of it is because like didn't like that's that's how   <<T: part of it is because that's how you  (ag=0.74 p=0.335)
+13 188.44-189.16 you became a billionaire.
+14 189.24-190.34 Right. Through the easy.   <<T: billionaire, right? Through the Yeezy.  (ag=0.67 p=0.432)
+15 190.48-193.06 So like what was the discrepancy with Adidas?
+16 193.66-196.62 You know, I just didn't have a relationships with the factories
+17 196.62-197.94 at that time.
+18 197.96-201.12 And I was managing a lot of ideas like I was,
+19 201.12-202.84 you know, a new dad.   <<T: was a new dad.  (ag=0.67 p=1.0)
+20 203.32-205.88 I was newly married.
+21 206.16-208.82 I had a bunch of team, like a big team of
+22 208.82-209.76 designers with me.
+23 209.76-212.22 And we hadn't established who we were.   <<T: me And we hadn't established who we were We  (ag=0.88 p=0.243)
+24 212.28-214.96 We were still fighting to get our respect in fashion.
+25 215.24-217.70 So there's a lot of fights at the same time.
+26 217.86-221.14 So we had to go and basically like intern almost up   <<T: So we had to go and basically like intern Almost up  (ag=1.0 p=0.336)
+27 221.14-222.00 under these companies.
+28 222.12-223.86 Because you interned for Louis Vuitton at one time, right?   <<T: Because you interned for Louis Vuitton at once Yeah,  (ag=0.74 p=0.713)
+29 223.92-225.50 Yeah, Louis Vuitton, Fendi.   <<T: Louis Vuitton, Fendi  (ag=0.86 p=0.226)
+30 226.32-229.00 And we interned in a way at Adidas.
+31 229.22-233.42 Like the licensing deal was my intern to become, you know,
+32 233.46-238.74 more in that Bernard Arnault, Bezos, Elon territory.
+33 238.74-242.24 territory and just understanding how to you know how money works   <<T: territory and just understanding how to you know how money works  (ag=1.0 p=0.119)
+34 242.24-243.68 like this is first generation
+35 244.86-247.22 like you can say like look at like jay with the
+36 247.22-251.04 do say this is first generation of wealth those infrastructures right
+## S02 They called me Cassius / Nike is on defense dur=85.8s lines=30
+01 1096.42-1099.54 You know, they done fuck with me too long.
+02 1099.82-1103.18 Every time they say my name wrong, it's like they calling
+03 1103.18-1105.40 me Cassius. My name Ali.
+04 1107.12-1110.26 If I change my name, you respect that I changed my
+05 1110.26-1112.54 name. It shows you the level of disrespect.
+06 1112.82-1115.40 Every time they say one of my outfits are bizarre.
+07 1115.60-1117.78 When the last time you read a headline and they called
+08 1117.78-1118.42 me a billionaire?
+09 1119.04-1123.00 for three years forbes wouldn't say i was a billionaire it's   <<T: For three years, Forbes wouldn't say I was a billionaire It's  (ag=1.0 p=0.028)
+10 1123.00-1125.88 all to diminish me so y 'all wouldn't listen to me
+11 1125.88-1128.38 so say when i did the yay and drake show right
+12 1128.38-1133.22 it's so funny i look up and say yay drk right   <<T: right? It's so funny, I look up And it say Yay, D -R -K, right  (ag=0.77 p=0.196)
+13 1133.22-1137.50 there but uh i just i look it's just a similarity   <<T: right there But, uh, I just Oh, that's how you see it It's just a similarity  (ag=0.67 p=0.757)
+14 1137.50-1141.04 to it like me i'm not yeah absolutely gemini dyslexic left   <<T: similarity to it Are you dyslexic like me? Yeah, absolutely, Gemini dyslexic Left  (ag=0.75 p=0.256)
+15 1141.04-1143.02 -handed made to be right -handed so i could fit in
+16 1157.88-1159.10 Think about like Nike.
+17 1159.16-1163.40 Nike is as popular as Apple, but it's company number 321.
+18 1163.66-1164.52 Apple's number one.
+19 1166.17-1167.29 Nike's on defense.
+20 1167.43-1168.35 It's not on offense.
+21 1169.45-1171.99 Right? Because niggas love Nike.
+22 1172.47-1175.83 Right? Right. So Nike is used for political influence because it's   <<T: Right? So Nike is used for political influence Because it's not  (ag=0.91 p=0.384)
+23 1175.83-1177.59 not about the money you make.
+24 1177.63-1179.19 It's about the position you have.
+25 1179.41-1182.25 So when they signed me to Gap, it wasn't to raise
+26 1182.25-1183.01 a stock price.
+27 1183.23-1186.45 It was to be able to be like to tell the
+28 1186.45-1189.85 Fortune 500 companies that do deals with China to tell them,
+29 1189.89-1194.19 hey, Gap has influence in the underserved communities.
+30 1195.05-1197.01 That was what the deal was about.
+## S03 I'm not a designer, I'm an imagineer dur=65.6s lines=25
+01 1475.82-1477.30 OK, let me talk about Balenciaga.   <<T: okay let me talk about balenciaga  (ag=0.83 p=0.086)
+02 1486.08-1489.46 I've been since you did the last interview, I've been Balenciaga
+03 1489.46-1492.02 y 'all. You know, my nickname is Yala.   <<T: yeah you know that my nickname is yalla  (ag=0.62 p=0.133)
+04 1492.16-1493.98 So now they call me Balenci -Yala.
+05 1505.26-1509.23 Balenciaga has the best design because they have the best designer,
+06 1510.28-1512.36 period. And that's not you?
+07 1514.14-1515.86 I'm more like a Steve Jobs type.
+08 1516.08-1517.84 You know, you say to Steve, like, yo, you don't even
+09 1517.84-1522.62 program. You know, I would never disrespect a designer that been
+10 1522.62-1526.18 to school and that can cut and have dedicated their whole
+11 1526.18-1527.72 life and call myself a designer.
+12 1528.36-1530.70 I'm more an imagineer.
+13 1530.70-1534.64 I'm a visionary and I place the pieces of our culture
+14 1534.64-1538.76 together. Even right now, you know, I want to bring joy
+15 1538.76-1541.92 and laughter. So even if say, say, say, say we wanted
+16 1541.92-1544.00 to like look at the interview and we have a conversation
+17 1544.00-1546.44 out and say, look, do we need this first segment?
+18 1546.58-1549.48 Let's just do the shit that's like, you know, it's controversial   <<T: let's just do the that's like you know it's controversial  (ag=0.95 p=0.381)
+19 1549.48-1551.08 because people are going to really name names.   <<T: because people ain't gonna really name names  (ag=0.67 p=0.594)
+20 1551.28-1552.86 But it's funny still.
+21 1553.04-1554.10 I think about that.
+22 1554.16-1556.32 It's like we need joy.
+23 1556.50-1557.40 It's too much pain.
+24 1557.40-1560.90 you know it's too much anger and it's too much trauma   <<T: you know it's too much anger and it's too much trauma  (ag=1.0 p=0.115)
+25 1560.90-1561.40 economy   <<T:   (ag=0.0 p=0.989)
+## S04 I am a leader, not the leader dur=75.6s lines=25
+01 1108.58-1110.88 i want to change something i said i am the leader
+02 1110.88-1113.58 now let me change that i am a leader and there's
+03 1113.58-1117.28 a new leader being born every day and there's leaders locally
+04 1117.28-1121.64 that will hear this that can play this leaders of their
+05 1121.64-1125.20 school leaders of their boys club leaders of their churches their   <<T: their school leaders of their boys club leaders of their church leaders of their  (ag=0.8 p=0.279)
+06 1125.20-1128.28 crew leaders of their crew and that's another word for crew
+07 1128.28-1129.10 true   <<T: crew  (ag=0.0 p=0.064)
+08 1129.90-1133.08 leaders of their gang you see i'm saying gang has like   <<T: of their gang Gang has like  (ag=0.71 p=0.267)
+09 1133.08-1137.36 a negative connotation but by removing the gang leaders originally in
+10 1137.36-1142.35 chicago yeah and exactly by removing the gang leaders you're removing
+11 1142.35-1146.51 the leaders and that was something and that fucked up the   <<T: removing the leaders And that was something And that fucked up the  (ag=0.96 p=0.237)
+12 1146.51-1152.03 world right because those gang leaders would organize right there you
+13 1152.03-1154.63 know i'm saying gangster disciples saved my life in chicago I
+14 1154.63-1156.45 go, I'm here because of Gangster Disciples.
+15 1156.59-1160.83 And I am exactly who Larry Hoover wanted to see come
+16 1160.83-1162.89 out of the organization that he created.
+17 1163.09-1164.55 Took out leaders, took out structure.
+18 1171.63-1174.31 Nothing fucks with a drink champ's interview, right?
+19 1174.39-1174.99 No, no, no.   <<T: right  (ag=0.0 p=0.87)
+20 1175.17-1178.73 Because, you know, when I go to Tucker Carlson, they're just
+21 1178.73-1179.41 like so. It's not the same.   <<T: they're just like so same  (ag=0.55 p=0.881)
+22 1179.63-1183.01 They're just so marveled by the fact that of the brilliance.
+23 1183.01-1186.63 they're not respecting the brilliance they're more like shocked and like
+24 1186.63-1190.27 marveled by it's like hilarious to them it's like that squirrel
+25 1190.27-1191.15 can jet ski
+## S05 I don't like nobody better than me dur=82.3s lines=29
+01 1861.20-1865.80 can we address this hat what does the 2024 mean 2024
+02 1867.08-1868.66 the
+03 1869.72-1870.90 run it's
+04 1873.04-1875.48 time for us to rise up it's time for us to
+05 1875.48-1876.02 put somebody   <<T: us to put somebody  (ag=0.67 p=1.0)
+06 1876.84-1881.60 in office that is us that cares about us that serves
+07 1881.60-1884.46 god and serves the people that's what 2024 Twenty four means   <<T: serves God and serves the people That's what 2024 means  (ag=0.86 p=0.098)
+08 1884.46-1889.22 twenty. So. So you can't say this right now.   <<T: So we can't say this right now Or  (ag=0.71 p=0.665)
+09 1895.66-1900.61 So that that that the yay might be against.
+10 1900.75-1901.91 But what if Trump runs?
+11 1902.53-1903.95 No, that's all in 24.   <<T: No, that's, oh, he  (ag=0.44 p=0.364)
+12 1904.07-1905.57 He might. Yeah, I   <<T: might, yeah.  (ag=0.67 p=0.978)
+13 1906.76-1909.96 think that's what I think that's what America's been waiting for.
+14 1910.91-1911.93 You against Trump?
+15 1912.35-1914.29 Yeah. Who you voting for?
+16 1917.76-1918.42 That's a good one.
+17 1920.80-1922.10 I'm not even going to lie, man.
+18 1922.16-1924.60 I'm a fan of a lot of people, but, you know,
+19 1924.64-1926.54 respectfully, I don't like nobody better than me.
+20 1926.78-1926.92 Right.
+21 1928.80-1931.21 If he asked you to be VP, would you?
+22 1935.33-1935.69 Yeah.   <<T:   (ag=0.0 p=0.999)
+23 1936.51-1938.29 Absolutely. If that was a piece that's like me, let's say,
+24 1938.35-1939.03 watch the throne then.
+25 1940.37-1942.15 Well, you thought he was the VP on watch the throne?   <<T: Well, you thought he was VP on Rashadone? I thought  (ag=0.67 p=0.275)
+26 1942.25-1944.45 I thought that was his co -president.   <<T: I thought I thought I was equals co -president  (ag=0.62 p=0.276)
+27 1944.69-1946.27 But still, that's my elder.
+28 1946.27-1949.47 that's my senior that's the first one more experience i love   <<T: That's my senior. That's a person with more experience. I love the  (ag=0.7 p=0.649)
+29 1949.47-1949.85 the respect   <<T: I love the respect.  (ag=0.67 p=0.891)
+## S06 Stella McCartney's husband gets a pass dur=64.6s lines=30
+01 1002.82-1003.92 No, man, come on.
+02 1004.04-1004.72 What was the question?   <<T: on what's the question you had  (ag=0.4 p=0.897)
+03 1004.76-1005.98 You had a good question I want to answer, though.
+04 1006.04-1008.10 No, we were just talking about that moment when you showed
+05 1008.10-1009.00 the porn to the executives.   <<T: you showed the porn to the executive  (ag=0.67 p=0.974)
+06 1009.14-1010.48 And now we're talking about your sneaker.
+07 1010.58-1014.16 Yeah. At Adidas, at this point, I should be the person
+08 1014.16-1015.44 that says, Nori, get a sneaker.
+09 1015.64-1017.80 That's right. I should be the person that delegates.
+10 1018.28-1020.44 But instead, they gave it to Stella McCartney's husband.
+11 1020.44-1023.72 And I'm not going to speak no ill on Stella McCartney's   <<T: husband and i'm not gonna speak speak no ill on stella mccartney's  (ag=0.78 p=0.168)
+12 1023.72-1027.38 husband because I'm cool with her, uh, with his father -in   <<T: husband because i'm cool with her uh with his father -in -law  (ag=0.96 p=0.2)
+13 1027.38-1029.76 -law, you know, that's my man, you know what I'm saying?
+14 1029.84-1031.12 That man stood next to me.
+15 1031.26-1032.42 We went into the studio.
+16 1032.52-1033.40 We did all day.
+17 1033.60-1034.48 We did only one.
+18 1034.58-1035.68 We did four or five seconds.
+19 1035.76-1037.58 Like me and Paul McCartney got joints.
+20 1037.78-1038.46 You know what I'm saying?
+21 1038.52-1042.04 So that's the reason why Adidas, you really found you a
+22 1042.04-1045.36 Virgil and Stella McCartney's husband and a person that I'm going
+23 1045.36-1046.94 to give a hug no matter what.
+24 1046.94-1048.96 Mmm, so because that's the way it is.   <<T: what so because that's the way it is it's  (ag=0.82 p=0.109)
+25 1049.00-1052.22 It's like even at war even in John wick even with
+26 1052.22-1055.48 neo It's ones that they just have to pass on so
+27 1055.48-1059.94 it's just like Stella McCartney's husband because he's Stella McCartney's husband
+28 1059.94-1063.26 Part of reason why he became Stella McCartney's husband He'd get   <<T: husband part of the reason why he became Stella McCartney's husband he get a  (ag=0.8 p=0.266)
+29 1063.26-1065.48 a pass from yay, and you get a pass from yay.
+30 1065.54-1067.40 You get a pass from the culture, right?
+## S07 A Maybach fleet until we make our own cars dur=66.5s lines=23
+01 658.29-661.11 because why not we just do it ourself and not be   <<T: Because why not we just do it ourselves And not be  (ag=0.91 p=0.374)
+02 661.11-665.31 mad at nobody but i think nobody chinese nobody black nobody   <<T: not be mad at nobody Jewish, nobody Chinese Nobody black, nobody  (ag=0.73 p=0.456)
+03 665.31-668.85 anywhere we we gotta get like the chinese world we got   <<T: nobody anywhere But we got to get like a Chinese world. We got  (ag=0.67 p=0.414)
+04 668.85-672.39 it on point we gotta get like a point we gotta   <<T: We got it on point. We got to get like, we got to get  (ag=0.56 p=0.224)
+05 672.39-674.61 get our own factories you gotta put it together whether it's   <<T: to get our own factories. We got to put it together, whether it's like,  (ag=0.72 p=0.86)
+06 674.61-677.19 like you know i'm saying like look at like warren buffett's
+07 677.19-679.03 factory or something it's kind of like when you walk in   <<T: factory or something. It's got to like you walk in, you  (ag=0.73 p=0.767)
+08 679.03-681.15 you gotta feel that's the reason why one of the things
+09 681.15-683.67 is like when me and puffy was like uh going back   <<T: of the things is like when me and Puffy was like going back and  (ag=0.8 p=0.233)
+10 683.67-689.40 and forth on um on instagram or text i wouldn't change   <<T: back and forth on Instagram or text, I went and changed  (ag=0.64 p=0.514)
+11 689.40-692.94 my i was on the car service i'm like i want
+12 692.94-696.12 to just did maybach fleets for the whole for everybody i'm
+13 696.12-699.86 saying i'm getting my like my people in a higher you
+14 699.86-702.64 know position and stuff like that i got two maybachs type
+15 702.64-705.76 shit i got like four you're saying our fleet don to   <<T: type shit I got like four years and our fleet down to pull  (ag=0.67 p=0.457)
+16 705.76-707.94 pull up this is back to back to to back to
+17 707.94-709.80 back to back back back back back back back right yay   <<T: to back to back to back back back back back back back back back back back back  (ag=0.64 p=0.127)
+18 709.80-712.62 backs and shit and until we make our own cards you   <<T: back back back and shit until we make our own  (ag=0.67 p=0.193)
+19 712.62-714.68 know until we make our own cards but it's like we're   <<T: but it's like we're not  (ag=0.5 p=0.881)
+20 714.68-715.10 not really   <<T: like we're not really  (ag=0.67 p=0.998)
+21 716.56-719.72 maximizing who we are we're not limited to the master we   <<T: who we are we're not limited to the master we  (ag=0.95 p=0.101)
+22 719.72-722.50 we get we're the legal bmf you know we have to   <<T: get with a legal BMF you know so we have to  (ag=0.73 p=0.114)
+23 722.50-724.72 think like in that manner
+## S08 Nothing I can't play in front of my kids dur=73.6s lines=24
+01 1327.20-1330.76 think about like true love like my kids can we listen
+02 1330.76-1333.18 to true love at kim's house which used to be my
+03 1333.18-1336.66 house but uh we listened to true love in front of   <<T: to be my house. But we listen to true love in front of the  (ag=0.72 p=0.537)
+04 1336.66-1339.28 the kids and chicago be like you said chicago you said
+05 1339.28-1341.94 chicago so i was big on donda that even though i
+06 1341.94-1345.02 was beefing with a baby mama i'm my baby mama that   <<T: though I was beefing with my baby mama, that I  (ag=0.67 p=0.755)
+07 1345.02-1347.30 i wouldn't say anything that i couldn't play in front of   <<T: I wouldn't say anything that I couldn't play in front of the  (ag=0.96 p=0.161)
+08 1347.30-1350.70 the kids that that's the consciousness that i had to have
+09 1350.70-1353.62 as a leader in all of my content so even right
+10 1353.62-1356.18 now i say okay it's adult content right this is a
+11 1356.18-1359.74 grown grown conversation it's a grown conversation and i ran into
+12 1359.74-1362.66 at age five but it's still a grown -up conversation to
+13 1362.66-1365.20 me right so i played this for grown -ups in the
+14 1365.20-1368.48 adidas meeting i said look we have to do this because
+15 1368.48-1372.10 culture it ain't no culture if you if you have a
+16 1372.10-1374.70 party and it ain't no girls there that's not cultural yeah   <<T: have a party and it ain't no girls there that's not cultural yeah  (ag=0.92 p=0.253)
+17 1374.70-1377.50 they ain't right and and this is the reason why drake   <<T: yeah that ain't And this is the reason why Drake runs  (ag=0.73 p=0.242)
+18 1377.50-1380.46 runs the culture right because at the end of the day
+19 1380.46-1384.79 he's at the time it don't matter it don't matter if
+20 1384.79-1387.85 i i could take over fashion week for you know two
+21 1387.85-1391.29 weeks or whatever it's like drake runs the culture at the
+22 1391.29-1393.89 end of the day because the culture at the end of
+23 1393.89-1397.63 the day is about finding a nice young libra that that
+24 1397.63-1400.79 you could connect with on her birthday, possibly.
+## S09 Tuskegee is not a conspiracy theory dur=94.7s lines=29
+01 51.72-54.68 this is the thing you could say all this stuff.
+02 54.76-56.98 You could say Tuskegee and people don't even know what that
+03 56.98-58.36 is. Right. Hold on.   <<T: what that is right hold up  (ag=0.6 p=0.769)
+04 58.42-59.54 Hold on. No, I know.   <<T: up no I know hold  (ag=0.6 p=0.052)
+05 59.60-63.58 Hold up. And they just think you're throwing things out there
+06 63.58-66.38 and they're like, yeah, he's just saying things.
+07 66.64-70.58 But if people do the research, if you can articulate what
+08 70.58-75.34 Tuskegee what really happened, which is legit, it really happened.   <<T: what Tuskegee happened what really happened which is legit it really happened  (ag=0.91 p=0.355)
+09 75.34-77.18 It's not a conspiracy theory.
+10 77.54-80.00 The government did this to people.
+11 81.20-84.50 Then you can get people on the side of what you're
+12 84.50-88.42 saying. It all becomes about articulation and
+13 89.31-91.83 history because history is real.
+14 93.14-94.74 And that's what I think.
+15 94.78-98.54 Sometimes I think we as Americans, we have no history anymore.
+16 98.70-102.78 We're not learning history, real history, teaching history.
+17 102.78-105.36 it's all done it's gone and
+18 106.16-109.38 we need to bring that back and bring it back in
+19 109.38-113.64 the right way where people articulate what it really happens what
+20 113.80-115.98 you guys are doing what's different right here because as you're
+21 115.98-119.72 talking I felt I was like wow there wouldn't have been
+22 119.72-122.98 no way for me to become president without coming to drink
+23 122.98-127.08 champs when you were talking right now like
+24 130.86-134.22 you know who you're saying what you the way you articulated
+25 134.22-137.82 it because it's very important that we stay in constant communication   <<T: it because it's very important that we stay in constant communication  (ag=1.0 p=0.266)
+26 137.82-141.88 that's what that's what the enemy wants us to do they
+27 141.88-143.90 don't want us to talk like the slave ships right they
+28 143.90-146.22 cut our tongues I told us that to talk to each   <<T: right? They cut our tongues and told us not to talk to each other.  (ag=0.72 p=0.53)
+29 146.22-146.56 other and   <<T: to each other.  (ag=0.4 p=0.756)
+## S10 My favorite human being is me dur=70.4s lines=30
+01 157.36-160.86 I remember I used to play ball with Common, with Rashid,
+02 160.86-164.48 at UCLA. And afterwards, I was like, we can go to
+03 164.48-166.38 Denny's. You know, this nigga's a skinny actor.   <<T: we can go to Denny's. You know, this nigga's skinny actor. He  (ag=0.7 p=0.905)
+04 166.50-167.26 He said, Denny's?
+05 168.26-169.30 But I like Denny's.
+06 170.48-173.00 But I want to just take this moment of breath and
+07 173.00-173.72 just soak it in.
+08 173.72-175.52 and how, how   <<T: it in how  (ag=0.33 p=0.173)
+09 177.06-180.04 important you guys' voice is.
+10 180.38-183.98 And I want to just compliment, you know, my favorite person
+11 183.98-184.50 in the world.
+12 184.62-185.22 Do you know who that is?
+13 186.57-190.72 Does anyone here know my, no, does anyone here know who   <<T: Does anyone here know my favorite  (ag=0.59 p=0.651)
+14 190.72-192.18 my favorite human being is?   <<T: being is in the world?  (ag=0.4 p=0.995)
+15 192.20-193.40 I would think your mom is.
+16 194.00-195.36 No, no, not my mom, close.
+17 196.46-198.08 Me, I want to compliment me.
+18 201.20-203.98 Through your mom, your mom empowered you.
+19 203.98-205.38 Yeah, second favorite.
+20 205.66-209.48 So I want to compliment me on having the wherewithal to
+21 209.48-212.42 be sitting there through the divorce, through all that, and say,
+22 212.54-215.04 the next time that people hear me talk, I'm going to
+23 215.04-215.76 Drink Champs.   <<T: going to drink champs.  (ag=0.67 p=0.57)
+24 220.72-221.88 And think about this.
+25 221.98-224.32 You know, when I was at Rolling Loud, I hadn't seen
+26 224.32-226.36 Future until I saw him on stage.
+27 227.08-228.34 He said, freestyle, freestyle.
+28 228.86-231.52 And he looked at me and said, like, man, most influential
+29 231.52-232.68 in the world.
+30 232.68-232.78 we   <<T: the world we  (ag=0.5 p=0.181)
+## S11 President Ye ends all wars dur=94.5s lines=30
+01 602.31-605.91 me ask a presidential question let's just say in one future
+02 605.91-609.19 you're running for president right and
+03 609.93-613.79 we're still in the quagmire that is the ukraine war i
+04 613.79-614.85 made y 'all see the 2024
+05 615.79-620.94 why he's talking what do you what would a president yay   <<T: But he's talking. what do you what would a president yay  (ag=0.91 p=0.283)
+06 620.94-622.30 do   <<T: yay do  (ag=0.67 p=0.995)
+07 623.29-627.95 to avoid what might be world war three i'm ending all   <<T: to avoid what might be world war three i'm ending all  (ag=1.0 p=0.067)
+08 627.95-633.71 wars how 2024 we ended all wars because wars but how
+09 633.71-636.09 do you end wars let's just say end wars you gotta
+10 636.09-639.91 you gotta have real because war is made off of greed
+11 639.91-645.47 and deceit and economy as well economy but there is a
+12 645.47-648.81 free economy that the world has created for us that needs
+13 648.81-655.48 to be simplified by me i am the visionary i can   <<T: needs to be simplified by me i am the visionary can  (ag=0.91 p=0.011)
+14 655.48-659.52 end war i can end war we can end war but
+15 659.52-662.28 how don't just say that give me if you were the
+16 662.28-665.64 presidential candidate what would you say how would you end it
+17 665.64-667.32 you know the biggest thing is i can see things i
+18 667.32-669.66 live 20 years ahead everything i do is like something someone
+19 669.66-673.22 would do as you should 20 years ahead right so it's
+20 673.22-675.90 laying out the plans, the same way how I lay out.
+21 676.00-677.90 I laid out the blueprint for blueprint.
+22 678.12-679.30 But you got to give us a layman.
+23 679.32-682.36 You're going to be speaking to constituents that don't understand anything.
+24 682.56-683.44 Here's the rap language.
+25 683.72-686.56 I made the blueprint for blueprint.
+26 687.04-687.54 I   <<T:   (ag=0.0 p=0.999)
+27 688.31-691.93 made the blueprint for blueprint as a vessel of God.
+28 692.09-694.25 I mean, God is actually the only artist.   <<T: Now, I mean, God is actually the only artist.  (ag=0.94 p=0.287)
+29 694.41-695.37 This is the thing.
+30 695.43-696.45 God runs the world.
+## S12 Old enough to be president dur=83.6s lines=23
+01 1093.80-1097.12 i'm always being honest so we'll get to that point so
+02 1097.12-1101.14 i'm saying that every time the celebrity does something you know
+03 1101.14-1105.42 in the public it's you know to raise their profile or
+04 1105.42-1109.54 something some way you know i'm here right but i would
+05 1109.54-1112.68 love for people to understand my perspective i want to be
+06 1112.68-1114.82 i don't even like the word want we shouldn't want for
+07 1114.82-1118.48 anything right i need people to accept the version of me   <<T: for anything right i need people to accept the version of me  (ag=0.96 p=0.342)
+08 1118.48-1121.66 for exactly who I am for me to do the best   <<T: me for exactly who I am for me to do the best  (ag=0.96 p=0.234)
+09 1121.66-1126.94 version of you up before the people meaning like like you're   <<T: version of you up before the people meaning like like you're gonna  (ag=0.96 p=0.138)
+10 1126.94-1130.10 gonna do the version of you regardless yeah so say so
+11 1130.10-1134.06 say yay is an office 2024 look at what I did   <<T: say yay is in office 2024 look at what I did  (ag=0.91 p=0.267)
+12 1134.06-1137.26 at Adidas look at what I did next to Jay -z
+13 1137.26-1139.76 look at what I did next to Kim look what I
+14 1139.76-1142.90 did for myself that's exactly what I would do I'm 45
+15 1142.90-1145.62 years old yes I'm old enough to be president now right   <<T: 45 years old you I'm old enough to be president now. Right.  (ag=0.87 p=0.26)
+16 1145.62-1147.56 so the   <<T: now. Right. So the  (ag=0.67 p=0.735)
+17 1148.74-1153.56 the same things i did you know within high school or
+18 1153.56-1156.04 col uh you know college as a producer or going into   <<T: college, you know, college as a producer or going into  (ag=0.86 p=0.313)
+19 1156.04-1161.12 rap going into production going into creating merch going into creating
+20 1161.12-1164.88 the you know the first sportswear factories in america since world
+21 1164.88-1168.44 war ii that's the mentality i have and i'm a minimalist   <<T: World War Two. That's the mentality I have And I'm a minimalist  (ag=0.87 p=0.345)
+22 1168.44-1172.88 i'm like i've mixed a bit of the amish idea of
+23 1172.88-1177.40 simple life with Apple, Mercedes Benz, Louis Vuitton.
+## S13 The Pharrell of politics dur=85.2s lines=31
+01 1651.98-1654.64 this real shit like um   <<T: but yeah, this real shit, like, um,  (ag=0.83 p=0.16)
+02 1656.20-1660.44 there was so many people that was conflicted and then switched
+03 1660.44-1666.98 sides because we didn't understand who was your plight you mean
+04 1666.98-1668.94 on a red hat or the t -shirt or what which
+05 1668.94-1671.10 part yeah i mean like his Your specifics plight?   <<T: Which part? Yeah, I mean. Like his specifics plight?  (ag=0.89 p=0.192)
+06 1671.26-1671.50 Yeah.
+07 1672.59-1673.11 So,
+08 1673.84-1675.04 I fuck with you.
+09 1675.89-1676.85 I love you.
+10 1677.13-1677.65 I   <<T:   (ag=0.0 p=0.998)
+11 1678.84-1679.82 consider you my brother.
+12 1680.32-1681.94 And I, to
+13 1682.68-1687.46 these people that is complaining, I'm the guy that's talking to
+14 1687.46-1687.64 them.   <<T: to them.  (ag=0.67 p=1.0)
+15 1689.12-1691.28 So, help me out on
+16 1692.15-1694.33 what's your actual plight.
+17 1694.94-1697.28 Who's your number one producer you ever work with?
+18 1698.11-1700.65 Me. Okay. Who you say?
+19 1700.97-1703.41 Pharrell. Pharrell. I said Pharrell.
+20 1703.43-1705.03 Pharrell. My wife said Pharrell.   <<T: Pharrell. my wife is a pharrell  (ag=0.73 p=0.614)
+21 1705.03-1706.37 I'm the Pharrell.
+22 1706.91-1709.49 I'm the Pharrell of politics
+23 1710.30-1713.38 For me, I'm the first time you see a black dude   <<T: is for me i'm the first time you see a black dude  (ag=0.96 p=0.139)
+24 1713.38-1717.24 wearing a Harley -Davidson hat riding on a you know
+25 1719.04-1722.72 Your transcending what a horror GT or GT bike nice to   <<T: gt on a haro gt or gt bike because i used to freestyle  (ag=0.5 p=0.087)
+26 1722.72-1725.84 freestyle bike. I was a extreme gamer and shit I can
+27 1725.84-1727.80 I can stand up on top of a bike like this
+28 1727.80-1730.42 and ride and shit like just like Pharrell I was a
+29 1730.42-1732.38 nerd also you're gonna say I was a nigga with the   <<T: was a nerd also you're going to say And I was a nigga with the pink  (ag=0.74 p=0.2)
+30 1732.38-1736.68 pink polo and And, you know, we love moving the world   <<T: nigga with the pink polo and, you know. We love you. We're ruling the world  (ag=0.69 p=0.28)
+31 1736.68-1737.14 right now.   <<T: world right now. Yeah,  (ag=0.67 p=0.996)
+## S14 I like the love and I like the fear dur=78.6s lines=32
+01 664.30-668.26 Did you express everything that you wanted to express?
+02 668.62-670.14 Did we get that, like...
+03 670.96-672.80 Because I got to go in 20 minutes.
+04 672.86-673.32 I got to go.   <<T: minutes. I got to go. I got  (ag=0.73 p=0.978)
+05 673.38-673.98 I got to leave soon.
+06 674.06-675.42 I ain't going to lie to you, Kanye.
+07 675.64-676.60 I'm going to be honest with you.
+08 679.30-680.98 You didn't have to do this.
+09 682.06-683.84 You could have went to Steve and A.
+10 683.94-684.20 Smith.   <<T: A. Smith.  (ag=0.67 p=0.999)
+11 684.82-686.18 You could have went to Oprah.
+12 686.36-687.08 You could have went to everybody.
+13 687.54-688.44 But you know what you did?
+14 689.12-690.52 You came back to the culture.
+15 690.52-691.46 you or   <<T: culture.  (ag=0.0 p=0.011)
+16 692.94-697.16 anything don't clap yet we   <<T: Boy, they did. Don't clap yet.  (ag=0.55 p=0.77)
+17 698.95-703.49 could have been scared and guess what we were scared but
+18 704.48-707.68 you're my brother i like that i have that effect on
+19 707.68-708.86 people i   <<T: on people.  (ag=0.5 p=0.958)
+20 710.04-714.36 like to have that 730 go ahead go ahead go ahead   <<T: I like that I have that 730. You don't want to let me finish my speech? Go ahead, go ahead, go ahead. You don't  (ag=0.57 p=0.021)
+21 716.38-719.08 wait wait do you not think you have the effect that
+22 719.08-723.18 we we really love what you do i like that I
+23 723.18-724.52 like the love and I like the fear also.
+24 725.36-729.02 Nah, but on the cultural standpoint, we love what you do.
+25 729.12-730.38 You mean so much to us.
+26 731.45-732.55 Good money, America.
+27 732.57-733.61 Nah, they don't give a fuck.   <<T: America They don't give a fuck  (ag=0.83 p=0.269)
+28 733.83-736.91 And by the way, because that's the thing, Tucker Carlson, they
+29 736.91-739.15 don't want to help me up to the point where I'm
+30 739.15-740.89 like supporting Trump, right?
+31 741.71-742.89 That's all they care about.
+32 742.91-743.05 At the   <<T: about At the end of  (ag=0.57 p=0.863)
+## S15 Hip-hop is a race by itself dur=66.9s lines=27
+01 596.74-599.70 But every single black artist need to be on Tidal.
+02 600.46-602.76 And every single black artist need to wear Yeezy.
+03 603.30-607.66 And if Cedric, the head of Balenciaga, talk left or right
+04 607.66-610.30 to me, we need to be able to turn the switch
+05 610.30-611.26 off on Balenciaga.
+06 611.96-615.26 And if he talk right to me and us, we turn
+07 615.26-615.84 the switch on.   <<T: turn a switch on  (ag=0.57 p=0.779)
+08 616.46-619.94 We have to come together as a block as Claude Anderson
+09 619.94-623.12 said we have to be a block so this time say
+10 623.12-623.78 if I
+11 624.78-627.42 Don't let's say just in our wildest dreams.
+12 627.54-628.92 Yay doesn't become president.
+13 629.06-632.12 Hip -hop is a tribe by itself Yeah, so everyone is
+14 632.12-634.02 hip -hop. Also we come together.
+15 634.18-635.38 That's it. That's a race itself.
+16 635.64-637.68 Hip -hop is a racist That's what I've been trying to
+17 637.68-642.88 say Hip -hop has no color.   <<T: been trying to tell you this is a race i've been trying to tell you that hip -hop has no color  (ag=0.37 p=0.137)
+18 642.98-645.34 What are we doing with hip -hop hip -hop?
+19 645.84-647.38 If you say it's not a race, at least it's a
+20 647.38-649.92 people. Just like how Jewish people are people.   <<T: least it's the people just like our jewish people are people  (ag=0.74 p=0.959)
+21 650.42-651.76 Yeah, hip -hop against everybody.
+22 651.92-654.28 And we're making our people do our own thing?
+23 654.38-654.66 Yes.
+24 655.34-656.52 It's time for us to do it.
+25 657.16-658.50 A tremendous name.
+26 658.66-661.88 I feel like Dream Champs is doing that immediately, right now.
+27 662.20-663.60 I feel like we're doing it right now.
+## S16 Tremaine, Tremendous and reverse appropriation dur=66.5s lines=26
+01 863.34-867.86 Why are you wearing the Trump, excuse me.
+02 867.92-868.60 It's not Trump.   <<T: me,  (ag=0.0 p=0.794)
+03 868.66-869.38 It's not Trump.   <<T: um,  (ag=0.0 p=0.732)
+04 869.72-873.78 The Supreme Lives Matter.   <<T: the, um, the, um, the, um, the Supreme Lives Matter.  (ag=0.57 p=0.926)
+05 874.34-875.54 This is not Lives Matter.
+06 875.68-876.54 This is Tremaine.   <<T: Matter. This is Jermaine.  (ag=0.57 p=0.937)
+07 876.68-877.50 This is Tremaine.   <<T: This is Jermaine.  (ag=0.67 p=0.932)
+08 877.60-880.08 This is my boy that's at Supreme now.
+09 880.30-881.86 And the weird thing is like, you know.
+10 881.96-882.38 He's a good guy.   <<T: you know,  (ag=0.0 p=1.0)
+11 882.60-883.50 He's a good guy.
+12 883.64-884.84 So you think about like Pete Davidson.
+13 884.88-887.64 I gave him a negative nickname.   <<T: Davis. I gave him, I gave him money. uh a negative nickname  (ag=0.67 p=0.983)
+14 887.64-891.42 named skeet davidson with tremaine i gave him something that was   <<T: nickname ski davidson with tremaine i gave him something that was  (ag=0.82 p=0.184)
+15 891.42-894.84 even more powerful i yayed him up i gave him tremendous
+16 894.84-897.88 right and then we went in we appropriate we did a
+17 897.88-901.58 reverse appropriation of everything supreme and i went to studio with
+18 901.58-904.98 ian connor right and we went in is this you know   <<T: e and connor right and we went supreme is this you know it's  (ag=0.75 p=0.28)
+19 904.98-907.06 it's a skate brand it's the high school right you know
+20 907.06-909.98 i'm saying so it's like we went in and flipped everything
+21 909.98-915.18 this thing is so the tremendous movement is more i don't
+22 915.18-917.56 call it a movement because you don't move nowhere that's like   <<T: don't want to call it a movement because you don't move nowhere. That's like the  (ag=0.85 p=0.369)
+23 917.56-921.18 the tremendous idea is so much bigger than even a t
+24 921.18-923.94 -shirt the other t -shirt i wore like this is finna
+25 923.94-927.88 go crazy people are love this and they love because you
+26 927.88-929.82 got duff charlie bigger than white that's my   <<T: you got Dove Charney. It's bigger than White Lives Matter.  (ag=0.44 p=0.174)
+## S17 The audacity dur=74.9s lines=22
+01 1367.25-1369.29 So did you get, like, any calls?
+02 1370.42-1372.90 I mean, I'm getting calls at all times, but, yeah, I
+03 1372.90-1375.72 feel what you're saying because Trevor Carlson did the interview.   <<T: I feel what you're saying, because Tucker Carlson did the interview,  (ag=0.86 p=0.359)
+04 1376.42-1379.26 I just feel like there was people in the group and
+05 1379.26-1382.04 shit, and the whole interview was just more like on some,
+06 1382.08-1384.20 like, a conversation about mental health.
+07 1384.30-1386.12 And it's hard for, like...
+08 1386.56-1388.20 Is it a conversation about mental health?   <<T: it a conversation on mental health is  (ag=0.71 p=0.777)
+09 1388.26-1388.74 Is that real?
+10 1389.88-1392.62 I just think that people
+11 1393.74-1398.38 don't know how to understand what they're dealing with now they've
+12 1398.47-1403.47 always saw black people that were an athlete that would follow
+13 1403.47-1407.81 their contract a rapper that would follow their contract an actor
+14 1407.81-1411.21 that would follow their contract they never had to walk into
+15 1411.21-1417.00 the room and deal with a black man that would have
+16 1417.00-1422.52 the audacity to give the most famous most influential white woman
+17 1422.52-1426.44 in the world for black children that would have the audacity   <<T: in the world for black children, that would have the audacity to  (ag=0.96 p=0.232)
+18 1426.44-1428.92 to wear a red hat or white lives matter t -shirt
+19 1428.92-1432.82 that would have audacity to have multiple hundred thousand square foot
+20 1432.82-1436.70 fifty seven thousand square foot warehouses that would have to audacity   <<T: foot, 57 ,000 square foot warehouses that would have the audacity.  (ag=0.64 p=0.556)
+21 1436.70-1440.02 they've never dealt with it so between black people or white
+22 1440.02-1442.10 people they've never seen this before
+## S18 I'm not Moses, I'm Quincy Jones dur=76.5s lines=24
+01 1444.00-1446.02 And so let's be easy on everybody.
+02 1446.72-1449.90 At the end of the day, we're all dirt beneath God.
+03 1450.30-1452.18 And we argue amongst each other.
+04 1452.40-1457.30 But my job as a Quincy Jones beneath, I'm not Moses,
+05 1457.34-1459.36 I'm Quincy Jones, right?
+06 1459.70-1463.18 And we're playing all of symphony, but we're all playing on   <<T: and we're playing all a symphony but we're all playing on  (ag=0.91 p=0.31)
+07 1463.18-1465.86 different notes. It's people that are there for greed.
+08 1466.00-1469.22 It's all people there for, let's not say for the wrong   <<T: it's people there it's all people there for let's not say the wrong  (ag=0.83 p=0.228)
+09 1469.22-1470.34 reasons, but we're all here.
+10 1470.34-1478.46 And God calls me to bring everybody together, everybody together, the
+11 1478.46-1485.06 left, the right, the racist, the non -racist, the Christians, the
+12 1485.06-1490.56 atheists, the straight, the trans, the this, the everybody.   <<T: atheist the the straight the the trans the this that everybody  (ag=0.7 p=0.74)
+13 1490.96-1492.70 That's what God is calling.
+14 1492.96-1493.54 Do you accept everybody together?   <<T:   (ag=0.0 p=0.758)
+15 1493.54-1498.70 I accept everyone together because we're all, you know, we can't
+16 1498.70-1499.48 judge our sins.
+17 1499.76-1505.04 In God's eyes, looking at somebody's wife and killing somebody is
+18 1505.04-1506.28 the same level of sin.
+19 1506.50-1508.56 It's all the equal level of sin.
+20 1508.64-1512.04 Looking at somebody's wife and killing somebody is the same level
+21 1512.04-1512.40 of sin.   <<T: level sin  (ag=0.5 p=1.0)
+22 1514.62-1516.34 We should not be judged by man.
+23 1516.46-1519.06 We perform for an audience of one.
+24 1519.28-1520.36 And that's God.

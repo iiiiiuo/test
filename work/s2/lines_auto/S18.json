@@ -1,0 +1,218 @@
+[
+{
+"n": 1,
+"start": 1444.0,
+"end": 1446.02,
+"text": "And so let's be easy on everybody.",
+"turbo": "saying so let's be easy on everybody",
+"agree": 0.86,
+"minp": 0.873
+},
+{
+"n": 2,
+"start": 1446.72,
+"end": 1449.9,
+"text": "At the end of the day, we're all dirt beneath God.",
+"turbo": "the end of the day we're all dirt beneath god",
+"agree": 0.95,
+"minp": 0.901
+},
+{
+"n": 3,
+"start": 1450.3,
+"end": 1452.18,
+"text": "And we argue amongst each other.",
+"turbo": "and we argue amongst each other",
+"agree": 1.0,
+"minp": 0.981
+},
+{
+"n": 4,
+"start": 1452.4,
+"end": 1457.3,
+"text": "But my job as a Quincy Jones beneath, I'm not Moses,",
+"turbo": "but my job as a quincy jones beneath i'm not moses",
+"agree": 1.0,
+"minp": 0.978
+},
+{
+"n": 5,
+"start": 1457.34,
+"end": 1459.36,
+"text": "I'm Quincy Jones, right?",
+"turbo": "i'm quincy jones right",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 6,
+"start": 1459.7,
+"end": 1463.18,
+"text": "And we're playing all of symphony, but we're all playing on",
+"turbo": "and we're playing all a symphony but we're all playing on",
+"agree": 0.91,
+"minp": 0.31
+},
+{
+"n": 7,
+"start": 1463.18,
+"end": 1465.86,
+"text": "different notes. It's people that are there for greed.",
+"turbo": "on different notes right it's people that are there for greed",
+"agree": 0.9,
+"minp": 0.815
+},
+{
+"n": 8,
+"start": 1466.0,
+"end": 1469.22,
+"text": "It's all people there for, let's not say for the wrong",
+"turbo": "it's people there it's all people there for let's not say the wrong",
+"agree": 0.83,
+"minp": 0.228
+},
+{
+"n": 9,
+"start": 1469.22,
+"end": 1470.34,
+"text": "reasons, but we're all here.",
+"turbo": "wrong reasons but we're all here",
+"agree": 0.91,
+"minp": 1.0
+},
+{
+"n": 10,
+"start": 1470.34,
+"end": 1478.46,
+"text": "And God calls me to bring everybody together, everybody together, the",
+"turbo": "here and god calls me to bring everybody together everybody together the",
+"agree": 0.96,
+"minp": 0.561
+},
+{
+"n": 11,
+"start": 1478.46,
+"end": 1485.06,
+"text": "left, the right, the racist, the non -racist, the Christians, the",
+"turbo": "the left the right the races the non -racist the christians the",
+"agree": 0.87,
+"minp": 0.619
+},
+{
+"n": 12,
+"start": 1485.06,
+"end": 1490.56,
+"text": "atheists, the straight, the trans, the this, the everybody.",
+"turbo": "atheist the the straight the the trans the this that everybody",
+"agree": 0.7,
+"minp": 0.74
+},
+{
+"n": 13,
+"start": 1490.96,
+"end": 1492.7,
+"text": "That's what God is calling.",
+"turbo": "that's what god is calling",
+"agree": 1.0,
+"minp": 0.962
+},
+{
+"n": 14,
+"start": 1492.96,
+"end": 1493.54,
+"text": "Do you accept everybody together?",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.758
+},
+{
+"n": 15,
+"start": 1493.54,
+"end": 1498.7,
+"text": "I accept everyone together because we're all, you know, we can't",
+"turbo": "I accept everyone together because we're all you know we can't judge",
+"agree": 0.96,
+"minp": 0.677
+},
+{
+"n": 16,
+"start": 1498.7,
+"end": 1499.48,
+"text": "judge our sins.",
+"turbo": "can't judge our sins",
+"agree": 0.86,
+"minp": 0.986
+},
+{
+"n": 17,
+"start": 1499.76,
+"end": 1505.04,
+"text": "In God's eyes, looking at somebody's wife and killing somebody is",
+"turbo": "in God's eyes looking at somebody's wife and killing somebody is the",
+"agree": 0.96,
+"minp": 0.87
+},
+{
+"n": 18,
+"start": 1505.04,
+"end": 1506.28,
+"text": "the same level of sin.",
+"turbo": "is the same level sin",
+"agree": 0.8,
+"minp": 0.557
+},
+{
+"n": 19,
+"start": 1506.5,
+"end": 1508.56,
+"text": "It's all the equal level of sin.",
+"turbo": "it's all the equal level sin",
+"agree": 0.92,
+"minp": 0.954
+},
+{
+"n": 20,
+"start": 1508.64,
+"end": 1512.04,
+"text": "Looking at somebody's wife and killing somebody is the same level",
+"turbo": "sin looking at somebody's wife and killing somebody is the same level",
+"agree": 0.96,
+"minp": 0.996
+},
+{
+"n": 21,
+"start": 1512.04,
+"end": 1512.4,
+"text": "of sin.",
+"turbo": "level sin",
+"agree": 0.5,
+"minp": 1.0
+},
+{
+"n": 22,
+"start": 1514.62,
+"end": 1516.34,
+"text": "We should not be judged by man.",
+"turbo": "should not be judged by man we",
+"agree": 0.86,
+"minp": 0.514
+},
+{
+"n": 23,
+"start": 1516.46,
+"end": 1519.06,
+"text": "We perform for an audience of one.",
+"turbo": "man we we perform for our audience of one",
+"agree": 0.75,
+"minp": 0.774
+},
+{
+"n": 24,
+"start": 1519.28,
+"end": 1520.36,
+"text": "And that's God.",
+"turbo": "and that's God",
+"agree": 1.0,
+"minp": 0.996
+}
+]

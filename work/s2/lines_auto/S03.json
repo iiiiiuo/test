@@ -1,0 +1,227 @@
+[
+{
+"n": 1,
+"start": 1475.82,
+"end": 1477.3,
+"text": "OK, let me talk about Balenciaga.",
+"turbo": "okay let me talk about balenciaga",
+"agree": 0.83,
+"minp": 0.086
+},
+{
+"n": 2,
+"start": 1486.08,
+"end": 1489.46,
+"text": "I've been since you did the last interview, I've been Balenciaga",
+"turbo": "i ain't gonna lie i've been since you did the last interview i've been balenciaga",
+"agree": 0.85,
+"minp": 0.454
+},
+{
+"n": 3,
+"start": 1489.46,
+"end": 1492.02,
+"text": "y 'all. You know, my nickname is Yala.",
+"turbo": "yeah you know that my nickname is yalla",
+"agree": 0.62,
+"minp": 0.133
+},
+{
+"n": 4,
+"start": 1492.16,
+"end": 1493.98,
+"text": "So now they call me Balenci -Yala.",
+"turbo": "so now they call me",
+"agree": 0.83,
+"minp": 0.601
+},
+{
+"n": 5,
+"start": 1505.26,
+"end": 1509.23,
+"text": "Balenciaga has the best design because they have the best designer,",
+"turbo": "Balenciaga has the best design because they have the best designer",
+"agree": 1.0,
+"minp": 0.977
+},
+{
+"n": 6,
+"start": 1510.28,
+"end": 1512.36,
+"text": "period. And that's not you?",
+"turbo": "period and that's not you",
+"agree": 1.0,
+"minp": 0.999
+},
+{
+"n": 7,
+"start": 1514.14,
+"end": 1515.86,
+"text": "I'm more like a Steve Jobs type.",
+"turbo": "more like a Steve Jobs type",
+"agree": 0.92,
+"minp": 1.0
+},
+{
+"n": 8,
+"start": 1516.08,
+"end": 1517.84,
+"text": "You know, you say to Steve, like, yo, you don't even",
+"turbo": "you say to Steve like yo you don't even",
+"agree": 0.9,
+"minp": 0.434
+},
+{
+"n": 9,
+"start": 1517.84,
+"end": 1522.62,
+"text": "program. You know, I would never disrespect a designer that been",
+"turbo": "don't even program you know I would never disrespect a designer that been to",
+"agree": 0.88,
+"minp": 0.951
+},
+{
+"n": 10,
+"start": 1522.62,
+"end": 1526.18,
+"text": "to school and that can cut and have dedicated their whole",
+"turbo": "been to school and that can cut and have dedicated their whole",
+"agree": 0.96,
+"minp": 0.949
+},
+{
+"n": 11,
+"start": 1526.18,
+"end": 1527.72,
+"text": "life and call myself a designer.",
+"turbo": "whole life and call myself a designer",
+"agree": 0.92,
+"minp": 0.994
+},
+{
+"n": 12,
+"start": 1528.36,
+"end": 1530.7,
+"text": "I'm more an imagineer.",
+"turbo": "more an imagineer",
+"agree": 0.86,
+"minp": 0.979
+},
+{
+"n": 13,
+"start": 1530.7,
+"end": 1534.64,
+"text": "I'm a visionary and I place the pieces of our culture",
+"turbo": "i'm a visionary and i i place the pieces of our culture",
+"agree": 0.96,
+"minp": 0.559
+},
+{
+"n": 14,
+"start": 1534.64,
+"end": 1538.76,
+"text": "together. Even right now, you know, I want to bring joy",
+"turbo": "culture together even right now you know i want to bring joy",
+"agree": 0.96,
+"minp": 0.786
+},
+{
+"n": 15,
+"start": 1538.76,
+"end": 1541.92,
+"text": "and laughter. So even if say, say, say, say we wanted",
+"turbo": "and laughter so even if say say say say we wanted to",
+"agree": 0.96,
+"minp": 0.68
+},
+{
+"n": 16,
+"start": 1541.92,
+"end": 1544.0,
+"text": "to like look at the interview and we have a conversation",
+"turbo": "wanted to like look at the interview and we have a conversation",
+"agree": 0.96,
+"minp": 0.872
+},
+{
+"n": 17,
+"start": 1544.0,
+"end": 1546.44,
+"text": "out and say, look, do we need this first segment?",
+"turbo": "conversation out and say look do we need this first segment",
+"agree": 0.95,
+"minp": 0.992
+},
+{
+"n": 18,
+"start": 1546.58,
+"end": 1549.48,
+"text": "Let's just do the shit that's like, you know, it's controversial",
+"turbo": "let's just do the that's like you know it's controversial",
+"agree": 0.95,
+"minp": 0.381
+},
+{
+"n": 19,
+"start": 1549.48,
+"end": 1551.08,
+"text": "because people are going to really name names.",
+"turbo": "because people ain't gonna really name names",
+"agree": 0.67,
+"minp": 0.594
+},
+{
+"n": 20,
+"start": 1551.28,
+"end": 1552.86,
+"text": "But it's funny still.",
+"turbo": "but it's funny still",
+"agree": 1.0,
+"minp": 0.458
+},
+{
+"n": 21,
+"start": 1553.04,
+"end": 1554.1,
+"text": "I think about that.",
+"turbo": "i think about that it's",
+"agree": 0.89,
+"minp": 1.0
+},
+{
+"n": 22,
+"start": 1554.16,
+"end": 1556.32,
+"text": "It's like we need joy.",
+"turbo": "that it's like we need joy",
+"agree": 0.91,
+"minp": 0.99
+},
+{
+"n": 23,
+"start": 1556.5,
+"end": 1557.4,
+"text": "It's too much pain.",
+"turbo": "it's too much pain",
+"agree": 1.0,
+"minp": 1.0
+},
+{
+"n": 24,
+"start": 1557.4,
+"end": 1560.9,
+"text": "you know it's too much anger and it's too much trauma",
+"turbo": "you know it's too much anger and it's too much trauma",
+"agree": 1.0,
+"minp": 0.115
+},
+{
+"n": 25,
+"start": 1560.9,
+"end": 1561.4,
+"text": "economy",
+"turbo": "",
+"agree": 0.0,
+"minp": 0.989
+}
+]

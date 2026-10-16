@@ -1,0 +1,260 @@
+{
+ "S01": {
+  "title": "Adidas was my internship",
+  "src": "part_1",
+  "iv": [
+   [
+    155.3,
+    251.06
+   ]
+  ],
+  "asr": [
+   "S01"
+  ]
+ },
+ "S02": {
+  "title": "They called me Cassius / Nike is on defense",
+  "src": "part_1",
+  "iv": [
+   [
+    1096.4,
+    1143.02
+   ],
+   [
+    1157.86,
+    1197.05
+   ]
+  ],
+  "asr": [
+   "S02"
+  ]
+ },
+ "S03": {
+  "title": "I'm not a designer, I'm an imagineer",
+  "src": "part_1",
+  "iv": [
+   [
+    1475.8,
+    1477.32
+   ],
+   [
+    1486.06,
+    1494.0
+   ],
+   [
+    1505.24,
+    1561.42
+   ]
+  ],
+  "asr": [
+   "S03"
+  ]
+ },
+ "S04": {
+  "title": "I am a leader, not the leader",
+  "src": "part_3",
+  "iv": [
+   [
+    1108.56,
+    1164.57
+   ],
+   [
+    1171.61,
+    1191.17
+   ]
+  ],
+  "asr": [
+   "S04"
+  ]
+ },
+ "S05": {
+  "title": "I don't like nobody better than me",
+  "src": "part_3",
+  "iv": [
+   [
+    1861.18,
+    1889.24
+   ],
+   [
+    1895.64,
+    1949.88
+   ]
+  ],
+  "asr": [
+   "S05"
+  ]
+ },
+ "S06": {
+  "title": "Stella McCartney's husband gets a pass",
+  "src": "part_4",
+  "iv": [
+   [
+    1002.8,
+    1067.42
+   ]
+  ],
+  "asr": [
+   "S06"
+  ]
+ },
+ "S07": {
+  "title": "A Maybach fleet until we make our own cars",
+  "src": "part_4",
+  "iv": [
+   [
+    658.27,
+    724.74
+   ]
+  ],
+  "asr": [
+   "S07"
+  ]
+ },
+ "S08": {
+  "title": "Nothing I can't play in front of my kids",
+  "src": "part_4",
+  "iv": [
+   [
+    1327.18,
+    1400.81
+   ]
+  ],
+  "asr": [
+   "S08"
+  ]
+ },
+ "S09": {
+  "title": "Tuskegee is not a conspiracy theory",
+  "src": "part_5",
+  "iv": [
+   [
+    51.7,
+    146.44
+   ]
+  ],
+  "asr": [
+   "S09"
+  ]
+ },
+ "S10": {
+  "title": "My favorite human being is me",
+  "src": "part_5",
+  "iv": [
+   [
+    157.34,
+    215.78
+   ],
+   [
+    220.7,
+    232.7
+   ]
+  ],
+  "asr": [
+   "S10"
+  ]
+ },
+ "S11": {
+  "title": "President Ye ends all wars",
+  "src": "part_5",
+  "iv": [
+   [
+    602.0,
+    696.47
+   ]
+  ],
+  "asr": [
+   "S11"
+  ]
+ },
+ "S12": {
+  "title": "Old enough to be president",
+  "src": "part_5",
+  "iv": [
+   [
+    1093.78,
+    1177.42
+   ]
+  ],
+  "asr": [
+   "S12"
+  ]
+ },
+ "S13": {
+  "title": "The Pharrell of politics",
+  "src": "part_5",
+  "iv": [
+   [
+    1651.96,
+    1737.16
+   ]
+  ],
+  "asr": [
+   "S13"
+  ]
+ },
+ "S14": {
+  "title": "I like the love and I like the fear",
+  "src": "part_6",
+  "iv": [
+   [
+    664.28,
+    742.91
+   ]
+  ],
+  "asr": [
+   "S14"
+  ]
+ },
+ "S15": {
+  "title": "Hip-hop is a race by itself",
+  "src": "part_6",
+  "iv": [
+   [
+    596.72,
+    663.62
+   ]
+  ],
+  "asr": [
+   "S15"
+  ]
+ },
+ "S16": {
+  "title": "Tremaine, Tremendous and reverse appropriation",
+  "src": "part_6",
+  "iv": [
+   [
+    863.32,
+    929.8
+   ]
+  ],
+  "asr": [
+   "S16"
+  ]
+ },
+ "S17": {
+  "title": "The audacity",
+  "src": "part_6",
+  "iv": [
+   [
+    1367.23,
+    1442.12
+   ]
+  ],
+  "asr": [
+   "S17"
+  ]
+ },
+ "S18": {
+  "title": "I'm not Moses, I'm Quincy Jones",
+  "src": "part_6",
+  "iv": [
+   [
+    1443.9,
+    1520.4
+   ]
+  ],
+  "asr": [
+   "S18"
+  ]
+ }
+}
