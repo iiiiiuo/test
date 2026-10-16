@@ -1,0 +1,72 @@
+{
+ "clip": "Clip_09",
+ "render_sha256": "246a24b785949bfa3aa14e46a01f854e2e0b7a83378766393233b386ddd4eafa",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "sar": "1:1",
+  "fps": "24000/1001",
+  "video_frames": 1554,
+  "expected_frames": 1554,
+  "video_duration_s": 64.81475,
+  "audio_duration_s": 64.815,
+  "v_start": "0.000000",
+  "a_start": "0.000000",
+  "rotation": null,
+  "decode_errors": "",
+  "PASS": true
+ },
+ "subtitles": {
+  "events": 64,
+  "captions": 21,
+  "max_end": 64.79,
+  "beyond_video": [],
+  "unmasked_hits": [],
+  "captions_without_jp": [],
+  "max_lines": 4
+ },
+ "sync": {
+  "caption_tokens": 175,
+  "asr_words": 188,
+  "matched": 162,
+  "match_ratio": 0.926,
+  "matched_words_inside_their_caption": 0.957,
+  "caption_onset_vs_first_word_s": {
+   "n": 20,
+   "median": 0.077,
+   "max_abs": 2.253
+  }
+ },
+ "frames": {
+  "times": [
+   0.05,
+   1.0,
+   4.24,
+   15.42,
+   32.78,
+   51.97,
+   53.56,
+   57.47,
+   59.27,
+   63.81,
+   64.73
+  ],
+  "sheets": [
+   "sheet_1.jpg",
+   "sheet_2.jpg"
+  ],
+  "full_res": [
+   "/home/user/test/work/b/Clip_09/qa/f_0000.05.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0001.00.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0004.24.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0015.42.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0032.78.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0051.97.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0053.56.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0057.47.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0059.27.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0063.81.png",
+   "/home/user/test/work/b/Clip_09/qa/f_0064.73.png"
+  ]
+ }
+}

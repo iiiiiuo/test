@@ -1,0 +1,393 @@
+{
+ "clip": "Clip_07",
+ "total_s": 63.1881249999999,
+ "segments": [
+  [
+   1658.1140833333334,
+   1721.3022083333333,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_07_L001",
+   "src_start": 1658.17,
+   "src_end": 1660.21,
+   "en": [
+    "All right. Dungeon Family",
+    "or Wu-Tang Clan?"
+   ],
+   "en_unmasked": "All right. Dungeon Family or Wu-Tang Clan?",
+   "jp": [
+    "よし　Dungeon Familyか",
+    "Wu-Tang Clanか"
+   ],
+   "start": 0.05591666666668971,
+   "end": 2.5959166666666533
+  },
+  {
+   "line_id": "Clip_07_L002",
+   "src_start": 1661.03,
+   "src_end": 1664.41,
+   "en": [
+    "Oh, you know, see, it's ungodly."
+   ],
+   "en_unmasked": "Oh, you know, see, it's ungodly.",
+   "jp": [
+    "いや、それは",
+    "比べるもんじゃないって"
+   ],
+   "start": 2.9159166666665897,
+   "end": 6.795916666666699
+  },
+  {
+   "line_id": "Clip_07_L003",
+   "src_start": 1666.11,
+   "src_end": 1668.17,
+   "en": [
+    "Wu-Tang, Wu-Tang."
+   ],
+   "en_unmasked": "Wu-Tang, Wu-Tang.",
+   "jp": [
+    "Wu-Tang、Wu-Tang"
+   ],
+   "start": 7.995916666666517,
+   "end": 10.095916666666636
+  },
+  {
+   "line_id": "Clip_07_L004",
+   "src_start": 1668.23,
+   "src_end": 1669.05,
+   "en": [
+    "What? Come on, man."
+   ],
+   "en_unmasked": "What? Come on, man.",
+   "jp": [
+    "は？マジかよ"
+   ],
+   "start": 10.115916666666635,
+   "end": 10.935916666666554
+  },
+  {
+   "line_id": "Clip_07_L005",
+   "src_start": 1669.07,
+   "src_end": 1670.27,
+   "en": [
+    "This is like Tony Starks."
+   ],
+   "en_unmasked": "This is like Tony Starks.",
+   "jp": [
+    "Tony Starksだぜ"
+   ],
+   "start": 10.955916666666553,
+   "end": 12.655916666666599
+  },
+  {
+   "line_id": "Clip_07_L006",
+   "src_start": 1671.25,
+   "src_end": 1672.89,
+   "en": [
+    "This is the drip. You",
+    "know what I'm saying?"
+   ],
+   "en_unmasked": "This is the drip. You know what I'm saying?",
+   "jp": [
+    "これがファッションなんだよ",
+    "わかる？"
+   ],
+   "start": 13.135916666666617,
+   "end": 14.915916666666572
+  },
+  {
+   "line_id": "Clip_07_L007",
+   "src_start": 1673.05,
+   "src_end": 1675.57,
+   "en": [
+    "But I got to say, the",
+    "Wu-Tang videos had me"
+   ],
+   "en_unmasked": "But I got to say, the Wu-Tang videos had me",
+   "jp": [
+    "でもさ、Wu-TangのMVのせいで"
+   ],
+   "start": 14.935916666666571,
+   "end": 17.435916666666554
+  },
+  {
+   "line_id": "Clip_07_L007",
+   "src_start": 1675.57,
+   "src_end": 1677.57,
+   "en": [
+    "spending a lot more",
+    "money than I needed to."
+   ],
+   "en_unmasked": "spending a lot more money than I needed to.",
+   "jp": [
+    "必要以上に金使っちまったんだよ"
+   ],
+   "start": 17.455916666666553,
+   "end": 19.435916666666554
+  },
+  {
+   "line_id": "Clip_07_L008",
+   "src_start": 1677.57,
+   "src_end": 1680.49,
+   "en": [
+    "Me and Don C was",
+    "buying new Timbs,"
+   ],
+   "en_unmasked": "Me and Don C was buying new Timbs,",
+   "jp": [
+    "俺とDon Cで",
+    "新品のティンバーランドにダウンに"
+   ],
+   "start": 19.455916666666553,
+   "end": 22.355916666666626
+  },
+  {
+   "line_id": "Clip_07_L008",
+   "src_start": 1680.49,
+   "src_end": 1686.42,
+   "en": [
+    "new puffer jackets, fitted hats,",
+    "white tees, Wallabees."
+   ],
+   "en_unmasked": "new puffer jackets, fitted hats, white tees, Wallabees.",
+   "jp": [
+    "キャップに白T、Wallabeesまで買ってた"
+   ],
+   "start": 22.375916666666626,
+   "end": 28.80591666666669
+  },
+  {
+   "line_id": "Clip_07_L009",
+   "src_start": 1687.37,
+   "src_end": 1689.87,
+   "en": [
+    "And then, because it looked",
+    "like every day was a video."
+   ],
+   "en_unmasked": "And then, because it looked like every day was a video.",
+   "jp": [
+    "だって毎日がMVみたいに",
+    "見えてたからさ"
+   ],
+   "start": 29.255916666666508,
+   "end": 31.915916666666572
+  },
+  {
+   "line_id": "Clip_07_L010",
+   "src_start": 1690.05,
+   "src_end": 1693.32,
+   "en": [
+    "And I got to, like, New York",
+    "and I seen dirty Timbs."
+   ],
+   "en_unmasked": "And I got to, like, New York and I seen dirty Timbs.",
+   "jp": [
+    "で、New Yorkに着いたら",
+    "みんな汚れたティンバーランド履いてんの"
+   ],
+   "start": 31.93591666666657,
+   "end": 35.70591666666655
+  },
+  {
+   "line_id": "Clip_07_L011",
+   "src_start": 1695.28,
+   "src_end": 1696.6,
+   "en": [
+    "I called Free up."
+   ],
+   "en_unmasked": "I called Free up.",
+   "jp": [
+    "Freeに電話して"
+   ],
+   "start": 37.16591666666659,
+   "end": 38.46591666666652
+  },
+  {
+   "line_id": "Clip_07_L012",
+   "src_start": 1696.6,
+   "src_end": 1699.34,
+   "en": [
+    "I said, I didn't know ni**as",
+    "had dirty Timbs in New York."
+   ],
+   "en_unmasked": "I said, I didn't know niggas had dirty Timbs in New York.",
+   "jp": [
+    "「NYの奴らが汚れたティンバーランド",
+    "履いてるなんて知らなかったぞ"
+   ],
+   "start": 38.485916666666526,
+   "end": 41.20591666666653
+  },
+  {
+   "line_id": "Clip_07_L012",
+   "src_start": 1699.34,
+   "src_end": 1701.2133333333334,
+   "en": [
+    "I just spent all this money",
+    "on my fresh Timbs."
+   ],
+   "en_unmasked": "I just spent all this money on my fresh Timbs.",
+   "jp": [
+    "新品にこんだけ金かけたのに」って"
+   ],
+   "start": 41.225916666666535,
+   "end": 43.625916666666605
+  },
+  {
+   "line_id": "Clip_07_L013",
+   "src_start": 1701.76,
+   "src_end": 1703.86,
+   "en": [
+    "I couldn't let my Timbs",
+    "go more than three days."
+   ],
+   "en_unmasked": "I couldn't let my Timbs go more than three days.",
+   "jp": [
+    "俺は3日以上",
+    "同じティンバーランド履けなかったからな"
+   ],
+   "start": 43.64591666666661,
+   "end": 46.42591666666656
+  },
+  {
+   "line_id": "Clip_07_L014",
+   "src_start": 1704.56,
+   "src_end": 1707.44,
+   "en": [
+    "If my Timbs got a scuff on",
+    "them, I'm in the meeting,"
+   ],
+   "en_unmasked": "If my Timbs got a scuff on them, I'm in the meeting,",
+   "jp": [
+    "ティンバーランドに傷がついたら",
+    "会議中でも"
+   ],
+   "start": 46.44591666666656,
+   "end": 49.82591666666667
+  },
+  {
+   "line_id": "Clip_07_L015",
+   "src_start": 1708.3,
+   "src_end": 1710.52,
+   "en": [
+    "meeting adjourned.",
+    "I need a new pair of Timbs."
+   ],
+   "en_unmasked": "meeting adjourned. I need a new pair of Timbs.",
+   "jp": [
+    "「会議は中断",
+    "新しいティンバーランド買ってくる」"
+   ],
+   "start": 50.18591666666657,
+   "end": 52.42591666666656
+  },
+  {
+   "line_id": "Clip_07_L016",
+   "src_start": 1710.56,
+   "src_end": 1711.4,
+   "en": [
+    "I'll be back."
+   ],
+   "en_unmasked": "I'll be back.",
+   "jp": [
+    "「すぐ戻る」って"
+   ],
+   "start": 52.44591666666656,
+   "end": 53.34591666666663
+  },
+  {
+   "line_id": "Clip_07_L017",
+   "src_start": 1711.48,
+   "src_end": 1713.22,
+   "en": [
+    "And I carried the",
+    "Timbs in a plastic bag."
+   ],
+   "en_unmasked": "And I carried the Timbs in a plastic bag.",
+   "jp": [
+    "で、ティンバーランドを",
+    "ビニール袋に入れて持ってきて"
+   ],
+   "start": 53.365916666666635,
+   "end": 55.20591666666653
+  },
+  {
+   "line_id": "Clip_07_L018",
+   "src_start": 1713.34,
+   "src_end": 1714.54,
+   "en": [
+    "Put them on in the meeting."
+   ],
+   "en_unmasked": "Put them on in the meeting.",
+   "jp": [
+    "会議中に履き替えて"
+   ],
+   "start": 55.225916666666535,
+   "end": 56.485916666666505
+  },
+  {
+   "line_id": "Clip_07_L019",
+   "src_start": 1714.62,
+   "src_end": 1715.82,
+   "en": [
+    "Now let's continue the conversation."
+   ],
+   "en_unmasked": "Now let's continue the conversation.",
+   "jp": [
+    "「さあ、話の続きをしよう」ってな"
+   ],
+   "start": 56.50591666666651,
+   "end": 57.96591666666652
+  },
+  {
+   "line_id": "Clip_07_L020",
+   "src_start": 1716.1,
+   "src_end": 1718.56,
+   "en": [
+    "Yeah, yeah, yeah. Okay.",
+    "No, I was like the DJ."
+   ],
+   "en_unmasked": "Yeah, yeah, yeah. Okay. No, I was like the DJ.",
+   "jp": [
+    "なるほどな　オッケー",
+    "いや、DJの番だと思って"
+   ],
+   "start": 57.985916666666526,
+   "end": 60.58591666666664
+  },
+  {
+   "line_id": "Clip_07_L021",
+   "src_start": 1718.72,
+   "src_end": 1720.12,
+   "en": [
+    "Well, I got to do the DJ...",
+    "You got to do this."
+   ],
+   "en_unmasked": "Well, I got to do the DJ... You got to do this.",
+   "jp": [
+    "DJの番だろ…",
+    "お前がやれよ"
+   ],
+   "start": 60.605916666666644,
+   "end": 62.025916666666696
+  },
+  {
+   "line_id": "Clip_07_L022",
+   "src_start": 1720.16,
+   "src_end": 1721.2,
+   "en": [
+    "I'm sorry. You're correct."
+   ],
+   "en_unmasked": "I'm sorry. You're correct.",
+   "jp": [
+    "ごめん、その通りだわ"
+   ],
+   "start": 62.0459166666667,
+   "end": 63.1681249999999
+  }
+ ]
+}

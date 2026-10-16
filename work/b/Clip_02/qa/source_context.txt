@@ -1,0 +1,44 @@
+# Clip_02 source context (part_1.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1592.63-1598.93s (frames 38185-38336)
+    1570.23- 1579.81 our outrage say okay so i went to a dinner right with josh kushner jared kushner and ivanka i'm
+    1579.81- 1580.93 I don't always say her name like that.
+    1582.03- 1582.23 So.
+    1583.51- 1584.85 We know what that means.
+    1585.45- 1585.55 Good.
+    1585.91- 1587.59 That's a different ring to it.
+    1588.03- 1588.57 Go ahead, give it to you.
+    1588.61- 1590.51 No, me and Ivanka, nothing never happened.
+    1590.71- 1593.47 But it's, it's so funny though.
+>>  1593.99- 1596.91 Because me and Drake, you know, before Donda came out,
+>>  1597.25- 1598.53 we met up at the studio.
+    1599.95- 1603.02 And the 80% of the time I'm just talking about
+    1603.02- 1605.86 how much I love Future and how I want to work with him.
+    1606.08- 1608.94 And how, you know, he's, you know,
+    1608.94- 1614.26 the most influential you know artist of the past 10 years he had the most number ones in history
+    1614.26- 1621.66 now but wait for you so we was right about that right so and he says yo i just want to tell you
+
+## interval 1646.80-1714.60s (frames 39484-41110)
+    1623.14- 1628.96 you know nothing never happened you know with kim who futures no no this is this is what drake told
+    1628.96- 1632.64 me oh i'm only talking to drake about future really like i'm like yo i love you this is after you
+    1632.64- 1636.32 squashed the beat after this is when we were squashing it right this is the one we squashed
+    1636.32- 1643.60 twice last year in the beginning and then when me and jay prince uh went to uh go see him i got
+>>  1643.60- 1654.22 another funny story about that so um uh so so then drake says to me yo uh no no i need to tell
+>>  1654.22- 1663.30 the story like this so basically uh you know jared kushner asked steve style like yo just tell me
+>>  1663.30- 1670.66 like did yay fuck my wife and steve stout was like no yay never never never did nothing so when
+>>  1670.66- 1676.44 i went to the white house um i saw jared i was like yeah i want to just tell you nothing ever
+>>  1676.44- 1680.20 happened he's like yo i don't know what you're talking about i was like yo and i grabbed him by
+>>  1680.20- 1686.16 both shoulders and i was like yo jared nothing has nothing's ever happened and he said yo thank
+>>  1686.16- 1692.22 you for saying that okay so when i saw drake we was in the parking lot we're talking and he said
+>>  1692.22- 1695.04 Yo, I just want to tell you, yo, nothing ever happened.
+>>  1695.86- 1698.90 And then I said, yo, thank you for saying that.
+>>  1699.20- 1700.78 When did I become Jerry Cushman?
+>>  1705.32- 1706.86 I didn't know where this was going.
+>>  1711.22- 1712.88 I did not know where this was going.
+>>  1713.24- 1714.60 You had me scared for a second.
+    1715.12- 1717.40 Hidden heels, give your wife the chills.
+    1718.02- 1718.98 Yeah, so, okay, so.
+    1721.30- 1723.51 So, so.
+    1727.51- 1733.03 All right, so this is why we're gonna win for 2024, bro, it's like, this truth, it's true,
+    1733.13- 1734.21 because every man got the truth.
+    1734.47- 1740.35 Every man could be the victim or the victor, you either, you either want, you know, you

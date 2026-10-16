@@ -1,0 +1,47 @@
+# Clip_07 source context (part_2 2.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1658.10-1721.30s (frames 39754-41269)
+    1637.18- 1639.16 We're going, we're going, we're going.
+    1639.18- 1640.42 All right, next question.
+    1642.42- 1643.86 Where Ye at this weekend?
+    1644.24- 1644.94 Oh, what did he pick?
+    1646.08- 1646.66 He did.
+    1646.86- 1648.08 No, he obviously did.
+    1648.08- 1649.24 He obviously picked Trump, right?
+    1649.64- 1650.42 Biden and Trump.
+    1651.08- 1651.96 Yeah, Trump.
+    1652.08- 1652.80 He cool.
+    1653.02- 1654.02 He cool for now.
+    1654.46- 1654.86 All right.
+    1655.04- 1655.74 He cool, yeah.
+    1655.88- 1656.16 All right.
+    1656.56- 1658.16 Maybe neither of those words there, too.
+>>  1658.34- 1658.50 All right.
+>>  1658.72- 1660.36 Dungeon family or Wu-Tang Clan?
+>>  1661.12- 1661.72 Oh, you know.
+>>  1662.75- 1664.53 See, it's ungodly.
+>>  1666.11- 1672.83 Wu-Tang. Wu-Tang. Come on, man. This is like Tony Starks. This is the drip. You know what I'm
+>>  1672.83- 1677.65 saying? But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to.
+>>  1677.97- 1687.33 Me and Don C was buying new Tims, new puffer jackets, fitted hats, white tees, wallabies.
+>>  1687.45- 1692.95 And then because it looked like every day was a video. And I got to like New York and I seen
+>>  1692.95- 1693.95 Dirty Timbs.
+>>  1695.49- 1696.61 I called free up.
+>>  1696.75- 1699.33 I said, I didn't know niggas had a new Timbs in New York.
+>>  1699.47- 1701.67 I just spent all this money on my fresh beer, Timbs.
+>>  1701.95- 1703.99 I couldn't let my Timbs go more than three days.
+>>  1704.93- 1707.55 If my Timbs got a scuff on them, I'm in the meeting.
+>>  1708.31- 1709.03 Meeting adjourned.
+>>  1709.21- 1710.57 I need a new pair of Timbs.
+>>  1710.71- 1711.45 I'll be back.
+>>  1711.73- 1713.29 And I carry the Timbs in a plastic bag.
+>>  1713.65- 1714.61 Put them on in the meeting.
+>>  1714.75- 1715.99 Now let's continue the conversation.
+>>  1716.93- 1717.29 Okay.
+>>  1717.55- 1718.69 No, I was like the DJ.
+>>  1719.11- 1720.17 You got to do this.
+>>  1720.25- 1720.59 I'm sorry.
+>>  1720.69- 1721.37 You're correct.
+    1721.83- 1722.59 Khaled or drama?
+    1722.59- 1728.25 This is a big thing on the social media right now because because drama won't be for DJ Khaled and
+    1729.09- 1735.65 I'm gonna say Khaled because he brought me to his house and you know just the energy and just the
+    1735.65- 1742.27 Positivity and everything and just we got also we got more records together. Mm-hmm. We got Grammy's family together

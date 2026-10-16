@@ -1,0 +1,454 @@
+{
+ "clip": "Clip_18",
+ "total_s": 72.32224999999994,
+ "segments": [
+  [
+   1177.592375,
+   1249.914625,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_18_L001",
+   "src_start": 1177.26,
+   "src_end": 1180.0,
+   "en": [
+    "I still... Bernard Arnault",
+    "is still one of my heroes,"
+   ],
+   "en_unmasked": "I still... Bernard Arnault is still one of my heroes,",
+   "jp": [
+    "今でも",
+    "Bernard Arnaultは"
+   ],
+   "start": 0.0,
+   "end": 2.3876250000000527
+  },
+  {
+   "line_id": "Clip_18_L001",
+   "src_start": 1180.0,
+   "src_end": 1181.8933333333332,
+   "en": [
+    "so I gotta say that, though.",
+    "That's the guy, Louis"
+   ],
+   "en_unmasked": "so I gotta say that, though. That's the guy, Louis",
+   "jp": [
+    "俺のヒーローなんだよ",
+    "そこは言っとく"
+   ],
+   "start": 2.4076250000000528,
+   "end": 4.280958333333256
+  },
+  {
+   "line_id": "Clip_18_L001",
+   "src_start": 1181.8933333333332,
+   "src_end": 1183.3,
+   "en": [
+    "head of LVMH. Yeah."
+   ],
+   "en_unmasked": "head of LVMH. Yeah.",
+   "jp": [
+    "LVMHのトップだよ"
+   ],
+   "start": 4.300958333333256,
+   "end": 5.84762500000009
+  },
+  {
+   "line_id": "Clip_18_L002",
+   "src_start": 1183.46,
+   "src_end": 1186.16,
+   "en": [
+    "So I gotta shout out, like,",
+    "good taste when I see it."
+   ],
+   "en_unmasked": "So I gotta shout out, like, good taste when I see it.",
+   "jp": [
+    "センスがいいものは",
+    "ちゃんと称えないとな"
+   ],
+   "start": 5.867625000000089,
+   "end": 9.027625000000153
+  },
+  {
+   "line_id": "Clip_18_L003",
+   "src_start": 1186.64,
+   "src_end": 1190.64,
+   "en": [
+    "I performed at Bernard Arnault's",
+    "son's wedding, Alexandre Arnault,"
+   ],
+   "en_unmasked": "I performed at Bernard Arnault's son's wedding, Alexandre Arnault,",
+   "jp": [
+    "Arnaultの息子　Alexandreの結婚式で",
+    "ライブした時に言ったんだ"
+   ],
+   "start": 9.047625000000153,
+   "end": 13.027625000000153
+  },
+  {
+   "line_id": "Clip_18_L003",
+   "src_start": 1190.64,
+   "src_end": 1194.06,
+   "en": [
+    "and I said, man, you know, when",
+    "I'm the richest man in the world,"
+   ],
+   "en_unmasked": "and I said, man, you know, when I'm the richest man in the world,",
+   "jp": [
+    "「俺が世界一の金持ちになったら"
+   ],
+   "start": 13.047625000000153,
+   "end": 16.447625
+  },
+  {
+   "line_id": "Clip_18_L003",
+   "src_start": 1194.06,
+   "src_end": 1196.0700000000002,
+   "en": [
+    "I hope my son is cool",
+    "enough to hang out with Ye."
+   ],
+   "en_unmasked": "I hope my son is cool enough to hang out with Ye.",
+   "jp": [
+    "うちの息子がYeとつるめるくらい",
+    "イケてるといいな」って"
+   ],
+   "start": 16.467624999999998,
+   "end": 18.977625000000216
+  },
+  {
+   "line_id": "Clip_18_L004",
+   "src_start": 1196.9,
+   "src_end": 1197.1,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [
+    "なるほど"
+   ],
+   "start": 19.307625000000144,
+   "end": 20.167625000000026
+  },
+  {
+   "line_id": "Clip_18_L005",
+   "src_start": 1197.78,
+   "src_end": 1200.02,
+   "en": [
+    "I'm saying this on stage for them,",
+    "but I told him afterwards,"
+   ],
+   "en_unmasked": "I'm saying this on stage for them, but I told him afterwards,",
+   "jp": [
+    "ステージで言ったんだけど",
+    "後で本人にも言ったよ"
+   ],
+   "start": 20.187625000000025,
+   "end": 22.407625000000035
+  },
+  {
+   "line_id": "Clip_18_L005",
+   "src_start": 1200.02,
+   "src_end": 1201.68,
+   "en": [
+    "I said, yo, Bernard, you're my favorite."
+   ],
+   "en_unmasked": "I said, yo, Bernard, you're my favorite.",
+   "jp": [
+    "「Bernard、あんたが一番だ」って"
+   ],
+   "start": 22.427625000000035,
+   "end": 24.587625000000116
+  },
+  {
+   "line_id": "Clip_18_L006",
+   "src_start": 1203.34,
+   "src_end": 1204.84,
+   "en": [
+    "Jeff Bezos is commodity."
+   ],
+   "en_unmasked": "Jeff Bezos is commodity.",
+   "jp": [
+    "ジェフ・ベゾスは",
+    "ただの量産品だよ"
+   ],
+   "start": 25.74762499999997,
+   "end": 28.00762500000017
+  },
+  {
+   "line_id": "Clip_18_L007",
+   "src_start": 1205.6200000000001,
+   "src_end": 1206.44,
+   "en": [
+    "Your opinion."
+   ],
+   "en_unmasked": "Your opinion.",
+   "jp": [
+    "それはお前の意見な"
+   ],
+   "start": 28.02762500000017,
+   "end": 29.347625000000107
+  },
+  {
+   "line_id": "Clip_18_L008",
+   "src_start": 1207.6899999999998,
+   "src_end": 1209.2,
+   "en": [
+    "Jeff Bezos don't have no opinion."
+   ],
+   "en_unmasked": "Jeff Bezos don't have no opinion.",
+   "jp": [
+    "ベゾスには",
+    "自分の意見がない"
+   ],
+   "start": 30.09762499999988,
+   "end": 31.907625000000035
+  },
+  {
+   "line_id": "Clip_18_L009",
+   "src_start": 1209.52,
+   "src_end": 1212.9,
+   "en": [
+    "He don't got no taste.",
+    "Jeff Bezos ain't got no taste."
+   ],
+   "en_unmasked": "He don't got no taste. Jeff Bezos ain't got no taste.",
+   "jp": [
+    "センスがないんだよ",
+    "ベゾスにはセンスがない"
+   ],
+   "start": 31.927625000000035,
+   "end": 35.28762500000014
+  },
+  {
+   "line_id": "Clip_18_L010",
+   "src_start": 1212.9,
+   "src_end": 1216.24,
+   "en": [
+    "You wouldn't ask him to pick out",
+    "what you want for Christmas."
+   ],
+   "en_unmasked": "You wouldn't ask him to pick out what you want for Christmas.",
+   "jp": [
+    "クリスマスプレゼントを",
+    "あいつに選ばせないだろ？"
+   ],
+   "start": 35.307625000000144,
+   "end": 38.95762499999976
+  },
+  {
+   "line_id": "Clip_18_L010",
+   "src_start": 1216.5699999999997,
+   "src_end": 1218.26,
+   "en": [
+    "You know what I'm saying?",
+    "Jeff Bezos can't pick."
+   ],
+   "en_unmasked": "You know what I'm saying? Jeff Bezos can't pick.",
+   "jp": [
+    "ベゾスには選べないんだよ"
+   ],
+   "start": 38.97762499999976,
+   "end": 40.66762500000002
+  },
+  {
+   "line_id": "Clip_18_L011",
+   "src_start": 1218.28,
+   "src_end": 1219.96,
+   "en": [
+    "Would you let Jeff Bezos",
+    "pick your bag?"
+   ],
+   "en_unmasked": "Would you let Jeff Bezos pick your bag?",
+   "jp": [
+    "ベゾスにバッグ選ばせる？"
+   ],
+   "start": 40.687625000000025,
+   "end": 42.877624999999604
+  },
+  {
+   "line_id": "Clip_18_L012",
+   "src_start": 1220.4899999999996,
+   "src_end": 1220.98,
+   "en": [
+    "You know what I'm saying?"
+   ],
+   "en_unmasked": "You know what I'm saying?",
+   "jp": [
+    "あいつはLas Vegasで"
+   ],
+   "start": 42.89762499999961,
+   "end": 43.36762500000007
+  },
+  {
+   "line_id": "Clip_18_L012",
+   "src_start": 1220.98,
+   "src_end": 1224.24,
+   "en": [
+    "So he just learned how to go to",
+    "Vegas and break the machine."
+   ],
+   "en_unmasked": "So he just learned how to go to Vegas and break the machine.",
+   "jp": [
+    "マシンをぶっ壊す方法を",
+    "覚えただけなんだよ"
+   ],
+   "start": 43.38762500000007,
+   "end": 47.24762499999995
+  },
+  {
+   "line_id": "Clip_18_L013",
+   "src_start": 1224.86,
+   "src_end": 1225.94,
+   "en": [
+    "It's Amazon, right?"
+   ],
+   "en_unmasked": "It's Amazon, right?",
+   "jp": [
+    "Amazonだろ？"
+   ],
+   "start": 47.26762499999995,
+   "end": 48.327625000000104
+  },
+  {
+   "line_id": "Clip_18_L013",
+   "src_start": 1225.94,
+   "src_end": 1227.36,
+   "en": [
+    "Yeah, and they respected him."
+   ],
+   "en_unmasked": "Yeah, and they respected him.",
+   "jp": [
+    "そう、それで評価された"
+   ],
+   "start": 48.34762500000011,
+   "end": 49.74762499999995
+  },
+  {
+   "line_id": "Clip_18_L014",
+   "src_start": 1227.36,
+   "src_end": 1229.38,
+   "en": [
+    "I came from a Cuban family,"
+   ],
+   "en_unmasked": "I came from a Cuban family,",
+   "jp": [
+    "うちはCuba系の家族だから"
+   ],
+   "start": 49.76762499999995,
+   "end": 51.76762500000016
+  },
+  {
+   "line_id": "Clip_18_L014",
+   "src_start": 1229.38,
+   "src_end": 1231.28,
+   "en": [
+    "I got to represent.",
+    "What's up, Cuban people?"
+   ],
+   "en_unmasked": "I got to represent. What's up, Cuban people?",
+   "jp": [
+    "レペゼンしないとな",
+    "Cubaのみんな、元気か？"
+   ],
+   "start": 51.78762500000016,
+   "end": 54.07762499999965
+  },
+  {
+   "line_id": "Clip_18_L015",
+   "src_start": 1231.6899999999996,
+   "src_end": 1235.06,
+   "en": [
+    "Yeah, but I'm saying, and by the way,",
+    "it's like, okay, you broke the machine,"
+   ],
+   "en_unmasked": "Yeah, but I'm saying, and by the way, it's like, okay, you broke the machine,",
+   "jp": [
+    "でもさ",
+    "確かにマシンは壊したけど"
+   ],
+   "start": 54.09762499999965,
+   "end": 57.447624999999995
+  },
+  {
+   "line_id": "Clip_18_L015",
+   "src_start": 1235.06,
+   "src_end": 1238.8,
+   "en": [
+    "but Bernard Arnault,",
+    "you know what I'm saying,"
+   ],
+   "en_unmasked": "but Bernard Arnault, you know what I'm saying,",
+   "jp": [
+    "Bernard Arnaultは",
+    "わかるだろ"
+   ],
+   "start": 57.467625,
+   "end": 61.187625000000004
+  },
+  {
+   "line_id": "Clip_18_L016",
+   "src_start": 1238.8,
+   "src_end": 1241.0,
+   "en": [
+    "it's like, put it like this: you know,"
+   ],
+   "en_unmasked": "it's like, put it like this: you know,",
+   "jp": [
+    "こう言えばいいか"
+   ],
+   "start": 61.20762500000001,
+   "end": 63.38762500000005
+  },
+  {
+   "line_id": "Clip_18_L016",
+   "src_start": 1241.0,
+   "src_end": 1244.2,
+   "en": [
+    "at the end of the day,",
+    "if someone's gonna colonize,"
+   ],
+   "en_unmasked": "at the end of the day, if someone's gonna colonize,",
+   "jp": [
+    "結局のところ",
+    "誰かに植民地化されるなら"
+   ],
+   "start": 63.40762500000005,
+   "end": 67.01762500000017
+  },
+  {
+   "line_id": "Clip_18_L016",
+   "src_start": 1244.63,
+   "src_end": 1247.9,
+   "en": [
+    "I would like it to be Bernard.",
+    "If I had to deal with a colonizer,"
+   ],
+   "en_unmasked": "I would like it to be Bernard. If I had to deal with a colonizer,",
+   "jp": [
+    "Bernardがいい",
+    "支配者と付き合うなら"
+   ],
+   "start": 67.03762500000016,
+   "end": 70.51762499999971
+  },
+  {
+   "line_id": "Clip_18_L016",
+   "src_start": 1248.1299999999997,
+   "src_end": 1249.82,
+   "en": [
+    "I would deal with it",
+    "being Bernard Arnault."
+   ],
+   "en_unmasked": "I would deal with it being Bernard Arnault.",
+   "jp": [
+    "Bernard Arnaultがいいね"
+   ],
+   "start": 70.53762499999971,
+   "end": 72.30224999999994
+  }
+ ]
+}

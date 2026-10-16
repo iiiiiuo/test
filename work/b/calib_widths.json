@@ -1,0 +1,21 @@
+{
+ "method": "libass render of Clip_01 subtitles on flat 0x404040 canvas at t=40s vs PIL getlength, same font file face 0",
+ "en": {
+  "text": "Ray Kurzweil said a utopia is",
+  "libass_ink": 577,
+  "pil": 752,
+  "ratio": 0.767
+ },
+ "jp": {
+  "text": "Ray Kurzweil\u306f",
+  "libass_ink": 275,
+  "pil": 365,
+  "ratio": 0.753
+ },
+ "glyph": {
+  "en_height": 39,
+  "first_line_top": 957
+ },
+ "frame": "work/b/Clip_01/frames/plain40.png",
+ "note": "Wrap limit 760 px now means rendered ink width, matching the reference widest EN line (~750-754 px)."
+}

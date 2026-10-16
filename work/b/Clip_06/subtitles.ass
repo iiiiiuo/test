@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Kool G Rap or Big Pun?
+Dialogue: 0,0:00:00.10,0:00:02.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Kool G Rapか
+Dialogue: 0,0:00:00.10,0:00:02.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Big Punか
+Dialogue: 0,0:00:03.66,0:00:05.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I like both.
+Dialogue: 0,0:00:03.66,0:00:05.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どっちも好き
+Dialogue: 0,0:00:05.05,0:00:06.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Take a shot.
+Dialogue: 0,0:00:05.05,0:00:06.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}じゃあ一杯飲め
+Dialogue: 0,0:00:06.02,0:00:07.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So, you know, God said for us to not
+Dialogue: 0,0:00:06.02,0:00:07.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}神は
+Dialogue: 0,0:00:06.02,0:00:07.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}互いを比べるなって
+Dialogue: 0,0:00:07.92,0:00:10.22,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}compare each other
+Dialogue: 0,0:00:07.92,0:00:10.22,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}amongst ourselves.
+Dialogue: 0,0:00:07.92,0:00:10.22,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}言ってるだろ
+Dialogue: 0,0:00:10.24,0:00:12.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So when I compare the greatness of
+Dialogue: 0,0:00:10.24,0:00:12.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}だからKool G Rapの偉大さと
+Dialogue: 0,0:00:12.70,0:00:15.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Kool G Rap and the
+Dialogue: 0,0:00:12.70,0:00:15.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}greatness of Big Pun,
+Dialogue: 0,0:00:12.70,0:00:15.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Big Punの偉大さを比べるのは
+Dialogue: 0,0:00:15.98,0:00:17.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}which was inspired by Kool G Rap,
+Dialogue: 0,0:00:15.98,0:00:17.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}しかもBig PunはKool G Rapに
+Dialogue: 0,0:00:15.98,0:00:17.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}影響受けてるわけで
+Dialogue: 0,0:00:17.54,0:00:18.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:17.54,0:00:18.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}確かに
+Dialogue: 0,0:00:18.46,0:00:20.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it's not godly. You
+Dialogue: 0,0:00:18.46,0:00:20.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying?
+Dialogue: 0,0:00:18.46,0:00:20.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神の道に反するんだよ
+Dialogue: 0,0:00:18.46,0:00:20.94,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかる？
+Dialogue: 0,0:00:20.96,0:00:22.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I know Ross said God forgives,
+Dialogue: 0,0:00:20.96,0:00:22.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Rick Rossは
+Dialogue: 0,0:00:20.96,0:00:22.46,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「神は許すが俺は許さない」って
+Dialogue: 0,0:00:22.48,0:00:22.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I don't.
+Dialogue: 0,0:00:22.48,0:00:22.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}言ってたけど
+Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm forgiving. I forgive everybody.
+Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I forgive the Clintons. I forgive
+Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は許す　全員許す　Clinton夫妻も許す
+Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}John Legend for wearing
+Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}them bum-ass sweaters.
+Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}John Legendも許す
+Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あのダサいセーター着てたことをな
+Dialogue: 0,0:00:33.35,0:00:39.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive... I forgive
+Dialogue: 0,0:00:33.35,0:00:39.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}him. He's forgiven.
+Dialogue: 0,0:00:33.35,0:00:39.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}許す…許してやる
+Dialogue: 0,0:00:33.35,0:00:39.00,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつは許された
+Dialogue: 0,0:00:41.56,0:00:49.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Big Sean. May they all be
+Dialogue: 0,0:00:41.56,0:00:49.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}forgiven. I forgive Big Sean
+Dialogue: 0,0:00:41.56,0:00:49.82,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Big Sean　みんな許されますように
+Dialogue: 0,0:00:41.56,0:00:49.82,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Big Seanも許す
+Dialogue: 0,0:00:50.54,0:00:52.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}for not being able to make the choice
+Dialogue: 0,0:00:50.54,0:00:52.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}編み込みか髭か
+Dialogue: 0,0:00:52.54,0:00:55.32,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}between braids or a
+Dialogue: 0,0:00:52.54,0:00:55.32,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}beard. Choose one.
+Dialogue: 0,0:00:52.54,0:00:55.32,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}決められなかったことをな
+Dialogue: 0,0:00:52.54,0:00:55.32,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どっちか選べよ
+Dialogue: 0,0:00:55.34,0:00:58.46,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Um, I forgive, uh...
+Dialogue: 0,0:00:55.34,0:00:58.46,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あと許すのは…
+Dialogue: 0,0:01:02.50,0:01:04.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Who else is you again?
+Dialogue: 0,0:01:02.50,0:01:04.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}他には誰？
+Dialogue: 0,0:01:07.16,0:01:08.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's it?
+Dialogue: 0,0:01:07.16,0:01:08.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それで終わり？
+Dialogue: 0,0:01:08.48,0:01:11.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Everybody. Everybody I ever...
+Dialogue: 0,0:01:08.48,0:01:11.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying?
+Dialogue: 0,0:01:08.48,0:01:11.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}全員だよ　今までの全員　わかるだろ
+Dialogue: 0,0:01:11.05,0:01:11.91,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive everyone.
+Dialogue: 0,0:01:11.05,0:01:11.91,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}みんな許す
+Dialogue: 0,0:01:11.93,0:01:13.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive Bob Iger.
+Dialogue: 0,0:01:11.93,0:01:13.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Bob Igerも許す
+Dialogue: 0,0:01:13.31,0:01:15.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive the left party.
+Dialogue: 0,0:01:13.31,0:01:15.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}左派の政党も許す

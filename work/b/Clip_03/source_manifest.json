@@ -1,0 +1,133 @@
+{
+ "clip": "Clip_03",
+ "candidate": "C02",
+ "title": "I Googled Drake's address",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 41937,
+   "end_frame_excl": 42227,
+   "start_pts": 41978937,
+   "end_pts_excl": 42269227,
+   "start_s": 1749.122375,
+   "end_s": 1761.217792
+  },
+  {
+   "start_frame": 43073,
+   "end_frame_excl": 43754,
+   "start_pts": 43116073,
+   "end_pts_excl": 43797754,
+   "start_s": 1796.503042,
+   "end_s": 1824.906417
+  },
+  {
+   "start_frame": 43785,
+   "end_frame_excl": 44443,
+   "start_pts": 43828785,
+   "end_pts_excl": 44487443,
+   "start_s": 1826.199375,
+   "end_s": 1853.643458
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 83957874,
+   "end_sample_48k_excl": 84538454,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 86232146,
+   "end_sample_48k_excl": 87595508,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 87657570,
+   "end_sample_48k_excl": 88974886,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 41937,
+   "end_frame_excl": 42051,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 442,
+    "y": 40
+   },
+   "basis": "face cx=908 cy=310 w=296 n=9/10"
+  },
+  {
+   "start_frame": 42051,
+   "end_frame_excl": 42102,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 376,
+    "y": 140
+   },
+   "basis": "face cx=843 cy=410 w=292 n=7/9"
+  },
+  {
+   "start_frame": 42102,
+   "end_frame_excl": 42227,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 446,
+    "y": 25
+   },
+   "basis": "face cx=913 cy=295 w=290 n=11/11"
+  },
+  {
+   "start_frame": 43073,
+   "end_frame_excl": 43754,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 438,
+    "y": 61
+   },
+   "basis": "face cx=904 cy=331 w=292 n=7/12"
+  },
+  {
+   "start_frame": 43785,
+   "end_frame_excl": 44443,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 437,
+    "y": 0
+   },
+   "basis": "face cx=996 cy=316 w=331 n=6/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_03/subtitles.ass",
+  "sha256": "286d6361fe03d51edd6fdf230e18b408607ec7855fbe379e4a605d008645cbac"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_03/render.mp4",
+  "sha256": "e5a5a0830e117c520675df8df32954e08c392705ce532ef0ff33bf33b6aa6d2e"
+ }
+}

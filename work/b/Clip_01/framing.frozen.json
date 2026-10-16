@@ -1,0 +1,64 @@
+{
+ "clip": "Clip_01",
+ "crop_w": 1119,
+ "crop_h": 1080,
+ "intervals": [
+  {
+   "start_frame": 28860,
+   "end_frame_excl": 29598,
+   "shots": [
+    {
+     "start": 0,
+     "end": 547,
+     "x": 344,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=904 cy=350 w=300 n=11/12"
+    },
+    {
+     "start": 547,
+     "end": 689,
+     "x": 800,
+     "y": 0,
+     "w": 933,
+     "h": 900,
+     "how": "face cx=1266 cy=222 w=155 n=12/12"
+    },
+    {
+     "start": 689,
+     "end": 738,
+     "x": 412,
+     "y": 97,
+     "w": 933,
+     "h": 900,
+     "how": "face cx=878 cy=367 w=221 n=8/8"
+    }
+   ]
+  },
+  {
+   "start_frame": 29659,
+   "end_frame_excl": 30458,
+   "shots": [
+    {
+     "start": 0,
+     "end": 6,
+     "x": 806,
+     "y": 0,
+     "w": 933,
+     "h": 900,
+     "how": "no face -> neighbour/centre"
+    },
+    {
+     "start": 6,
+     "end": 799,
+     "x": 806,
+     "y": 0,
+     "w": 933,
+     "h": 900,
+     "how": "face cx=1272 cy=222 w=158 n=11/12"
+    }
+   ]
+  }
+ ]
+}

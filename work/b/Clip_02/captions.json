@@ -1,0 +1,373 @@
+{
+ "clip": "Clip_02",
+ "total_s": 74.11570833333326,
+ "segments": [
+  [
+   1592.6327083333333,
+   1598.9306666666666,
+   0.0
+  ],
+  [
+   1646.8118333333334,
+   1714.6295833333334,
+   6.297958333333327
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_02_L001",
+   "src_start": 1592.52,
+   "src_end": 1595.68,
+   "en": [
+    "Yeah, it's so funny, though,",
+    "because me and Drake, you know,"
+   ],
+   "en_unmasked": "Yeah, it's so funny, though, because me and Drake, you know,",
+   "jp": [
+    "いや、マジで笑えるんだけどさ",
+    "俺とDrakeがさ"
+   ],
+   "start": 0.0,
+   "end": 3.0472916666667333
+  },
+  {
+   "line_id": "Clip_02_L002",
+   "src_start": 1595.7,
+   "src_end": 1598.44,
+   "en": [
+    "before Donda came out,",
+    "we met up at the studio."
+   ],
+   "en_unmasked": "before Donda came out, we met up at the studio.",
+   "jp": [
+    "『Donda』が出る前に",
+    "スタジオで会ったんだよ"
+   ],
+   "start": 3.0672916666667334,
+   "end": 6.2861249999998385
+  },
+  {
+   "line_id": "Clip_02_L003",
+   "src_start": 1646.82,
+   "src_end": 1650.38,
+   "en": [
+    "So then Drake says to me, yo..."
+   ],
+   "en_unmasked": "So then Drake says to me, yo...",
+   "jp": [
+    "で、Drakeが俺に言うわけ…"
+   ],
+   "start": 6.306124999999838,
+   "end": 10.366125000000011
+  },
+  {
+   "line_id": "Clip_02_L003",
+   "src_start": 1653.26,
+   "src_end": 1654.77,
+   "en": [
+    "no, I need to tell the story like this."
+   ],
+   "en_unmasked": "no, I need to tell the story like this.",
+   "jp": [
+    "いや、話す順番を変えるわ"
+   ],
+   "start": 12.746124999999893,
+   "end": 14.756124999999884
+  },
+  {
+   "line_id": "Clip_02_L004",
+   "src_start": 1657.0099999999998,
+   "src_end": 1662.24,
+   "en": [
+    "So basically, you know,",
+    "Jared Kushner asked Steve Stoute,"
+   ],
+   "en_unmasked": "So basically, you know, Jared Kushner asked Steve Stoute,",
+   "jp": [
+    "要するにさ、Jared Kushnerが",
+    "Steve Stouteに聞いたんだよ"
+   ],
+   "start": 16.496124999999665,
+   "end": 21.70612499999991
+  },
+  {
+   "line_id": "Clip_02_L004",
+   "src_start": 1662.24,
+   "src_end": 1664.74,
+   "en": [
+    "like, yo, just tell me,",
+    "did Ye f**k my wife?"
+   ],
+   "en_unmasked": "like, yo, just tell me, did Ye fuck my wife?",
+   "jp": [
+    "「正直に言ってくれ、Yeは",
+    "俺の妻とヤったのか？」って"
+   ],
+   "start": 21.72612499999991,
+   "end": 24.836124999999566
+  },
+  {
+   "line_id": "Clip_02_L005",
+   "src_start": 1665.3699999999997,
+   "src_end": 1667.9,
+   "en": [
+    "And Steve Stoute was like, no,"
+   ],
+   "en_unmasked": "And Steve Stoute was like, no,",
+   "jp": [
+    "Steveは「いや、Yeは何もしてない」って"
+   ],
+   "start": 24.856124999999565,
+   "end": 27.366124999999993
+  },
+  {
+   "line_id": "Clip_02_L005",
+   "src_start": 1667.9,
+   "src_end": 1670.32,
+   "en": [
+    "Ye never did nothing."
+   ],
+   "en_unmasked": "Ye never did nothing.",
+   "jp": [
+    "Steveは「いや、Yeは何もしてない」って"
+   ],
+   "start": 27.386124999999993,
+   "end": 29.78612499999984
+  },
+  {
+   "line_id": "Clip_02_L006",
+   "src_start": 1670.32,
+   "src_end": 1671.66,
+   "en": [
+    "So when I went to the White House,"
+   ],
+   "en_unmasked": "So when I went to the White House,",
+   "jp": [
+    "で、White Houseに行った時"
+   ],
+   "start": 29.806124999999838,
+   "end": 31.646124999999984
+  },
+  {
+   "line_id": "Clip_02_L006",
+   "src_start": 1672.5500000000002,
+   "src_end": 1673.86,
+   "en": [
+    "I saw Jared."
+   ],
+   "en_unmasked": "I saw Jared.",
+   "jp": [
+    "Jaredに会ったんだよ"
+   ],
+   "start": 32.036125000000084,
+   "end": 33.38612499999997
+  },
+  {
+   "line_id": "Clip_02_L007",
+   "src_start": 1673.92,
+   "src_end": 1676.88,
+   "en": [
+    "I was like, yo, I want to just tell",
+    "you, nothing ever happened."
+   ],
+   "en_unmasked": "I was like, yo, I want to just tell you, nothing ever happened.",
+   "jp": [
+    "俺は「一応言っとくけ",
+    "ど、何もなかったから」"
+   ],
+   "start": 33.406124999999975,
+   "end": 36.34612500000001
+  },
+  {
+   "line_id": "Clip_02_L007",
+   "src_start": 1676.88,
+   "src_end": 1678.58,
+   "en": [
+    "He's like, yo, I don't know",
+    "what you're talking about."
+   ],
+   "en_unmasked": "He's like, yo, I don't know what you're talking about.",
+   "jp": [
+    "あいつは「何の話かわからない」って"
+   ],
+   "start": 36.36612500000001,
+   "end": 38.26612499999985
+  },
+  {
+   "line_id": "Clip_02_L008",
+   "src_start": 1678.8,
+   "src_end": 1680.8,
+   "en": [
+    "I was like, yo, and I grabbed",
+    "him by both shoulders,"
+   ],
+   "en_unmasked": "I was like, yo, and I grabbed him by both shoulders,",
+   "jp": [
+    "で、俺はあいつの両肩をつかんで"
+   ],
+   "start": 38.286124999999856,
+   "end": 40.26612499999985
+  },
+  {
+   "line_id": "Clip_02_L008",
+   "src_start": 1680.8,
+   "src_end": 1681.96,
+   "en": [
+    "and I was like, yo, Jared,"
+   ],
+   "en_unmasked": "and I was like, yo, Jared,",
+   "jp": [
+    "「Jared、マジで何もなかったから」って"
+   ],
+   "start": 40.286124999999856,
+   "end": 41.75612500000009
+  },
+  {
+   "line_id": "Clip_02_L008",
+   "src_start": 1682.2900000000002,
+   "src_end": 1684.74,
+   "en": [
+    "nothing has ever happened."
+   ],
+   "en_unmasked": "nothing has ever happened.",
+   "jp": [
+    "「Jared、マジで何もなかったから」って"
+   ],
+   "start": 41.77612500000009,
+   "end": 44.48612499999988
+  },
+  {
+   "line_id": "Clip_02_L009",
+   "src_start": 1685.02,
+   "src_end": 1686.74,
+   "en": [
+    "And he said, yo, thank",
+    "you for saying that."
+   ],
+   "en_unmasked": "And he said, yo, thank you for saying that.",
+   "jp": [
+    "そしたら「言ってくれてありがとう」って"
+   ],
+   "start": 44.506124999999884,
+   "end": 46.88612499999997
+  },
+  {
+   "line_id": "Clip_02_L010",
+   "src_start": 1687.42,
+   "src_end": 1690.88,
+   "en": [
+    "Okay, so when I saw Drake,",
+    "we was in a parking lot,"
+   ],
+   "en_unmasked": "Okay, so when I saw Drake, we was in a parking lot,",
+   "jp": [
+    "で、Drakeに会った時"
+   ],
+   "start": 46.906124999999975,
+   "end": 50.34612500000001
+  },
+  {
+   "line_id": "Clip_02_L010",
+   "src_start": 1690.88,
+   "src_end": 1692.34,
+   "en": [
+    "we were talking, and he said, yo,"
+   ],
+   "en_unmasked": "we were talking, and he said, yo,",
+   "jp": [
+    "駐車場で話してたら、あいつが"
+   ],
+   "start": 50.36612500000001,
+   "end": 51.80612499999982
+  },
+  {
+   "line_id": "Clip_02_L010",
+   "src_start": 1692.34,
+   "src_end": 1694.94,
+   "en": [
+    "I just want to tell you, yo,",
+    "nothing ever happened."
+   ],
+   "en_unmasked": "I just want to tell you, yo, nothing ever happened.",
+   "jp": [
+    "「一応言っとくけど、",
+    "何もなかったから」って"
+   ],
+   "start": 51.82612499999982,
+   "end": 54.926124999999956
+  },
+  {
+   "line_id": "Clip_02_L011",
+   "src_start": 1695.92,
+   "src_end": 1698.8,
+   "en": [
+    "And then I said, yo,",
+    "thank you for saying that."
+   ],
+   "en_unmasked": "And then I said, yo, thank you for saying that.",
+   "jp": [
+    "で、俺が「言ってくれてありがとう」って"
+   ],
+   "start": 55.406124999999975,
+   "end": 58.67612499999948
+  },
+  {
+   "line_id": "Clip_02_L012",
+   "src_start": 1699.2099999999996,
+   "src_end": 1700.68,
+   "en": [
+    "When did I become Jared Kushner?"
+   ],
+   "en_unmasked": "When did I become Jared Kushner?",
+   "jp": [
+    "いつから俺が",
+    "Jared Kushnerになったんだよ"
+   ],
+   "start": 58.69612499999948,
+   "end": 60.666124999999965
+  },
+  {
+   "line_id": "Clip_02_L013",
+   "src_start": 1705.15,
+   "src_end": 1706.85,
+   "en": [
+    "I didn't know where this was going."
+   ],
+   "en_unmasked": "I didn't know where this was going.",
+   "jp": [
+    "どこに向かう話かと思ったわ"
+   ],
+   "start": 64.63612499999999,
+   "end": 66.83612499999981
+  },
+  {
+   "line_id": "Clip_02_L014",
+   "src_start": 1711.3200000000002,
+   "src_end": 1712.83,
+   "en": [
+    "I did not know where this was going."
+   ],
+   "en_unmasked": "I did not know where this was going.",
+   "jp": [
+    "マジでどうなるかと思った"
+   ],
+   "start": 70.80612500000007,
+   "end": 72.67612499999994
+  },
+  {
+   "line_id": "Clip_02_L015",
+   "src_start": 1713.21,
+   "src_end": 1714.51,
+   "en": [
+    "You had me scared for a second."
+   ],
+   "en_unmasked": "You had me scared for a second.",
+   "jp": [
+    "一瞬ビビったわ"
+   ],
+   "start": 72.69612499999994,
+   "end": 74.09570833333326
+  }
+ ]
+}

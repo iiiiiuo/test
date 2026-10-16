@@ -1,0 +1,414 @@
+{
+ "clip": "Clip_08",
+ "total_s": 80.70562500000005,
+ "segments": [
+  [
+   1752.2915,
+   1832.997125,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_08_L001",
+   "src_start": 1752.2,
+   "src_end": 1755.06,
+   "en": [
+    "Anybody that's ever been through",
+    "a divorce, it's a difficult thing,"
+   ],
+   "en_unmasked": "Anybody that's ever been through a divorce, it's a difficult thing,",
+   "jp": [
+    "離婚を経験した奴ならわかるけど",
+    "キツいもんなんだよ"
+   ],
+   "start": 0.0,
+   "end": 2.7484999999999036
+  },
+  {
+   "line_id": "Clip_08_L001",
+   "src_start": 1755.06,
+   "src_end": 1757.9,
+   "en": [
+    "you know, because your baby",
+    "mama gonna play with you."
+   ],
+   "en_unmasked": "you know, because your baby mama gonna play with you.",
+   "jp": [
+    "子どもの母親に振り回されるから"
+   ],
+   "start": 2.7684999999999036,
+   "end": 6.028499999999877
+  },
+  {
+   "line_id": "Clip_08_L002",
+   "src_start": 1758.34,
+   "src_end": 1760.18,
+   "en": [
+    "Like, when we did the Donda 2 thing,"
+   ],
+   "en_unmasked": "Like, when we did the Donda 2 thing,",
+   "jp": [
+    "例えば『Donda 2』の",
+    "イベントの時"
+   ],
+   "start": 6.048499999999876,
+   "end": 7.868500000000022
+  },
+  {
+   "line_id": "Clip_08_L003",
+   "src_start": 1760.18,
+   "src_end": 1765.08,
+   "en": [
+    "uh, when my kids came on a plane,",
+    "after they was on a plane,"
+   ],
+   "en_unmasked": "uh, when my kids came on a plane, after they was on a plane,",
+   "jp": [
+    "子どもたちが飛行機に乗ってきた時",
+    "もう乗ってたのに"
+   ],
+   "start": 7.888500000000022,
+   "end": 12.768499999999886
+  },
+  {
+   "line_id": "Clip_08_L003",
+   "src_start": 1765.08,
+   "src_end": 1767.06,
+   "en": [
+    "Kim texted me and said",
+    "North's not on a plane."
+   ],
+   "en_unmasked": "Kim texted me and said North's not on a plane.",
+   "jp": [
+    "Kimから「Northは乗って",
+    "ない」ってメールが来た"
+   ],
+   "start": 12.788499999999885,
+   "end": 15.268499999999904
+  },
+  {
+   "line_id": "Clip_08_L004",
+   "src_start": 1768.23,
+   "src_end": 1769.49,
+   "en": [
+    "And knowing my personality,"
+   ],
+   "en_unmasked": "And knowing my personality,",
+   "jp": [
+    "俺の性格わかってたら"
+   ],
+   "start": 15.938499999999976,
+   "end": 17.928499999999968
+  },
+  {
+   "line_id": "Clip_08_L004",
+   "src_start": 1770.24,
+   "src_end": 1772.27,
+   "en": [
+    "you know what I'm saying,",
+    "that could affect my show."
+   ],
+   "en_unmasked": "you know what I'm saying, that could affect my show.",
+   "jp": [
+    "それでライブに",
+    "影響出るってわかるだろ"
+   ],
+   "start": 17.948499999999967,
+   "end": 19.95849999999994
+  },
+  {
+   "line_id": "Clip_08_L005",
+   "src_start": 1772.27,
+   "src_end": 1776.35,
+   "en": [
+    "So baby mamas across the world,",
+    "not just me, like on some billionaire"
+   ],
+   "en_unmasked": "So baby mamas across the world, not just me, like on some billionaire",
+   "jp": [
+    "世界中の子どもの母親がそうなんだよ",
+    "俺みたいな億万長者だけじゃなく"
+   ],
+   "start": 19.97849999999994,
+   "end": 24.038499999999868
+  },
+  {
+   "line_id": "Clip_08_L005",
+   "src_start": 1776.35,
+   "src_end": 1778.23,
+   "en": [
+    "That's a Gemini s**t.",
+    "Yeah, I can attest to that."
+   ],
+   "en_unmasked": "That's a Gemini shit. Yeah, I can attest to that.",
+   "jp": [
+    "それ双子座あるあるだな",
+    "マジでわかる"
+   ],
+   "start": 24.058499999999867,
+   "end": 26.07850000000006
+  },
+  {
+   "line_id": "Clip_08_L006",
+   "src_start": 1778.39,
+   "src_end": 1781.99,
+   "en": [
+    "And like, but everybody goes",
+    "through a lot of that type of..."
+   ],
+   "en_unmasked": "And like, but everybody goes through a lot of that type of...",
+   "jp": [
+    "でもみんな",
+    "そういうのを経験するもんで"
+   ],
+   "start": 26.098500000000058,
+   "end": 29.678499999999968
+  },
+  {
+   "line_id": "Clip_08_L006",
+   "src_start": 1781.99,
+   "src_end": 1784.07,
+   "en": [
+    "I just thought about, you know,"
+   ],
+   "en_unmasked": "I just thought about, you know,",
+   "jp": [
+    "俺がずっと思ってたのは"
+   ],
+   "start": 29.698499999999967,
+   "end": 32.438499999999955
+  },
+  {
+   "line_id": "Clip_08_L007",
+   "src_start": 1784.75,
+   "src_end": 1787.47,
+   "en": [
+    "all the time when I thought me and",
+    "Kim were going to get a divorce,"
+   ],
+   "en_unmasked": "all the time when I thought me and Kim were going to get a divorce,",
+   "jp": [
+    "Kimと離婚するかもって",
+    "思うたびに"
+   ],
+   "start": 32.45849999999996,
+   "end": 35.15849999999998
+  },
+  {
+   "line_id": "Clip_08_L007",
+   "src_start": 1787.47,
+   "src_end": 1790.55,
+   "en": [
+    "like, throughout our relationship,",
+    "I always thought about"
+   ],
+   "en_unmasked": "like, throughout our relationship, I always thought about",
+   "jp": [
+    "付き合ってる間ずっと",
+    "頭に浮かんでたのが"
+   ],
+   "start": 35.178499999999985,
+   "end": 38.75849999999991
+  },
+  {
+   "line_id": "Clip_08_L008",
+   "src_start": 1792.13,
+   "src_end": 1793.74,
+   "en": [
+    "Big Boi, man."
+   ],
+   "en_unmasked": "Big Boi, man.",
+   "jp": [
+    "Big Boiだよ"
+   ],
+   "start": 39.83850000000007,
+   "end": 41.428499999999964
+  },
+  {
+   "line_id": "Clip_08_L008",
+   "src_start": 1793.74,
+   "src_end": 1795.9,
+   "en": [
+    "He really told me what it",
+    "really was on 'I Choose You.'"
+   ],
+   "en_unmasked": "He really told me what it really was on 'I Choose You.'",
+   "jp": [
+    "『I Choose You』で",
+    "本当のことを教えてくれてた"
+   ],
+   "start": 41.44849999999997,
+   "end": 44.10850000000005
+  },
+  {
+   "line_id": "Clip_08_L009",
+   "src_start": 1796.82,
+   "src_end": 1799.46,
+   "en": [
+    "Oh, it's about OutKast? I was",
+    "thinking about Big Boy Radio."
+   ],
+   "en_unmasked": "Oh, it's about OutKast? I was thinking about Big Boy Radio.",
+   "jp": [
+    "あ、OutKastの話か",
+    "Big Boiのラジオかと思った"
+   ],
+   "start": 44.528499999999894,
+   "end": 47.14849999999999
+  },
+  {
+   "line_id": "Clip_08_L010",
+   "src_start": 1799.46,
+   "src_end": 1802.46,
+   "en": [
+    "Like, your baby's mama's",
+    "mama don't like me,"
+   ],
+   "en_unmasked": "Like, your baby's mama's mama don't like me,",
+   "jp": [
+    "「お前の母親の母親は俺を嫌ってて"
+   ],
+   "start": 47.168499999999995,
+   "end": 50.42850000000019
+  },
+  {
+   "line_id": "Clip_08_L010",
+   "src_start": 1802.7400000000002,
+   "src_end": 1805.52,
+   "en": [
+    "they try to come to the studio, try to",
+    "come and fight me and blah, blah,"
+   ],
+   "en_unmasked": "they try to come to the studio, try to come and fight me and blah, blah,",
+   "jp": [
+    "スタジオに来てケンカ売ってくる」とかさ"
+   ],
+   "start": 50.448500000000195,
+   "end": 53.20849999999994
+  },
+  {
+   "line_id": "Clip_08_L011",
+   "src_start": 1805.52,
+   "src_end": 1807.56,
+   "en": [
+    "Oh, that's 'Sorry Ms. Jackson,' right?"
+   ],
+   "en_unmasked": "Oh, that's 'Sorry Ms. Jackson,' right?",
+   "jp": [
+    "それって『Ms. Jackson』だろ？"
+   ],
+   "start": 53.22849999999994,
+   "end": 55.2484999999999
+  },
+  {
+   "line_id": "Clip_08_L011",
+   "src_start": 1807.56,
+   "src_end": 1808.32,
+   "en": [
+    "Yeah, yeah, yeah."
+   ],
+   "en_unmasked": "Yeah, yeah, yeah.",
+   "jp": [
+    "そう、そう"
+   ],
+   "start": 55.268499999999904,
+   "end": 56.00849999999989
+  },
+  {
+   "line_id": "Clip_08_L012",
+   "src_start": 1808.32,
+   "src_end": 1810.18,
+   "en": [
+    "Okay, but then also he says,"
+   ],
+   "en_unmasked": "Okay, but then also he says,",
+   "jp": [
+    "それに",
+    "「相手はちゃんと選べ"
+   ],
+   "start": 56.028499999999894,
+   "end": 57.86850000000002
+  },
+  {
+   "line_id": "Clip_08_L012",
+   "src_start": 1810.18,
+   "src_end": 1812.92,
+   "en": [
+    "better pick the right one",
+    "or pick the kiddies up."
+   ],
+   "en_unmasked": "better pick the right one or pick the kiddies up.",
+   "jp": [
+    "さもなきゃ子どもの送り迎えだ」",
+    "って言ってる"
+   ],
+   "start": 57.88850000000002,
+   "end": 61.12850000000003
+  },
+  {
+   "line_id": "Clip_08_L013",
+   "src_start": 1813.88,
+   "src_end": 1817.6,
+   "en": [
+    "And the whole time, I'm like,",
+    "this rap is just coming,"
+   ],
+   "en_unmasked": "And the whole time, I'm like, this rap is just coming,",
+   "jp": [
+    "その間ずっと",
+    "そのラップが頭の中で"
+   ],
+   "start": 61.58850000000007,
+   "end": 65.28849999999987
+  },
+  {
+   "line_id": "Clip_08_L013",
+   "src_start": 1817.6,
+   "src_end": 1821.56,
+   "en": [
+    "rolling through my head like a",
+    "mantra of what it, you know."
+   ],
+   "en_unmasked": "rolling through my head like a mantra of what it, you know.",
+   "jp": [
+    "マントラみたいに回ってたんだよ"
+   ],
+   "start": 65.30849999999987,
+   "end": 69.52849999999988
+  },
+  {
+   "line_id": "Clip_08_L014",
+   "src_start": 1821.84,
+   "src_end": 1826.48,
+   "en": [
+    "So, and I still be in my head",
+    "like, you know, maybe,"
+   ],
+   "en_unmasked": "So, and I still be in my head like, you know, maybe,",
+   "jp": [
+    "今でも頭の中では",
+    "もしかしたらいつか"
+   ],
+   "start": 69.54849999999988,
+   "end": 74.68849999999998
+  },
+  {
+   "line_id": "Clip_08_L014",
+   "src_start": 1828.16,
+   "src_end": 1833.04,
+   "en": [
+    "you know, maybe one day our",
+    "family could get back together."
+   ],
+   "en_unmasked": "you know, maybe one day our family could get back together.",
+   "jp": [
+    "家族がまた一緒になれるかもって",
+    "思ってる"
+   ],
+   "start": 75.86850000000004,
+   "end": 80.68562500000006
+  }
+ ]
+}

@@ -1,0 +1,468 @@
+{
+ "clip": "Clip_17",
+ "total_s": 72.82275000000004,
+ "segments": [
+  [
+   1885.1749583333333,
+   1957.9977083333333,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_17_L001",
+   "src_start": 1885.76,
+   "src_end": 1887.22,
+   "en": [
+    "Puff is my idol, bro."
+   ],
+   "en_unmasked": "Puff is my idol, bro.",
+   "jp": [
+    "Puff Daddyは俺のアイドルなんだよ"
+   ],
+   "start": 0.5850416666667115,
+   "end": 2.2050416666668116
+  },
+  {
+   "line_id": "Clip_17_L002",
+   "src_start": 1887.4,
+   "src_end": 1889.7,
+   "en": [
+    "Yeah, that's why I said, I was like, yo,"
+   ],
+   "en_unmasked": "Yeah, that's why I said, I was like, yo,",
+   "jp": [
+    "だから言ったんだよ"
+   ],
+   "start": 2.2250416666668116,
+   "end": 4.755041666666312
+  },
+  {
+   "line_id": "Clip_17_L002",
+   "src_start": 1889.9499999999996,
+   "src_end": 1894.36,
+   "en": [
+    "I know how Virgil feels now, on",
+    "the times that I scream at Virgil,"
+   ],
+   "en_unmasked": "I know how Virgil feels now, on the times that I scream at Virgil,",
+   "jp": [
+    "今ならVirgilの気持ちがわかるって",
+    "俺がVirgilを怒鳴った時"
+   ],
+   "start": 4.775041666666311,
+   "end": 9.165041666666621
+  },
+  {
+   "line_id": "Clip_17_L002",
+   "src_start": 1894.36,
+   "src_end": 1896.5,
+   "en": [
+    "especially if I scream at",
+    "Virgil in front of somebody."
+   ],
+   "en_unmasked": "especially if I scream at Virgil in front of somebody.",
+   "jp": [
+    "特に人前で怒鳴った時のな"
+   ],
+   "start": 9.18504166666662,
+   "end": 11.90504166666663
+  },
+  {
+   "line_id": "Clip_17_L003",
+   "src_start": 1897.1,
+   "src_end": 1897.9,
+   "en": [
+    "You know what I'm saying?"
+   ],
+   "en_unmasked": "You know what I'm saying?",
+   "jp": [
+    "わかるだろ？"
+   ],
+   "start": 11.92504166666663,
+   "end": 12.90504166666663
+  },
+  {
+   "line_id": "Clip_17_L004",
+   "src_start": 1898.1,
+   "src_end": 1900.96,
+   "en": [
+    "Well, for Puff to call me",
+    "and say anybody with"
+   ],
+   "en_unmasked": "Well, for Puff to call me and say anybody with",
+   "jp": [
+    "Puff Daddyが電話してきて",
+    "「White Lives MatterのTシャツ"
+   ],
+   "start": 12.92504166666663,
+   "end": 15.765041666666757
+  },
+  {
+   "line_id": "Clip_17_L004",
+   "src_start": 1900.96,
+   "src_end": 1903.6,
+   "en": [
+    "a White Lives Matter",
+    "t-shirt is getting greenlit,"
+   ],
+   "en_unmasked": "a White Lives Matter t-shirt is getting greenlit,",
+   "jp": [
+    "着てる奴は誰でも狙われる」って",
+    "言われた時"
+   ],
+   "start": 15.785041666666757,
+   "end": 18.955041666666357
+  },
+  {
+   "line_id": "Clip_17_L005",
+   "src_start": 1904.1499999999996,
+   "src_end": 1906.4,
+   "en": [
+    "I know how Virgil felt at that moment,"
+   ],
+   "en_unmasked": "I know how Virgil felt at that moment,",
+   "jp": [
+    "あの時のVirgilの気持ちがわかった"
+   ],
+   "start": 18.975041666666357,
+   "end": 21.235041666666557
+  },
+  {
+   "line_id": "Clip_17_L005",
+   "src_start": 1906.4299999999998,
+   "src_end": 1908.48,
+   "en": [
+    "if I ever said something",
+    "where his idol"
+   ],
+   "en_unmasked": "if I ever said something where his idol",
+   "jp": [
+    "憧れの人に"
+   ],
+   "start": 21.255041666666557,
+   "end": 23.655041666666175
+  },
+  {
+   "line_id": "Clip_17_L005",
+   "src_start": 1908.8499999999995,
+   "src_end": 1910.22,
+   "en": [
+    "said something that hurt his feelings."
+   ],
+   "en_unmasked": "said something that hurt his feelings.",
+   "jp": [
+    "傷つくことを言われた気持ちがな"
+   ],
+   "start": 23.675041666666175,
+   "end": 25.545041666666748
+  },
+  {
+   "line_id": "Clip_17_L006",
+   "src_start": 1911.2,
+   "src_end": 1915.48,
+   "en": [
+    "And, you know, and that's why",
+    "Virgil took the watch to Drake."
+   ],
+   "en_unmasked": "And, you know, and that's why Virgil took the watch to Drake.",
+   "jp": [
+    "だからVirgilは",
+    "Drakeに時計を作ったんだよ"
+   ],
+   "start": 26.025041666666766,
+   "end": 31.065041666666485
+  },
+  {
+   "line_id": "Clip_17_L006",
+   "src_start": 1916.2599999999998,
+   "src_end": 1918.06,
+   "en": [
+    "You know what I'm saying? He",
+    "knew that would hurt my feelings."
+   ],
+   "en_unmasked": "You know what I'm saying? He knew that would hurt my feelings.",
+   "jp": [
+    "俺が傷つくって",
+    "わかっててな"
+   ],
+   "start": 31.085041666666484,
+   "end": 33.19504166666659
+  },
+  {
+   "line_id": "Clip_17_L007",
+   "src_start": 1918.3899999999999,
+   "src_end": 1921.24,
+   "en": [
+    "You know, we hurt each other's",
+    "feelings, and we don't mean to,"
+   ],
+   "en_unmasked": "You know, we hurt each other's feelings, and we don't mean to,",
+   "jp": [
+    "俺らはお互い傷つけ合ってた",
+    "そんなつもりはなくても"
+   ],
+   "start": 33.21504166666659,
+   "end": 36.315041666666254
+  },
+  {
+   "line_id": "Clip_17_L007",
+   "src_start": 1921.5099999999995,
+   "src_end": 1922.96,
+   "en": [
+    "but part of the reason",
+    "why we hurt each other..."
+   ],
+   "en_unmasked": "but part of the reason why we hurt each other...",
+   "jp": [
+    "でもそうなる理由は…"
+   ],
+   "start": 36.33504166666626,
+   "end": 37.765041666666754
+  },
+  {
+   "line_id": "Clip_17_L008",
+   "src_start": 1922.96,
+   "src_end": 1923.8,
+   "en": [
+    "I want to address that."
+   ],
+   "en_unmasked": "I want to address that.",
+   "jp": [
+    "そこ確認したいんだけど"
+   ],
+   "start": 37.78504166666676,
+   "end": 38.60504166666667
+  },
+  {
+   "line_id": "Clip_17_L008",
+   "src_start": 1923.8,
+   "src_end": 1925.6000000000001,
+   "en": [
+    "You said Virgil took",
+    "the watch from Drake,"
+   ],
+   "en_unmasked": "You said Virgil took the watch from Drake,",
+   "jp": [
+    "VirgilがDrakeから",
+    "時計を取ったって言った？"
+   ],
+   "start": 38.625041666666675,
+   "end": 40.63504166666642
+  },
+  {
+   "line_id": "Clip_17_L008",
+   "src_start": 1925.8299999999997,
+   "src_end": 1927.6,
+   "en": [
+    "because Virgil actually",
+    "designed a Patek."
+   ],
+   "en_unmasked": "because Virgil actually designed a Patek.",
+   "jp": [
+    "実際はVirgilが",
+    "Patekをデザインしたんだよな"
+   ],
+   "start": 40.65504166666642,
+   "end": 42.90504166666663
+  },
+  {
+   "line_id": "Clip_17_L009",
+   "src_start": 1928.1,
+   "src_end": 1930.34,
+   "en": [
+    "Oh, well, Virgil, I'm sorry.",
+    "Virgil took the watch,"
+   ],
+   "en_unmasked": "Oh, well, Virgil, I'm sorry. Virgil took the watch,",
+   "jp": [
+    "ああ、悪い",
+    "Virgilが時計を"
+   ],
+   "start": 42.92504166666663,
+   "end": 45.145041666666636
+  },
+  {
+   "line_id": "Clip_17_L009",
+   "src_start": 1930.34,
+   "src_end": 1932.18,
+   "en": [
+    "sent the watch to Drake",
+    "and all that type of stuff,"
+   ],
+   "en_unmasked": "sent the watch to Drake and all that type of stuff,",
+   "jp": [
+    "Drakeに送ったとか",
+    "そういうことだよ"
+   ],
+   "start": 45.16504166666664,
+   "end": 46.98504166666678
+  },
+  {
+   "line_id": "Clip_17_L009",
+   "src_start": 1932.18,
+   "src_end": 1935.94,
+   "en": [
+    "because he knew that, like, you",
+    "know, that would hurt my feelings."
+   ],
+   "en_unmasked": "because he knew that, like, you know, that would hurt my feelings.",
+   "jp": [
+    "俺が傷つくって",
+    "わかっててな"
+   ],
+   "start": 47.005041666666784,
+   "end": 51.335041666666235
+  },
+  {
+   "line_id": "Clip_17_L010",
+   "src_start": 1936.5299999999995,
+   "src_end": 1937.98,
+   "en": [
+    "I work with Balenciaga because I"
+   ],
+   "en_unmasked": "I work with Balenciaga because I",
+   "jp": [
+    "俺がBalenciagaと組んだのも"
+   ],
+   "start": 51.35504166666624,
+   "end": 52.785041666666736
+  },
+  {
+   "line_id": "Clip_17_L010",
+   "src_start": 1937.98,
+   "src_end": 1939.32,
+   "en": [
+    "knew it would hurt Drake's feelings."
+   ],
+   "en_unmasked": "knew it would hurt Drake's feelings.",
+   "jp": [
+    "Drakeが傷つくって",
+    "わかってたからだよ"
+   ],
+   "start": 52.80504166666674,
+   "end": 54.18504166666683
+  },
+  {
+   "line_id": "Clip_17_L011",
+   "src_start": 1939.38,
+   "src_end": 1941.56,
+   "en": [
+    "So we're operating,",
+    "like I said, it's 4D chess."
+   ],
+   "en_unmasked": "So we're operating, like I said, it's 4D chess.",
+   "jp": [
+    "俺らは　言ってみれば",
+    "4次元チェスをやってたんだ"
+   ],
+   "start": 54.20504166666683,
+   "end": 56.60504166666667
+  },
+  {
+   "line_id": "Clip_17_L012",
+   "src_start": 1941.8,
+   "src_end": 1943.84,
+   "en": [
+    "You guys are playing",
+    "crazy games, bro."
+   ],
+   "en_unmasked": "You guys are playing crazy games, bro.",
+   "jp": [
+    "お前らヤバいゲームしてんな"
+   ],
+   "start": 56.625041666666675,
+   "end": 58.74504166666677
+  },
+  {
+   "line_id": "Clip_17_L013",
+   "src_start": 1943.94,
+   "src_end": 1946.0,
+   "en": [
+    "Yeah, you know what I'm",
+    "saying? This is like real war."
+   ],
+   "en_unmasked": "Yeah, you know what I'm saying? This is like real war.",
+   "jp": [
+    "そう",
+    "マジの戦争なんだよ"
+   ],
+   "start": 58.765041666666775,
+   "end": 61.495041666666545
+  },
+  {
+   "line_id": "Clip_17_L014",
+   "src_start": 1946.6899999999998,
+   "src_end": 1949.64,
+   "en": [
+    "This is psychological. Like,",
+    "Virgil was a psychological warrior."
+   ],
+   "en_unmasked": "This is psychological. Like, Virgil was a psychological warrior.",
+   "jp": [
+    "心理戦だよ　Virgilは　心理戦の戦士だった"
+   ],
+   "start": 61.51504166666655,
+   "end": 64.96504166666682
+  },
+  {
+   "line_id": "Clip_17_L015",
+   "src_start": 1950.7399999999998,
+   "src_end": 1952.05,
+   "en": [
+    "He was a warrior, bro."
+   ],
+   "en_unmasked": "He was a warrior, bro.",
+   "jp": [
+    "戦士だったんだよ"
+   ],
+   "start": 65.5650416666665,
+   "end": 67.37504166666668
+  },
+  {
+   "line_id": "Clip_17_L016",
+   "src_start": 1952.9599999999998,
+   "src_end": 1954.65,
+   "en": [
+    "That man made it from being Ye's"
+   ],
+   "en_unmasked": "That man made it from being Ye's",
+   "jp": [
+    "Yeのアシスタントから"
+   ],
+   "start": 67.78504166666653,
+   "end": 69.45504166666682
+  },
+  {
+   "line_id": "Clip_17_L016",
+   "src_start": 1954.65,
+   "src_end": 1956.25,
+   "en": [
+    "assistant to the head",
+    "of Louis Vuitton."
+   ],
+   "en_unmasked": "assistant to the head of Louis Vuitton.",
+   "jp": [
+    "Louis Vuittonのトップまで",
+    "上り詰めたんだぜ"
+   ],
+   "start": 69.47504166666681,
+   "end": 71.6650416666664
+  },
+  {
+   "line_id": "Clip_17_L017",
+   "src_start": 1956.8599999999997,
+   "src_end": 1957.67,
+   "en": [
+    "That man's a warrior."
+   ],
+   "en_unmasked": "That man's a warrior.",
+   "jp": [
+    "あいつは戦士だよ"
+   ],
+   "start": 71.6850416666664,
+   "end": 72.80275000000005
+  }
+ ]
+}

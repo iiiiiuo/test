@@ -1,0 +1,92 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.06,0:00:02.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}All right. Dungeon Family
+Dialogue: 0,0:00:00.06,0:00:02.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}or Wu-Tang Clan?
+Dialogue: 0,0:00:00.06,0:00:02.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}よし　Dungeon Familyか
+Dialogue: 0,0:00:00.06,0:00:02.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Wu-Tang Clanか
+Dialogue: 0,0:00:02.92,0:00:06.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Oh, you know, see, it's ungodly.
+Dialogue: 0,0:00:02.92,0:00:06.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}いや、それは
+Dialogue: 0,0:00:02.92,0:00:06.80,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}比べるもんじゃないって
+Dialogue: 0,0:00:08.00,0:00:10.10,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Wu-Tang, Wu-Tang.
+Dialogue: 0,0:00:08.00,0:00:10.10,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Wu-Tang、Wu-Tang
+Dialogue: 0,0:00:10.12,0:00:10.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What? Come on, man.
+Dialogue: 0,0:00:10.12,0:00:10.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}は？マジかよ
+Dialogue: 0,0:00:10.96,0:00:12.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is like Tony Starks.
+Dialogue: 0,0:00:10.96,0:00:12.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Tony Starksだぜ
+Dialogue: 0,0:00:13.14,0:00:14.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is the drip. You
+Dialogue: 0,0:00:13.14,0:00:14.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}know what I'm saying?
+Dialogue: 0,0:00:13.14,0:00:14.92,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}これがファッションなんだよ
+Dialogue: 0,0:00:13.14,0:00:14.92,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかる？
+Dialogue: 0,0:00:14.94,0:00:17.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But I got to say, the
+Dialogue: 0,0:00:14.94,0:00:17.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Wu-Tang videos had me
+Dialogue: 0,0:00:14.94,0:00:17.44,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でもさ、Wu-TangのMVのせいで
+Dialogue: 0,0:00:17.46,0:00:19.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}spending a lot more
+Dialogue: 0,0:00:17.46,0:00:19.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}money than I needed to.
+Dialogue: 0,0:00:17.46,0:00:19.44,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}必要以上に金使っちまったんだよ
+Dialogue: 0,0:00:19.46,0:00:22.36,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Me and Don C was
+Dialogue: 0,0:00:19.46,0:00:22.36,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}buying new Timbs,
+Dialogue: 0,0:00:19.46,0:00:22.36,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺とDon Cで
+Dialogue: 0,0:00:19.46,0:00:22.36,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}新品のティンバーランドにダウンに
+Dialogue: 0,0:00:22.38,0:00:28.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}new puffer jackets, fitted hats,
+Dialogue: 0,0:00:22.38,0:00:28.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}white tees, Wallabees.
+Dialogue: 0,0:00:22.38,0:00:28.81,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}キャップに白T、Wallabeesまで買ってた
+Dialogue: 0,0:00:29.26,0:00:31.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And then, because it looked
+Dialogue: 0,0:00:29.26,0:00:31.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like every day was a video.
+Dialogue: 0,0:00:29.26,0:00:31.92,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だって毎日がMVみたいに
+Dialogue: 0,0:00:29.26,0:00:31.92,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}見えてたからさ
+Dialogue: 0,0:00:31.94,0:00:35.71,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I got to, like, New York
+Dialogue: 0,0:00:31.94,0:00:35.71,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and I seen dirty Timbs.
+Dialogue: 0,0:00:31.94,0:00:35.71,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、New Yorkに着いたら
+Dialogue: 0,0:00:31.94,0:00:35.71,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}みんな汚れたティンバーランド履いてんの
+Dialogue: 0,0:00:37.17,0:00:38.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I called Free up.
+Dialogue: 0,0:00:37.17,0:00:38.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Freeに電話して
+Dialogue: 0,0:00:38.49,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, I didn't know ni**as
+Dialogue: 0,0:00:38.49,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}had dirty Timbs in New York.
+Dialogue: 0,0:00:38.49,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「NYの奴らが汚れたティンバーランド
+Dialogue: 0,0:00:38.49,0:00:41.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}履いてるなんて知らなかったぞ
+Dialogue: 0,0:00:41.23,0:00:43.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just spent all this money
+Dialogue: 0,0:00:41.23,0:00:43.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}on my fresh Timbs.
+Dialogue: 0,0:00:41.23,0:00:43.63,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}新品にこんだけ金かけたのに」って
+Dialogue: 0,0:00:43.65,0:00:46.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I couldn't let my Timbs
+Dialogue: 0,0:00:43.65,0:00:46.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}go more than three days.
+Dialogue: 0,0:00:43.65,0:00:46.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は3日以上
+Dialogue: 0,0:00:43.65,0:00:46.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}同じティンバーランド履けなかったからな
+Dialogue: 0,0:00:46.45,0:00:49.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If my Timbs got a scuff on
+Dialogue: 0,0:00:46.45,0:00:49.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}them, I'm in the meeting,
+Dialogue: 0,0:00:46.45,0:00:49.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ティンバーランドに傷がついたら
+Dialogue: 0,0:00:46.45,0:00:49.83,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}会議中でも
+Dialogue: 0,0:00:50.19,0:00:52.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}meeting adjourned.
+Dialogue: 0,0:00:50.19,0:00:52.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I need a new pair of Timbs.
+Dialogue: 0,0:00:50.19,0:00:52.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「会議は中断
+Dialogue: 0,0:00:50.19,0:00:52.43,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}新しいティンバーランド買ってくる」
+Dialogue: 0,0:00:52.45,0:00:53.35,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'll be back.
+Dialogue: 0,0:00:52.45,0:00:53.35,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「すぐ戻る」って
+Dialogue: 0,0:00:53.37,0:00:55.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I carried the
+Dialogue: 0,0:00:53.37,0:00:55.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Timbs in a plastic bag.
+Dialogue: 0,0:00:53.37,0:00:55.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、ティンバーランドを
+Dialogue: 0,0:00:53.37,0:00:55.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ビニール袋に入れて持ってきて
+Dialogue: 0,0:00:55.23,0:00:56.49,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Put them on in the meeting.
+Dialogue: 0,0:00:55.23,0:00:56.49,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}会議中に履き替えて
+Dialogue: 0,0:00:56.51,0:00:57.97,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Now let's continue the conversation.
+Dialogue: 0,0:00:56.51,0:00:57.97,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「さあ、話の続きをしよう」ってな
+Dialogue: 0,0:00:57.99,0:01:00.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, yeah, yeah. Okay.
+Dialogue: 0,0:00:57.99,0:01:00.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}No, I was like the DJ.
+Dialogue: 0,0:00:57.99,0:01:00.59,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}なるほどな　オッケー
+Dialogue: 0,0:00:57.99,0:01:00.59,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}いや、DJの番だと思って
+Dialogue: 0,0:01:00.61,0:01:02.03,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Well, I got to do the DJ...
+Dialogue: 0,0:01:00.61,0:01:02.03,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}You got to do this.
+Dialogue: 0,0:01:00.61,0:01:02.03,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}DJの番だろ…
+Dialogue: 0,0:01:00.61,0:01:02.03,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前がやれよ
+Dialogue: 0,0:01:02.05,0:01:03.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm sorry. You're correct.
+Dialogue: 0,0:01:02.05,0:01:03.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ごめん、その通りだわ

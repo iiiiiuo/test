@@ -1,0 +1,90 @@
+# Clip_04 source context (part_2 2.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 30.53-81.00s (frames 731-1941)
+       8.31-   15.97 you know i went to the ice cube big three um event and i had justin la boy king toxic and i
+      15.97-   23.57 have vori with me and i was saying like yo drake because this is my number you know it's like if
+      23.57-   28.91 we're going to put our album out you got to go after the the number one artist which was vori at the
+>>    28.91-   34.79 time which was Drake okay yes a like right now when me James Blake are and no
+>>    34.79-   38.45 idea in the studio working on our album who do you think we'd be bringing up
+>>    38.45-   41.91 when we talking about songs stadium artists who do you think we bring up
+>>    42.42-   45.94 and we ain't got no problem we do it so beefy no problem it's just like yo we
+>>    45.94-   49.42 competing not Drake who you think we bring anybody else got another Travis
+>>    49.42-   49.60 What is?
+>>    50.24-   50.72 Stadium.
+>>    51.94-   53.06 Think down here.
+>>    54.76-   55.38 Kodak Black?
+>>    55.78-   56.18 No, no.
+>>    57.76-   58.24 Stadium.
+>>    59.12-   59.60 Stadium.
+>>    61.26-   62.16 Bad Bunny.
+>>    62.62-   63.98 That's who's on our wall.
+>>    64.46-   66.52 That's who's on our wall when we make music.
+>>    66.76-   68.64 We loading up concert footage.
+>>    68.94-   71.62 Are you talking about the aesthetics of the stadium
+>>    71.62-   72.78 and what it's looking for?
+>>    72.86-   73.96 Yeah, not just the aesthetics.
+>>    74.06-   76.18 And in retrospect, if it wasn't for me,
+>>    76.76-   78.38 there might not be no Bad Bunny.
+>>    78.84-   80.52 I brought Reggaeton to America.
+>>    80.72-   81.02 I'm sorry.
+      81.42-   82.16 I was making you know it.
+      82.22-   85.51 You're making me.
+      85.65-   86.19 You're cool.
+      86.29-   86.69 Come on, let's go.
+      86.87-   89.13 So the thing is, it depends on what we're doing.
+      89.29-   89.55 You know what I'm saying?
+      89.55-   90.49 We're going to do clothes.
+      90.77-   91.95 We're going to look at Supreme.
+      92.41-   92.57 Right.
+      92.69-   93.97 We're going to look at Balenciaga.
+      94.19-   95.05 We're going to look at Ralph.
+      95.15-   96.23 Are we looking at these raps?
+      96.61-   96.73 Right.
+      96.93-   99.25 You know, we're going to look at Drake.
+      99.73-  100.05 You know what I'm saying?
+     100.17-  101.55 We're looking at stadiums.
+
+## interval 86.75-111.40s (frames 2079-2670)
+      66.76-   68.64 We loading up concert footage.
+      68.94-   71.62 Are you talking about the aesthetics of the stadium
+      71.62-   72.78 and what it's looking for?
+      72.86-   73.96 Yeah, not just the aesthetics.
+      74.06-   76.18 And in retrospect, if it wasn't for me,
+      76.76-   78.38 there might not be no Bad Bunny.
+      78.84-   80.52 I brought Reggaeton to America.
+      80.72-   81.02 I'm sorry.
+      81.42-   82.16 I was making you know it.
+      82.22-   85.51 You're making me.
+      85.65-   86.19 You're cool.
+      86.29-   86.69 Come on, let's go.
+>>    86.87-   89.13 So the thing is, it depends on what we're doing.
+>>    89.29-   89.55 You know what I'm saying?
+>>    89.55-   90.49 We're going to do clothes.
+>>    90.77-   91.95 We're going to look at Supreme.
+>>    92.41-   92.57 Right.
+>>    92.69-   93.97 We're going to look at Balenciaga.
+>>    94.19-   95.05 We're going to look at Ralph.
+>>    95.15-   96.23 Are we looking at these raps?
+>>    96.61-   96.73 Right.
+>>    96.93-   99.25 You know, we're going to look at Drake.
+>>    99.73-  100.05 You know what I'm saying?
+>>   100.17-  101.55 We're looking at stadiums.
+>>   101.69-  101.87 Right.
+>>   101.93-  103.13 We're going to look at Bad Bunny.
+>>   103.23-  104.39 We've got to look at everything.
+>>   104.53-  104.89 That's what we have.
+>>   104.91-  105.73 We're going to look at money.
+>>   106.21-  107.43 We're going to look at Elon.
+>>   108.29-  108.51 You know what I'm saying?
+>>   108.51-  109.75 then we're gonna look at the Saudis.
+>>   110.23-  111.45 That's how I look at everything.
+     111.61-  113.99 That's a widespread view of everything.
+     114.15-  114.59 You know what I'm saying?
+     114.61-  119.12 It's like everything has to be Apple, you know, level.
+     119.26-  122.38 Because we heard you was building your own yay community.
+     122.94-  123.76 Is that still?
+     123.78-  124.26 Yay immunity?
+     124.66-  125.52 Yay immunity.
+     126.36-  128.78 You know, this is one of my issues that I have,
+     128.88-  130.52 because I've been building,
+     130.72-  134.53 I've invested like over $150 million

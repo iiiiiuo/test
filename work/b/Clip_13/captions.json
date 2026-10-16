@@ -1,0 +1,460 @@
+{
+ "clip": "Clip_13",
+ "total_s": 78.82875000000013,
+ "segments": [
+  [
+   1395.4774166666666,
+   1474.3061666666667,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_13_L001",
+   "src_start": 1395.45,
+   "src_end": 1398.89,
+   "en": [
+    "I always thought, like, you",
+    "know what I'm saying, it's like,"
+   ],
+   "en_unmasked": "I always thought, like, you know what I'm saying, it's like,",
+   "jp": [
+    "ずっと思ってたんだけど"
+   ],
+   "start": 0.0,
+   "end": 3.4625833333331957
+  },
+  {
+   "line_id": "Clip_13_L001",
+   "src_start": 1398.9599999999998,
+   "src_end": 1403.39,
+   "en": [
+    "I always thought, when I would speak",
+    "to rap, like somebody like Pimp C,"
+   ],
+   "en_unmasked": "I always thought, when I would speak to rap, like somebody like Pimp C,",
+   "jp": [
+    "Pimp Cみたいな",
+    "ラッパーと話すと"
+   ],
+   "start": 3.4825833333331957,
+   "end": 7.892583333333487
+  },
+  {
+   "line_id": "Clip_13_L002",
+   "src_start": 1403.39,
+   "src_end": 1406.13,
+   "en": [
+    "always made me,",
+    "like, feel like, for me,"
+   ],
+   "en_unmasked": "always made me, like, feel like, for me,",
+   "jp": [
+    "ピンクのポロシャツの"
+   ],
+   "start": 7.912583333333487,
+   "end": 10.632583333333496
+  },
+  {
+   "line_id": "Clip_13_L002",
+   "src_start": 1406.13,
+   "src_end": 1409.19,
+   "en": [
+    "it's like the pink polo rapper.",
+    "I always felt like less of myself."
+   ],
+   "en_unmasked": "it's like the pink polo rapper. I always felt like less of myself.",
+   "jp": [
+    "ラッパーって感じで　いつも自分が",
+    "小さく思えたんだよ"
+   ],
+   "start": 10.652583333333496,
+   "end": 13.692583333333442
+  },
+  {
+   "line_id": "Clip_13_L003",
+   "src_start": 1409.19,
+   "src_end": 1410.93,
+   "en": [
+    "So I get on the phone",
+    "with them or something,"
+   ],
+   "en_unmasked": "So I get on the phone with them or something,",
+   "jp": [
+    "電話で話したりするとさ"
+   ],
+   "start": 13.712583333333441,
+   "end": 15.43258333333345
+  },
+  {
+   "line_id": "Clip_13_L003",
+   "src_start": 1410.93,
+   "src_end": 1411.85,
+   "en": [
+    "you know, they did it,"
+   ],
+   "en_unmasked": "you know, they did it,",
+   "jp": [
+    "あいつらがラップしてること全部が"
+   ],
+   "start": 15.45258333333345,
+   "end": 16.352583333333296
+  },
+  {
+   "line_id": "Clip_13_L003",
+   "src_start": 1411.85,
+   "src_end": 1413.67,
+   "en": [
+    "almost like everything",
+    "they rapped about"
+   ],
+   "en_unmasked": "almost like everything they rapped about",
+   "jp": [
+    "俺のやってることを"
+   ],
+   "start": 16.372583333333296,
+   "end": 18.17258333333346
+  },
+  {
+   "line_id": "Clip_13_L003",
+   "src_start": 1413.67,
+   "src_end": 1416.11,
+   "en": [
+    "was like dissing",
+    "everything that I ever did."
+   ],
+   "en_unmasked": "was like dissing everything that I ever did.",
+   "jp": [
+    "ディスってるみたいでさ"
+   ],
+   "start": 18.19258333333346,
+   "end": 20.612583333333287
+  },
+  {
+   "line_id": "Clip_13_L004",
+   "src_start": 1416.11,
+   "src_end": 1419.03,
+   "en": [
+    "You know what I'm saying? Like,",
+    "they was like very not tight jeans,"
+   ],
+   "en_unmasked": "You know what I'm saying? Like, they was like very not tight jeans,",
+   "jp": [
+    "スキニージーンズなんか",
+    "絶対履かないし"
+   ],
+   "start": 20.632583333333287,
+   "end": 23.53258333333336
+  },
+  {
+   "line_id": "Clip_13_L004",
+   "src_start": 1419.03,
+   "src_end": 1421.53,
+   "en": [
+    "very not polo, you",
+    "know what I'm saying?"
+   ],
+   "en_unmasked": "very not polo, you know what I'm saying?",
+   "jp": [
+    "ポロシャツなんかも",
+    "着ない感じで"
+   ],
+   "start": 23.55258333333336,
+   "end": 26.632583333333496
+  },
+  {
+   "line_id": "Clip_13_L005",
+   "src_start": 1422.13,
+   "src_end": 1423.53,
+   "en": [
+    "But I remember Pimp C",
+    "had a conversation,"
+   ],
+   "en_unmasked": "But I remember Pimp C had a conversation,",
+   "jp": [
+    "でもPimp Cに",
+    "言われたことがあって"
+   ],
+   "start": 26.652583333333496,
+   "end": 28.03258333333336
+  },
+  {
+   "line_id": "Clip_13_L005",
+   "src_start": 1423.53,
+   "src_end": 1425.57,
+   "en": [
+    "like, man, I like the way",
+    "you had your vocals"
+   ],
+   "en_unmasked": "like, man, I like the way you had your vocals",
+   "jp": [
+    "「ボーカルを上げてるのがいい"
+   ],
+   "start": 28.05258333333336,
+   "end": 30.072583333333323
+  },
+  {
+   "line_id": "Clip_13_L005",
+   "src_start": 1425.57,
+   "src_end": 1429.63,
+   "en": [
+    "turned up so they could",
+    "hear what you saying."
+   ],
+   "en_unmasked": "turned up so they could hear what you saying.",
+   "jp": [
+    "ちゃんと言ってることが聞こえる」って"
+   ],
+   "start": 30.092583333333323,
+   "end": 34.59258333333353
+  },
+  {
+   "line_id": "Clip_13_L006",
+   "src_start": 1430.0900000000001,
+   "src_end": 1434.01,
+   "en": [
+    "Your vocals turned up.",
+    "That's a very big thing."
+   ],
+   "en_unmasked": "Your vocals turned up. That's a very big thing.",
+   "jp": [
+    "ボーカルを上げる　それってすごく",
+    "大事なことなんだよ"
+   ],
+   "start": 34.61258333333353,
+   "end": 38.79258333333335
+  },
+  {
+   "line_id": "Clip_13_L007",
+   "src_start": 1434.29,
+   "src_end": 1435.53,
+   "en": [
+    "You know, like,",
+    "it was a guy that came"
+   ],
+   "en_unmasked": "You know, like, it was a guy that came",
+   "jp": [
+    "前に俺の6万平方フィートの"
+   ],
+   "start": 38.81258333333335,
+   "end": 40.032583333333356
+  },
+  {
+   "line_id": "Clip_13_L007",
+   "src_start": 1435.53,
+   "src_end": 1439.77,
+   "en": [
+    "to one of my",
+    "60,000-square-foot spaces,"
+   ],
+   "en_unmasked": "to one of my 60,000-square-foot spaces,",
+   "jp": [
+    "スペースに来た奴がいて",
+    "The Strokesの"
+   ],
+   "start": 40.05258333333336,
+   "end": 44.582583333332856
+  },
+  {
+   "line_id": "Clip_13_L007",
+   "src_start": 1440.0799999999995,
+   "src_end": 1443.77,
+   "en": [
+    "and he was in the band the Strokes."
+   ],
+   "en_unmasked": "and he was in the band the Strokes.",
+   "jp": [
+    "メンバーだったんだけど"
+   ],
+   "start": 44.60258333333286,
+   "end": 48.29258333333335
+  },
+  {
+   "line_id": "Clip_13_L008",
+   "src_start": 1443.79,
+   "src_end": 1444.69,
+   "en": [
+    "He's in the band the Strokes."
+   ],
+   "en_unmasked": "He's in the band the Strokes.",
+   "jp": [
+    "Strokesのメンバーだよ"
+   ],
+   "start": 48.31258333333335,
+   "end": 49.412583333333465
+  },
+  {
+   "line_id": "Clip_13_L009",
+   "src_start": 1444.91,
+   "src_end": 1447.73,
+   "en": [
+    "And I remember they had this",
+    "song where their vocals were low,"
+   ],
+   "en_unmasked": "And I remember they had this song where their vocals were low,",
+   "jp": [
+    "あいつらの曲で",
+    "ボーカルが小さいのがあって"
+   ],
+   "start": 49.43258333333347,
+   "end": 52.62258333333282
+  },
+  {
+   "line_id": "Clip_13_L009",
+   "src_start": 1448.1199999999994,
+   "src_end": 1450.75,
+   "en": [
+    "and I wanted to make my",
+    "vocals low on 'All Falls Down.'"
+   ],
+   "en_unmasked": "and I wanted to make my vocals low on 'All Falls Down.'",
+   "jp": [
+    "『All Falls Down』で",
+    "真似したかったんだけど"
+   ],
+   "start": 52.64258333333282,
+   "end": 55.652583333333475
+  },
+  {
+   "line_id": "Clip_13_L010",
+   "src_start": 1451.15,
+   "src_end": 1451.95,
+   "en": [
+    "It didn't work for me."
+   ],
+   "en_unmasked": "It didn't work for me.",
+   "jp": [
+    "俺には合わなかった"
+   ],
+   "start": 55.67258333333348,
+   "end": 56.55258333333334
+  },
+  {
+   "line_id": "Clip_13_L011",
+   "src_start": 1452.05,
+   "src_end": 1454.48,
+   "en": [
+    "I had to speak up, you",
+    "know what I'm saying?"
+   ],
+   "en_unmasked": "I had to speak up, you know what I'm saying?",
+   "jp": [
+    "声を上げなきゃ",
+    "ダメだったんだよ"
+   ],
+   "start": 56.57258333333334,
+   "end": 58.9825833333334
+  },
+  {
+   "line_id": "Clip_13_L012",
+   "src_start": 1454.48,
+   "src_end": 1456.51,
+   "en": [
+    "And they canceled me",
+    "this week. There's no..."
+   ],
+   "en_unmasked": "And they canceled me this week. There's no...",
+   "jp": [
+    "で、今週は",
+    "キャンセルされた"
+   ],
+   "start": 59.002583333333405,
+   "end": 61.012583333333374
+  },
+  {
+   "line_id": "Clip_13_L012",
+   "src_start": 1456.51,
+   "src_end": 1460.58,
+   "en": [
+    "not Tucker Carlson, no platform",
+    "would carry me this week either."
+   ],
+   "en_unmasked": "not Tucker Carlson, no platform would carry me this week either.",
+   "jp": [
+    "Tucker Carlsonも　どこも今週は",
+    "俺を出してくれなかった"
+   ],
+   "start": 61.03258333333338,
+   "end": 65.43258333333323
+  },
+  {
+   "line_id": "Clip_13_L013",
+   "src_start": 1460.9299999999998,
+   "src_end": 1464.71,
+   "en": [
+    "And even a publicist that",
+    "I'm working with was like,"
+   ],
+   "en_unmasked": "And even a publicist that I'm working with was like,",
+   "jp": [
+    "一緒に仕事してる広報にも",
+    "「なんで『Drink Champs』"
+   ],
+   "start": 65.45258333333322,
+   "end": 69.73258333333342
+  },
+  {
+   "line_id": "Clip_13_L013",
+   "src_start": 1465.7399999999998,
+   "src_end": 1467.54,
+   "en": [
+    "I don't know why you",
+    "would go on Drink Champs."
+   ],
+   "en_unmasked": "I don't know why you would go on Drink Champs.",
+   "jp": [
+    "なんか出るの？」って",
+    "言われたけど"
+   ],
+   "start": 70.26258333333317,
+   "end": 72.26258333333338
+  },
+  {
+   "line_id": "Clip_13_L014",
+   "src_start": 1467.76,
+   "src_end": 1470.92,
+   "en": [
+    "I said, you understand that",
+    "our numbers did three"
+   ],
+   "en_unmasked": "I said, you understand that our numbers did three",
+   "jp": [
+    "俺は言ったよ",
+    "「俺らの再生数"
+   ],
+   "start": 72.28258333333338,
+   "end": 75.42258333333346
+  },
+  {
+   "line_id": "Clip_13_L014",
+   "src_start": 1470.92,
+   "src_end": 1473.06,
+   "en": [
+    "times the numbers of",
+    "when Kim was on SNL,"
+   ],
+   "en_unmasked": "times the numbers of when Kim was on SNL,",
+   "jp": [
+    "KimがSNLに出た時の",
+    "3倍だったんだぞ"
+   ],
+   "start": 75.44258333333346,
+   "end": 77.56258333333334
+  },
+  {
+   "line_id": "Clip_13_L014",
+   "src_start": 1473.06,
+   "src_end": 1474.2,
+   "en": [
+    "right? You understand that?"
+   ],
+   "en_unmasked": "right? You understand that?",
+   "jp": [
+    "わかってる？」って"
+   ],
+   "start": 77.58258333333333,
+   "end": 78.80875000000013
+  }
+ ]
+}

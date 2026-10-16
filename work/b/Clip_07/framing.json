@@ -1,0 +1,49 @@
+{
+ "clip": "Clip_07",
+ "crop_w": 1119,
+ "crop_h": 1080,
+ "intervals": [
+  {
+   "start_frame": 39754,
+   "end_frame_excl": 41269,
+   "shots": [
+    {
+     "start": 0,
+     "end": 12,
+     "x": 645,
+     "y": 154,
+     "w": 933,
+     "h": 900,
+     "how": "no face -> neighbour/centre"
+    },
+    {
+     "start": 12,
+     "end": 104,
+     "x": 645,
+     "y": 154,
+     "w": 933,
+     "h": 900,
+     "how": "face cx=1112 cy=424 w=231 n=4/8"
+    },
+    {
+     "start": 104,
+     "end": 1473,
+     "x": 342,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=902 cy=314 w=365 n=4/12"
+    },
+    {
+     "start": 1473,
+     "end": 1515,
+     "x": 374,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=933 cy=406 w=316 n=4/7"
+    }
+   ]
+  }
+ ]
+}

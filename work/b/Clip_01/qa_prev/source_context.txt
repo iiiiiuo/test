@@ -1,0 +1,45 @@
+# Clip_01 source context (part_1.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1203.70-1234.48s (frames 28860-29598)
+    1183.17- 1184.89 It was to be able to be like
+    1184.89- 1187.61 To tell the Fortune 500 companies
+    1187.61- 1188.73 That do deals with China
+    1188.73- 1191.23 To tell them hey Gap has influence
+    1191.23- 1194.31 In the underserved communities
+    1194.31- 1197.15 That was what the deal was about
+    1197.15- 1198.03 That's the girl part
+    1198.03- 1201.51 The same reason why I was in a Kardashian situation
+    1201.51- 1202.71 So you would feel
+    1202.71- 1203.73 Hold on let me ask you something
+>>  1203.73- 1205.49 Because as a person that
+>>  1205.49- 1207.05 When we first seen the Gap deal
+>>  1207.05- 1212.97 right um we understand that rich motherfuckers ain't going in the gap but you know what it was
+>>  1212.97- 1218.01 going in the gap because of you it was going and they say powered by balenciaga but then you walk
+>>  1218.01- 1224.19 into the to the store and then this is closed that's just on the floor is that degrading to
+>>  1224.19- 1228.93 somebody that's rich that want to come in there and support you we should degrade the rich everybody
+>>  1228.93- 1233.79 is dirt everybody on the same level beneath god because we'll hop over
+    1236.47- 1244.63 you know we'll walk over a homeless person at to get to the Gucci store Ray Kurzweil said
+    1244.63- 1251.55 a utopia is possible where we're led by the least noble and the greediest people I brought the head
+    1251.55- 1259.83 designer of Balenciaga the greatest designer on our planet today so Demna Demna is the yay
+
+## interval 1237.03-1270.35s (frames 29659-30458)
+    1212.97- 1218.01 going in the gap because of you it was going and they say powered by balenciaga but then you walk
+    1218.01- 1224.19 into the to the store and then this is closed that's just on the floor is that degrading to
+    1224.19- 1228.93 somebody that's rich that want to come in there and support you we should degrade the rich everybody
+    1228.93- 1233.79 is dirt everybody on the same level beneath god because we'll hop over
+>>  1236.47- 1244.63 you know we'll walk over a homeless person at to get to the Gucci store Ray Kurzweil said
+>>  1244.63- 1251.55 a utopia is possible where we're led by the least noble and the greediest people I brought the head
+>>  1251.55- 1259.83 designer of Balenciaga the greatest designer on our planet today so Demna Demna is the yay
+>>  1260.95- 1265.15 of clothing, Dimna is the Drake of clothing.
+>>  1265.72- 1269.84 Drake is the greatest rapper ever.
+    1270.79- 1272.31 And you said in war?
+    1272.45- 1273.87 And I don't apologize about it.
+    1274.09- 1277.07 You said in war, he'll fuck your baby's mother's mother?
+    1277.81- 1278.73 Yeah, that was hard.
+    1279.03- 1280.47 That was hard.
+    1282.95- 1284.63 I was like, what's going on?
+    1285.40- 1286.63 What does that mean?
+    1286.75- 1287.31 What does that mean?
+    1287.57- 1288.49 Yeah, I mean, it's like,
+    1288.49- 1289.19 something like this.
+    1289.41- 1290.37 We was confused.

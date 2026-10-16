@@ -1,0 +1,118 @@
+{
+ "clip": "Clip_12",
+ "candidate": "C25",
+ "title": "R&B took God out of the music",
+ "source": {
+  "id": "part_3",
+  "path": "/mnt/project-files/part_3.mp4",
+  "sha256": "f99ce08436c7ba32d4e88a88bbb56f211547d02f99655a760421f8f104c186d6",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 24636,
+   "end_frame_excl": 26196,
+   "start_pts": 24660636,
+   "end_pts_excl": 26222196,
+   "start_s": 1027.5265,
+   "end_s": 1092.5915
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 49321272,
+   "end_sample_48k_excl": 52444392,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 24636,
+   "end_frame_excl": 24664,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 360,
+    "y": 0
+   },
+   "basis": "face cx=920 cy=328 w=308 n=3/5"
+  },
+  {
+   "start_frame": 24664,
+   "end_frame_excl": 24952,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 438,
+    "y": 0
+   },
+   "basis": "face cx=998 cy=365 w=300 n=5/10"
+  },
+  {
+   "start_frame": 24952,
+   "end_frame_excl": 24993,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 448,
+    "y": 0
+   },
+   "basis": "face cx=1007 cy=391 w=326 n=7/7"
+  },
+  {
+   "start_frame": 24993,
+   "end_frame_excl": 25103,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 539,
+    "y": 0
+   },
+   "basis": "face cx=1098 cy=333 w=317 n=6/9"
+  },
+  {
+   "start_frame": 25103,
+   "end_frame_excl": 25156,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 410,
+    "y": 0
+   },
+   "basis": "face cx=969 cy=354 w=326 n=3/9"
+  },
+  {
+   "start_frame": 25156,
+   "end_frame_excl": 26196,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 298,
+    "y": 0
+   },
+   "basis": "face cx=858 cy=378 w=308 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_12/subtitles.ass",
+  "sha256": "5f1d6f02b34ff79646173bbcced85383e4d817997e90e59130b581c83d10c4a5"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_12/render.mp4",
+  "sha256": "d3e35f3fa23c8305743aa69096b2445a0985962b3514ca0bf2c0f6e34c7433fc"
+ }
+}

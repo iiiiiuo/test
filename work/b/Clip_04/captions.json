@@ -1,0 +1,520 @@
+{
+ "clip": "Clip_04",
+ "total_s": 75.11670833333334,
+ "segments": [
+  [
+   30.529791666666668,
+   80.996875,
+   0.0
+  ],
+  [
+   86.752625,
+   111.40225,
+   50.467083333333335
+  ]
+ ],
+ "dropped_lines": [
+  "Clip_04_L015",
+  "Clip_04_L016",
+  "Clip_04_L017"
+ ],
+ "captions": [
+  {
+   "line_id": "Clip_04_L001",
+   "src_start": 30.73,
+   "src_end": 33.65,
+   "en": [
+    "Okay, you know, like right now,",
+    "when me, James Blake,"
+   ],
+   "en_unmasked": "Okay, you know, like right now, when me, James Blake,",
+   "jp": [
+    "例えば今、俺と",
+    "James Blake、Arca、No I.D.で"
+   ],
+   "start": 0.20020833333333243,
+   "end": 3.1002083333333306
+  },
+  {
+   "line_id": "Clip_04_L001",
+   "src_start": 33.65,
+   "src_end": 36.58,
+   "en": [
+    "Arca and No I.D. in the",
+    "studio working on our album,"
+   ],
+   "en_unmasked": "Arca and No I.D. in the studio working on our album,",
+   "jp": [
+    "スタジオでアルバム作ってる時"
+   ],
+   "start": 3.1202083333333306,
+   "end": 6.480208333333376
+  },
+  {
+   "line_id": "Clip_04_L002",
+   "src_start": 37.030000000000044,
+   "src_end": 38.14,
+   "en": [
+    "who do you think we'd be bringing"
+   ],
+   "en_unmasked": "who do you think we'd be bringing",
+   "jp": [
+    "曲の話で誰の名前が"
+   ],
+   "start": 6.500208333333376,
+   "end": 7.590208333333333
+  },
+  {
+   "line_id": "Clip_04_L002",
+   "src_start": 38.14,
+   "src_end": 39.54,
+   "en": [
+    "up when we're talking about songs?"
+   ],
+   "en_unmasked": "up when we're talking about songs?",
+   "jp": [
+    "出てくると思う？"
+   ],
+   "start": 7.610208333333333,
+   "end": 9.590208333333333
+  },
+  {
+   "line_id": "Clip_04_L003",
+   "src_start": 40.14,
+   "src_end": 41.82,
+   "en": [
+    "Stadium artists. Who do",
+    "you think we bring up?"
+   ],
+   "en_unmasked": "Stadium artists. Who do you think we bring up?",
+   "jp": [
+    "スタジアム級のアーティストだよ",
+    "誰だと思う？"
+   ],
+   "start": 9.610208333333333,
+   "end": 11.790208333333332
+  },
+  {
+   "line_id": "Clip_04_L004",
+   "src_start": 42.66000000000004,
+   "src_end": 44.49,
+   "en": [
+    "And we ain't got no",
+    "problem, we don't beef."
+   ],
+   "en_unmasked": "And we ain't got no problem, we don't beef.",
+   "jp": [
+    "別に揉めてるわけじゃないぜ",
+    "ビーフはない"
+   ],
+   "start": 12.130208333333371,
+   "end": 14.100208333333331
+  },
+  {
+   "line_id": "Clip_04_L005",
+   "src_start": 44.65,
+   "src_end": 46.23,
+   "en": [
+    "No problem. It's just like,",
+    "yo, we competing."
+   ],
+   "en_unmasked": "No problem. It's just like, yo, we competing.",
+   "jp": [
+    "問題なし",
+    "ただ競い合ってるってこと"
+   ],
+   "start": 14.12020833333333,
+   "end": 15.840208333333333
+  },
+  {
+   "line_id": "Clip_04_L006",
+   "src_start": 46.39,
+   "src_end": 47.73,
+   "en": [
+    "Not Drake. Who do",
+    "you think we bring?"
+   ],
+   "en_unmasked": "Not Drake. Who do you think we bring?",
+   "jp": [
+    "Drakeじゃない",
+    "誰だと思う？"
+   ],
+   "start": 15.860208333333333,
+   "end": 17.24020833333333
+  },
+  {
+   "line_id": "Clip_04_L007",
+   "src_start": 47.79,
+   "src_end": 50.41,
+   "en": [
+    "Anybody else got",
+    "another Travis Stadium?"
+   ],
+   "en_unmasked": "Anybody else got another Travis Stadium?",
+   "jp": [
+    "Travis以外で",
+    "スタジアム埋める奴は？"
+   ],
+   "start": 17.26020833333333,
+   "end": 20.38020833333333
+  },
+  {
+   "line_id": "Clip_04_L008",
+   "src_start": 51.9,
+   "src_end": 52.96,
+   "en": [
+    "Think down here."
+   ],
+   "en_unmasked": "Think down here.",
+   "jp": [
+    "このへんで考えてみろ"
+   ],
+   "start": 21.37020833333333,
+   "end": 22.930208333333333
+  },
+  {
+   "line_id": "Clip_04_L009",
+   "src_start": 54.73,
+   "src_end": 56.12,
+   "en": [
+    "Kodak Black? No, no."
+   ],
+   "en_unmasked": "Kodak Black? No, no.",
+   "jp": [
+    "Kodak Black？",
+    "いや、違う"
+   ],
+   "start": 24.20020833333333,
+   "end": 26.09020833333333
+  },
+  {
+   "line_id": "Clip_04_L010",
+   "src_start": 58.96,
+   "src_end": 59.7,
+   "en": [
+    "Stadium."
+   ],
+   "en_unmasked": "Stadium.",
+   "jp": [
+    "スタジアム"
+   ],
+   "start": 28.430208333333333,
+   "end": 29.670208333333335
+  },
+  {
+   "line_id": "Clip_04_L010",
+   "src_start": 61.26,
+   "src_end": 63.84,
+   "en": [
+    "Bad Bunny. That's who's on our wall."
+   ],
+   "en_unmasked": "Bad Bunny. That's who's on our wall.",
+   "jp": [
+    "Bad Bunnyだよ",
+    "あいつが俺らの壁に貼ってある"
+   ],
+   "start": 30.73020833333333,
+   "end": 33.810208333333335
+  },
+  {
+   "line_id": "Clip_04_L011",
+   "src_start": 64.82,
+   "src_end": 66.62,
+   "en": [
+    "That's who's on our wall",
+    "when we make music."
+   ],
+   "en_unmasked": "That's who's on our wall when we make music.",
+   "jp": [
+    "曲作ってる時に",
+    "壁に映してんのはあいつ"
+   ],
+   "start": 34.290208333333325,
+   "end": 36.140208333333284
+  },
+  {
+   "line_id": "Clip_04_L011",
+   "src_start": 66.68999999999996,
+   "src_end": 68.52,
+   "en": [
+    "We loading up concert footage."
+   ],
+   "en_unmasked": "We loading up concert footage.",
+   "jp": [
+    "ライブ映像を流してんだよ"
+   ],
+   "start": 36.16020833333329,
+   "end": 37.970208333333325
+  },
+  {
+   "line_id": "Clip_04_L012",
+   "src_start": 68.52,
+   "src_end": 70.8,
+   "en": [
+    "Are you talking about",
+    "the aesthetics of"
+   ],
+   "en_unmasked": "Are you talking about the aesthetics of",
+   "jp": [
+    "スタジアムの見せ方とか"
+   ],
+   "start": 37.99020833333333,
+   "end": 40.250208333333326
+  },
+  {
+   "line_id": "Clip_04_L012",
+   "src_start": 70.8,
+   "src_end": 72.22999999999999,
+   "en": [
+    "the stadium and",
+    "what it's looking for?"
+   ],
+   "en_unmasked": "the stadium and what it's looking for?",
+   "jp": [
+    "雰囲気の話？"
+   ],
+   "start": 40.27020833333333,
+   "end": 41.830208333333324
+  },
+  {
+   "line_id": "Clip_04_L013",
+   "src_start": 72.38,
+   "src_end": 73.74,
+   "en": [
+    "Yeah, not just the aesthetics.",
+    "And in retrospect,"
+   ],
+   "en_unmasked": "Yeah, not just the aesthetics. And in retrospect,",
+   "jp": [
+    "見た目だけじゃない",
+    "それに、振り返ってみれば"
+   ],
+   "start": 41.85020833333333,
+   "end": 43.71020833333333
+  },
+  {
+   "line_id": "Clip_04_L014",
+   "src_start": 75.02,
+   "src_end": 76.16,
+   "en": [
+    "If it wasn't for me,"
+   ],
+   "en_unmasked": "If it wasn't for me,",
+   "jp": [
+    "俺がいなかったら"
+   ],
+   "start": 44.49020833333333,
+   "end": 46.22020833333321
+  },
+  {
+   "line_id": "Clip_04_L014",
+   "src_start": 76.76999999999988,
+   "src_end": 78.46000000000001,
+   "en": [
+    "there might not be no Bad Bunny."
+   ],
+   "en_unmasked": "there might not be no Bad Bunny.",
+   "jp": [
+    "Bad Bunnyはいなかったかもな"
+   ],
+   "start": 46.240208333333214,
+   "end": 48.210208333333334
+  },
+  {
+   "line_id": "Clip_04_L014",
+   "src_start": 78.76,
+   "src_end": 80.56,
+   "en": [
+    "I brought reggaeton to America."
+   ],
+   "en_unmasked": "I brought reggaeton to America.",
+   "jp": [
+    "Americaにレゲトンを",
+    "持ち込んだのは俺だから"
+   ],
+   "start": 48.23020833333334,
+   "end": 50.01020833333333
+  },
+  {
+   "line_id": "Clip_04_L014",
+   "src_start": 80.56,
+   "src_end": 80.9,
+   "en": [
+    "I'm sorry."
+   ],
+   "en_unmasked": "I'm sorry.",
+   "jp": [
+    "悪いね"
+   ],
+   "start": 50.030208333333334,
+   "end": 50.45445833333333
+  },
+  {
+   "line_id": "Clip_04_L018",
+   "src_start": 86.76,
+   "src_end": 89.06,
+   "en": [
+    "So the thing is, it depends",
+    "on what we're doing."
+   ],
+   "en_unmasked": "So the thing is, it depends on what we're doing.",
+   "jp": [
+    "要するに",
+    "何をやるかによるんだよ"
+   ],
+   "start": 50.47445833333333,
+   "end": 52.914458333333336
+  },
+  {
+   "line_id": "Clip_04_L019",
+   "src_start": 89.22,
+   "src_end": 90.48,
+   "en": [
+    "You know what I'm saying?",
+    "We're going to do clothes,"
+   ],
+   "en_unmasked": "You know what I'm saying? We're going to do clothes,",
+   "jp": [
+    "服をやるなら"
+   ],
+   "start": 52.93445833333334,
+   "end": 54.29445833333333
+  },
+  {
+   "line_id": "Clip_04_L019",
+   "src_start": 90.6,
+   "src_end": 91.72,
+   "en": [
+    "we're going to look at Supreme,"
+   ],
+   "en_unmasked": "we're going to look at Supreme,",
+   "jp": [
+    "Supremeを見る"
+   ],
+   "start": 54.314458333333334,
+   "end": 56.21445833333332
+  },
+  {
+   "line_id": "Clip_04_L020",
+   "src_start": 92.52,
+   "src_end": 94.04,
+   "en": [
+    "we're going to look at Balenciaga,"
+   ],
+   "en_unmasked": "we're going to look at Balenciaga,",
+   "jp": [
+    "Balenciagaを見る"
+   ],
+   "start": 56.23445833333332,
+   "end": 57.73445833333336
+  },
+  {
+   "line_id": "Clip_04_L020",
+   "src_start": 94.04,
+   "src_end": 96.16,
+   "en": [
+    "we're going to look at Ralph,",
+    "we're going to look at these raps,"
+   ],
+   "en_unmasked": "we're going to look at Ralph, we're going to look at these raps,",
+   "jp": [
+    "Ralph Laurenを見る",
+    "ラップも見る"
+   ],
+   "start": 57.75445833333336,
+   "end": 60.37445833333334
+  },
+  {
+   "line_id": "Clip_04_L021",
+   "src_start": 97.34,
+   "src_end": 100.08,
+   "en": [
+    "you know, we're going to look at",
+    "Drake, you know what I'm saying,"
+   ],
+   "en_unmasked": "you know, we're going to look at Drake, you know what I'm saying,",
+   "jp": [
+    "Drakeも見るし",
+    "スタジアムも見るし"
+   ],
+   "start": 61.05445833333334,
+   "end": 63.77445833333332
+  },
+  {
+   "line_id": "Clip_04_L021",
+   "src_start": 100.08,
+   "src_end": 103.06,
+   "en": [
+    "we're looking at stadiums,",
+    "we're going to look at Bad Bunny,"
+   ],
+   "en_unmasked": "we're looking at stadiums, we're going to look at Bad Bunny,",
+   "jp": [
+    "Bad Bunnyも見る"
+   ],
+   "start": 63.794458333333324,
+   "end": 66.89445833333333
+  },
+  {
+   "line_id": "Clip_04_L022",
+   "src_start": 103.2,
+   "src_end": 104.84,
+   "en": [
+    "we got to look at everything,",
+    "that's what we have."
+   ],
+   "en_unmasked": "we got to look at everything, that's what we have.",
+   "jp": [
+    "全部を見なきゃいけない",
+    "それが俺らのやり方"
+   ],
+   "start": 66.91445833333333,
+   "end": 68.53445833333335
+  },
+  {
+   "line_id": "Clip_04_L023",
+   "src_start": 104.84,
+   "src_end": 107.28,
+   "en": [
+    "We're gonna look at money.",
+    "We're gonna look at Elon."
+   ],
+   "en_unmasked": "We're gonna look at money. We're gonna look at Elon.",
+   "jp": [
+    "金も見るし",
+    "イーロンも見る"
+   ],
+   "start": 68.55445833333334,
+   "end": 71.63445833333334
+  },
+  {
+   "line_id": "Clip_04_L024",
+   "src_start": 107.94,
+   "src_end": 109.84,
+   "en": [
+    "You know, so we're",
+    "gonna look at the Saudis."
+   ],
+   "en_unmasked": "You know, so we're gonna look at the Saudis.",
+   "jp": [
+    "Saudiも見る"
+   ],
+   "start": 71.65445833333334,
+   "end": 73.95445833333333
+  },
+  {
+   "line_id": "Clip_04_L024",
+   "src_start": 110.26,
+   "src_end": 111.34,
+   "en": [
+    "That's how I look at everything."
+   ],
+   "en_unmasked": "That's how I look at everything.",
+   "jp": [
+    "俺は何でもそうやって見てる"
+   ],
+   "start": 73.97445833333333,
+   "end": 75.09670833333334
+  }
+ ]
+}

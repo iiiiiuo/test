@@ -1,0 +1,17 @@
+{
+ "Clip_10": [
+  {
+   "source_frames": [
+    19252,
+    19331
+   ],
+   "crop": {
+    "x": 987,
+    "y": 180,
+    "w": 933,
+    "h": 900
+   },
+   "reason": "critic Clip_10: inherited crop cut Ye off at right edge in wide shot; evidence work/b/Clip_10/qa/critic.md"
+  }
+ ]
+}

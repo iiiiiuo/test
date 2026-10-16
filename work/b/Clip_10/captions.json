@@ -1,0 +1,372 @@
+{
+ "clip": "Clip_10",
+ "total_s": 71.61320833333332,
+ "segments": [
+  [
+   770.51975,
+   842.1329583333334,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_10_L001",
+   "src_start": 770.5,
+   "src_end": 774.71,
+   "en": [
+    "We had Quavo and Takeoff",
+    "here the other day."
+   ],
+   "en_unmasked": "We had Quavo and Takeoff here the other day.",
+   "jp": [
+    "この前Quavoと",
+    "Takeoffが来てたんだけど"
+   ],
+   "start": 0.0,
+   "end": 4.33024999999996
+  },
+  {
+   "line_id": "Clip_10_L002",
+   "src_start": 774.87,
+   "src_end": 775.8900000000001,
+   "en": [
+    "What they were saying?"
+   ],
+   "en_unmasked": "What they were saying?",
+   "jp": [
+    "何て言ってたと思う？"
+   ],
+   "start": 4.35024999999996,
+   "end": 5.8702500000000555
+  },
+  {
+   "line_id": "Clip_10_L002",
+   "src_start": 776.91,
+   "src_end": 777.55,
+   "en": [
+    "Real s**t."
+   ],
+   "en_unmasked": "Real shit.",
+   "jp": [
+    "マジな話"
+   ],
+   "start": 6.390249999999924,
+   "end": 7.53024999999991
+  },
+  {
+   "line_id": "Clip_10_L003",
+   "src_start": 778.81,
+   "src_end": 782.57,
+   "en": [
+    "They said, Quavo said",
+    "that you asked to borrow"
+   ],
+   "en_unmasked": "They said, Quavo said that you asked to borrow",
+   "jp": [
+    "Quavoが言うには",
+    "あんたがアカウント停止中に"
+   ],
+   "start": 8.2902499999999,
+   "end": 12.030250000000006
+  },
+  {
+   "line_id": "Clip_10_L003",
+   "src_start": 782.57,
+   "src_end": 786.53,
+   "en": [
+    "his Twitter during the",
+    "blockout. Is this true?"
+   ],
+   "en_unmasked": "his Twitter during the blockout. Is this true?",
+   "jp": [
+    "あいつのTwitterを　借りようとしたって",
+    "本当？"
+   ],
+   "start": 12.050250000000005,
+   "end": 16.510249999999928
+  },
+  {
+   "line_id": "Clip_10_L004",
+   "src_start": 787.68,
+   "src_end": 790.0400000000001,
+   "en": [
+    "Yeah. He said..."
+   ],
+   "en_unmasked": "Yeah. He said...",
+   "jp": [
+    "ああ"
+   ],
+   "start": 17.160249999999905,
+   "end": 20.020250000000033
+  },
+  {
+   "line_id": "Clip_10_L004",
+   "src_start": 791.18,
+   "src_end": 793.38,
+   "en": [
+    "he offered it. He said he offered it.",
+    "He said he offered it. He offered it."
+   ],
+   "en_unmasked": "he offered it. He said he offered it. He said he offered it. He offered it.",
+   "jp": [
+    "あいつが…",
+    "貸すって言ってきたんだよ"
+   ],
+   "start": 20.660249999999905,
+   "end": 23.36024999999995
+  },
+  {
+   "line_id": "Clip_10_L005",
+   "src_start": 794.46,
+   "src_end": 796.9,
+   "en": [
+    "But, you know what",
+    "I'm saying, I just said,"
+   ],
+   "en_unmasked": "But, you know what I'm saying, I just said,",
+   "jp": [
+    "でも"
+   ],
+   "start": 23.940249999999992,
+   "end": 26.360249999999933
+  },
+  {
+   "line_id": "Clip_10_L005",
+   "src_start": 796.9,
+   "src_end": 798.6,
+   "en": [
+    "let me take this time",
+    "as just like a breather."
+   ],
+   "en_unmasked": "let me take this time as just like a breather.",
+   "jp": [
+    "この時間はひと休みだと思おうって"
+   ],
+   "start": 26.380249999999933,
+   "end": 28.08024999999996
+  },
+  {
+   "line_id": "Clip_10_L006",
+   "src_start": 798.62,
+   "src_end": 801.36,
+   "en": [
+    "They put me, like, it's a technical",
+    "foul, right? Because, oh,"
+   ],
+   "en_unmasked": "They put me, like, it's a technical foul, right? Because, oh,",
+   "jp": [
+    "テクニカル・ファウル",
+    "取られたようなもんだろ"
+   ],
+   "start": 28.10024999999996,
+   "end": 30.82024999999997
+  },
+  {
+   "line_id": "Clip_10_L006",
+   "src_start": 801.36,
+   "src_end": 804.36,
+   "en": [
+    "here goes another thing."
+   ],
+   "en_unmasked": "here goes another thing.",
+   "jp": [
+    "「またかよ」ってな"
+   ],
+   "start": 30.84024999999997,
+   "end": 34.34024999999997
+  },
+  {
+   "line_id": "Clip_10_L007",
+   "src_start": 806.6,
+   "src_end": 808.17,
+   "en": [
+    "I feel like God put me",
+    "on a little timeout."
+   ],
+   "en_unmasked": "I feel like God put me on a little timeout.",
+   "jp": [
+    "神様にちょっと　タイムアウトを",
+    "取らされた気がする"
+   ],
+   "start": 36.08024999999998,
+   "end": 37.70024999999996
+  },
+  {
+   "line_id": "Clip_10_L008",
+   "src_start": 808.24,
+   "src_end": 811.08,
+   "en": [
+    "Yeah. Because my dad was like,"
+   ],
+   "en_unmasked": "Yeah. Because my dad was like,",
+   "jp": [
+    "親父に言われたんだよ"
+   ],
+   "start": 37.720249999999965,
+   "end": 40.54024999999999
+  },
+  {
+   "line_id": "Clip_10_L008",
+   "src_start": 811.08,
+   "src_end": 813.86,
+   "en": [
+    "I feel where you coming",
+    "from, Ye, I understand,"
+   ],
+   "en_unmasked": "I feel where you coming from, Ye, I understand,",
+   "jp": [
+    "「言いたいことはわかる",
+    "Ye、理解はできる"
+   ],
+   "start": 40.560249999999996,
+   "end": 43.84024999999997
+  },
+  {
+   "line_id": "Clip_10_L009",
+   "src_start": 817.77,
+   "src_end": 820.9000000000001,
+   "en": [
+    "but you got to be more",
+    "sophisticated with your words."
+   ],
+   "en_unmasked": "but you got to be more sophisticated with your words.",
+   "jp": [
+    "でも言葉はもっと"
+   ],
+   "start": 47.25024999999994,
+   "end": 50.880250000000046
+  },
+  {
+   "line_id": "Clip_10_L009",
+   "src_start": 821.7599999999998,
+   "src_end": 823.0,
+   "en": [
+    "You have to be more sophisticated."
+   ],
+   "en_unmasked": "You have to be more sophisticated.",
+   "jp": [
+    "洗練させなきゃダメだ」って"
+   ],
+   "start": 51.24024999999972,
+   "end": 52.46024999999995
+  },
+  {
+   "line_id": "Clip_10_L010",
+   "src_start": 823.0,
+   "src_end": 823.98,
+   "en": [
+    "I agree with that."
+   ],
+   "en_unmasked": "I agree with that.",
+   "jp": [
+    "その通りだと思う"
+   ],
+   "start": 52.480249999999955,
+   "end": 53.44024999999997
+  },
+  {
+   "line_id": "Clip_10_L010",
+   "src_start": 823.98,
+   "src_end": 826.62,
+   "en": [
+    "That was less sophisticated",
+    "than I needed to be."
+   ],
+   "en_unmasked": "That was less sophisticated than I needed to be.",
+   "jp": [
+    "あれは必要以上に",
+    "雑な言い方だった"
+   ],
+   "start": 53.460249999999974,
+   "end": 56.59024999999961
+  },
+  {
+   "line_id": "Clip_10_L011",
+   "src_start": 827.1299999999997,
+   "src_end": 828.18,
+   "en": [
+    "You said God texted you that?"
+   ],
+   "en_unmasked": "You said God texted you that?",
+   "jp": [
+    "神様からメールが来たって？"
+   ],
+   "start": 56.61024999999961,
+   "end": 57.970249999999716
+  },
+  {
+   "line_id": "Clip_10_L012",
+   "src_start": 828.5099999999998,
+   "src_end": 829.04,
+   "en": [
+    "No, his father."
+   ],
+   "en_unmasked": "No, his father.",
+   "jp": [
+    "いや、親父さんだよ"
+   ],
+   "start": 57.99024999999972,
+   "end": 58.500249999999916
+  },
+  {
+   "line_id": "Clip_10_L013",
+   "src_start": 829.04,
+   "src_end": 833.52,
+   "en": [
+    "Yeah, second to God,",
+    "my dad. Yeah, yeah, yeah."
+   ],
+   "en_unmasked": "Yeah, second to God, my dad. Yeah, yeah, yeah.",
+   "jp": [
+    "そう、神の次に大事な",
+    "俺の親父"
+   ],
+   "start": 58.52024999999992,
+   "end": 62.980249999999934
+  },
+  {
+   "line_id": "Clip_10_L014",
+   "src_start": 833.52,
+   "src_end": 835.76,
+   "en": [
+    "Because I know for a fact,"
+   ],
+   "en_unmasked": "Because I know for a fact,",
+   "jp": [
+    "ユダヤ人を怒らせて"
+   ],
+   "start": 63.00024999999994,
+   "end": 65.74024999999995
+  },
+  {
+   "line_id": "Clip_10_L014",
+   "src_start": 837.4300000000001,
+   "src_end": 838.5,
+   "en": [
+    "um, you know,"
+   ],
+   "en_unmasked": "um, you know,",
+   "jp": [
+    "黒人も怒らせたって"
+   ],
+   "start": 66.91025000000002,
+   "end": 68.48024999999996
+  },
+  {
+   "line_id": "Clip_10_L014",
+   "src_start": 839.3599999999998,
+   "src_end": 842.0,
+   "en": [
+    "pissing off Jewish people and",
+    "pissing off black people, I know that."
+   ],
+   "en_unmasked": "pissing off Jewish people and pissing off black people, I know that.",
+   "jp": [
+    "それはちゃんとわかってる"
+   ],
+   "start": 68.84024999999974,
+   "end": 71.59320833333332
+  }
+ ]
+}

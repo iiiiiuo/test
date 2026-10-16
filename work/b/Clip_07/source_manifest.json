@@ -1,0 +1,96 @@
+{
+ "clip": "Clip_07",
+ "candidate": "C04",
+ "title": "Wu-Tang videos and fresh Timbs",
+ "source": {
+  "id": "part_2_2",
+  "path": "/mnt/project-files/part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 39754,
+   "end_frame_excl": 41269,
+   "start_pts": 39794738,
+   "end_pts_excl": 41311253,
+   "start_s": 1658.114083,
+   "end_s": 1721.302208
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 79589476,
+   "end_sample_48k_excl": 82622506,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 39754,
+   "end_frame_excl": 39766,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 645,
+    "y": 154
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 39766,
+   "end_frame_excl": 39858,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 645,
+    "y": 154
+   },
+   "basis": "face cx=1112 cy=424 w=231 n=4/8"
+  },
+  {
+   "start_frame": 39858,
+   "end_frame_excl": 41227,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 342,
+    "y": 0
+   },
+   "basis": "face cx=902 cy=314 w=365 n=4/12"
+  },
+  {
+   "start_frame": 41227,
+   "end_frame_excl": 41269,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 374,
+    "y": 0
+   },
+   "basis": "face cx=933 cy=406 w=316 n=4/7"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_07/subtitles.ass",
+  "sha256": "ac8eb9216157e9041164a5a165325003e4c5c1599bf1b82d77a777c1e60965dc"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_07/render.mp4",
+  "sha256": "d765352bfc81c42ca8bed030ea14f9ce730ac703b3d6f6a716d49755c498b57d"
+ }
+}

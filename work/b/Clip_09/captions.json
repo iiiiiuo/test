@@ -1,0 +1,317 @@
+{
+ "clip": "Clip_09",
+ "total_s": 64.81474999999998,
+ "segments": [
+  [
+   182.307125,
+   247.121875,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_09_L001",
+   "src_start": 182.31,
+   "src_end": 183.10999999999999,
+   "en": [
+    "Like, you know,"
+   ],
+   "en_unmasked": "Like, you know,",
+   "jp": [
+    "「俺がYeの代弁者だ」とか"
+   ],
+   "start": 0.0028749999999888587,
+   "end": 1.3028749999999718
+  },
+  {
+   "line_id": "Clip_09_L001",
+   "src_start": 184.04999999999998,
+   "src_end": 189.06,
+   "en": [
+    "and I don't like somebody saying,",
+    "well, I'm gonna be the voice of Ye,"
+   ],
+   "en_unmasked": "and I don't like somebody saying, well, I'm gonna be the voice of Ye,",
+   "jp": [
+    "「Yeの唯一の声だ」",
+    "「唯一のマネージャーだ」とか"
+   ],
+   "start": 1.7428749999999695,
+   "end": 6.732874999999989
+  },
+  {
+   "line_id": "Clip_09_L001",
+   "src_start": 189.06,
+   "src_end": 192.36,
+   "en": [
+    "the only voice of Ye,",
+    "the only manager of Ye."
+   ],
+   "en_unmasked": "the only voice of Ye, the only manager of Ye.",
+   "jp": [
+    "言われるのが嫌なんだよ"
+   ],
+   "start": 6.752874999999989,
+   "end": 10.51287499999999
+  },
+  {
+   "line_id": "Clip_09_L002",
+   "src_start": 192.84,
+   "src_end": 195.9,
+   "en": [
+    "Like, I look at every single bill I pay."
+   ],
+   "en_unmasked": "Like, I look at every single bill I pay.",
+   "jp": [
+    "払う請求書は全部",
+    "自分で目を通してる"
+   ],
+   "start": 10.53287499999999,
+   "end": 13.572874999999993
+  },
+  {
+   "line_id": "Clip_09_L002",
+   "src_start": 195.9,
+   "src_end": 199.88000000000002,
+   "en": [
+    "I only pay bills on a Friday,",
+    "and I look at every one,"
+   ],
+   "en_unmasked": "I only pay bills on a Friday, and I look at every one,",
+   "jp": [
+    "支払いは金曜だけ",
+    "一枚ずつ確認してる"
+   ],
+   "start": 13.592874999999992,
+   "end": 17.252875
+  },
+  {
+   "line_id": "Clip_09_L003",
+   "src_start": 199.58,
+   "src_end": 201.5,
+   "en": [
+    "one by one by one by one."
+   ],
+   "en_unmasked": "one by one by one by one.",
+   "jp": [
+    "一枚ずつ、一枚ずつな"
+   ],
+   "start": 17.272875,
+   "end": 19.822875000000277
+  },
+  {
+   "line_id": "Clip_09_L004",
+   "src_start": 202.1500000000003,
+   "src_end": 207.85999999999999,
+   "en": [
+    "Like, I was thinking",
+    "getting to be a billionaire"
+   ],
+   "en_unmasked": "Like, I was thinking getting to be a billionaire",
+   "jp": [
+    "億万長者になったら",
+    "もう働かなくていいと"
+   ],
+   "start": 19.842875000000276,
+   "end": 26.052874999999972
+  },
+  {
+   "line_id": "Clip_09_L004",
+   "src_start": 209.43000000000015,
+   "src_end": 212.09,
+   "en": [
+    "would take me out",
+    "of having to do work."
+   ],
+   "en_unmasked": "would take me out of having to do work.",
+   "jp": [
+    "思ってたんだけど"
+   ],
+   "start": 27.122875000000136,
+   "end": 30.28287499999999
+  },
+  {
+   "line_id": "Clip_09_L005",
+   "src_start": 213.47,
+   "src_end": 216.48,
+   "en": [
+    "Now one of my biggest",
+    "jobs is keeping my money,"
+   ],
+   "en_unmasked": "Now one of my biggest jobs is keeping my money,",
+   "jp": [
+    "今じゃ一番の仕事は",
+    "自分の金を守ることだよ"
+   ],
+   "start": 31.162874999999985,
+   "end": 34.40287499999997
+  },
+  {
+   "line_id": "Clip_09_L006",
+   "src_start": 216.73,
+   "src_end": 219.78,
+   "en": [
+    "because there's a lot",
+    "of people that's on"
+   ],
+   "en_unmasked": "because there's a lot of people that's on",
+   "jp": [
+    "だって俺の金を取ることを"
+   ],
+   "start": 34.422874999999976,
+   "end": 37.452874999999985
+  },
+  {
+   "line_id": "Clip_09_L006",
+   "src_start": 219.78,
+   "src_end": 222.5,
+   "en": [
+    "a full-time job to take",
+    "my money, right?"
+   ],
+   "en_unmasked": "a full-time job to take my money, right?",
+   "jp": [
+    "フルタイムでやってる奴が",
+    "いっぱいいるからな"
+   ],
+   "start": 37.47287499999999,
+   "end": 40.74287499999998
+  },
+  {
+   "line_id": "Clip_09_L007",
+   "src_start": 223.07,
+   "src_end": 226.48,
+   "en": [
+    "And I've literally lost",
+    "hundreds of millions"
+   ],
+   "en_unmasked": "And I've literally lost hundreds of millions",
+   "jp": [
+    "ちゃんと見てなかったせいで"
+   ],
+   "start": 40.76287499999998,
+   "end": 44.15287499999997
+  },
+  {
+   "line_id": "Clip_09_L007",
+   "src_start": 226.48,
+   "src_end": 229.46,
+   "en": [
+    "of dollars by not",
+    "looking close enough."
+   ],
+   "en_unmasked": "of dollars by not looking close enough.",
+   "jp": [
+    "マジで何億ドルも",
+    "失ってきたんだよ"
+   ],
+   "start": 44.172874999999976,
+   "end": 47.652874999999995
+  },
+  {
+   "line_id": "Clip_09_L008",
+   "src_start": 231.87,
+   "src_end": 234.42,
+   "en": [
+    "So it reminded me of what Shaq said,"
+   ],
+   "en_unmasked": "So it reminded me of what Shaq said,",
+   "jp": [
+    "それで思い出したのが",
+    "シャキールオニールの話でさ"
+   ],
+   "start": 49.56287499999999,
+   "end": 52.09287499999997
+  },
+  {
+   "line_id": "Clip_09_L008",
+   "src_start": 234.42,
+   "src_end": 237.34,
+   "en": [
+    "when he had the deal and",
+    "he had the studio in his crib,"
+   ],
+   "en_unmasked": "when he had the deal and he had the studio in his crib,",
+   "jp": [
+    "契約してた時",
+    "家にスタジオがあったのに"
+   ],
+   "start": 52.112874999999974,
+   "end": 55.56287499999997
+  },
+  {
+   "line_id": "Clip_09_L009",
+   "src_start": 237.89,
+   "src_end": 239.95999999999998,
+   "en": [
+    "and when he got the check,"
+   ],
+   "en_unmasked": "and when he got the check,",
+   "jp": [
+    "明細を見たら"
+   ],
+   "start": 55.58287499999997,
+   "end": 58.152874999999966
+  },
+  {
+   "line_id": "Clip_09_L009",
+   "src_start": 241.04,
+   "src_end": 242.64,
+   "en": [
+    "he looked at what the",
+    "label was charging him,"
+   ],
+   "en_unmasked": "he looked at what the label was charging him,",
+   "jp": [
+    "レーベルがスタジオ代を"
+   ],
+   "start": 58.73287499999998,
+   "end": 60.31287499999997
+  },
+  {
+   "line_id": "Clip_09_L009",
+   "src_start": 242.64,
+   "src_end": 243.62,
+   "en": [
+    "and they were charging",
+    "him for studio time."
+   ],
+   "en_unmasked": "and they were charging him for studio time.",
+   "jp": [
+    "請求してたんだって"
+   ],
+   "start": 60.33287499999997,
+   "end": 61.532875
+  },
+  {
+   "line_id": "Clip_09_L010",
+   "src_start": 243.86,
+   "src_end": 245.16,
+   "en": [
+    "He was like, the studio's at my crib!"
+   ],
+   "en_unmasked": "He was like, the studio's at my crib!",
+   "jp": [
+    "「スタジオ俺ん家だぞ！」って"
+   ],
+   "start": 61.552875,
+   "end": 63.16287500000022
+  },
+  {
+   "line_id": "Clip_09_L010",
+   "src_start": 245.49000000000024,
+   "src_end": 247.2,
+   "en": [
+    "And then he got a couple",
+    "hundred thousand back."
+   ],
+   "en_unmasked": "And then he got a couple hundred thousand back.",
+   "jp": [
+    "で、数十万ドル取り返した"
+   ],
+   "start": 63.18287500000022,
+   "end": 64.79474999999998
+  }
+ ]
+}

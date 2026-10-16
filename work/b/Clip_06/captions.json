@@ -1,0 +1,387 @@
+{
+ "clip": "Clip_06",
+ "total_s": 75.15841666666665,
+ "segments": [
+  [
+   1105.8123333333333,
+   1111.8183333333334,
+   0.0
+  ],
+  [
+   1147.6040833333334,
+   1216.7565,
+   6.0060000000000855
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_06_L001",
+   "src_start": 1105.9099999999999,
+   "src_end": 1107.54,
+   "en": [
+    "Kool G Rap or Big Pun?"
+   ],
+   "en_unmasked": "Kool G Rap or Big Pun?",
+   "jp": [
+    "Kool G Rapか",
+    "Big Punか"
+   ],
+   "start": 0.0976666666665551,
+   "end": 2.2276666666666642
+  },
+  {
+   "line_id": "Clip_06_L001",
+   "src_start": 1109.4700000000003,
+   "src_end": 1110.12,
+   "en": [
+    "I like both."
+   ],
+   "en_unmasked": "I like both.",
+   "jp": [
+    "どっちも好き"
+   ],
+   "start": 3.6576666666669553,
+   "end": 5.027666666666601
+  },
+  {
+   "line_id": "Clip_06_L002",
+   "src_start": 1110.86,
+   "src_end": 1111.7,
+   "en": [
+    "Take a shot."
+   ],
+   "en_unmasked": "Take a shot.",
+   "jp": [
+    "じゃあ一杯飲め"
+   ],
+   "start": 5.047666666666601,
+   "end": 6.001916666666585
+  },
+  {
+   "line_id": "Clip_06_L003",
+   "src_start": 1147.62,
+   "src_end": 1149.52,
+   "en": [
+    "So, you know, God said for us to not"
+   ],
+   "en_unmasked": "So, you know, God said for us to not",
+   "jp": [
+    "神は",
+    "互いを比べるなって"
+   ],
+   "start": 6.021916666666584,
+   "end": 7.901916666666676
+  },
+  {
+   "line_id": "Clip_06_L003",
+   "src_start": 1149.52,
+   "src_end": 1151.38,
+   "en": [
+    "compare each other",
+    "amongst ourselves."
+   ],
+   "en_unmasked": "compare each other amongst ourselves.",
+   "jp": [
+    "言ってるだろ"
+   ],
+   "start": 7.921916666666675,
+   "end": 10.221916666666612
+  },
+  {
+   "line_id": "Clip_06_L004",
+   "src_start": 1151.84,
+   "src_end": 1154.3,
+   "en": [
+    "So when I compare the greatness of"
+   ],
+   "en_unmasked": "So when I compare the greatness of",
+   "jp": [
+    "だからKool G Rapの偉大さと"
+   ],
+   "start": 10.241916666666611,
+   "end": 12.681916666666648
+  },
+  {
+   "line_id": "Clip_06_L004",
+   "src_start": 1154.3,
+   "src_end": 1157.44,
+   "en": [
+    "Kool G Rap and the",
+    "greatness of Big Pun,"
+   ],
+   "en_unmasked": "Kool G Rap and the greatness of Big Pun,",
+   "jp": [
+    "Big Punの偉大さを比べるのは"
+   ],
+   "start": 12.701916666666648,
+   "end": 15.961916666666621
+  },
+  {
+   "line_id": "Clip_06_L005",
+   "src_start": 1157.58,
+   "src_end": 1158.98,
+   "en": [
+    "which was inspired by Kool G Rap,"
+   ],
+   "en_unmasked": "which was inspired by Kool G Rap,",
+   "jp": [
+    "しかもBig PunはKool G Rapに",
+    "影響受けてるわけで"
+   ],
+   "start": 15.98191666666662,
+   "end": 17.521916666666794
+  },
+  {
+   "line_id": "Clip_06_L006",
+   "src_start": 1159.14,
+   "src_end": 1159.37,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [
+    "確かに"
+   ],
+   "start": 17.541916666666793,
+   "end": 18.44191666666664
+  },
+  {
+   "line_id": "Clip_06_L007",
+   "src_start": 1160.06,
+   "src_end": 1162.5,
+   "en": [
+    "it's not godly. You",
+    "know what I'm saying?"
+   ],
+   "en_unmasked": "it's not godly. You know what I'm saying?",
+   "jp": [
+    "神の道に反するんだよ",
+    "わかる？"
+   ],
+   "start": 18.46191666666664,
+   "end": 20.94191666666664
+  },
+  {
+   "line_id": "Clip_06_L008",
+   "src_start": 1162.56,
+   "src_end": 1164.08,
+   "en": [
+    "I know Ross said God forgives,"
+   ],
+   "en_unmasked": "I know Ross said God forgives,",
+   "jp": [
+    "Rick Rossは",
+    "「神は許すが俺は許さない」って"
+   ],
+   "start": 20.96191666666664,
+   "end": 22.46191666666662
+  },
+  {
+   "line_id": "Clip_06_L008",
+   "src_start": 1164.08,
+   "src_end": 1164.58,
+   "en": [
+    "I don't."
+   ],
+   "en_unmasked": "I don't.",
+   "jp": [
+    "言ってたけど"
+   ],
+   "start": 22.48191666666662,
+   "end": 22.96191666666662
+  },
+  {
+   "line_id": "Clip_06_L009",
+   "src_start": 1164.58,
+   "src_end": 1171.24,
+   "en": [
+    "I'm forgiving. I forgive everybody.",
+    "I forgive the Clintons. I forgive"
+   ],
+   "en_unmasked": "I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive",
+   "jp": [
+    "俺は許す　全員許す　Clinton夫妻も許す"
+   ],
+   "start": 22.98191666666662,
+   "end": 29.621916666666703
+  },
+  {
+   "line_id": "Clip_06_L010",
+   "src_start": 1171.24,
+   "src_end": 1174.24,
+   "en": [
+    "John Legend for wearing",
+    "them bum-ass sweaters."
+   ],
+   "en_unmasked": "John Legend for wearing them bum-ass sweaters.",
+   "jp": [
+    "John Legendも許す",
+    "あのダサいセーター着てたことをな"
+   ],
+   "start": 29.641916666666702,
+   "end": 33.33191666666696
+  },
+  {
+   "line_id": "Clip_06_L010",
+   "src_start": 1174.9500000000003,
+   "src_end": 1180.1,
+   "en": [
+    "I forgive... I forgive",
+    "him. He's forgiven."
+   ],
+   "en_unmasked": "I forgive... I forgive him. He's forgiven.",
+   "jp": [
+    "許す…許してやる",
+    "あいつは許された"
+   ],
+   "start": 33.351916666666966,
+   "end": 39.0019166666666
+  },
+  {
+   "line_id": "Clip_06_L011",
+   "src_start": 1183.16,
+   "src_end": 1190.92,
+   "en": [
+    "Big Sean. May they all be",
+    "forgiven. I forgive Big Sean"
+   ],
+   "en_unmasked": "Big Sean. May they all be forgiven. I forgive Big Sean",
+   "jp": [
+    "Big Sean　みんな許されますように",
+    "Big Seanも許す"
+   ],
+   "start": 41.561916666666775,
+   "end": 49.821916666666766
+  },
+  {
+   "line_id": "Clip_06_L012",
+   "src_start": 1192.14,
+   "src_end": 1194.14,
+   "en": [
+    "for not being able to make the choice"
+   ],
+   "en_unmasked": "for not being able to make the choice",
+   "jp": [
+    "編み込みか髭か"
+   ],
+   "start": 50.54191666666679,
+   "end": 52.52191666666679
+  },
+  {
+   "line_id": "Clip_06_L012",
+   "src_start": 1194.14,
+   "src_end": 1196.62,
+   "en": [
+    "between braids or a",
+    "beard. Choose one."
+   ],
+   "en_unmasked": "between braids or a beard. Choose one.",
+   "jp": [
+    "決められなかったことをな",
+    "どっちか選べよ"
+   ],
+   "start": 52.54191666666679,
+   "end": 55.321916666666745
+  },
+  {
+   "line_id": "Clip_06_L013",
+   "src_start": 1196.94,
+   "src_end": 1199.56,
+   "en": [
+    "Um, I forgive, uh..."
+   ],
+   "en_unmasked": "Um, I forgive, uh...",
+   "jp": [
+    "あと許すのは…"
+   ],
+   "start": 55.34191666666675,
+   "end": 58.46191666666664
+  },
+  {
+   "line_id": "Clip_06_L014",
+   "src_start": 1204.1,
+   "src_end": 1205.44,
+   "en": [
+    "Who else is you again?"
+   ],
+   "en_unmasked": "Who else is you again?",
+   "jp": [
+    "他には誰？"
+   ],
+   "start": 62.5019166666666,
+   "end": 64.34191666666675
+  },
+  {
+   "line_id": "Clip_06_L015",
+   "src_start": 1208.76,
+   "src_end": 1209.12,
+   "en": [
+    "That's it?"
+   ],
+   "en_unmasked": "That's it?",
+   "jp": [
+    "それで終わり？"
+   ],
+   "start": 67.16191666666668,
+   "end": 68.02191666666658
+  },
+  {
+   "line_id": "Clip_06_L016",
+   "src_start": 1210.08,
+   "src_end": 1212.57,
+   "en": [
+    "Everybody. Everybody I ever...",
+    "you know what I'm saying?"
+   ],
+   "en_unmasked": "Everybody. Everybody I ever... you know what I'm saying?",
+   "jp": [
+    "全員だよ　今までの全員　わかるだろ"
+   ],
+   "start": 68.48191666666662,
+   "end": 71.03191666666679
+  },
+  {
+   "line_id": "Clip_06_L017",
+   "src_start": 1212.65,
+   "src_end": 1213.37,
+   "en": [
+    "I forgive everyone."
+   ],
+   "en_unmasked": "I forgive everyone.",
+   "jp": [
+    "みんな許す"
+   ],
+   "start": 71.05191666666678,
+   "end": 71.91191666666667
+  },
+  {
+   "line_id": "Clip_06_L018",
+   "src_start": 1213.53,
+   "src_end": 1214.77,
+   "en": [
+    "I forgive Bob Iger."
+   ],
+   "en_unmasked": "I forgive Bob Iger.",
+   "jp": [
+    "Bob Igerも許す"
+   ],
+   "start": 71.93191666666667,
+   "end": 73.29191666666678
+  },
+  {
+   "line_id": "Clip_06_L019",
+   "src_start": 1214.91,
+   "src_end": 1216.65,
+   "en": [
+    "I forgive the left party."
+   ],
+   "en_unmasked": "I forgive the left party.",
+   "jp": [
+    "左派の政党も許す"
+   ],
+   "start": 73.31191666666678,
+   "end": 75.13841666666666
+  }
+ ]
+}

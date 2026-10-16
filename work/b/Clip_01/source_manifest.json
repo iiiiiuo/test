@@ -1,0 +1,120 @@
+{
+ "clip": "Clip_01",
+ "candidate": "C24",
+ "title": "Degrade the rich, Demna and Drake",
+ "source": {
+  "id": "part_1",
+  "path": "/mnt/project-files/part_1.mp4",
+  "sha256": "0421a25073f380df4a74b04e6e5e557391e86a903e3ac30abefca15995e6432f",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 28860,
+   "end_frame_excl": 29598,
+   "start_pts": 28888860,
+   "end_pts_excl": 29627598,
+   "start_s": 1203.7025,
+   "end_s": 1234.48325
+  },
+  {
+   "start_frame": 29659,
+   "end_frame_excl": 30458,
+   "start_pts": 29688659,
+   "end_pts_excl": 30488458,
+   "start_s": 1237.027458,
+   "end_s": 1270.352417
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 57777720,
+   "end_sample_48k_excl": 59255196,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 59377318,
+   "end_sample_48k_excl": 60976916,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 28860,
+   "end_frame_excl": 29407,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 344,
+    "y": 0
+   },
+   "basis": "face cx=904 cy=350 w=300 n=11/12"
+  },
+  {
+   "start_frame": 29407,
+   "end_frame_excl": 29549,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 800,
+    "y": 0
+   },
+   "basis": "face cx=1266 cy=222 w=155 n=12/12"
+  },
+  {
+   "start_frame": 29549,
+   "end_frame_excl": 29598,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 412,
+    "y": 97
+   },
+   "basis": "face cx=878 cy=367 w=221 n=8/8"
+  },
+  {
+   "start_frame": 29659,
+   "end_frame_excl": 29665,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 806,
+    "y": 0
+   },
+   "basis": "no face -> neighbour/centre"
+  },
+  {
+   "start_frame": 29665,
+   "end_frame_excl": 30458,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 806,
+    "y": 0
+   },
+   "basis": "face cx=1272 cy=222 w=158 n=11/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_01/subtitles.ass",
+  "sha256": "39ac9faf6d659c4ca70de6420ea81e07736b5a520e28f8fee88f35c9f979e7b1"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_01/render.mp4",
+  "sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36"
+ }
+}

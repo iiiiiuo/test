@@ -1,0 +1,358 @@
+{
+ "clip": "Clip_03",
+ "total_s": 67.94287500000019,
+ "segments": [
+  [
+   1749.122375,
+   1761.2177916666667,
+   0.0
+  ],
+  [
+   1796.5030416666666,
+   1824.9064166666667,
+   12.095416666666779
+  ],
+  [
+   1826.199375,
+   1853.6434583333332,
+   40.498791666666875
+  ]
+ ],
+ "dropped_lines": [
+  "Clip_03_L015"
+ ],
+ "captions": [
+  {
+   "line_id": "Clip_03_L001",
+   "src_start": 1749.4299999999996,
+   "src_end": 1752.9,
+   "en": [
+    "So we're going, because the",
+    "old man made a call for me"
+   ],
+   "en_unmasked": "So we're going, because the old man made a call for me",
+   "jp": [
+    "で、俺らが行ったのは",
+    "“親父”が俺のために電話してくれたからで"
+   ],
+   "start": 0.30762499999968895,
+   "end": 3.9042916666667042
+  },
+  {
+   "line_id": "Clip_03_L001",
+   "src_start": 1753.0466666666666,
+   "src_end": 1755.98,
+   "en": [
+    "the old man, which is Larry Hoover?"
+   ],
+   "en_unmasked": "the old man, which is Larry Hoover?",
+   "jp": [
+    "（“親父”ってLarry Hooverのこと？）"
+   ],
+   "start": 3.9242916666667043,
+   "end": 6.837625000000099
+  },
+  {
+   "line_id": "Clip_03_L002",
+   "src_start": 1755.98,
+   "src_end": 1758.54,
+   "en": [
+    "yeah, Larry Hoover made",
+    "a call for me and Drake to"
+   ],
+   "en_unmasked": "yeah, Larry Hoover made a call for me and Drake to",
+   "jp": [
+    "そう、Larry Hooverが電話して"
+   ],
+   "start": 6.857625000000098,
+   "end": 9.397625000000044
+  },
+  {
+   "line_id": "Clip_03_L002",
+   "src_start": 1758.54,
+   "src_end": 1760.96,
+   "en": [
+    "squash things and to do",
+    "this concert together."
+   ],
+   "en_unmasked": "squash things and to do this concert together.",
+   "jp": [
+    "俺とDrakeを和解させて",
+    "一緒にライブやらせたんだよ"
+   ],
+   "start": 9.417625000000044,
+   "end": 12.142375000000111
+  },
+  {
+   "line_id": "Clip_03_L003",
+   "src_start": 1796.57,
+   "src_end": 1800.91,
+   "en": [
+    "So anyway, so Dave Chappelle",
+    "has a concert that night."
+   ],
+   "en_unmasked": "So anyway, so Dave Chappelle has a concert that night.",
+   "jp": [
+    "で、その夜",
+    "Dave Chappelleのライブがあって"
+   ],
+   "start": 12.162375000000111,
+   "end": 16.482375000000257
+  },
+  {
+   "line_id": "Clip_03_L004",
+   "src_start": 1800.91,
+   "src_end": 1803.57,
+   "en": [
+    "The night where we're going",
+    "to... so we're seeing like,"
+   ],
+   "en_unmasked": "The night where we're going to... so we're seeing like,",
+   "jp": [
+    "俺らが行く日の夜にさ",
+    "「Drakeと話してから"
+   ],
+   "start": 16.502375000000256,
+   "end": 19.14237500000011
+  },
+  {
+   "line_id": "Clip_03_L004",
+   "src_start": 1803.57,
+   "src_end": 1806.15,
+   "en": [
+    "yo, can we go chop it up",
+    "with Drake and then make"
+   ],
+   "en_unmasked": "yo, can we go chop it up with Drake and then make",
+   "jp": [
+    "Chappelleのライブにも間に合う？"
+   ],
+   "start": 19.16237500000011,
+   "end": 21.722375000000266
+  },
+  {
+   "line_id": "Clip_03_L004",
+   "src_start": 1806.15,
+   "src_end": 1808.83,
+   "en": [
+    "it to the Dave Chappelle",
+    "joint and go by the house?"
+   ],
+   "en_unmasked": "it to the Dave Chappelle joint and go by the house?",
+   "jp": [
+    "家に寄ってけるか？」ってなって"
+   ],
+   "start": 21.742375000000266,
+   "end": 25.01237500000023
+  },
+  {
+   "line_id": "Clip_03_L005",
+   "src_start": 1809.44,
+   "src_end": 1813.78,
+   "en": [
+    "And then, so we're on the",
+    "plane and we're like, well,"
+   ],
+   "en_unmasked": "And then, so we're on the plane and we're like, well,",
+   "jp": [
+    "で、飛行機の中で",
+    "「Drakeの家って"
+   ],
+   "start": 25.03237500000023,
+   "end": 29.352375000000148
+  },
+  {
+   "line_id": "Clip_03_L005",
+   "src_start": 1813.78,
+   "src_end": 1818.34,
+   "en": [
+    "where's Drake's house in comparison",
+    "and distance to the concert?"
+   ],
+   "en_unmasked": "where's Drake's house in comparison and distance to the concert?",
+   "jp": [
+    "会場からどのくらいの距離だ？」ってなって"
+   ],
+   "start": 29.372375000000147,
+   "end": 34.43237500000009
+  },
+  {
+   "line_id": "Clip_03_L006",
+   "src_start": 1819.64,
+   "src_end": 1822.04,
+   "en": [
+    "And I look up, I say, Google it."
+   ],
+   "en_unmasked": "And I look up, I say, Google it.",
+   "jp": [
+    "俺は顔上げて「ググれ」って"
+   ],
+   "start": 35.232375000000275,
+   "end": 37.81237500000018
+  },
+  {
+   "line_id": "Clip_03_L006",
+   "src_start": 1822.24,
+   "src_end": 1824.16,
+   "en": [
+    "That's the whole thing,",
+    "you can Google it."
+   ],
+   "en_unmasked": "That's the whole thing, you can Google it.",
+   "jp": [
+    "それが全てなんだよ",
+    "ググれば出てくんの"
+   ],
+   "start": 37.832375000000184,
+   "end": 40.47879166666687
+  },
+  {
+   "line_id": "Clip_03_L007",
+   "src_start": 1825.41,
+   "src_end": 1828.1,
+   "en": [
+    "I can set it up differently. Remember,"
+   ],
+   "en_unmasked": "I can set it up differently. Remember,",
+   "jp": [
+    "前置きを変えるわ"
+   ],
+   "start": 40.498791666666875,
+   "end": 42.37941666666686
+  },
+  {
+   "line_id": "Clip_03_L007",
+   "src_start": 1828.1,
+   "src_end": 1831.18,
+   "en": [
+    "the whole thing was,",
+    "yo, I gave his address."
+   ],
+   "en_unmasked": "the whole thing was, yo, I gave his address.",
+   "jp": [
+    "覚えてるだろ、俺があいつの住所を",
+    "バラしたって騒ぎになったの"
+   ],
+   "start": 42.399416666666866,
+   "end": 45.45941666666702
+  },
+  {
+   "line_id": "Clip_03_L007",
+   "src_start": 1831.18,
+   "src_end": 1833.52,
+   "en": [
+    "And my whole thing is, you",
+    "could Google the address."
+   ],
+   "en_unmasked": "And my whole thing is, you could Google the address.",
+   "jp": [
+    "でも俺の言い分は「住",
+    "所なんかググれば出る」"
+   ],
+   "start": 45.47941666666702,
+   "end": 48.25941666666697
+  },
+  {
+   "line_id": "Clip_03_L008",
+   "src_start": 1833.98,
+   "src_end": 1836.1,
+   "en": [
+    "And everybody on the",
+    "plane started laughing."
+   ],
+   "en_unmasked": "And everybody on the plane started laughing.",
+   "jp": [
+    "そしたら機内の全員が爆笑"
+   ],
+   "start": 48.279416666666975,
+   "end": 50.49941666666698
+  },
+  {
+   "line_id": "Clip_03_L009",
+   "src_start": 1836.22,
+   "src_end": 1837.66,
+   "en": [
+    "Because you could",
+    "Google the address."
+   ],
+   "en_unmasked": "Because you could Google the address.",
+   "jp": [
+    "だって住所はググれば出るんだから"
+   ],
+   "start": 50.519416666666984,
+   "end": 52.639416666666854
+  },
+  {
+   "line_id": "Clip_03_L010",
+   "src_start": 1838.36,
+   "src_end": 1841.92,
+   "en": [
+    "You know, it just looked like",
+    "something on Instagram."
+   ],
+   "en_unmasked": "You know, it just looked like something on Instagram.",
+   "jp": [
+    "Instagramに載せたから",
+    "大ごとに見えただけでさ"
+   ],
+   "start": 52.65941666666686,
+   "end": 56.552750000000266
+  },
+  {
+   "line_id": "Clip_03_L011",
+   "src_start": 1842.2733333333333,
+   "src_end": 1844.46,
+   "en": [
+    "And I was like, oh, I got the address."
+   ],
+   "en_unmasked": "And I was like, oh, I got the address.",
+   "jp": [
+    "で、俺が「住所わかったぞ」って"
+   ],
+   "start": 56.57275000000027,
+   "end": 59.039416666666945
+  },
+  {
+   "line_id": "Clip_03_L012",
+   "src_start": 1844.76,
+   "src_end": 1846.66,
+   "en": [
+    "And guess how I found it?"
+   ],
+   "en_unmasked": "And guess how I found it?",
+   "jp": [
+    "どうやって見つけたと思う？"
+   ],
+   "start": 59.05941666666695,
+   "end": 61.039416666666945
+  },
+  {
+   "line_id": "Clip_03_L013",
+   "src_start": 1846.76,
+   "src_end": 1847.72,
+   "en": [
+    "I Googled it."
+   ],
+   "en_unmasked": "I Googled it.",
+   "jp": [
+    "ググったんだよ"
+   ],
+   "start": 61.05941666666695,
+   "end": 62.519416666666984
+  },
+  {
+   "line_id": "Clip_03_L014",
+   "src_start": 1850.49,
+   "src_end": 1851.19,
+   "en": [
+    "That's crazy."
+   ],
+   "en_unmasked": "That's crazy.",
+   "jp": [
+    "ヤバすぎだろ"
+   ],
+   "start": 64.78941666666697,
+   "end": 65.98941666666701
+  }
+ ]
+}

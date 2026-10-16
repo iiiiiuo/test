@@ -1,0 +1,142 @@
+{
+ "clip": "Clip_04",
+ "candidate": "C03",
+ "title": "Bad Bunny is on our wall",
+ "source": {
+  "id": "part_2_2",
+  "path": "/mnt/project-files/part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 731,
+   "end_frame_excl": 1941,
+   "start_pts": 732715,
+   "end_pts_excl": 1943925,
+   "start_s": 30.529792,
+   "end_s": 80.996875
+  },
+  {
+   "start_frame": 2079,
+   "end_frame_excl": 2670,
+   "start_pts": 2082063,
+   "end_pts_excl": 2673654,
+   "start_s": 86.752625,
+   "end_s": 111.40225
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 1465430,
+   "end_sample_48k_excl": 3887850,
+   "same_as_video_segment": true
+  },
+  {
+   "start_sample_48k": 4164126,
+   "end_sample_48k_excl": 5347308,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 731,
+   "end_frame_excl": 1165,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 440,
+    "y": 0
+   },
+   "basis": "face cx=999 cy=345 w=332 n=9/11"
+  },
+  {
+   "start_frame": 1165,
+   "end_frame_excl": 1194,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 370,
+    "y": 115
+   },
+   "basis": "face cx=836 cy=385 w=292 n=5/5"
+  },
+  {
+   "start_frame": 1194,
+   "end_frame_excl": 1643,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 530,
+    "y": 0
+   },
+   "basis": "face cx=1089 cy=331 w=360 n=6/11"
+  },
+  {
+   "start_frame": 1643,
+   "end_frame_excl": 1725,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 404,
+    "y": 0
+   },
+   "basis": "face cx=964 cy=393 w=378 n=7/7"
+  },
+  {
+   "start_frame": 1725,
+   "end_frame_excl": 1767,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 224,
+    "y": 0
+   },
+   "basis": "face cx=783 cy=345 w=302 n=5/7"
+  },
+  {
+   "start_frame": 1767,
+   "end_frame_excl": 1941,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 454,
+    "y": 42
+   },
+   "basis": "face cx=920 cy=312 w=284 n=3/10"
+  },
+  {
+   "start_frame": 2079,
+   "end_frame_excl": 2670,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 514,
+    "y": 75
+   },
+   "basis": "face cx=981 cy=345 w=295 n=8/11"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_04/subtitles.ass",
+  "sha256": "d1c92488ae9b09c946e1d30d055a4f2b879af29242bfd29d115ce2946631ec55"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_04/render.mp4",
+  "sha256": "56e92fc98f06dfaee4d2c44b3755a4807e742c393b136ddd9c1e2504c824d1d5"
+ }
+}

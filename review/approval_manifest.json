@@ -1,5 +1,5 @@
 {
- "status": "AWAITING_TRANSLATION_APPROVAL",
+ "status": "APPROVED",
  "generated_at": "2026-10-15T10:41:17Z",
  "editable_file": "review/translations_review.csv",
  "editable_column": "ja_final",
@@ -738,9 +738,14 @@
   "NOTE": 66
  },
  "approval": {
-  "approved": false,
-  "approved_by": null,
-  "approved_at": null,
-  "note": "Approval requires an explicit human message in the project thread. File edits alone are not approval."
+  "approved": true,
+  "approved_by": "giub (user_017sz8qba3m9XhWsSGKWYthm)",
+  "approved_at": "2026-10-15T15:16:01Z",
+  "message_id": "cmsg_01Xrxe8q4Xq38eAwgyQN8zaAAydnn5vJczG6yYQJsRGd52",
+  "message": "この和訳文章で縦動画を生成して",
+  "approved_revision": 3,
+  "approved_csv_sha256": "3beddae29a1713a0574601306acb3cd79ca0574cd06cff1739e7c06b0f7044f9",
+  "frozen_copy": "review/approved/translations_approved_rev3.csv",
+  "note": "Explicit human instruction to produce the videos with this translation, received after rev 3. ja_final is the subtitle source."
  }
 }

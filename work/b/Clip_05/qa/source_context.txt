@@ -1,0 +1,26 @@
+# Clip_05 source context (part_2 2.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 641.10-706.71s (frames 15371-16943)
+     621.20-  624.92 Our second most important resource to knowledge is water.
+     625.26-  626.10 Our third is food.
+     626.32-  627.50 Our fourth is shelter.
+     627.74-  633.02 Have you seen that guy that created that system that gets water out of the atmosphere?
+     633.36-  636.16 Yeah, I met with him before, and we need that.
+     636.16-  641.18 We need every version of how we could take salt water, water out of the atmosphere.
+>>   641.36-  647.44 But right now in America, say one of the laws that I would change is it's illegal to collect rainwater in America.
+>>   647.74-  648.18 What?
+>>   648.44-  648.88 Illegal?
+>>   649.10-  649.78 It's illegal?
+>>   649.90-  652.78 It's illegal to collect rainwater in America.
+>>   652.78-  654.74 You go to every other country, they're collecting rainwater.
+>>   655.28-  658.32 You know, people are controlling the water.
+>>   659.69-  664.53 You know, it's going to be fuck what T-shirt you wear, what political opinion, and who got beef for who.
+>>   665.11-  666.41 You ain't got no water.
+>>   668.82-  678.98 you ain't got no life i'm trying to tell you because you know a lot of people call me
+>>   678.98-  688.11 they want to call me crazy it's like it's like running a marathon if i got some short shorts on
+>>   688.11-  696.09 and a tank top and i'm sweating hard as hell um running down a street running the wrong way down
+>>   696.09-  701.95 a freeway then they you're gonna say that person is crazy but if a hundred other people do it with
+     701.95-  715.46 me, then it's a marathon. That's a good way to put it. So some of the stuff, I'm the first person
+     715.46-  720.58 that's saying it. Or Candace Owens is the first person that's saying it. Then another person sees
+     720.58-  725.44 and say, I kind of feel you. Floyd Mayweather might say, oh, I feel you. And then Steve Harvey
+     725.44-  729.92 might say, I feel where you're coming from. There's a lot of black conservatives. You know,

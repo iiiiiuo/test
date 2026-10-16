@@ -1,0 +1,443 @@
+{
+ "clip": "Clip_19",
+ "total_s": 75.99258333333341,
+ "segments": [
+  [
+   1738.9448333333332,
+   1814.9374166666666,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_19_L001",
+   "src_start": 1739.45,
+   "src_end": 1741.45,
+   "en": [
+    "In a way, they got a guy",
+    "who had taste, though, bro."
+   ],
+   "en_unmasked": "In a way, they got a guy who had taste, though, bro.",
+   "jp": [
+    "少なくとも",
+    "センスのある奴はいたんだよ"
+   ],
+   "start": 0.5051666666668098,
+   "end": 2.4851666666668097
+  },
+  {
+   "line_id": "Clip_19_L001",
+   "src_start": 1741.45,
+   "src_end": 1743.69,
+   "en": [
+    "You know what I'm saying?",
+    "Steve Jobs had the best taste."
+   ],
+   "en_unmasked": "You know what I'm saying? Steve Jobs had the best taste.",
+   "jp": [
+    "スティーブ・ジョブズは",
+    "最高のセンスを持ってた"
+   ],
+   "start": 2.5051666666668098,
+   "end": 5.095166666666483
+  },
+  {
+   "line_id": "Clip_19_L002",
+   "src_start": 1744.0599999999997,
+   "src_end": 1746.63,
+   "en": [
+    "I've yet to meet a tech guy",
+    "with better taste than me."
+   ],
+   "en_unmasked": "I've yet to meet a tech guy with better taste than me.",
+   "jp": [
+    "俺よりセンスのある　テック系には",
+    "まだ会ったことない"
+   ],
+   "start": 5.115166666666482,
+   "end": 8.135166666666446
+  },
+  {
+   "line_id": "Clip_19_L003",
+   "src_start": 1747.0999999999997,
+   "src_end": 1751.15,
+   "en": [
+    "I'm the next frontier. You got",
+    "Ralph, Steve, and then it's me."
+   ],
+   "en_unmasked": "I'm the next frontier. You got Ralph, Steve, and then it's me.",
+   "jp": [
+    "俺が次のフロンティアだ",
+    "Ralph Lauren、ジョブズ"
+   ],
+   "start": 8.155166666666446,
+   "end": 12.845166666666483
+  },
+  {
+   "line_id": "Clip_19_L003",
+   "src_start": 1751.8099999999997,
+   "src_end": 1753.27,
+   "en": [
+    "You know what I'm saying?",
+    "It's like none of these guys."
+   ],
+   "en_unmasked": "You know what I'm saying? It's like none of these guys.",
+   "jp": [
+    "その次が俺",
+    "他の連中じゃない"
+   ],
+   "start": 12.865166666666482,
+   "end": 14.305166666666747
+  },
+  {
+   "line_id": "Clip_19_L004",
+   "src_start": 1753.27,
+   "src_end": 1758.85,
+   "en": [
+    "Even Elon flew me... you know",
+    "what I'm saying? Vory, Wack 100,"
+   ],
+   "en_unmasked": "Even Elon flew me... you know what I'm saying? Vory, Wack 100,",
+   "jp": [
+    "イーロンですら　俺を呼んだんだぜ",
+    "Vory、Wack 100と"
+   ],
+   "start": 14.325166666666746,
+   "end": 20.031833333333434
+  },
+  {
+   "line_id": "Clip_19_L005",
+   "src_start": 1758.9966666666667,
+   "src_end": 1761.95,
+   "en": [
+    "it was like a team",
+    "that went to SpaceX."
+   ],
+   "en_unmasked": "it was like a team that went to SpaceX.",
+   "jp": [
+    "チームでSpaceXに行ったんだよ"
+   ],
+   "start": 20.051833333333434,
+   "end": 23.59516666666671
+  },
+  {
+   "line_id": "Clip_19_L005",
+   "src_start": 1762.56,
+   "src_end": 1764.0,
+   "en": [
+    "He flew me in his new jet out there."
+   ],
+   "en_unmasked": "He flew me in his new jet out there.",
+   "jp": [
+    "新しいジェットで",
+    "連れてってくれて"
+   ],
+   "start": 23.61516666666671,
+   "end": 25.035166666666765
+  },
+  {
+   "line_id": "Clip_19_L006",
+   "src_start": 1764.0,
+   "src_end": 1766.08,
+   "en": [
+    "He said, I want you to",
+    "design SpaceX for me."
+   ],
+   "en_unmasked": "He said, I want you to design SpaceX for me.",
+   "jp": [
+    "「SpaceXを",
+    "デザインしてほしい」って"
+   ],
+   "start": 25.055166666666764,
+   "end": 27.415166666666874
+  },
+  {
+   "line_id": "Clip_19_L007",
+   "src_start": 1766.38,
+   "src_end": 1768.42,
+   "en": [
+    "We're sitting there, Grimes there,"
+   ],
+   "en_unmasked": "We're sitting there, Grimes there,",
+   "jp": [
+    "Grimesもいて"
+   ],
+   "start": 27.435166666666873,
+   "end": 29.455166666666837
+  },
+  {
+   "line_id": "Clip_19_L007",
+   "src_start": 1768.42,
+   "src_end": 1770.3,
+   "en": [
+    "he just had a newborn. We",
+    "watched a rocket take off."
+   ],
+   "en_unmasked": "he just had a newborn. We watched a rocket take off.",
+   "jp": [
+    "子どもが生まれたばっかりで",
+    "ロケットの打ち上げを見たんだ"
+   ],
+   "start": 29.475166666666837,
+   "end": 31.765166666666328
+  },
+  {
+   "line_id": "Clip_19_L008",
+   "src_start": 1770.7299999999996,
+   "src_end": 1772.52,
+   "en": [
+    "But before we started",
+    "the meeting, he said,"
+   ],
+   "en_unmasked": "But before we started the meeting, he said,",
+   "jp": [
+    "でもミーティングの前に",
+    "あいつが言ったんだよ"
+   ],
+   "start": 31.785166666666328,
+   "end": 33.55516666666674
+  },
+  {
+   "line_id": "Clip_19_L008",
+   "src_start": 1772.52,
+   "src_end": 1774.2,
+   "en": [
+    "you have the best EQ on the planet."
+   ],
+   "en_unmasked": "you have the best EQ on the planet.",
+   "jp": [
+    "「お前のEQは地球一だ」って"
+   ],
+   "start": 33.575166666666746,
+   "end": 35.58516666666649
+  },
+  {
+   "line_id": "Clip_19_L009",
+   "src_start": 1774.5499999999997,
+   "src_end": 1777.82,
+   "en": [
+    "That means taste.",
+    "Best EQ on the planet."
+   ],
+   "en_unmasked": "That means taste. Best EQ on the planet.",
+   "jp": [
+    "つまりセンスってことだ",
+    "EQ地球一"
+   ],
+   "start": 35.60516666666649,
+   "end": 39.34516666666625
+  },
+  {
+   "line_id": "Clip_19_L010",
+   "src_start": 1778.3099999999995,
+   "src_end": 1779.35,
+   "en": [
+    "This is a person..."
+   ],
+   "en_unmasked": "This is a person...",
+   "jp": [
+    "IQが地球一だって"
+   ],
+   "start": 39.365166666666255,
+   "end": 40.38516666666667
+  },
+  {
+   "line_id": "Clip_19_L010",
+   "src_start": 1779.35,
+   "src_end": 1782.34,
+   "en": [
+    "— Yeah. This is a person",
+    "that a lot of people"
+   ],
+   "en_unmasked": "— Yeah. This is a person that a lot of people",
+   "jp": [
+    "言われてるような人が"
+   ],
+   "start": 40.40516666666667,
+   "end": 43.37516666666668
+  },
+  {
+   "line_id": "Clip_19_L010",
+   "src_start": 1782.34,
+   "src_end": 1784.56,
+   "en": [
+    "consider to have the",
+    "best IQ on the planet."
+   ],
+   "en_unmasked": "consider to have the best IQ on the planet.",
+   "jp": [
+    "俺のEQは地球一だって"
+   ],
+   "start": 43.39516666666668,
+   "end": 45.6851666666664
+  },
+  {
+   "line_id": "Clip_19_L010",
+   "src_start": 1784.6499999999996,
+   "src_end": 1786.52,
+   "en": [
+    "He says you got the",
+    "best EQ on the planet."
+   ],
+   "en_unmasked": "He says you got the best EQ on the planet.",
+   "jp": [
+    "言ったんだよ"
+   ],
+   "start": 45.7051666666664,
+   "end": 47.55516666666674
+  },
+  {
+   "line_id": "Clip_19_L011",
+   "src_start": 1786.52,
+   "src_end": 1788.34,
+   "en": [
+    "The EQ is the connectivity."
+   ],
+   "en_unmasked": "The EQ is the connectivity.",
+   "jp": [
+    "EQってのは",
+    "つながる力なんだよ"
+   ],
+   "start": 47.575166666666746,
+   "end": 49.37516666666668
+  },
+  {
+   "line_id": "Clip_19_L012",
+   "src_start": 1788.34,
+   "src_end": 1792.66,
+   "en": [
+    "Man, how can, like,",
+    "Jay-Z be my brother,"
+   ],
+   "en_unmasked": "Man, how can, like, Jay-Z be my brother,",
+   "jp": [
+    "じゃなきゃ",
+    "Jay-Zが兄弟になったり"
+   ],
+   "start": 49.39516666666668,
+   "end": 53.69516666666684
+  },
+  {
+   "line_id": "Clip_19_L012",
+   "src_start": 1792.66,
+   "src_end": 1798.24,
+   "en": [
+    "right, Kim, like, be my",
+    "baby mama type s**t?"
+   ],
+   "en_unmasked": "right, Kim, like, be my baby mama type shit?",
+   "jp": [
+    "Kimが子どもの母親に",
+    "なったりしないだろ"
+   ],
+   "start": 53.715166666666846,
+   "end": 59.335166666666716
+  },
+  {
+   "line_id": "Clip_19_L013",
+   "src_start": 1798.3,
+   "src_end": 1799.84,
+   "en": [
+    "I'm here talking to you, right?"
+   ],
+   "en_unmasked": "I'm here talking to you, right?",
+   "jp": [
+    "こうしてお前らとも",
+    "話してるだろ"
+   ],
+   "start": 59.35516666666672,
+   "end": 61.285166666666534
+  },
+  {
+   "line_id": "Clip_19_L014",
+   "src_start": 1800.2499999999998,
+   "src_end": 1801.14,
+   "en": [
+    "But you got a connection."
+   ],
+   "en_unmasked": "But you got a connection.",
+   "jp": [
+    "あんたには",
+    "人とつながる力があるよな"
+   ],
+   "start": 61.30516666666654,
+   "end": 62.785166666666534
+  },
+  {
+   "line_id": "Clip_19_L015",
+   "src_start": 1801.7499999999998,
+   "src_end": 1804.8400000000001,
+   "en": [
+    "The same way that you",
+    "connected with Pharrell,"
+   ],
+   "en_unmasked": "The same way that you connected with Pharrell,",
+   "jp": [
+    "Pharrellとつながったみたいに"
+   ],
+   "start": 62.80516666666654,
+   "end": 66.04516666666653
+  },
+  {
+   "line_id": "Clip_19_L015",
+   "src_start": 1805.0099999999998,
+   "src_end": 1808.84,
+   "en": [
+    "and in ways you indemnified him,",
+    "is the way you connected with me."
+   ],
+   "en_unmasked": "and in ways you indemnified him, is the way you connected with me.",
+   "jp": [
+    "ある意味で守ってきたみたいに",
+    "俺ともつながってくれた"
+   ],
+   "start": 66.06516666666653,
+   "end": 70.38516666666645
+  },
+  {
+   "line_id": "Clip_19_L016",
+   "src_start": 1809.3499999999997,
+   "src_end": 1811.0800000000002,
+   "en": [
+    "You got a sight beyond sight."
+   ],
+   "en_unmasked": "You got a sight beyond sight.",
+   "jp": [
+    "あんたには"
+   ],
+   "start": 70.40516666666645,
+   "end": 72.2551666666668
+  },
+  {
+   "line_id": "Clip_19_L016",
+   "src_start": 1811.22,
+   "src_end": 1813.44,
+   "en": [
+    "It's something that you",
+    "got that's like, you see."
+   ],
+   "en_unmasked": "It's something that you got that's like, you see.",
+   "jp": [
+    "先を見通す目がある",
+    "見えてるんだよ"
+   ],
+   "start": 72.27516666666679,
+   "end": 74.7551666666668
+  },
+  {
+   "line_id": "Clip_19_L017",
+   "src_start": 1813.72,
+   "src_end": 1814.84,
+   "en": [
+    "I ain't gonna lie, yeah."
+   ],
+   "en_unmasked": "I ain't gonna lie, yeah.",
+   "jp": [
+    "まあ、否定はしないよ"
+   ],
+   "start": 74.77516666666679,
+   "end": 75.97258333333342
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+You are the Fresh Clip Critic for clip CLIPID. Read the rubric at /home/user/test/work/b/critic_rubric.md and follow it exactly. Write your report to work/b/CLIPID/qa/critic.md (ignore anything in qa_prev/).
+
+Evidence (all under /home/user/test):
+- Render: work/b/CLIPID/render.mp4; evidence work/b/CLIPID/qa/auto.json, work/b/CLIPID/qa/sync.txt, work/b/CLIPID/qa/sheet_*.jpg, work/b/CLIPID/qa/f_*.png (full-res frames; filename = time in seconds)
+- Source context: work/b/CLIPID/qa/source_context.txt
+- Subtitles: work/b/CLIPID/subtitles.srt and work/b/CLIPID/subtitles.ass
+- Manifest: work/b/CLIPID/source_manifest.json (if it has more than one interval, the gap is an intentional jump cut; judge whether it reads naturally)
+- Approved translation rows: review/approved/translations_approved_rev3.csv (rows with clip_id CLIPID; rows listed as dropped_lines in work/b/CLIPID/captions.json were removed on purpose by an editorial cut)
+- Reference: work/b/ref_sheet.jpg, work/b/ref_5.png, work/b/ref_20.png, work/b/ref_35.png, work/b/ref_50.png
+- Style spec: /mnt/project-files/output/shared/subtitle_style_spec.md, plus work/b/calib_widths.json (wrap width is measured as rendered ink width)
+- Source audio (16 kHz mono) for boundary checks: work/audio/<source id>.wav (source id in the manifest)
+
+Do not edit anything except work/b/CLIPID/qa/critic.md (extra frames/audio snippets may go under work/b/CLIPID/qa/extra/). Do not install packages. Keep CPU light (renders are running): no full-file re-transcription; check specific spans only. Keep your final message short: just the four-line head.

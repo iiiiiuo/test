@@ -1,0 +1,32 @@
+{
+ "Clip_01": {
+  "render_sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36",
+  "verdict": "PASS",
+  "critic": "work/b/Clip_01/qa/critic.md",
+  "ass_sha256": "39ac9faf6d659c4ca70de6420ea81e07736b5a520e28f8fee88f35c9f979e7b1"
+ },
+ "Clip_06": {
+  "render_sha256": "6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15",
+  "verdict": "PASS",
+  "critic": "work/b/Clip_06/qa/critic.md",
+  "ass_sha256": "68a2dfe978ca6e9eb69813478307911e4483a7e910f928491dfa40c93dda713b"
+ },
+ "Clip_07": {
+  "render_sha256": "d765352bfc81c42ca8bed030ea14f9ce730ac703b3d6f6a716d49755c498b57d",
+  "verdict": "PASS",
+  "critic": "work/b/Clip_07/qa/critic.md",
+  "ass_sha256": "ac8eb9216157e9041164a5a165325003e4c5c1599bf1b82d77a777c1e60965dc"
+ },
+ "Clip_08": {
+  "render_sha256": "8a184afc1ec4cea197bb40e7a2132776a247a3bd5faaaa2c4c8f3317c2ee44b4",
+  "verdict": "PASS",
+  "critic": "work/b/Clip_08/qa/critic.md",
+  "ass_sha256": "cd7c57de00aaf46dd6292429f6321fdc90b139984359bd5a769a1c7c161b4119"
+ },
+ "Clip_11": {
+  "render_sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80",
+  "verdict": "PASS",
+  "critic": "work/b/Clip_11/qa/critic.md",
+  "ass_sha256": "0b4e3220423d68233691c24b967c5102044bbb1eea0bc4598b705c9af1243829"
+ }
+}

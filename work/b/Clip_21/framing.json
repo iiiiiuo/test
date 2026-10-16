@@ -1,0 +1,22 @@
+{
+ "clip": "Clip_21",
+ "crop_w": 1119,
+ "crop_h": 1080,
+ "intervals": [
+  {
+   "start_frame": 28555,
+   "end_frame_excl": 30193,
+   "shots": [
+    {
+     "start": 0,
+     "end": 1638,
+     "x": 300,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "face cx=860 cy=266 w=374 n=6/12"
+    }
+   ]
+  }
+ ]
+}

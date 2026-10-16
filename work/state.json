@@ -1,8 +1,8 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-15T10:41:17Z",
- "status": "AWAITING_TRANSLATION_APPROVAL",
- "phase": "A_COMPLETE",
+ "updated": "2026-10-15T15:18:17Z",
+ "status": "PHASE_B_IN_PROGRESS",
+ "phase": "B",
  "inputs": {
   "sources": {
    "part_1": {
@@ -87,15 +87,22 @@
   "revision_note": "Rev 3 (user request): Timbs->ティンバーランド, Shaq->シャキールオニール, Moses->モーゼ, BLM->ブラックライブスマター, バックパック系->リュック系ラッパー; Steve Jobs/Jeff Bezos/Elon/Hennessy back to katakana. ja_draft and ja_final both updated (no human edits yet). Not an approval."
  },
  "approval": {
-  "approved": false,
-  "approved_by": null,
-  "approved_at": null,
-  "rule": "Only an explicit human message (e.g. 「翻訳を承認しました。動画制作を再開してください」) approves. CSV existence or edits are not approval."
+  "approved": true,
+  "approved_by": "giub (user_017sz8qba3m9XhWsSGKWYthm)",
+  "approved_at": "2026-10-15T15:16:01Z",
+  "message_id": "cmsg_01Xrxe8q4Xq38eAwgyQN8zaAAydnn5vJczG6yYQJsRGd52",
+  "message": "この和訳文章で縦動画を生成して",
+  "approved_revision": 3,
+  "approved_csv_sha256": "3beddae29a1713a0574601306acb3cd79ca0574cd06cff1739e7c06b0f7044f9",
+  "frozen_copy": "review/approved/translations_approved_rev3.csv",
+  "note": "Explicit human instruction to produce the videos with this translation, received after rev 3. ja_final is the subtitle source."
  },
  "pending_actions": [
-  "WAIT for explicit human translation approval (HARD STOP)",
-  "On approval: re-read CSV ja_final, hash it, diff vs ja_draft, freeze to review/approved/",
-  "PHASE B: subtitle generation from approved ja_final + masked EN, render 9:16, Fresh Clip Critic per clip, series QA"
+  "calibrate/reuse frozen subtitle template on new source",
+  "render 21 clips",
+  "Fresh Clip Critic per clip",
+  "series QA",
+  "export to output/"
  ],
  "failed_approaches": [
   {

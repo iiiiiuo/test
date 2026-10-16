@@ -1,0 +1,331 @@
+{
+ "clip": "Clip_12",
+ "total_s": 65.06500000000005,
+ "segments": [
+  [
+   1027.5265,
+   1092.5915,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_12_L001",
+   "src_start": 1027.54,
+   "src_end": 1028.9,
+   "en": [
+    "Taking God out of music, you said?"
+   ],
+   "en_unmasked": "Taking God out of music, you said?",
+   "jp": [
+    "音楽から神を",
+    "取り除いたって？"
+   ],
+   "start": 0.013500000000021828,
+   "end": 1.3535000000001491
+  },
+  {
+   "line_id": "Clip_12_L002",
+   "src_start": 1028.9,
+   "src_end": 1031.96,
+   "en": [
+    "Yeah. I remember I was",
+    "at Roscoe's, you know,"
+   ],
+   "en_unmasked": "Yeah. I remember I was at Roscoe's, you know,",
+   "jp": [
+    "そう　今年の初めに",
+    "Roscoe'sに行ったんだけど"
+   ],
+   "start": 1.3735000000001492,
+   "end": 4.413500000000095
+  },
+  {
+   "line_id": "Clip_12_L002",
+   "src_start": 1031.96,
+   "src_end": 1035.72,
+   "en": [
+    "earlier this year, and I",
+    "love Roscoe's and stuff,"
+   ],
+   "en_unmasked": "earlier this year, and I love Roscoe's and stuff,",
+   "jp": [
+    "Roscoe'sは好きなんだよ"
+   ],
+   "start": 4.433500000000095,
+   "end": 8.173500000000086
+  },
+  {
+   "line_id": "Clip_12_L003",
+   "src_start": 1035.72,
+   "src_end": 1037.54,
+   "en": [
+    "but they're playing the music,"
+   ],
+   "en_unmasked": "but they're playing the music,",
+   "jp": [
+    "でも店でかかってた曲が"
+   ],
+   "start": 8.193500000000085,
+   "end": 10.443500000000068
+  },
+  {
+   "line_id": "Clip_12_L003",
+   "src_start": 1037.99,
+   "src_end": 1040.24,
+   "en": [
+    "and it's like Usher saying,",
+    "'You got it bad.'"
+   ],
+   "en_unmasked": "and it's like Usher saying, 'You got it bad.'",
+   "jp": [
+    "Usherの",
+    "『You Got It Bad』で"
+   ],
+   "start": 10.463500000000067,
+   "end": 12.673500000000086
+  },
+  {
+   "line_id": "Clip_12_L004",
+   "src_start": 1040.22,
+   "src_end": 1042.24,
+   "en": [
+    "'You got it, you got it bad.'"
+   ],
+   "en_unmasked": "'You got it, you got it bad.'",
+   "jp": [
+    "「お前は重症だ」ってさ"
+   ],
+   "start": 12.693500000000085,
+   "end": 14.813499999999959
+  },
+  {
+   "line_id": "Clip_12_L005",
+   "src_start": 1042.36,
+   "src_end": 1045.78,
+   "en": [
+    "Yeah, that messaging is not uplifting."
+   ],
+   "en_unmasked": "Yeah, that messaging is not uplifting.",
+   "jp": [
+    "そういうメッセージは",
+    "前向きじゃないだろ"
+   ],
+   "start": 14.833499999999958,
+   "end": 18.75350000000003
+  },
+  {
+   "line_id": "Clip_12_L006",
+   "src_start": 1047.2400000000002,
+   "src_end": 1048.32,
+   "en": [
+    "Some ni**as got it bad."
+   ],
+   "en_unmasked": "Some niggas got it bad.",
+   "jp": [
+    "重症な奴も",
+    "いるけどな"
+   ],
+   "start": 19.713500000000295,
+   "end": 20.773499999999995
+  },
+  {
+   "line_id": "Clip_12_L007",
+   "src_start": 1048.32,
+   "src_end": 1052.14,
+   "en": [
+    "Yeah, yeah. But there's..."
+   ],
+   "en_unmasked": "Yeah, yeah. But there's...",
+   "jp": [
+    "ああ",
+    "でもな"
+   ],
+   "start": 20.793499999999995,
+   "end": 25.11350000000016
+  },
+  {
+   "line_id": "Clip_12_L007",
+   "src_start": 1053.01,
+   "src_end": 1055.66,
+   "en": [
+    "when we sing... God created music"
+   ],
+   "en_unmasked": "when we sing... God created music",
+   "jp": [
+    "神は神を讃えるためだけに"
+   ],
+   "start": 25.48350000000005,
+   "end": 28.313500000000186
+  },
+  {
+   "line_id": "Clip_12_L007",
+   "src_start": 1055.8600000000001,
+   "src_end": 1058.66,
+   "en": [
+    "solely for the purpose",
+    "of worshiping God."
+   ],
+   "en_unmasked": "solely for the purpose of worshiping God.",
+   "jp": [
+    "音楽を作ったんだよ"
+   ],
+   "start": 28.333500000000186,
+   "end": 31.63350000000014
+  },
+  {
+   "line_id": "Clip_12_L008",
+   "src_start": 1060.4199999999998,
+   "src_end": 1062.87,
+   "en": [
+    "Now, if you listen to the",
+    "majority of the music,"
+   ],
+   "en_unmasked": "Now, if you listen to the majority of the music,",
+   "jp": [
+    "でも今の音楽の大半は"
+   ],
+   "start": 32.893499999999904,
+   "end": 35.323499999999946
+  },
+  {
+   "line_id": "Clip_12_L008",
+   "src_start": 1062.87,
+   "src_end": 1066.63,
+   "en": [
+    "it's not worshiping God. No,",
+    "it's going into the dark holes."
+   ],
+   "en_unmasked": "it's not worshiping God. No, it's going into the dark holes.",
+   "jp": [
+    "神を讃えてない",
+    "暗い穴に落ちていってる"
+   ],
+   "start": 35.34349999999995,
+   "end": 39.083500000000164
+  },
+  {
+   "line_id": "Clip_12_L009",
+   "src_start": 1066.63,
+   "src_end": 1070.07,
+   "en": [
+    "It's like, sweat to my...",
+    "yeah, but it's saying,"
+   ],
+   "en_unmasked": "It's like, sweat to my... yeah, but it's saying,",
+   "jp": [
+    "「お前の女とヤりたい」"
+   ],
+   "start": 39.10350000000017,
+   "end": 42.52349999999999
+  },
+  {
+   "line_id": "Clip_12_L009",
+   "src_start": 1070.07,
+   "src_end": 1073.39,
+   "en": [
+    "I want to f**k your b**ch,",
+    "I want to f**k your girlfriend,"
+   ],
+   "en_unmasked": "I want to fuck your bitch, I want to fuck your girlfriend,",
+   "jp": [
+    "「お前の彼女とヤりたい」"
+   ],
+   "start": 42.543499999999995,
+   "end": 45.843500000000155
+  },
+  {
+   "line_id": "Clip_12_L010",
+   "src_start": 1073.39,
+   "src_end": 1075.13,
+   "en": [
+    "I want to f**k your mom, like, it's like,"
+   ],
+   "en_unmasked": "I want to fuck your mom, like, it's like,",
+   "jp": [
+    "「お前の母親とヤりたい」"
+   ],
+   "start": 45.86350000000016,
+   "end": 47.91349999999964
+  },
+  {
+   "line_id": "Clip_12_L010",
+   "src_start": 1075.4599999999996,
+   "src_end": 1077.05,
+   "en": [
+    "and I want to do drugs",
+    "while I'm f**king your mom."
+   ],
+   "en_unmasked": "and I want to do drugs while I'm fucking your mom.",
+   "jp": [
+    "「ヤりながらドラッグやりたい」",
+    "とかさ"
+   ],
+   "start": 47.93349999999964,
+   "end": 49.50350000000001
+  },
+  {
+   "line_id": "Clip_12_L011",
+   "src_start": 1077.05,
+   "src_end": 1080.93,
+   "en": [
+    "Like, it's, it just takes",
+    "you into that, that place."
+   ],
+   "en_unmasked": "Like, it's, it just takes you into that, that place.",
+   "jp": [
+    "そういう場所に",
+    "連れていかれるんだよ"
+   ],
+   "start": 49.52350000000001,
+   "end": 53.38350000000012
+  },
+  {
+   "line_id": "Clip_12_L012",
+   "src_start": 1080.93,
+   "src_end": 1082.39,
+   "en": [
+    "And God has..."
+   ],
+   "en_unmasked": "And God has...",
+   "jp": [
+    "でも神は"
+   ],
+   "start": 53.40350000000012,
+   "end": 55.36350000000016
+  },
+  {
+   "line_id": "Clip_12_L012",
+   "src_start": 1084.72,
+   "src_end": 1089.33,
+   "en": [
+    "God has a place for us in a promised",
+    "land that can't be defined by man."
+   ],
+   "en_unmasked": "God has a place for us in a promised land that can't be defined by man.",
+   "jp": [
+    "俺らのために　約束の地を用意してる",
+    "人間には定義できない場所だ"
+   ],
+   "start": 57.193500000000085,
+   "end": 61.78349999999998
+  },
+  {
+   "line_id": "Clip_12_L012",
+   "src_start": 1089.33,
+   "src_end": 1092.75,
+   "en": [
+    "It's not the 40 acres that the",
+    "oppressors can take away."
+   ],
+   "en_unmasked": "It's not the 40 acres that the oppressors can take away.",
+   "jp": [
+    "抑圧者が奪える",
+    "40エーカーとは違う"
+   ],
+   "start": 61.803499999999985,
+   "end": 65.04500000000006
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "Clip_09_L010": {
+  "en": "He was like, the studio's at my crib! And then he got a couple hundred thousand back.",
+  "ja_keep_segments": 2,
+  "reason": "clip end moved before 'But it's funny,' (critic Clip_09 round 1); the matching approved JP segment 笑えるよな is dropped, no new Japanese"
+ },
+ "Clip_10_L004": {
+  "en": "Yeah. He said... he offered it. He said he offered it. He said he offered it. He offered it.",
+  "reason": "critic Clip_10 round 1: the repeat 'He said he offered it. He offered it.' is heard (render and source ASR) but was missing from the displayed English; Japanese (approved) already carries the meaning"
+ }
+}

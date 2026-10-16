@@ -1,0 +1,355 @@
+{
+ "clip": "Clip_01",
+ "total_s": 64.10570833333327,
+ "segments": [
+  [
+   1203.7025,
+   1234.48325,
+   0.0
+  ],
+  [
+   1237.0274583333332,
+   1270.3524166666666,
+   30.780749999999898
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_01_L001",
+   "src_start": 1203.66,
+   "src_end": 1205.4,
+   "en": [
+    "Because as a person that,"
+   ],
+   "en_unmasked": "Because as a person that,",
+   "jp": [
+    "Gapとの契約を"
+   ],
+   "start": 0.0,
+   "end": 1.6774999999999909
+  },
+  {
+   "line_id": "Clip_01_L001",
+   "src_start": 1205.4,
+   "src_end": 1207.78,
+   "en": [
+    "when we first seen the",
+    "Gap deal, right, um,"
+   ],
+   "en_unmasked": "when we first seen the Gap deal, right, um,",
+   "jp": [
+    "初めて見た時さ",
+    "金持ちはGapなんか"
+   ],
+   "start": 1.697499999999991,
+   "end": 4.057499999999873
+  },
+  {
+   "line_id": "Clip_01_L001",
+   "src_start": 1207.78,
+   "src_end": 1211.72,
+   "en": [
+    "we understand that rich",
+    "motherf**kers ain't going in the Gap."
+   ],
+   "en_unmasked": "we understand that rich motherfuckers ain't going in the Gap.",
+   "jp": [
+    "行かないってのは",
+    "わかってたけど"
+   ],
+   "start": 4.077499999999873,
+   "end": 8.237499999999937
+  },
+  {
+   "line_id": "Clip_01_L002",
+   "src_start": 1211.96,
+   "src_end": 1212.6,
+   "en": [
+    "But you know what,"
+   ],
+   "en_unmasked": "But you know what,",
+   "jp": [
+    "あんたのおかげで"
+   ],
+   "start": 8.257499999999936,
+   "end": 8.87749999999981
+  },
+  {
+   "line_id": "Clip_01_L002",
+   "src_start": 1212.6,
+   "src_end": 1214.0,
+   "en": [
+    "they was going in the",
+    "Gap because of you."
+   ],
+   "en_unmasked": "they was going in the Gap because of you.",
+   "jp": [
+    "みんなGapに行ったんだよ"
+   ],
+   "start": 8.897499999999809,
+   "end": 10.2774999999999
+  },
+  {
+   "line_id": "Clip_01_L002",
+   "src_start": 1214.0,
+   "src_end": 1215.9299999999998,
+   "en": [
+    "It was going. And",
+    "they say 'powered by"
+   ],
+   "en_unmasked": "It was going. And they say 'powered by",
+   "jp": [
+    "「Powered by Balenciaga」って"
+   ],
+   "start": 10.2974999999999,
+   "end": 12.207499999999737
+  },
+  {
+   "line_id": "Clip_01_L002",
+   "src_start": 1215.9299999999998,
+   "src_end": 1219.06,
+   "en": [
+    "Balenciaga,' but then",
+    "you walk into the store,"
+   ],
+   "en_unmasked": "Balenciaga,' but then you walk into the store,",
+   "jp": [
+    "書いてあるのに",
+    "店に入ったら"
+   ],
+   "start": 12.227499999999736,
+   "end": 15.337499999999846
+  },
+  {
+   "line_id": "Clip_01_L003",
+   "src_start": 1219.06,
+   "src_end": 1223.12,
+   "en": [
+    "and then the clothes",
+    "is just on the floor."
+   ],
+   "en_unmasked": "and then the clothes is just on the floor.",
+   "jp": [
+    "服がそのまま",
+    "床に置いてある"
+   ],
+   "start": 15.357499999999845,
+   "end": 19.39749999999979
+  },
+  {
+   "line_id": "Clip_01_L003",
+   "src_start": 1223.12,
+   "src_end": 1225.38,
+   "en": [
+    "Is that degrading to",
+    "somebody that's rich"
+   ],
+   "en_unmasked": "Is that degrading to somebody that's rich",
+   "jp": [
+    "あれって応援しに来た"
+   ],
+   "start": 19.41749999999979,
+   "end": 21.65750000000001
+  },
+  {
+   "line_id": "Clip_01_L003",
+   "src_start": 1225.38,
+   "src_end": 1226.76,
+   "en": [
+    "that want to come in",
+    "there and support you?"
+   ],
+   "en_unmasked": "that want to come in there and support you?",
+   "jp": [
+    "金持ちに失礼じゃない？"
+   ],
+   "start": 21.67750000000001,
+   "end": 23.077499999999855
+  },
+  {
+   "line_id": "Clip_01_L004",
+   "src_start": 1226.8,
+   "src_end": 1227.94,
+   "en": [
+    "We should degrade the rich."
+   ],
+   "en_unmasked": "We should degrade the rich.",
+   "jp": [
+    "金持ちなんか",
+    "落としてやればいいんだよ"
+   ],
+   "start": 23.097499999999854,
+   "end": 24.53749999999989
+  },
+  {
+   "line_id": "Clip_01_L005",
+   "src_start": 1228.26,
+   "src_end": 1232.1,
+   "en": [
+    "Everybody is dirt. Everybody on",
+    "the same level beneath God."
+   ],
+   "en_unmasked": "Everybody is dirt. Everybody on the same level beneath God.",
+   "jp": [
+    "みんな土だよ　神の下では",
+    "みんな同じレベル"
+   ],
+   "start": 24.55749999999989,
+   "end": 28.61749999999982
+  },
+  {
+   "line_id": "Clip_01_L006",
+   "src_start": 1232.34,
+   "src_end": 1233.64,
+   "en": [
+    "Because we'll hop over..."
+   ],
+   "en_unmasked": "Because we'll hop over...",
+   "jp": [
+    "だって俺らは",
+    "またいで行くんだよ…"
+   ],
+   "start": 28.637499999999818,
+   "end": 30.4375
+  },
+  {
+   "line_id": "Clip_01_L007",
+   "src_start": 1237.28,
+   "src_end": 1240.04,
+   "en": [
+    "You know, we'll walk over a homeless"
+   ],
+   "en_unmasked": "You know, we'll walk over a homeless",
+   "jp": [
+    "Gucciの店に行くために"
+   ],
+   "start": 31.033291666666628,
+   "end": 33.773291666666616
+  },
+  {
+   "line_id": "Clip_01_L007",
+   "src_start": 1240.04,
+   "src_end": 1242.04,
+   "en": [
+    "person to get to the Gucci store."
+   ],
+   "en_unmasked": "person to get to the Gucci store.",
+   "jp": [
+    "ホームレスをまたいで",
+    "歩くんだから"
+   ],
+   "start": 33.79329166666662,
+   "end": 36.29329166666662
+  },
+  {
+   "line_id": "Clip_01_L008",
+   "src_start": 1242.96,
+   "src_end": 1246.8,
+   "en": [
+    "Ray Kurzweil said a utopia",
+    "is possible where we're"
+   ],
+   "en_unmasked": "Ray Kurzweil said a utopia is possible where we're",
+   "jp": [
+    "Ray Kurzweilは　最も高潔じゃなく",
+    "最も強欲な連中に"
+   ],
+   "start": 36.71329166666669,
+   "end": 40.53329166666661
+  },
+  {
+   "line_id": "Clip_01_L008",
+   "src_start": 1246.8,
+   "src_end": 1249.8,
+   "en": [
+    "led by the least noble",
+    "and the greediest people."
+   ],
+   "en_unmasked": "led by the least noble and the greediest people.",
+   "jp": [
+    "率いられたユートピアが",
+    "あり得るって言ってた"
+   ],
+   "start": 40.55329166666661,
+   "end": 43.53329166666661
+  },
+  {
+   "line_id": "Clip_01_L009",
+   "src_start": 1249.8,
+   "src_end": 1253.9,
+   "en": [
+    "I brought the head",
+    "designer of Balenciaga,"
+   ],
+   "en_unmasked": "I brought the head designer of Balenciaga,",
+   "jp": [
+    "俺はBalenciagaの",
+    "ヘッドデザイナーを連れてきた"
+   ],
+   "start": 43.55329166666661,
+   "end": 47.63329166666674
+  },
+  {
+   "line_id": "Clip_01_L009",
+   "src_start": 1253.9,
+   "src_end": 1257.72,
+   "en": [
+    "the greatest designer on",
+    "our planet today, Demna."
+   ],
+   "en_unmasked": "the greatest designer on our planet today, Demna.",
+   "jp": [
+    "今この星で最高のデザイナー",
+    "Demnaだ"
+   ],
+   "start": 47.653291666666746,
+   "end": 51.81329166666658
+  },
+  {
+   "line_id": "Clip_01_L010",
+   "src_start": 1258.08,
+   "src_end": 1262.04,
+   "en": [
+    "Demna is the Ye of clothing."
+   ],
+   "en_unmasked": "Demna is the Ye of clothing.",
+   "jp": [
+    "Demnaは",
+    "服の世界のYeだ"
+   ],
+   "start": 51.83329166666658,
+   "end": 55.83329166666656
+  },
+  {
+   "line_id": "Clip_01_L011",
+   "src_start": 1262.1,
+   "src_end": 1265.02,
+   "en": [
+    "Demna is the Drake of clothing."
+   ],
+   "en_unmasked": "Demna is the Drake of clothing.",
+   "jp": [
+    "Demnaは",
+    "服の世界のDrakeだ"
+   ],
+   "start": 55.853291666666564,
+   "end": 59.273291666666616
+  },
+  {
+   "line_id": "Clip_01_L012",
+   "src_start": 1265.54,
+   "src_end": 1269.7,
+   "en": [
+    "Drake is the greatest rapper ever."
+   ],
+   "en_unmasked": "Drake is the greatest rapper ever.",
+   "jp": [
+    "Drakeは",
+    "史上最高のラッパーだよ"
+   ],
+   "start": 59.29329166666662,
+   "end": 63.9532916666667
+  }
+ ]
+}

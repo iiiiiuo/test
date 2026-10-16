@@ -1,0 +1,162 @@
+{
+ "clip": "Clip_15",
+ "candidate": "C14",
+ "title": "The 'get p*ssy toe' Adidas pitch",
+ "source": {
+  "id": "part_4",
+  "path": "/mnt/project-files/part_4.mp4",
+  "sha256": "bfebda410366b9cea5c1dd53bf3cd166994e7fc7a92b128d0d49925b727b344e",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 0,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 27407,
+   "end_frame_excl": 29371,
+   "start_pts": 27434407,
+   "end_pts_excl": 29400371,
+   "start_s": 1143.100292,
+   "end_s": 1225.015458
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 54868814,
+   "end_sample_48k_excl": 58800742,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 27407,
+   "end_frame_excl": 27559,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 424,
+    "y": 0
+   },
+   "basis": "face cx=984 cy=426 w=368 n=3/9"
+  },
+  {
+   "start_frame": 27559,
+   "end_frame_excl": 27635,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 346,
+    "y": 0
+   },
+   "basis": "face cx=905 cy=331 w=405 n=12/12"
+  },
+  {
+   "start_frame": 27635,
+   "end_frame_excl": 27853,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 255,
+    "y": 0
+   },
+   "basis": "face cx=814 cy=390 w=357 n=6/10"
+  },
+  {
+   "start_frame": 27853,
+   "end_frame_excl": 27925,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 363,
+    "y": 0
+   },
+   "basis": "face cx=922 cy=332 w=423 n=12/12"
+  },
+  {
+   "start_frame": 27925,
+   "end_frame_excl": 28008,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 238,
+    "y": 0
+   },
+   "basis": "face cx=797 cy=409 w=346 n=6/7"
+  },
+  {
+   "start_frame": 28008,
+   "end_frame_excl": 28157,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 376,
+    "y": 0
+   },
+   "basis": "face cx=936 cy=330 w=438 n=7/8"
+  },
+  {
+   "start_frame": 28157,
+   "end_frame_excl": 29120,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 252,
+    "y": 0
+   },
+   "basis": "face cx=812 cy=380 w=369 n=6/12"
+  },
+  {
+   "start_frame": 29120,
+   "end_frame_excl": 29139,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 450,
+    "y": 0
+   },
+   "basis": "face cx=1010 cy=350 w=345 n=2/3"
+  },
+  {
+   "start_frame": 29139,
+   "end_frame_excl": 29168,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 366,
+    "y": 0
+   },
+   "basis": "face cx=925 cy=306 w=400 n=5/5"
+  },
+  {
+   "start_frame": 29168,
+   "end_frame_excl": 29371,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 332,
+    "y": 104
+   },
+   "basis": "face cx=798 cy=374 w=276 n=6/12"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_15/subtitles.ass",
+  "sha256": "fe937f36f7edc05fd4d1aac3bfb9bb95efbfb3ef56c712cbd23072a464a3aa34"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_15/render.mp4",
+  "sha256": "ffadef6f9958ebafa2b60ca6e625d0dff3d0a28b9c12a5f5a987900c802afb82"
+ }
+}

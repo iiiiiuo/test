@@ -1,0 +1,479 @@
+{
+ "clip": "Clip_11",
+ "total_s": 85.91916666666668,
+ "segments": [
+  [
+   884.884,
+   970.8031666666667,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_11_L001",
+   "src_start": 884.85,
+   "src_end": 889.61,
+   "en": [
+    "Like Moses had four chapters, like",
+    "I have. Contrary to popular belief,"
+   ],
+   "en_unmasked": "Like Moses had four chapters, like I have. Contrary to popular belief,",
+   "jp": [
+    "モーゼに4つの章があったように",
+    "俺にもある"
+   ],
+   "start": 0.0,
+   "end": 4.7059999999999995
+  },
+  {
+   "line_id": "Clip_11_L001",
+   "src_start": 889.61,
+   "src_end": 892.49,
+   "en": [
+    "I did read the four",
+    "chapters of Moses, right?"
+   ],
+   "en_unmasked": "I did read the four chapters of Moses, right?",
+   "jp": [
+    "意外かもしれないけど",
+    "モーゼの4章は読んだぜ"
+   ],
+   "start": 4.725999999999999,
+   "end": 7.666000000000036
+  },
+  {
+   "line_id": "Clip_11_L002",
+   "src_start": 892.57,
+   "src_end": 893.55,
+   "en": [
+    "You say you ain't read something?"
+   ],
+   "en_unmasked": "You say you ain't read something?",
+   "jp": [
+    "何か読んでないって",
+    "言ってたよな？"
+   ],
+   "start": 7.6860000000000355,
+   "end": 8.946000000000009
+  },
+  {
+   "line_id": "Clip_11_L003",
+   "src_start": 893.85,
+   "src_end": 897.13,
+   "en": [
+    "No, what I'm saying, yeah, I've",
+    "never actually finished a novel."
+   ],
+   "en_unmasked": "No, what I'm saying, yeah, I've never actually finished a novel.",
+   "jp": [
+    "そう、つまり　小説を最後まで",
+    "読んだことは一度もない"
+   ],
+   "start": 8.966000000000008,
+   "end": 12.225999999999981
+  },
+  {
+   "line_id": "Clip_11_L004",
+   "src_start": 897.13,
+   "src_end": 899.51,
+   "en": [
+    "Right. That's fantastic. I respect that."
+   ],
+   "en_unmasked": "Right. That's fantastic. I respect that.",
+   "jp": [
+    "なるほど　最高じゃん　リスペクトするわ"
+   ],
+   "start": 12.245999999999981,
+   "end": 14.605999999999977
+  },
+  {
+   "line_id": "Clip_11_L005",
+   "src_start": 899.51,
+   "src_end": 901.19,
+   "en": [
+    "Yeah, because by the way, you know,"
+   ],
+   "en_unmasked": "Yeah, because by the way, you know,",
+   "jp": [
+    "それにさ"
+   ],
+   "start": 14.625999999999976,
+   "end": 16.28600000000004
+  },
+  {
+   "line_id": "Clip_11_L005",
+   "src_start": 901.19,
+   "src_end": 904.41,
+   "en": [
+    "one thing is that there's nothing",
+    "whiter than English itself."
+   ],
+   "en_unmasked": "one thing is that there's nothing whiter than English itself.",
+   "jp": [
+    "英語ほど白人的なものは",
+    "ないからな"
+   ],
+   "start": 16.30600000000004,
+   "end": 19.505999999999954
+  },
+  {
+   "line_id": "Clip_11_L006",
+   "src_start": 904.41,
+   "src_end": 910.03,
+   "en": [
+    "I do not like to read, like",
+    "I do not like to work out,"
+   ],
+   "en_unmasked": "I do not like to read, like I do not like to work out,",
+   "jp": [
+    "読むのは好きじゃない"
+   ],
+   "start": 19.525999999999954,
+   "end": 25.12599999999996
+  },
+  {
+   "line_id": "Clip_11_L006",
+   "src_start": 910.03,
+   "src_end": 911.69,
+   "en": [
+    "like I do not like, you know..."
+   ],
+   "en_unmasked": "like I do not like, you know...",
+   "jp": [
+    "筋トレも好きじゃないのと同じで"
+   ],
+   "start": 25.145999999999958,
+   "end": 27.105999999999977
+  },
+  {
+   "line_id": "Clip_11_L006",
+   "src_start": 912.01,
+   "src_end": 918.28,
+   "en": [
+    "there's certain stuff in life that is",
+    "currently necessary that I don't like."
+   ],
+   "en_unmasked": "there's certain stuff in life that is currently necessary that I don't like.",
+   "jp": [
+    "人生には必要だけど",
+    "好きじゃないことってあるだろ"
+   ],
+   "start": 27.125999999999976,
+   "end": 33.375999999999955
+  },
+  {
+   "line_id": "Clip_11_L007",
+   "src_start": 918.28,
+   "src_end": 923.02,
+   "en": [
+    "That don't make... I'm",
+    "not disregarding people."
+   ],
+   "en_unmasked": "That don't make... I'm not disregarding people.",
+   "jp": [
+    "だからって",
+    "人を軽く見てるわけじゃない"
+   ],
+   "start": 33.39599999999996,
+   "end": 38.115999999999964
+  },
+  {
+   "line_id": "Clip_11_L008",
+   "src_start": 923.02,
+   "src_end": 923.96,
+   "en": [
+    "Some people are more..."
+   ],
+   "en_unmasked": "Some people are more...",
+   "jp": [
+    "得意不得意があるんだよ"
+   ],
+   "start": 38.13599999999997,
+   "end": 39.05600000000002
+  },
+  {
+   "line_id": "Clip_11_L008",
+   "src_start": 923.96,
+   "src_end": 926.14,
+   "en": [
+    "How many people do",
+    "you know that can"
+   ],
+   "en_unmasked": "How many people do you know that can",
+   "jp": [
+    "本はよく読めるけど"
+   ],
+   "start": 39.07600000000002,
+   "end": 41.23599999999997
+  },
+  {
+   "line_id": "Clip_11_L008",
+   "src_start": 926.14,
+   "src_end": 928.76,
+   "en": [
+    "read very well that",
+    "can't dance very well?"
+   ],
+   "en_unmasked": "read very well that can't dance very well?",
+   "jp": [
+    "ダンスはダメな奴って",
+    "どれだけいる？"
+   ],
+   "start": 41.25599999999997,
+   "end": 43.85599999999997
+  },
+  {
+   "line_id": "Clip_11_L009",
+   "src_start": 928.76,
+   "src_end": 929.4000000000001,
+   "en": [
+    "But see, look"
+   ],
+   "en_unmasked": "But see, look",
+   "jp": [
+    "でもさ"
+   ],
+   "start": 43.875999999999976,
+   "end": 44.59599999999998
+  },
+  {
+   "line_id": "Clip_11_L009",
+   "src_start": 929.5,
+   "src_end": 930.58,
+   "en": [
+    "talking about articulation"
+   ],
+   "en_unmasked": "talking about articulation",
+   "jp": [
+    "言葉の話で言うと"
+   ],
+   "start": 44.615999999999985,
+   "end": 45.67600000000002
+  },
+  {
+   "line_id": "Clip_11_L009",
+   "src_start": 930.58,
+   "src_end": 934.0,
+   "en": [
+    "could it be said that",
+    "it's misunderstood that"
+   ],
+   "en_unmasked": "could it be said that it's misunderstood that",
+   "jp": [
+    "「読書＝知識」っていうのは"
+   ],
+   "start": 45.696000000000026,
+   "end": 49.09599999999998
+  },
+  {
+   "line_id": "Clip_11_L009",
+   "src_start": 934.0,
+   "src_end": 937.49,
+   "en": [
+    "reading equals knowledge?",
+    "That's another thing."
+   ],
+   "en_unmasked": "reading equals knowledge? That's another thing.",
+   "jp": [
+    "誤解だとも言えるよな"
+   ],
+   "start": 49.115999999999985,
+   "end": 52.58599999999999
+  },
+  {
+   "line_id": "Clip_11_L010",
+   "src_start": 937.49,
+   "src_end": 941.03,
+   "en": [
+    "Because you don't have to read",
+    "books to really have knowledge."
+   ],
+   "en_unmasked": "Because you don't have to read books to really have knowledge.",
+   "jp": [
+    "本を読まなくても",
+    "知識は持てるからな"
+   ],
+   "start": 52.605999999999995,
+   "end": 56.38600000000006
+  },
+  {
+   "line_id": "Clip_11_L011",
+   "src_start": 941.2900000000001,
+   "src_end": 942.01,
+   "en": [
+    "That's right."
+   ],
+   "en_unmasked": "That's right.",
+   "jp": [
+    "その通り"
+   ],
+   "start": 56.40600000000006,
+   "end": 57.10599999999997
+  },
+  {
+   "line_id": "Clip_11_L012",
+   "src_start": 942.01,
+   "src_end": 947.5600000000001,
+   "en": [
+    "And if... and the",
+    "information isn't there..."
+   ],
+   "en_unmasked": "And if... and the information isn't there...",
+   "jp": [
+    "それに",
+    "情報がそこにない時"
+   ],
+   "start": 57.125999999999976,
+   "end": 63.24599999999996
+  },
+  {
+   "line_id": "Clip_11_L012",
+   "src_start": 948.15,
+   "src_end": 951.39,
+   "en": [
+    "You know where the information,",
+    "the knowledge is from?"
+   ],
+   "en_unmasked": "You know where the information, the knowledge is from?",
+   "jp": [
+    "知識がどこから来るか",
+    "わかるか？"
+   ],
+   "start": 63.26599999999996,
+   "end": 66.48599999999998
+  },
+  {
+   "line_id": "Clip_11_L013",
+   "src_start": 951.39,
+   "src_end": 954.15,
+   "en": [
+    "The knowledge is",
+    "from the two fathers."
+   ],
+   "en_unmasked": "The knowledge is from the two fathers.",
+   "jp": [
+    "知識は",
+    "二人の父から来るんだ"
+   ],
+   "start": 66.50599999999997,
+   "end": 69.24599999999997
+  },
+  {
+   "line_id": "Clip_11_L014",
+   "src_start": 954.15,
+   "src_end": 955.25,
+   "en": [
+    "Who are the two fathers?"
+   ],
+   "en_unmasked": "Who are the two fathers?",
+   "jp": [
+    "二人の父って誰？"
+   ],
+   "start": 69.26599999999996,
+   "end": 70.34599999999999
+  },
+  {
+   "line_id": "Clip_11_L015",
+   "src_start": 955.25,
+   "src_end": 956.75,
+   "en": [
+    "You tell us."
+   ],
+   "en_unmasked": "You tell us.",
+   "jp": [
+    "教えてくれよ"
+   ],
+   "start": 70.36599999999999,
+   "end": 71.84599999999999
+  },
+  {
+   "line_id": "Clip_11_L016",
+   "src_start": 956.75,
+   "src_end": 958.5500000000001,
+   "en": [
+    "Your father and the Father above."
+   ],
+   "en_unmasked": "Your father and the Father above.",
+   "jp": [
+    "自分の父親と"
+   ],
+   "start": 71.86599999999999,
+   "end": 73.86599999999997
+  },
+  {
+   "line_id": "Clip_11_L016",
+   "src_start": 958.77,
+   "src_end": 960.89,
+   "en": [
+    "Your father and the Father above."
+   ],
+   "en_unmasked": "Your father and the Father above.",
+   "jp": [
+    "天にいる父だよ"
+   ],
+   "start": 73.88599999999997,
+   "end": 76.50599999999997
+  },
+  {
+   "line_id": "Clip_11_L017",
+   "src_start": 961.81,
+   "src_end": 965.11,
+   "en": [
+    "Now what, now what has",
+    "happened to the black community?"
+   ],
+   "en_unmasked": "Now what, now what has happened to the black community?",
+   "jp": [
+    "じゃあ黒人社会に",
+    "何が起きたか？"
+   ],
+   "start": 76.92599999999993,
+   "end": 80.206
+  },
+  {
+   "line_id": "Clip_11_L017",
+   "src_start": 965.11,
+   "src_end": 966.63,
+   "en": [
+    "They erased the father."
+   ],
+   "en_unmasked": "They erased the father.",
+   "jp": [
+    "父親を消されたんだよ"
+   ],
+   "start": 80.226,
+   "end": 81.72599999999998
+  },
+  {
+   "line_id": "Clip_11_L018",
+   "src_start": 966.63,
+   "src_end": 968.81,
+   "en": [
+    "So all you have is the Father above,"
+   ],
+   "en_unmasked": "So all you have is the Father above,",
+   "jp": [
+    "だから残ってるのは",
+    "天の父だけ"
+   ],
+   "start": 81.74599999999998,
+   "end": 83.90599999999993
+  },
+  {
+   "line_id": "Clip_11_L018",
+   "src_start": 968.81,
+   "src_end": 970.67,
+   "en": [
+    "but they've erased that, even that."
+   ],
+   "en_unmasked": "but they've erased that, even that.",
+   "jp": [
+    "でもそれすら",
+    "消されてきた"
+   ],
+   "start": 83.92599999999993,
+   "end": 85.89916666666669
+  }
+ ]
+}

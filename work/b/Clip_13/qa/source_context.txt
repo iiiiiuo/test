@@ -1,0 +1,39 @@
+# Clip_13 source context (part_3.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1395.45-1474.31s (frames 33458-35348)
+    1375.54- 1376.02 It's a possibility.
+    1376.68- 1378.34 Yeah, yeah, yeah, yeah, yeah, yeah.
+    1381.30- 1381.64 Okay.
+    1382.96- 1383.60 Holy shit.
+    1383.78- 1386.14 This game, it's like, what's cool is it,
+    1386.16- 1388.24 I can speak up on it, like it sparks like,
+    1390.02- 1392.14 where bought me a red, you know what I'm saying,
+    1392.24- 1394.10 where like the lies hit me.
+    1394.44- 1395.04 Yeah, yeah.
+>>  1395.74- 1398.38 I always thought like, you know what I'm saying?
+>>  1398.52- 1402.22 It's like, I always thought, when I would speak to rap,
+>>  1402.22- 1407.42 Like somebody like Pimp C always made me like feel like for me is like the pink polo rapper
+>>  1407.42- 1411.00 I always felt like less of myself, so I get on the phone with them or something
+>>  1411.00- 1416.22 You know they could they did it almost like everything they rapped about was like dissing everything that I ever did
+>>  1416.22- 1421.10 You know I'm saying like they was like very not tight jeans very not close
+>>  1421.10- 1424.12 You know I'm saying, but I remember Pimp C had a conversation like man
+>>  1424.12- 1426.92 I like the way you had your vocals turned up so they could
+>>  1426.92- 1432.30 You know, so they can hear what you saying, you know what I'm saying, you got your vocals turned up.
+>>  1432.78- 1443.80 That's a very big thing, you know, like it was a guy that came to one of my 60,000 square foot spaces and he was in the band of Strokes.
+>>  1443.86- 1451.12 He's in the band of Strokes and I remember they had this song where their vocals were low and I wanted to make my vocals low on All Falls Down.
+>>  1451.24- 1454.52 It didn't work for me. I had to speak up, you know what I'm saying?
+>>  1454.52- 1455.66 and they canceled me this week.
+>>  1456.06- 1457.66 There's no, not Tucker Carlson,
+>>  1457.84- 1460.64 no platform would carry me this week either.
+>>  1461.14- 1464.70 And even a publicist that I'm working with was like,
+>>  1465.51- 1467.89 I don't know why you would go on drink channel.
+>>  1467.99- 1470.15 I said, you understand that our numbers
+>>  1470.15- 1473.37 did three times the numbers of when Kim was on SNL, right?
+>>  1473.55- 1474.43 You understand that, right?
+    1481.62- 1483.72 Everyone, they ain't wanna clap for that.
+    1484.62- 1486.72 We just wanted to make sure his ways was right.
+    1486.72- 1488.60 like knowing he ain't had ways in 20 years.
+    1489.96- 1491.60 He's supposed to do this, you know what I mean?
+    1492.00- 1493.14 But go ahead, goddammit.
+    1493.16- 1493.62 And we won the war.
+    1493.78- 1496.16 Yes, and we won the war for you.

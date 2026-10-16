@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right? We get on our jealousy stuff,
+Dialogue: 0,0:00:00.00,0:00:03.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺らも嫉妬するわけよ
+Dialogue: 0,0:00:03.44,0:00:05.63,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, you know what I'm saying,
+Dialogue: 0,0:00:03.44,0:00:05.63,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかるだろ
+Dialogue: 0,0:00:05.65,0:00:10.72,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'll be having, like, 12 writers in the
+Dialogue: 0,0:00:05.65,0:00:10.72,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}studio that don't add up to Drake,
+Dialogue: 0,0:00:05.65,0:00:10.72,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スタジオに12人ライターがいても
+Dialogue: 0,0:00:05.65,0:00:10.72,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}Drake一人に及ばない
+Dialogue: 0,0:00:11.19,0:00:12.86,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}God's version, and be
+Dialogue: 0,0:00:11.19,0:00:12.86,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}like, oh, Drake just...
+Dialogue: 0,0:00:11.19,0:00:12.86,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}神バージョンのDrakeには
+Dialogue: 0,0:00:11.19,0:00:12.86,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「Drakeって…」ってなる
+Dialogue: 0,0:00:12.88,0:00:14.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's why I was
+Dialogue: 0,0:00:12.88,0:00:14.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}interested when he heard
+Dialogue: 0,0:00:12.88,0:00:14.55,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから『30 Hours』を
+Dialogue: 0,0:00:12.88,0:00:14.55,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}あいつが聴いた時
+Dialogue: 0,0:00:14.57,0:00:17.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}'30 Hours,' because
+Dialogue: 0,0:00:14.57,0:00:17.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Drake wrote that for me.
+Dialogue: 0,0:00:14.57,0:00:17.29,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}気になったんだよ　あれはDrakeが
+Dialogue: 0,0:00:14.57,0:00:17.29,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}書いてくれたから
+Dialogue: 0,0:00:17.31,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, I'm like, boom, here, I got, like,
+Dialogue: 0,0:00:17.31,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺は「ほら、アイデアは
+Dialogue: 0,0:00:17.31,0:00:18.96,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}こんなにあるぜ」って
+Dialogue: 0,0:00:18.98,0:00:20.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}this many ideas, like the line I had.
+Dialogue: 0,0:00:18.98,0:00:20.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}例えば俺が考えた
+Dialogue: 0,0:00:18.98,0:00:20.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ラインがあって
+Dialogue: 0,0:00:20.54,0:00:21.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I had, like,
+Dialogue: 0,0:00:20.54,0:00:21.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「Victoria's Secretの
+Dialogue: 0,0:00:23.89,0:00:27.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I was nervous to do the
+Dialogue: 0,0:00:23.89,0:00:27.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Victoria's Secret show
+Dialogue: 0,0:00:23.89,0:00:27.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ショーは緊張したけど
+Dialogue: 0,0:00:27.68,0:00:30.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}until I pictured everybody
+Dialogue: 0,0:00:27.68,0:00:30.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with no clothes.
+Dialogue: 0,0:00:27.68,0:00:30.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}みんな裸だと思ったら
+Dialogue: 0,0:00:27.68,0:00:30.19,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}平気だった」ってやつ
+Dialogue: 0,0:00:30.58,0:00:34.41,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Right? Was like a line I had.
+Dialogue: 0,0:00:30.58,0:00:34.41,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}And like, it's like a stripper line.
+Dialogue: 0,0:00:30.58,0:00:34.41,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういうラインだよ
+Dialogue: 0,0:00:30.58,0:00:34.41,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}まあストリッパーっぽい　ラインだけどな
+Dialogue: 0,0:00:34.43,0:00:35.99,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, yeah, but you
+Dialogue: 0,0:00:34.43,0:00:35.99,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}don't think about it.
+Dialogue: 0,0:00:34.43,0:00:35.99,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そうそう
+Dialogue: 0,0:00:34.43,0:00:35.99,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}でも普通は思いつかないよな
+Dialogue: 0,0:00:36.01,0:00:38.51,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, you could be nervous
+Dialogue: 0,0:00:36.01,0:00:38.51,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to do, like, a speech,
+Dialogue: 0,0:00:36.01,0:00:38.51,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}スピーチで緊張したら
+Dialogue: 0,0:00:38.53,0:00:40.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and they say what they say:
+Dialogue: 0,0:00:38.53,0:00:40.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}picture everybody naked.
+Dialogue: 0,0:00:38.53,0:00:40.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「みんな裸だと思え」って
+Dialogue: 0,0:00:38.53,0:00:40.65,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}よく言うだろ
+Dialogue: 0,0:00:40.67,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So we flipped it, like,
+Dialogue: 0,0:00:40.67,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I was nervous to do
+Dialogue: 0,0:00:40.67,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それをひっくり返して
+Dialogue: 0,0:00:40.67,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}「Victoria's Secretで
+Dialogue: 0,0:00:43.19,0:00:45.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Victoria's Secret until I
+Dialogue: 0,0:00:43.19,0:00:45.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}pictured everybody naked,
+Dialogue: 0,0:00:43.19,0:00:45.88,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}緊張したけど
+Dialogue: 0,0:00:43.19,0:00:45.88,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}みんな裸だと思ったら…」
+Dialogue: 0,0:00:45.90,0:00:47.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and I sent it to Drake,
+Dialogue: 0,0:00:45.90,0:00:47.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ってのをDrakeに送ったら
+Dialogue: 0,0:00:47.07,0:00:51.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and Drake took it and barred it
+Dialogue: 0,0:00:47.07,0:00:51.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}out and wrote the whole rap.
+Dialogue: 0,0:00:47.07,0:00:51.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Drakeがそれを　バースに仕上げて
+Dialogue: 0,0:00:47.07,0:00:51.68,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ラップ全部書いたんだよ
+Dialogue: 0,0:00:51.70,0:00:53.05,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You understand, like,
+Dialogue: 0,0:00:51.70,0:00:53.05,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Drakeが俺のラップ
+Dialogue: 0,0:00:53.07,0:00:55.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}how much easier my life
+Dialogue: 0,0:00:53.07,0:00:55.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}would be if Drake would just,
+Dialogue: 0,0:00:53.07,0:00:55.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}全部書いてくれたら
+Dialogue: 0,0:00:55.92,0:00:58.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}like, write my raps for me?
+Dialogue: 0,0:00:55.92,0:00:58.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}You know what I'm saying?
+Dialogue: 0,0:00:55.92,0:00:58.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どんだけ楽か
+Dialogue: 0,0:00:55.92,0:00:58.20,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかる？
+Dialogue: 0,0:00:58.22,0:01:00.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm sure everyone wished
+Dialogue: 0,0:00:58.22,0:01:00.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}they had that luxury, but...
+Dialogue: 0,0:00:58.22,0:01:00.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}誰だって
+Dialogue: 0,0:00:58.22,0:01:00.76,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}そんな贅沢したいわな

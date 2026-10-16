@@ -1,0 +1,37 @@
+# Clip_16 source context (part_4.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1820.60-1885.17s (frames 43651-45199)
+    1799.94- 1800.90 Right, right, right.
+    1801.04- 1801.90 That's nothing wrong with that.
+    1803.96- 1805.22 Definitely nothing wrong with that.
+    1805.72- 1808.50 We don't want to shit on Kim over here.
+    1808.50- 1809.78 We like Kim over here.
+    1810.28- 1814.04 My thing is, you know, I love Kim.
+    1814.16- 1816.24 I would take Kim over anyone, right?
+    1816.24- 1817.12 Let me get the blunt back.
+    1817.74- 1818.18 Yeah.
+    1819.32- 1820.22 Let's move on there.
+>>  1820.76- 1821.28 Can I continue?
+>>  1821.88- 1826.80 Yeah, but I feel like, you know what I'm saying?
+>>  1827.54- 1829.96 When I was having this funny thing with the issues
+>>  1829.96- 1831.50 with, like, Puff I was having.
+>>  1831.66- 1832.02 Thank you.
+>>  1832.06- 1835.06 I went to the Waldorf and I saw a couple of people.
+>>  1835.84- 1836.54 Waldorf where?
+>>  1836.74- 1837.48 Because I visited.
+>>  1837.48- 1842.46 the wall of golf in uh california i love it and i saw a couple people just standing out in front of
+>>  1842.46- 1848.19 the in front of the space just standing there and i was like oh man puff really does this
+>>  1848.73- 1853.61 right and it just made me think i gotta really get on my billionaire so i went and bought a
+>>  1853.61- 1859.13 50 million dollar uh penthouse and i made back the fleet out because i was like yo i'm not
+>>  1859.13- 1863.87 gonna i can't be walking around homeless like beefing with puff you gotta like
+>>  1863.87- 1868.03 you know what i mean i don't think that would have been an issue
+>>  1869.43- 1875.37 so what i really did get out of it is the like puff like stay rich never gonna you know i'm saying
+>>  1875.37- 1880.53 you never seen this man in no vans you know what i'm saying this thing is just keeping rich he's
+>>  1880.53- 1884.99 good he wasn't rich at all times he was like this he was doing the puppy dance you remember
+    1885.63- 1892.03 puff is my idol bro yeah that's why i said i was like yo i know how virgil feels now
+    1892.03- 1894.35 on the times when I scream at Virgil,
+    1894.47- 1896.73 especially if I scream at Virgil in front of somebody.
+    1897.19- 1897.95 You know what I'm saying?
+    1898.19- 1900.13 Well, for Puff to call me and say anybody
+    1900.65- 1903.67 with a White Lives Matter t-shirt is getting greenlit,
+    1903.89- 1906.27 I know how Virgil felt at that moment

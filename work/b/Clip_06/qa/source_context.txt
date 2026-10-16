@@ -1,0 +1,58 @@
+# Clip_06 source context (part_2 2.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1105.80-1111.80s (frames 26512-26656)
+    1085.08- 1087.84 We'll give you two choices you pick one you pick one
+    1088.48- 1091.86 Well, I don't pick one. We don't drinking, but we drink what you?
+    1092.40- 1097.34 Okay, can you imagine when Jay-Z and Beyonce support me and 24?
+    1097.58- 1101.94 Yeah, there'd be no way to lose in 2024 be no way to lose when we come together
+    1103.00- 1105.02 All right, all right, man, you ready?
+    1105.34- 1105.44 Yeah.
+>>  1106.08- 1107.44 Cool G rap or big pun?
+>>  1109.65- 1110.31 I like boof.
+>>  1111.32- 1111.80 Take a shot.
+    1113.60- 1114.40 Salud, salud.
+    1115.70- 1117.36 Hey, man, because, you know, the thing is,
+    1118.40- 1118.76 Jay Electronics.
+    1118.76- 1120.20 Take a shot, you're going to get away with that.
+    1120.72- 1121.46 This is drink, check, Jay.
+    1121.46- 1122.58 You drink, you drink, you drink.
+    1122.78- 1123.56 You drink, you drink, you drink.
+    1123.72- 1124.10 It's delicious.
+    1125.56- 1127.38 Did I mention that this duce thing
+    1128.66- 1130.06 goes good after a workout?
+    1131.65- 1133.35 I ain't going to lie, you like your car, yeah.
+
+## interval 1147.60-1216.76s (frames 27514-29172)
+    1128.66- 1130.06 goes good after a workout?
+    1131.65- 1133.35 I ain't going to lie, you like your car, yeah.
+    1133.55- 1134.39 You like your car, yeah.
+    1134.47- 1135.01 Yeah, that's my thing.
+    1135.01- 1139.45 and tequila sometimes it's kind of like my name a little bit my older name wait he was
+    1140.57- 1145.13 no but you know jay electronica hit me he's like yo i actually wrote with nas before
+    1145.13- 1149.53 you know say when i said no i was over jay electronica so you know god said for us in
+>>  1149.53- 1155.43 that compare each other amongst ourselves so when i compare the greatness of coogee rap and the
+>>  1155.43- 1161.37 greatness of uh big pun which was inspired by coogee rap yeah then then it's not godly
+>>  1161.37- 1162.51 You know what I'm saying?
+>>  1162.61- 1164.61 I know Ross said God forgives, I don't.
+>>  1164.75- 1166.29 You know, I'm forgiven.
+>>  1166.77- 1168.09 I forgive everybody.
+>>  1168.51- 1170.25 I forgive the Clintons.
+>>  1170.51- 1174.19 I forgive John Legend for wearing them bum-ass sweaters.
+>>  1176.25- 1177.37 I forgive...
+>>  1177.37- 1178.75 Well, I forgive him.
+>>  1179.27- 1180.25 He's forgiven.
+>>  1184.09- 1185.67 Big Sean, forgive him.
+>>  1185.67- 1186.77 May they all be forgiven?
+>>  1189.34- 1190.46 I forgive...
+>>  1190.46- 1191.04 Big Sean?
+>>  1191.04- 1195.82 I forgive Big Sean for not being there and make the choice between braids or a beard.
+>>  1196.10- 1196.78 Choose one.
+>>  1198.22- 1199.34 I forgive...
+>>  1204.24- 1209.26 Who else is you again? That's it?
+>>  1210.21- 1212.63 Everybody. Everybody I ever... You know what I'm saying?
+>>  1212.73- 1214.87 I forgive everyone. I forgive Bob Iger.
+>>  1215.11- 1216.75 I forgive the left party.
+    1216.75- 1224.49 i forget i forgive the jewish media for creating the ye's uh crazy narrative and you know uh
+    1224.49- 1230.45 buying up the black voice and bullying us and and creating a mob culture to scare people that
+    1230.45- 1235.57 anytime they bring up that a contract was wrong is labeled anti-semite as a way to
+    1235.57- 1242.66 disable people from their truth i forgive the jewish culture for that all right next

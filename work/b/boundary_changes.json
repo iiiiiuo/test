@@ -1,0 +1,381 @@
+[
+ {
+  "clip": "Clip_01",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1270.25,
+   1270.7
+  ],
+  "cut_s": 1270.35,
+  "cut_rms_dbfs": -30.9,
+  "frame": 30458,
+  "old_frames": [
+   28860,
+   30445
+  ],
+  "reason": "last word 'ever' was cut"
+ },
+ {
+  "clip": "Clip_02",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1592.47,
+   1592.74
+  ],
+  "cut_s": 1592.635,
+  "cut_rms_dbfs": -18.5,
+  "frame": 38185,
+  "old_frames": [
+   38183,
+   38372
+  ],
+  "reason": "start inside tail of 'one time.'; large-v3 span re-check: '...Jared one time. Yeah, it's so funny'"
+ },
+ {
+  "clip": "Clip_02",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1598.5,
+   1599.9
+  ],
+  "cut_s": 1598.93,
+  "cut_rms_dbfs": -34.0,
+  "frame": 38336,
+  "old_frames": [
+   38185,
+   38372
+  ],
+  "reason": "excluded next sentence 'And 80%' started inside"
+ },
+ {
+  "clip": "Clip_03",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1749.0,
+   1749.15
+  ],
+  "cut_s": 1749.14,
+  "cut_rms_dbfs": -15.2,
+  "frame": 41937,
+  "old_frames": [
+   41937,
+   42227
+  ],
+  "reason": "start inside repeated \"so so\""
+ },
+ {
+  "clip": "Clip_03",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1853.3,
+   1853.95
+  ],
+  "cut_s": 1853.64,
+  "cut_rms_dbfs": -25.3,
+  "frame": 44443,
+  "old_frames": [
+   43073,
+   44531
+  ],
+  "reason": "critic: last line L015 (LOW) not heard as written ('Oh, s**t. Don't have ... Google maps'); end after 'That's crazy.'"
+ },
+ {
+  "clip": "Clip_05",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   706.43,
+   706.74
+  ],
+  "cut_s": 706.705,
+  "cut_rms_dbfs": -25.0,
+  "frame": 16943,
+  "old_frames": [
+   15371,
+   16929
+  ],
+  "reason": "host 'put it.' was cut"
+ },
+ {
+  "clip": "Clip_06",
+  "interval": 1,
+  "kind": "end",
+  "window": [
+   1216.6,
+   1216.8
+  ],
+  "cut_s": 1216.77,
+  "cut_rms_dbfs": -16.9,
+  "frame": 29172,
+  "old_frames": [
+   27514,
+   29171
+  ],
+  "reason": "next 'I forgive' started at boundary"
+ },
+ {
+  "clip": "Clip_08",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1752.15,
+   1752.35
+  ],
+  "cut_s": 1752.285,
+  "cut_rms_dbfs": -26.2,
+  "frame": 42012,
+  "old_frames": [
+   42010,
+   43950
+  ],
+  "reason": "previous word 'people' tail"
+ },
+ {
+  "clip": "Clip_08",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1832.98,
+   1833.2
+  ],
+  "cut_s": 1832.99,
+  "cut_rms_dbfs": -24.6,
+  "frame": 43947,
+  "old_frames": [
+   42012,
+   43950
+  ],
+  "reason": "'together' / next 'You know'"
+ },
+ {
+  "clip": "Clip_09",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   247.1,
+   247.32
+  ],
+  "cut_s": 247.125,
+  "cut_rms_dbfs": -18.7,
+  "frame": 5925,
+  "old_frames": [
+   4371,
+   5949
+  ],
+  "reason": "critic: ended on dangling 'But it's funny,' (next words 'he overlooked that easily' not in approved lines); end after 'got a couple hundred thousand back.'"
+ },
+ {
+  "clip": "Clip_11",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   970.7,
+   970.84
+  ],
+  "cut_s": 970.785,
+  "cut_rms_dbfs": -15.7,
+  "frame": 23276,
+  "old_frames": [
+   21216,
+   23276
+  ],
+  "reason": "next sentence 'they have' started inside"
+ },
+ {
+  "clip": "Clip_12",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1092.55,
+   1092.95
+  ],
+  "cut_s": 1092.58,
+  "cut_rms_dbfs": -23.3,
+  "frame": 26196,
+  "old_frames": [
+   24636,
+   26206
+  ],
+  "reason": "next words 'from us' started inside"
+ },
+ {
+  "clip": "Clip_13",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1474.15,
+   1474.45
+  ],
+  "cut_s": 1474.32,
+  "cut_rms_dbfs": -12.2,
+  "frame": 35348,
+  "old_frames": [
+   33458,
+   35341
+  ],
+  "reason": "'that?' was cut"
+ },
+ {
+  "clip": "Clip_14",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   343.05,
+   343.3
+  ],
+  "cut_s": 343.275,
+  "cut_rms_dbfs": -23.1,
+  "frame": 8230,
+  "old_frames": [
+   8227,
+   9711
+  ],
+  "reason": "previous word 'world' tail"
+ },
+ {
+  "clip": "Clip_16",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1884.9,
+   1885.62
+  ],
+  "cut_s": 1885.165,
+  "cut_rms_dbfs": -32.1,
+  "frame": 45199,
+  "old_frames": [
+   43651,
+   45212
+  ],
+  "reason": "first word 'Puff' of Clip_17 straddled the shared boundary"
+ },
+ {
+  "clip": "Clip_17",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1884.9,
+   1885.62
+  ],
+  "cut_s": 1885.165,
+  "cut_rms_dbfs": -32.1,
+  "frame": 45199,
+  "old_frames": [
+   45212,
+   46960
+  ],
+  "reason": "shared boundary with Clip_16 (same point)"
+ },
+ {
+  "clip": "Clip_17",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1957.65,
+   1958.25
+  ],
+  "cut_s": 1957.985,
+  "cut_rms_dbfs": -35.1,
+  "frame": 46945,
+  "old_frames": [
+   45199,
+   46960
+  ],
+  "reason": "excluded 'and I'll be honest' started inside"
+ },
+ {
+  "clip": "Clip_18",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1177.25,
+   1177.6
+  ],
+  "cut_s": 1177.59,
+  "cut_rms_dbfs": -19.2,
+  "frame": 28233,
+  "old_frames": [
+   28226,
+   29967
+  ],
+  "reason": "previous word 'Vuitton' tail"
+ },
+ {
+  "clip": "Clip_19",
+  "interval": 0,
+  "kind": "start",
+  "window": [
+   1738.6,
+   1739.15
+  ],
+  "cut_s": 1738.96,
+  "cut_rms_dbfs": -32.1,
+  "frame": 41692,
+  "old_frames": [
+   41705,
+   43514
+  ],
+  "reason": "first word 'In' was cut"
+ },
+ {
+  "clip": "Clip_21",
+  "interval": 0,
+  "kind": "end",
+  "window": [
+   1259.1,
+   1259.35
+  ],
+  "cut_s": 1259.33,
+  "cut_rms_dbfs": -30.0,
+  "frame": 30193,
+  "old_frames": [
+   28555,
+   30193
+  ],
+  "reason": "excluded next 'so' started inside"
+ },
+ {
+  "clip": "Clip_01",
+  "kind": "internal_cut",
+  "removed_frames": [
+   29598,
+   29659
+  ],
+  "removed_s": [
+   1234.495,
+   1237.02
+  ],
+  "reason": "host aside 'That was all... very good' (LOW, not in approved translation) between Ye's 'hop over...' and 'You know, we'll walk over'"
+ },
+ {
+  "clip": "Clip_03",
+  "kind": "internal_cut",
+  "removed_frames": [
+   43754,
+   43785
+  ],
+  "removed_s": [
+   1824.905,
+   1826.19
+  ],
+  "reason": "'Wait a second.' (heard in all passes, absent from the approved line L007, so it has no approved Japanese; critic Clip_03) removed"
+ },
+ {
+  "clip": "Clip_04",
+  "kind": "internal_cut",
+  "removed_frames": [
+   1941,
+   2079
+  ],
+  "removed_s": [
+   80.995,
+   86.765
+  ],
+  "reason": "LOW lines L015-L017 (speaker/words unclear in all ASR passes; critic: caption is a guess) removed"
+ }
+]

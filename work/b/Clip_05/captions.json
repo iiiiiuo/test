@@ -1,0 +1,292 @@
+{
+ "clip": "Clip_05",
+ "total_s": 65.56550000000004,
+ "segments": [
+  [
+   641.1397916666666,
+   706.7052916666667,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_05_L001",
+   "src_start": 641.22,
+   "src_end": 644.22,
+   "en": [
+    "But right now in America, say, one",
+    "of the laws that I would change is,"
+   ],
+   "en_unmasked": "But right now in America, say, one of the laws that I would change is,",
+   "jp": [
+    "でも今のAmericaで",
+    "俺が変えたい法律のひとつが"
+   ],
+   "start": 0.0802083333334167,
+   "end": 3.1902083333331848
+  },
+  {
+   "line_id": "Clip_05_L001",
+   "src_start": 644.3499999999998,
+   "src_end": 647.3,
+   "en": [
+    "it's illegal to collect",
+    "rainwater in America."
+   ],
+   "en_unmasked": "it's illegal to collect rainwater in America.",
+   "jp": [
+    "雨水を集めるのが",
+    "違法だってことだ"
+   ],
+   "start": 3.210208333333185,
+   "end": 6.480208333333376
+  },
+  {
+   "line_id": "Clip_05_L002",
+   "src_start": 647.64,
+   "src_end": 649.46,
+   "en": [
+    "What? Illegal? It's illegal?"
+   ],
+   "en_unmasked": "What? Illegal? It's illegal?",
+   "jp": [
+    "は？違法？",
+    "違法なの？"
+   ],
+   "start": 6.500208333333376,
+   "end": 8.700208333333403
+  },
+  {
+   "line_id": "Clip_05_L003",
+   "src_start": 649.86,
+   "src_end": 652.76,
+   "en": [
+    "It's illegal to collect",
+    "rainwater in America."
+   ],
+   "en_unmasked": "It's illegal to collect rainwater in America.",
+   "jp": [
+    "Americaじゃ雨水を集めるのは",
+    "違法なんだよ"
+   ],
+   "start": 8.720208333333403,
+   "end": 11.60020833333338
+  },
+  {
+   "line_id": "Clip_05_L004",
+   "src_start": 652.76,
+   "src_end": 654.64,
+   "en": [
+    "You go to every other country,",
+    "they're collecting rainwater."
+   ],
+   "en_unmasked": "You go to every other country, they're collecting rainwater.",
+   "jp": [
+    "他の国じゃ",
+    "どこでも雨水を集めてる"
+   ],
+   "start": 11.62020833333338,
+   "end": 14.000208333333376
+  },
+  {
+   "line_id": "Clip_05_L005",
+   "src_start": 655.5499999999998,
+   "src_end": 658.24,
+   "en": [
+    "You know, people are",
+    "controlling the water."
+   ],
+   "en_unmasked": "You know, people are controlling the water.",
+   "jp": [
+    "水を支配してる",
+    "連中がいるんだよ"
+   ],
+   "start": 14.41020833333323,
+   "end": 17.6002083333334
+  },
+  {
+   "line_id": "Clip_05_L006",
+   "src_start": 659.63,
+   "src_end": 662.3,
+   "en": [
+    "You know, it's going to be",
+    "f**k what t-shirt you wear,"
+   ],
+   "en_unmasked": "You know, it's going to be fuck what t-shirt you wear,",
+   "jp": [
+    "どんなTシャツ着てるかとか",
+    "政治的な意見とか"
+   ],
+   "start": 18.490208333333385,
+   "end": 21.140208333333344
+  },
+  {
+   "line_id": "Clip_05_L006",
+   "src_start": 662.3,
+   "src_end": 666.32,
+   "en": [
+    "what political opinion, and who got",
+    "beef with who. You ain't got no water,"
+   ],
+   "en_unmasked": "what political opinion, and who got beef with who. You ain't got no water,",
+   "jp": [
+    "誰と誰がビーフしてるとか",
+    "どうでもよくなる　水がなかったら"
+   ],
+   "start": 21.160208333333344,
+   "end": 25.68020833333344
+  },
+  {
+   "line_id": "Clip_05_L007",
+   "src_start": 668.87,
+   "src_end": 671.96,
+   "en": [
+    "you ain't got no life.",
+    "I'm trying to tell you."
+   ],
+   "en_unmasked": "you ain't got no life. I'm trying to tell you.",
+   "jp": [
+    "命もないんだよ",
+    "そう言いたいわけ"
+   ],
+   "start": 27.730208333333394,
+   "end": 31.320208333333426
+  },
+  {
+   "line_id": "Clip_05_L008",
+   "src_start": 674.1699999999994,
+   "src_end": 679.07,
+   "en": [
+    "Because, you know,",
+    "a lot of people call me..."
+   ],
+   "en_unmasked": "Because, you know, a lot of people call me...",
+   "jp": [
+    "みんな俺のことを…",
+    "イカれてるって"
+   ],
+   "start": 33.03020833333278,
+   "end": 38.20020833333306
+  },
+  {
+   "line_id": "Clip_05_L008",
+   "src_start": 679.3599999999997,
+   "src_end": 680.51,
+   "en": [
+    "they want to call me crazy."
+   ],
+   "en_unmasked": "they want to call me crazy.",
+   "jp": [
+    "言いたがるだろ"
+   ],
+   "start": 38.22020833333306,
+   "end": 39.87020833333338
+  },
+  {
+   "line_id": "Clip_05_L009",
+   "src_start": 683.03,
+   "src_end": 684.87,
+   "en": [
+    "It's like, it's like running a marathon."
+   ],
+   "en_unmasked": "It's like, it's like running a marathon.",
+   "jp": [
+    "それって",
+    "マラソンみたいなもんでさ"
+   ],
+   "start": 41.89020833333336,
+   "end": 44.230208333333394
+  },
+  {
+   "line_id": "Clip_05_L010",
+   "src_start": 686.22,
+   "src_end": 689.34,
+   "en": [
+    "If I got some short",
+    "shorts on and a tank top,"
+   ],
+   "en_unmasked": "If I got some short shorts on and a tank top,",
+   "jp": [
+    "俺が短パンにタンクトップで"
+   ],
+   "start": 45.08020833333342,
+   "end": 48.47020833333304
+  },
+  {
+   "line_id": "Clip_05_L010",
+   "src_start": 689.6299999999997,
+   "src_end": 691.1800000000001,
+   "en": [
+    "and I'm sweating hard as hell,"
+   ],
+   "en_unmasked": "and I'm sweating hard as hell,",
+   "jp": [
+    "汗だくになって"
+   ],
+   "start": 48.490208333333044,
+   "end": 50.54020833333345
+  },
+  {
+   "line_id": "Clip_05_L010",
+   "src_start": 692.4699999999988,
+   "src_end": 696.83,
+   "en": [
+    "um, running down the street, running",
+    "the wrong way down a freeway,"
+   ],
+   "en_unmasked": "um, running down the street, running the wrong way down a freeway,",
+   "jp": [
+    "高速道路を逆走してたら"
+   ],
+   "start": 51.330208333332166,
+   "end": 56.18020833333308
+  },
+  {
+   "line_id": "Clip_05_L011",
+   "src_start": 697.3399999999997,
+   "src_end": 699.21,
+   "en": [
+    "then you're going to say",
+    "that person is crazy."
+   ],
+   "en_unmasked": "then you're going to say that person is crazy.",
+   "jp": [
+    "あいつイカれてるって",
+    "言うだろ"
+   ],
+   "start": 56.20020833333308,
+   "end": 58.740208333333364
+  },
+  {
+   "line_id": "Clip_05_L012",
+   "src_start": 699.9,
+   "src_end": 703.21,
+   "en": [
+    "But if a hundred other people do",
+    "it with me, then it's a marathon."
+   ],
+   "en_unmasked": "But if a hundred other people do it with me, then it's a marathon.",
+   "jp": [
+    "でも100人が　一緒に走ってたら",
+    "それはマラソンなんだよ"
+   ],
+   "start": 58.76020833333337,
+   "end": 62.570208333333426
+  },
+  {
+   "line_id": "Clip_05_L013",
+   "src_start": 705.1800000000001,
+   "src_end": 706.14,
+   "en": [
+    "That's a good way to put it."
+   ],
+   "en_unmasked": "That's a good way to put it.",
+   "jp": [
+    "うまいこと言うな"
+   ],
+   "start": 64.04020833333345,
+   "end": 65.50020833333338
+  }
+ ]
+}

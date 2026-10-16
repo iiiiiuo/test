@@ -1,0 +1,459 @@
+{
+ "clip": "Clip_15",
+ "total_s": 81.91516666666666,
+ "segments": [
+  [
+   1143.1002916666666,
+   1225.0154583333333,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_15_L001",
+   "src_start": 1142.78,
+   "src_end": 1146.3533333333332,
+   "en": [
+    "So I went to Adidas meeting,",
+    "and I took out... I had a laptop."
+   ],
+   "en_unmasked": "So I went to Adidas meeting, and I took out... I had a laptop.",
+   "jp": [
+    "で、Adidasの会議に行って",
+    "取り出したのが…　ノートPCだった"
+   ],
+   "start": 0.0,
+   "end": 3.233041666666604
+  },
+  {
+   "line_id": "Clip_15_L001",
+   "src_start": 1146.3533333333332,
+   "src_end": 1148.18,
+   "en": [
+    "I don't have laptops anymore,",
+    "I just use my phone."
+   ],
+   "en_unmasked": "I don't have laptops anymore, I just use my phone.",
+   "jp": [
+    "今はもう持ってない",
+    "スマホしか使わない"
+   ],
+   "start": 3.253041666666604,
+   "end": 5.059708333333429
+  },
+  {
+   "line_id": "Clip_15_L002",
+   "src_start": 1148.18,
+   "src_end": 1152.08,
+   "en": [
+    "But it's just... and it's during the beef,",
+    "between what's going on recently?"
+   ],
+   "en_unmasked": "But it's just... and it's during the beef, between what's going on recently?",
+   "jp": [
+    "それって最近の",
+    "揉め事の最中の話？"
+   ],
+   "start": 5.0797083333334285,
+   "end": 8.959708333333293
+  },
+  {
+   "line_id": "Clip_15_L002",
+   "src_start": 1152.08,
+   "src_end": 1154.62,
+   "en": [
+    "No, no, this is the beginning",
+    "of the Adidas relationship,"
+   ],
+   "en_unmasked": "No, no, this is the beginning of the Adidas relationship,",
+   "jp": [
+    "いや、Adidasとの関係が",
+    "始まったばかりの頃"
+   ],
+   "start": 8.979708333333292,
+   "end": 11.499708333333256
+  },
+  {
+   "line_id": "Clip_15_L002",
+   "src_start": 1154.62,
+   "src_end": 1155.7,
+   "en": [
+    "before I even put out anything."
+   ],
+   "en_unmasked": "before I even put out anything.",
+   "jp": [
+    "まだ何も出す前"
+   ],
+   "start": 11.519708333333256,
+   "end": 12.859708333333383
+  },
+  {
+   "line_id": "Clip_15_L003",
+   "src_start": 1155.98,
+   "src_end": 1157.38,
+   "en": [
+    "Oh, and I was like, look,"
+   ],
+   "en_unmasked": "Oh, and I was like, look,",
+   "jp": [
+    "で、言ったんだよ"
+   ],
+   "start": 12.879708333333383,
+   "end": 14.779708333333474
+  },
+  {
+   "line_id": "Clip_15_L003",
+   "src_start": 1158.5,
+   "src_end": 1160.28,
+   "en": [
+    "nobody's getting p**sy in Adidas."
+   ],
+   "en_unmasked": "nobody's getting pussy in Adidas.",
+   "jp": [
+    "「いいか、Adidas履いて",
+    "モテてる奴なんかいない"
+   ],
+   "start": 15.399708333333365,
+   "end": 17.46970833333283
+  },
+  {
+   "line_id": "Clip_15_L003",
+   "src_start": 1160.5899999999995,
+   "src_end": 1161.8,
+   "en": [
+    "People get p**sy at Nike."
+   ],
+   "en_unmasked": "People get pussy at Nike.",
+   "jp": [
+    "モテるのはNikeだ」って"
+   ],
+   "start": 17.48970833333283,
+   "end": 18.67970833333332
+  },
+  {
+   "line_id": "Clip_15_L004",
+   "src_start": 1161.8,
+   "src_end": 1162.94,
+   "en": [
+    "And I was just like, yo..."
+   ],
+   "en_unmasked": "And I was just like, yo...",
+   "jp": [
+    "それがマーケティングの"
+   ],
+   "start": 18.69970833333332,
+   "end": 19.81970833333342
+  },
+  {
+   "line_id": "Clip_15_L004",
+   "src_start": 1162.94,
+   "src_end": 1164.48,
+   "en": [
+    "This is the way you",
+    "presented your marketing?"
+   ],
+   "en_unmasked": "This is the way you presented your marketing?",
+   "jp": [
+    "プレゼンだったわけ？"
+   ],
+   "start": 19.83970833333342,
+   "end": 21.879708333333383
+  },
+  {
+   "line_id": "Clip_15_L005",
+   "src_start": 1167.53,
+   "src_end": 1168.03,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [
+    "そう"
+   ],
+   "start": 24.429708333333338,
+   "end": 24.909708333333338
+  },
+  {
+   "line_id": "Clip_15_L005",
+   "src_start": 1168.03,
+   "src_end": 1169.77,
+   "en": [
+    "This is amazing, by the way."
+   ],
+   "en_unmasked": "This is amazing, by the way.",
+   "jp": [
+    "最高だなそれ"
+   ],
+   "start": 24.929708333333338,
+   "end": 26.729708333333274
+  },
+  {
+   "line_id": "Clip_15_L005",
+   "src_start": 1169.85,
+   "src_end": 1170.27,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [
+    "最高だなそれ"
+   ],
+   "start": 26.749708333333274,
+   "end": 27.669708333333347
+  },
+  {
+   "line_id": "Clip_15_L006",
+   "src_start": 1173.41,
+   "src_end": 1174.15,
+   "en": [
+    "Let's get p**sy, guys."
+   ],
+   "en_unmasked": "Let's get pussy, guys.",
+   "jp": [
+    "「モテようぜ、みんな」"
+   ],
+   "start": 30.309708333333447,
+   "end": 31.18970833333331
+  },
+  {
+   "line_id": "Clip_15_L007",
+   "src_start": 1174.31,
+   "src_end": 1175.03,
+   "en": [
+    "How many times,"
+   ],
+   "en_unmasked": "How many times,",
+   "jp": [
+    "誰かがヤってる場面を"
+   ],
+   "start": 31.20970833333331,
+   "end": 31.909708333333338
+  },
+  {
+   "line_id": "Clip_15_L007",
+   "src_start": 1175.03,
+   "src_end": 1178.01,
+   "en": [
+    "if you think about a situation",
+    "where somebody got some p**sy,"
+   ],
+   "en_unmasked": "if you think about a situation where somebody got some pussy,",
+   "jp": [
+    "想像してみろよ",
+    "ベッドの横に"
+   ],
+   "start": 31.929708333333338,
+   "end": 34.97970833333327
+  },
+  {
+   "line_id": "Clip_15_L007",
+   "src_start": 1178.1,
+   "src_end": 1180.85,
+   "en": [
+    "how many times you think some Four",
+    "Swans is on the side of that bed?"
+   ],
+   "en_unmasked": "how many times you think some Four Swans is on the side of that bed?",
+   "jp": [
+    "Adidasが脱いである",
+    "ことなんてあるか？"
+   ],
+   "start": 34.999708333333274,
+   "end": 38.249708333333274
+  },
+  {
+   "line_id": "Clip_15_L008",
+   "src_start": 1182.61,
+   "src_end": 1183.87,
+   "en": [
+    "Or still on, by the way."
+   ],
+   "en_unmasked": "Or still on, by the way.",
+   "jp": [
+    "履いたままかもな"
+   ],
+   "start": 39.509708333333265,
+   "end": 41.269708333333256
+  },
+  {
+   "line_id": "Clip_15_L009",
+   "src_start": 1190.59,
+   "src_end": 1192.59,
+   "en": [
+    "But now, sometimes it be some 350s."
+   ],
+   "en_unmasked": "But now, sometimes it be some 350s.",
+   "jp": [
+    "でも今は",
+    "350が置いてあったりする"
+   ],
+   "start": 47.48970833333328,
+   "end": 49.98970833333328
+  },
+  {
+   "line_id": "Clip_15_L010",
+   "src_start": 1194.8099999999995,
+   "src_end": 1195.86,
+   "en": [
+    "So that was the whole point."
+   ],
+   "en_unmasked": "So that was the whole point.",
+   "jp": [
+    "それが狙いだったんだよ"
+   ],
+   "start": 51.709708333332856,
+   "end": 53.319708333333416
+  },
+  {
+   "line_id": "Clip_15_L011",
+   "src_start": 1196.44,
+   "src_end": 1199.54,
+   "en": [
+    "And actually, this is something",
+    "only me and Steve Stoute know."
+   ],
+   "en_unmasked": "And actually, this is something only me and Steve Stoute know.",
+   "jp": [
+    "実はこれ　俺とSteve Stouteしか",
+    "知らないんだけど"
+   ],
+   "start": 53.33970833333342,
+   "end": 56.96970833333305
+  },
+  {
+   "line_id": "Clip_15_L012",
+   "src_start": 1200.0899999999997,
+   "src_end": 1204.48,
+   "en": [
+    "You know the actual sewing",
+    "at the top of the shoe,"
+   ],
+   "en_unmasked": "You know the actual sewing at the top of the shoe,",
+   "jp": [
+    "350のつま先の上にある"
+   ],
+   "start": 56.989708333333056,
+   "end": 61.87970833333338
+  },
+  {
+   "line_id": "Clip_15_L012",
+   "src_start": 1205.49,
+   "src_end": 1206.8500000000001,
+   "en": [
+    "on the 350?"
+   ],
+   "en_unmasked": "on the 350?",
+   "jp": [
+    "ステッチわかる？"
+   ],
+   "start": 62.389708333333374,
+   "end": 64.2497083333335
+  },
+  {
+   "line_id": "Clip_15_L012",
+   "src_start": 1207.7799999999997,
+   "src_end": 1208.57,
+   "en": [
+    "You know the little thing?"
+   ],
+   "en_unmasked": "You know the little thing?",
+   "jp": [
+    "あのちっちゃいやつ"
+   ],
+   "start": 64.67970833333311,
+   "end": 66.0597083333332
+  },
+  {
+   "line_id": "Clip_15_L013",
+   "src_start": 1209.1799999999998,
+   "src_end": 1211.03,
+   "en": [
+    "Steve Stoute, if you ask",
+    "him what that's called,"
+   ],
+   "en_unmasked": "Steve Stoute, if you ask him what that's called,",
+   "jp": [
+    "Steveに",
+    "あれの名前を聞いたら"
+   ],
+   "start": 66.0797083333332,
+   "end": 68.45970833333352
+  },
+  {
+   "line_id": "Clip_15_L013",
+   "src_start": 1211.5800000000002,
+   "src_end": 1212.96,
+   "en": [
+    "it's called a get-p**sy toe."
+   ],
+   "en_unmasked": "it's called a get-pussy toe.",
+   "jp": [
+    "「モテるつま先」って言うよ"
+   ],
+   "start": 68.47970833333352,
+   "end": 70.3597083333334
+  },
+  {
+   "line_id": "Clip_15_L014",
+   "src_start": 1214.13,
+   "src_end": 1216.13,
+   "en": [
+    "I'm sorry, what? Get-p**sy toe?"
+   ],
+   "en_unmasked": "I'm sorry, what? Get-pussy toe?",
+   "jp": [
+    "ごめん、何？",
+    "モテるつま先？"
+   ],
+   "start": 71.02970833333347,
+   "end": 73.52970833333347
+  },
+  {
+   "line_id": "Clip_15_L015",
+   "src_start": 1217.3899999999996,
+   "src_end": 1220.47,
+   "en": [
+    "Bring Stoute here and ask him.",
+    "That's what it's actually called."
+   ],
+   "en_unmasked": "Bring Stoute here and ask him. That's what it's actually called.",
+   "jp": [
+    "Stoute呼んで聞いてみろよ",
+    "マジでそういう名前なんだから"
+   ],
+   "start": 74.28970833333301,
+   "end": 77.3497083333334
+  },
+  {
+   "line_id": "Clip_15_L016",
+   "src_start": 1220.47,
+   "src_end": 1221.43,
+   "en": [
+    "But who came up with that?"
+   ],
+   "en_unmasked": "But who came up with that?",
+   "jp": [
+    "で、誰が考えたの？"
+   ],
+   "start": 77.36970833333339,
+   "end": 78.50970833333348
+  },
+  {
+   "line_id": "Clip_15_L017",
+   "src_start": 1221.63,
+   "src_end": 1224.81,
+   "en": [
+    "I came up, because I said no",
+    "one's getting p**sy in Adidas, bro."
+   ],
+   "en_unmasked": "I came up, because I said no one's getting pussy in Adidas, bro.",
+   "jp": [
+    "俺だよ　Adidasじゃ誰も",
+    "モテないって言ったからな"
+   ],
+   "start": 78.52970833333347,
+   "end": 81.89516666666667
+  }
+ ]
+}

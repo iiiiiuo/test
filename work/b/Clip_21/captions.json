@@ -1,0 +1,396 @@
+{
+ "clip": "Clip_21",
+ "total_s": 68.31825000000003,
+ "segments": [
+  [
+   1191.0224583333334,
+   1259.3407083333334,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_21_L001",
+   "src_start": 1191.4699999999996,
+   "src_end": 1193.22,
+   "en": [
+    "Okay, so I'm giving",
+    "you an analogy, right?"
+   ],
+   "en_unmasked": "Okay, so I'm giving you an analogy, right?",
+   "jp": [
+    "たとえで言うとさ",
+    "俺らは今アルバムの"
+   ],
+   "start": 0.4475416666662113,
+   "end": 2.617541666666948
+  },
+  {
+   "line_id": "Clip_21_L001",
+   "src_start": 1193.6600000000003,
+   "src_end": 1197.83,
+   "en": [
+    "We're at the beginning of this",
+    "album. Our life is the album."
+   ],
+   "en_unmasked": "We're at the beginning of this album. Our life is the album.",
+   "jp": [
+    "始まりにいるんだよ",
+    "人生がアルバムで"
+   ],
+   "start": 2.637541666666948,
+   "end": 6.787541666666566
+  },
+  {
+   "line_id": "Clip_21_L002",
+   "src_start": 1197.83,
+   "src_end": 1199.55,
+   "en": [
+    "Our world is a symphony."
+   ],
+   "en_unmasked": "Our world is a symphony.",
+   "jp": [
+    "世界は交響曲なんだ"
+   ],
+   "start": 6.807541666666566,
+   "end": 8.77754166666612
+  },
+  {
+   "line_id": "Clip_21_L002",
+   "src_start": 1199.8199999999995,
+   "src_end": 1202.95,
+   "en": [
+    "We're playing on different",
+    "notes, but like Quincy Jones,"
+   ],
+   "en_unmasked": "We're playing on different notes, but like Quincy Jones,",
+   "jp": [
+    "みんな違う音を",
+    "鳴らしてるけど"
+   ],
+   "start": 8.79754166666612,
+   "end": 12.267541666666585
+  },
+  {
+   "line_id": "Clip_21_L002",
+   "src_start": 1203.31,
+   "src_end": 1205.89,
+   "en": [
+    "we have to bring it together and",
+    "have us all play on one accord."
+   ],
+   "en_unmasked": "we have to bring it together and have us all play on one accord.",
+   "jp": [
+    "Quincy Jonesみたいに",
+    "ひとつにまとめなきゃいけない"
+   ],
+   "start": 12.287541666666584,
+   "end": 15.377541666666257
+  },
+  {
+   "line_id": "Clip_21_L003",
+   "src_start": 1206.4199999999996,
+   "src_end": 1208.03,
+   "en": [
+    "We're at the beginning of this album,"
+   ],
+   "en_unmasked": "We're at the beginning of this album,",
+   "jp": [
+    "俺らはまだ",
+    "アルバムの1曲目にいるんだ"
+   ],
+   "start": 15.397541666666257,
+   "end": 17.217541666666175
+  },
+  {
+   "line_id": "Clip_21_L003",
+   "src_start": 1208.2599999999995,
+   "src_end": 1209.63,
+   "en": [
+    "and even if you go back, like, even J."
+   ],
+   "en_unmasked": "and even if you go back, like, even J.",
+   "jp": [
+    "例えば『Workout Plan』"
+   ],
+   "start": 17.237541666666175,
+   "end": 18.58754166666675
+  },
+  {
+   "line_id": "Clip_21_L003",
+   "src_start": 1209.63,
+   "src_end": 1212.47,
+   "en": [
+    "Cole sampled 'Workout Plan,' we",
+    "could play 'Workout Plan,' right?"
+   ],
+   "en_unmasked": "Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right?",
+   "jp": [
+    "J. Coleもサンプリングしたけど",
+    "あの曲から始まるわけ"
+   ],
+   "start": 18.607541666666748,
+   "end": 21.937541666666203
+  },
+  {
+   "line_id": "Clip_21_L004",
+   "src_start": 1212.9799999999996,
+   "src_end": 1215.95,
+   "en": [
+    "But by the time we got to",
+    "'Stronger,' it was a diamond record."
+   ],
+   "en_unmasked": "But by the time we got to 'Stronger,' it was a diamond record.",
+   "jp": [
+    "でも『Stronger』の頃には",
+    "ダイヤモンド・レコードに　なってた"
+   ],
+   "start": 21.957541666666202,
+   "end": 25.237541666666385
+  },
+  {
+   "line_id": "Clip_21_L005",
+   "src_start": 1216.2799999999997,
+   "src_end": 1219.53,
+   "en": [
+    "We are in line for a diamond record,"
+   ],
+   "en_unmasked": "We are in line for a diamond record,",
+   "jp": [
+    "俺らは今",
+    "ダイヤモンドに向かってる"
+   ],
+   "start": 25.257541666666384,
+   "end": 28.817541666666084
+  },
+  {
+   "line_id": "Clip_21_L005",
+   "src_start": 1219.8599999999994,
+   "src_end": 1222.25,
+   "en": [
+    "but we have to do some",
+    "unorthodox things."
+   ],
+   "en_unmasked": "but we have to do some unorthodox things.",
+   "jp": [
+    "でも型破りなことも",
+    "やらなきゃいけない"
+   ],
+   "start": 28.837541666666084,
+   "end": 31.434208333333327
+  },
+  {
+   "line_id": "Clip_21_L006",
+   "src_start": 1222.4766666666667,
+   "src_end": 1224.71,
+   "en": [
+    "'Workout Plan' was, for",
+    "me as a backpack rapper,"
+   ],
+   "en_unmasked": "'Workout Plan' was, for me as a backpack rapper,",
+   "jp": [
+    "リュック系ラッパーの俺が"
+   ],
+   "start": 31.454208333333327,
+   "end": 33.66754166666667
+  },
+  {
+   "line_id": "Clip_21_L006",
+   "src_start": 1224.71,
+   "src_end": 1226.31,
+   "en": [
+    "to have that song, or even, like,"
+   ],
+   "en_unmasked": "to have that song, or even, like,",
+   "jp": [
+    "『Workout Plan』を出したり"
+   ],
+   "start": 33.687541666666675,
+   "end": 35.26754166666658
+  },
+  {
+   "line_id": "Clip_21_L006",
+   "src_start": 1226.31,
+   "src_end": 1229.98,
+   "en": [
+    "be cursing or talking about the",
+    "addictions I was dealing with,"
+   ],
+   "en_unmasked": "be cursing or talking about the addictions I was dealing with,",
+   "jp": [
+    "汚い言葉を使ったり",
+    "女好きとか"
+   ],
+   "start": 35.287541666666584,
+   "end": 38.937541666666654
+  },
+  {
+   "line_id": "Clip_21_L006",
+   "src_start": 1229.98,
+   "src_end": 1232.35,
+   "en": [
+    "and my addiction to girls",
+    "and all this type of s**t,"
+   ],
+   "en_unmasked": "and my addiction to girls and all this type of shit,",
+   "jp": [
+    "自分の依存症の話をしたりするのは"
+   ],
+   "start": 38.95754166666666,
+   "end": 41.307541666666545
+  },
+  {
+   "line_id": "Clip_21_L007",
+   "src_start": 1232.35,
+   "src_end": 1235.8233333333333,
+   "en": [
+    "was weird, because, like,",
+    "Mos Def wasn't talking about that,"
+   ],
+   "en_unmasked": "was weird, because, like, Mos Def wasn't talking about that,",
+   "jp": [
+    "変だったんだよ　Mos Defも　Commonも"
+   ],
+   "start": 41.32754166666655,
+   "end": 44.7808749999999
+  },
+  {
+   "line_id": "Clip_21_L007",
+   "src_start": 1235.8233333333333,
+   "src_end": 1236.69,
+   "en": [
+    "Common wasn't talking about that,"
+   ],
+   "en_unmasked": "Common wasn't talking about that,",
+   "jp": [
+    "そんな話しなかった",
+    "ポジティブじゃないし"
+   ],
+   "start": 44.800874999999905,
+   "end": 45.64754166666669
+  },
+  {
+   "line_id": "Clip_21_L007",
+   "src_start": 1236.69,
+   "src_end": 1238.91,
+   "en": [
+    "because it's not positive,",
+    "it's not backpack, right?"
+   ],
+   "en_unmasked": "because it's not positive, it's not backpack, right?",
+   "jp": [
+    "リュック系っぽくないからな"
+   ],
+   "start": 45.66754166666669,
+   "end": 48.2175416666664
+  },
+  {
+   "line_id": "Clip_21_L008",
+   "src_start": 1239.2599999999998,
+   "src_end": 1240.87,
+   "en": [
+    "But I leaned into my truth."
+   ],
+   "en_unmasked": "But I leaned into my truth.",
+   "jp": [
+    "でも俺は自分の本音に"
+   ],
+   "start": 48.2375416666664,
+   "end": 49.82754166666653
+  },
+  {
+   "line_id": "Clip_21_L008",
+   "src_start": 1240.87,
+   "src_end": 1243.6100000000001,
+   "en": [
+    "I found that Playboy",
+    "when I was five years old,"
+   ],
+   "en_unmasked": "I found that Playboy when I was five years old,",
+   "jp": [
+    "正直になった",
+    "5歳でPlayboyを見つけて"
+   ],
+   "start": 49.84754166666653,
+   "end": 52.677541666666436
+  },
+  {
+   "line_id": "Clip_21_L008",
+   "src_start": 1243.7199999999998,
+   "src_end": 1246.71,
+   "en": [
+    "and now I'm calling Irina Shayk,",
+    "and you know what I'm saying."
+   ],
+   "en_unmasked": "and now I'm calling Irina Shayk, and you know what I'm saying.",
+   "jp": [
+    "今じゃIrina Shaykに",
+    "電話してるんだから"
+   ],
+   "start": 52.69754166666644,
+   "end": 56.347541666666736
+  },
+  {
+   "line_id": "Clip_21_L009",
+   "src_start": 1247.39,
+   "src_end": 1249.81,
+   "en": [
+    "So it's, it was my truth,"
+   ],
+   "en_unmasked": "So it's, it was my truth,",
+   "jp": [
+    "それが俺の本音だった"
+   ],
+   "start": 56.36754166666674,
+   "end": 59.017541666666126
+  },
+  {
+   "line_id": "Clip_21_L009",
+   "src_start": 1250.0599999999995,
+   "src_end": 1253.79,
+   "en": [
+    "but by the time we got to 'Stronger,'",
+    "'work it harder, make it better,"
+   ],
+   "en_unmasked": "but by the time we got to 'Stronger,' 'work it harder, make it better,",
+   "jp": [
+    "でも『Stronger』",
+    "「Work it harder, make it better」"
+   ],
+   "start": 59.03754166666613,
+   "end": 62.7475416666666
+  },
+  {
+   "line_id": "Clip_21_L009",
+   "src_start": 1253.79,
+   "src_end": 1257.91,
+   "en": [
+    "faster, stronger,' that's my",
+    "only diamond record, right?"
+   ],
+   "en_unmasked": "faster, stronger,' that's my only diamond record, right?",
+   "jp": [
+    "あれが俺の唯一の",
+    "ダイヤモンド・レコードなんだよ"
+   ],
+   "start": 62.7675416666666,
+   "end": 67.09754166666674
+  },
+  {
+   "line_id": "Clip_21_L010",
+   "src_start": 1258.14,
+   "src_end": 1259.16,
+   "en": [
+    "You know what I'm saying?",
+    "You know what I'm saying?"
+   ],
+   "en_unmasked": "You know what I'm saying? You know what I'm saying?",
+   "jp": [
+    "わかるだろ？"
+   ],
+   "start": 67.11754166666674,
+   "end": 68.29825000000004
+  }
+ ]
+}

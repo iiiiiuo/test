@@ -1,0 +1,365 @@
+{
+ "clip": "Clip_16",
+ "total_s": 64.56449999999995,
+ "segments": [
+  [
+   1820.6104583333333,
+   1885.1749583333333,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_16_L001",
+   "src_start": 1820.62,
+   "src_end": 1821.16,
+   "en": [
+    "Can I continue?"
+   ],
+   "en_unmasked": "Can I continue?",
+   "jp": [
+    "続けていい？"
+   ],
+   "start": 0.009541666666564197,
+   "end": 0.9895416666665642
+  },
+  {
+   "line_id": "Clip_16_L002",
+   "src_start": 1821.62,
+   "src_end": 1822.14,
+   "en": [
+    "Yeah."
+   ],
+   "en_unmasked": "Yeah.",
+   "jp": [
+    "ああ"
+   ],
+   "start": 1.0095416666665642,
+   "end": 1.5095416666667734
+  },
+  {
+   "line_id": "Clip_16_L002",
+   "src_start": 1822.14,
+   "src_end": 1826.72,
+   "en": [
+    "But I feel like, you",
+    "know what I'm saying?"
+   ],
+   "en_unmasked": "But I feel like, you know what I'm saying?",
+   "jp": [
+    "でもさ、なんていうか"
+   ],
+   "start": 1.5295416666667734,
+   "end": 6.529541666666756
+  },
+  {
+   "line_id": "Clip_16_L003",
+   "src_start": 1827.16,
+   "src_end": 1829.36,
+   "en": [
+    "When I was having the funny thing,"
+   ],
+   "en_unmasked": "When I was having the funny thing,",
+   "jp": [
+    "Puff Daddyと揉めてた時"
+   ],
+   "start": 6.549541666666755,
+   "end": 8.729541666666574
+  },
+  {
+   "line_id": "Clip_16_L003",
+   "src_start": 1829.36,
+   "src_end": 1831.44,
+   "en": [
+    "the issues with Puff I was having,"
+   ],
+   "en_unmasked": "the issues with Puff I was having,",
+   "jp": [
+    "おかしなことがあってさ"
+   ],
+   "start": 8.749541666666573,
+   "end": 10.92954166666662
+  },
+  {
+   "line_id": "Clip_16_L004",
+   "src_start": 1831.56,
+   "src_end": 1834.86,
+   "en": [
+    "Thank you. I went to the Waldorf",
+    "and I saw a couple people."
+   ],
+   "en_unmasked": "Thank you. I went to the Waldorf and I saw a couple people.",
+   "jp": [
+    "どうも　Waldorfに行ったら",
+    "何人か人がいて"
+   ],
+   "start": 10.949541666666619,
+   "end": 14.749541666666573
+  },
+  {
+   "line_id": "Clip_16_L005",
+   "src_start": 1835.82,
+   "src_end": 1836.46,
+   "en": [
+    "Waldorf where?"
+   ],
+   "en_unmasked": "Waldorf where?",
+   "jp": [
+    "どこのWaldorf？"
+   ],
+   "start": 15.20954166666661,
+   "end": 15.889541666666656
+  },
+  {
+   "line_id": "Clip_16_L006",
+   "src_start": 1836.52,
+   "src_end": 1839.92,
+   "en": [
+    "Because I visited... the",
+    "Waldorf in California. I love it."
+   ],
+   "en_unmasked": "Because I visited... the Waldorf in California. I love it.",
+   "jp": [
+    "行ったのは　CaliforniaのWaldorf",
+    "大好きなんだよ"
+   ],
+   "start": 15.909541666666655,
+   "end": 19.349541666666692
+  },
+  {
+   "line_id": "Clip_16_L007",
+   "src_start": 1839.98,
+   "src_end": 1843.52,
+   "en": [
+    "And I saw a couple people just",
+    "standing out in front of the space."
+   ],
+   "en_unmasked": "And I saw a couple people just standing out in front of the space.",
+   "jp": [
+    "建物の前に何人か"
+   ],
+   "start": 19.36954166666669,
+   "end": 22.92954166666662
+  },
+  {
+   "line_id": "Clip_16_L007",
+   "src_start": 1843.56,
+   "src_end": 1844.18,
+   "en": [
+    "Just standing there."
+   ],
+   "en_unmasked": "Just standing there.",
+   "jp": [
+    "ただ突っ立ってたんだよ"
+   ],
+   "start": 22.94954166666662,
+   "end": 24.069541666666737
+  },
+  {
+   "line_id": "Clip_16_L008",
+   "src_start": 1846.0799999999997,
+   "src_end": 1848.85,
+   "en": [
+    "And I was like, oh man,",
+    "Puff really does this, right?"
+   ],
+   "en_unmasked": "And I was like, oh man, Puff really does this, right?",
+   "jp": [
+    "で、「うわ、Puff Daddyは",
+    "マジでこういうことやるのか」　って思って"
+   ],
+   "start": 25.469541666666373,
+   "end": 29.00954166666632
+  },
+  {
+   "line_id": "Clip_16_L009",
+   "src_start": 1849.6399999999996,
+   "src_end": 1852.25,
+   "en": [
+    "And it just made me think, I got to",
+    "really get on my billionaire s**t."
+   ],
+   "en_unmasked": "And it just made me think, I got to really get on my billionaire shit.",
+   "jp": [
+    "それで思ったんだよ　億万長者らしく",
+    "本気出さなきゃって"
+   ],
+   "start": 29.02954166666632,
+   "end": 32.1695416666664
+  },
+  {
+   "line_id": "Clip_16_L009",
+   "src_start": 1852.7999999999997,
+   "src_end": 1855.37,
+   "en": [
+    "So I went and bought a 50",
+    "million dollar penthouse,"
+   ],
+   "en_unmasked": "So I went and bought a 50 million dollar penthouse,",
+   "jp": [
+    "だから5000万ドルの",
+    "ペントハウス買って"
+   ],
+   "start": 32.1895416666664,
+   "end": 35.5295416666663
+  },
+  {
+   "line_id": "Clip_16_L010",
+   "src_start": 1856.1599999999996,
+   "src_end": 1858.57,
+   "en": [
+    "and I Maybach'd the fleet",
+    "out. Because I was like,"
+   ],
+   "en_unmasked": "and I Maybach'd the fleet out. Because I was like,",
+   "jp": [
+    "車も全部Maybachにした",
+    "だってホームレスみたいに"
+   ],
+   "start": 35.5495416666663,
+   "end": 37.93954166666661
+  },
+  {
+   "line_id": "Clip_16_L010",
+   "src_start": 1858.57,
+   "src_end": 1860.59,
+   "en": [
+    "yo, I can't be walking",
+    "around homeless,"
+   ],
+   "en_unmasked": "yo, I can't be walking around homeless,",
+   "jp": [
+    "うろついてたらダメだろ"
+   ],
+   "start": 37.95954166666661,
+   "end": 40.6995416666666
+  },
+  {
+   "line_id": "Clip_16_L011",
+   "src_start": 1861.33,
+   "src_end": 1864.75,
+   "en": [
+    "like, beefing with Puff. You got to,",
+    "like, you know what I mean?"
+   ],
+   "en_unmasked": "like, beefing with Puff. You got to, like, you know what I mean?",
+   "jp": [
+    "Puff Daddyとビーフしてるのにさ",
+    "わかるだろ？"
+   ],
+   "start": 40.7195416666666,
+   "end": 44.11954166666667
+  },
+  {
+   "line_id": "Clip_16_L012",
+   "src_start": 1864.75,
+   "src_end": 1867.91,
+   "en": [
+    "I don't think that would",
+    "have been an issue."
+   ],
+   "en_unmasked": "I don't think that would have been an issue.",
+   "jp": [
+    "それは問題に",
+    "ならなかったと思うけどな"
+   ],
+   "start": 44.13954166666667,
+   "end": 47.799541666666755
+  },
+  {
+   "line_id": "Clip_16_L013",
+   "src_start": 1869.5599999999997,
+   "src_end": 1872.33,
+   "en": [
+    "And so what I really did get",
+    "out of it is that, like, Puff,"
+   ],
+   "en_unmasked": "And so what I really did get out of it is that, like, Puff,",
+   "jp": [
+    "で、そこから学んだのは"
+   ],
+   "start": 48.94954166666639,
+   "end": 51.6995416666666
+  },
+  {
+   "line_id": "Clip_16_L013",
+   "src_start": 1872.33,
+   "src_end": 1875.33,
+   "en": [
+    "like, stay rich, never gonna...",
+    "you know what I'm saying?"
+   ],
+   "en_unmasked": "like, stay rich, never gonna... you know what I'm saying?",
+   "jp": [
+    "Puff Daddyはいつでも金持ちってこと",
+    "わかる？"
+   ],
+   "start": 51.7195416666666,
+   "end": 54.6995416666666
+  },
+  {
+   "line_id": "Clip_16_L014",
+   "src_start": 1875.33,
+   "src_end": 1878.45,
+   "en": [
+    "You never seen this man in no",
+    "Vans. You know what I'm saying?"
+   ],
+   "en_unmasked": "You never seen this man in no Vans. You know what I'm saying?",
+   "jp": [
+    "あの人がVans履いてるとこなんか",
+    "見たことないだろ"
+   ],
+   "start": 54.7195416666666,
+   "end": 58.01954166666676
+  },
+  {
+   "line_id": "Clip_16_L015",
+   "src_start": 1878.65,
+   "src_end": 1880.63,
+   "en": [
+    "This ni**a's just keeping",
+    "it rich. He's good."
+   ],
+   "en_unmasked": "This nigga's just keeping it rich. He's good.",
+   "jp": [
+    "あいつはいつだって",
+    "金持ちスタイルなんだよ"
+   ],
+   "start": 58.039541666666764,
+   "end": 60.27287500000009
+  },
+  {
+   "line_id": "Clip_16_L016",
+   "src_start": 1880.9033333333334,
+   "src_end": 1882.27,
+   "en": [
+    "He wasn't rich at all times."
+   ],
+   "en_unmasked": "He wasn't rich at all times.",
+   "jp": [
+    "ずっと金持ちだった",
+    "わけじゃないだろ"
+   ],
+   "start": 60.292875000000095,
+   "end": 62.07954166666671
+  },
+  {
+   "line_id": "Clip_16_L017",
+   "src_start": 1882.71,
+   "src_end": 1884.85,
+   "en": [
+    "He was like this. He was doing",
+    "the Puppy dance, you remember?"
+   ],
+   "en_unmasked": "He was like this. He was doing the Puppy dance, you remember?",
+   "jp": [
+    "こんな感じで　パピー・ダンス",
+    "踊ってたじゃん　覚えてる？"
+   ],
+   "start": 62.09954166666671,
+   "end": 64.54449999999996
+  }
+ ]
+}

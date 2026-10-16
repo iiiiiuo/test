@@ -1,0 +1,118 @@
+{
+ "clip": "Clip_05",
+ "candidate": "C23",
+ "title": "Water, rainwater and the marathon",
+ "source": {
+  "id": "part_2_2",
+  "path": "/mnt/project-files/part_2 2.mp4",
+  "sha256": "c2fa052b3489fcc3c907066b041d39932e1b9424ed384fd39867e9ddf88e9523",
+  "fps": "24000/1001",
+  "timebase": "1/24000",
+  "start_pts": 984,
+  "pts_per_frame": 1001
+ },
+ "interval_convention": "half-open [start_frame,end_frame_exclusive); pts=start_pts+frame*1001 (tb 1/24000)",
+ "video_segments": [
+  {
+   "start_frame": 15371,
+   "end_frame_excl": 16943,
+   "start_pts": 15387355,
+   "end_pts_excl": 16960927,
+   "start_s": 641.139792,
+   "end_s": 706.705292
+  }
+ ],
+ "audio_segments": [
+  {
+   "start_sample_48k": 30774710,
+   "end_sample_48k_excl": 33921854,
+   "same_as_video_segment": true
+  }
+ ],
+ "layers": [
+  {
+   "type": "foreground_band(1080x1042 @y438)+blurred_background",
+   "note": "both layers from the same source frame; no auxiliary footage"
+  }
+ ],
+ "pieces": [
+  {
+   "start_frame": 15371,
+   "end_frame_excl": 15531,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 416,
+    "y": 0
+   },
+   "basis": "face cx=975 cy=344 w=366 n=9/9"
+  },
+  {
+   "start_frame": 15531,
+   "end_frame_excl": 15577,
+   "crop": {
+    "w": 933,
+    "h": 900,
+    "x": 482,
+    "y": 130
+   },
+   "basis": "face cx=948 cy=400 w=244 n=8/8"
+  },
+  {
+   "start_frame": 15577,
+   "end_frame_excl": 15661,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 398,
+    "y": 0
+   },
+   "basis": "face cx=958 cy=363 w=354 n=6/7"
+  },
+  {
+   "start_frame": 15661,
+   "end_frame_excl": 15699,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 314,
+    "y": 0
+   },
+   "basis": "face cx=874 cy=362 w=358 n=6/6"
+  },
+  {
+   "start_frame": 15699,
+   "end_frame_excl": 16921,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 374,
+    "y": 0
+   },
+   "basis": "face cx=934 cy=388 w=336 n=5/12"
+  },
+  {
+   "start_frame": 16921,
+   "end_frame_excl": 16943,
+   "crop": {
+    "w": 1119,
+    "h": 1080,
+    "x": 408,
+    "y": 0
+   },
+   "basis": "face cx=967 cy=381 w=374 n=3/3"
+  }
+ ],
+ "subtitles": {
+  "ass": "/home/user/test/work/b/Clip_05/subtitles.ass",
+  "sha256": "d331ceddd6725391f4d325c34406260ccd1d5fb5a525eedd5cbbef7091f9a88a"
+ },
+ "translation": {
+  "approved_csv": "review/approved/translations_approved_rev3.csv",
+  "revision": 3
+ },
+ "render": {
+  "path": "/home/user/test/work/b/Clip_05/render.mp4",
+  "sha256": "af95628beae1b61c91120751fe9ee41c0734502e5683ea97b74f960f208bd12e"
+ }
+}

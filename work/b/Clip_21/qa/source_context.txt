@@ -1,0 +1,31 @@
+# Clip_21 source context (part_6.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 1191.00-1259.34s (frames 28555-30193)
+    1171.62- 1178.66 he liked addiction he was on the fence about stronger but stronger stronger went diamond
+    1180.52- 1184.50 i need a shot
+    1184.50- 1188.30 I didn't mean my friend to be saved, guys.
+    1188.64- 1188.70 You see.
+>>  1191.46- 1193.04 Okay, so I'm giving you an analogy, right?
+>>  1194.52- 1196.44 We're at the beginning of this album.
+>>  1196.74- 1197.98 Our life is an album.
+>>  1198.22- 1199.46 Our world is a symphony.
+>>  1199.76- 1201.26 We're playing on different notes.
+>>  1201.44- 1204.52 But like Quincy Jones, we have to bring it together
+>>  1204.52- 1206.06 and have us all play on one accord.
+>>  1206.40- 1207.94 We're at the beginning of this album.
+>>  1208.12- 1210.78 And even if you go back, like even J. Cole's sample workout plan,
+>>  1210.86- 1212.56 we could play workout plan, right?
+>>  1212.98- 1214.84 But by the time we got to Stronger,
+>>  1214.84- 1220.74 it was a diamond record we are in line for a diamond record but we have to do
+>>  1220.74- 1225.40 some unorthodox things workout plan was for me as a backpack rapper to have that
+>>  1225.40- 1230.04 song or even I'd be cursing or talking about the addictions I was dealing with
+>>  1230.04- 1234.60 them my addiction to girls and all this type of shit was weird because like most
+>>  1234.60- 1238.22 deaf wasn't talking about that quality was all about doesn't that positive it's
+>>  1238.22- 1242.68 that backpack right but I lean into my truth I found that playboy when I was
+>>  1242.68- 1249.74 five years old and now i'm calling irena shake and you know i'm saying so it's it was my truth
+>>  1249.74- 1255.72 but by the time we got the stronger work it harder make it better faster than me that's my
+>>  1255.72- 1262.57 only diamond record right i'm saying you know i'm saying so we're at the beginning of a new
+    1262.57- 1269.47 frontier whether it's what dr dre did we can't base it on the narrative that they're making for
+    1269.47- 1274.81 us we now have to define our own narrative right like when you're talking about the white lives
+    1274.81- 1279.29 matter thing i want to play you this message that farrakhan sent me and puffy about white
+    1279.29- 1287.79 you know and i gotta man this do say you would never have to pee more times than on do say

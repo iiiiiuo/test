@@ -1,0 +1,418 @@
+{
+ "clip": "Clip_20",
+ "total_s": 74.5745,
+ "segments": [
+  [
+   215.46454166666666,
+   290.03904166666666,
+   0.0
+  ]
+ ],
+ "dropped_lines": [],
+ "captions": [
+  {
+   "line_id": "Clip_20_L001",
+   "src_start": 215.46,
+   "src_end": 217.35999999999999,
+   "en": [
+    "Like, you at somebody's wedding,"
+   ],
+   "en_unmasked": "Like, you at somebody's wedding,",
+   "jp": [
+    "誰かの結婚式で"
+   ],
+   "start": 0.0,
+   "end": 2.3054583333335574
+  },
+  {
+   "line_id": "Clip_20_L001",
+   "src_start": 217.79000000000022,
+   "src_end": 220.3,
+   "en": [
+    "and somebody get into a fight",
+    "with a family member at the end."
+   ],
+   "en_unmasked": "and somebody get into a fight with a family member at the end.",
+   "jp": [
+    "最後に親戚と",
+    "ケンカになる奴いるだろ"
+   ],
+   "start": 2.3254583333335574,
+   "end": 4.81545833333335
+  },
+  {
+   "line_id": "Clip_20_L002",
+   "src_start": 220.3,
+   "src_end": 221.46,
+   "en": [
+    "And they say some real s**t,"
+   ],
+   "en_unmasked": "And they say some real shit,",
+   "jp": [
+    "本音をぶちまけるけど"
+   ],
+   "start": 4.835458333333349,
+   "end": 5.975458333333346
+  },
+  {
+   "line_id": "Clip_20_L002",
+   "src_start": 221.46,
+   "src_end": 223.69,
+   "en": [
+    "but they ain't said it until",
+    "they had the D'Usse."
+   ],
+   "en_unmasked": "but they ain't said it until they had the D'Usse.",
+   "jp": [
+    "それもD'Usseを",
+    "飲むまでは言わなかった"
+   ],
+   "start": 5.995458333333346,
+   "end": 8.655458333333325
+  },
+  {
+   "line_id": "Clip_20_L003",
+   "src_start": 224.14,
+   "src_end": 225.0,
+   "en": [
+    "They say some real s**t."
+   ],
+   "en_unmasked": "They say some real shit.",
+   "jp": [
+    "マジな本音をな"
+   ],
+   "start": 8.675458333333324,
+   "end": 9.735458333333337
+  },
+  {
+   "line_id": "Clip_20_L004",
+   "src_start": 225.22,
+   "src_end": 227.32,
+   "en": [
+    "And I'm telling you,",
+    "the whole difference is,"
+   ],
+   "en_unmasked": "And I'm telling you, the whole difference is,",
+   "jp": [
+    "言っとくけど",
+    "本音を言うなら"
+   ],
+   "start": 9.755458333333337,
+   "end": 12.225458333333744
+  },
+  {
+   "line_id": "Clip_20_L004",
+   "src_start": 227.7100000000004,
+   "src_end": 229.28,
+   "en": [
+    "when people come",
+    "and speak their truth,"
+   ],
+   "en_unmasked": "when people come and speak their truth,",
+   "jp": [
+    "D'Usseで酔って言えよ"
+   ],
+   "start": 12.245458333333744,
+   "end": 14.085458333333559
+  },
+  {
+   "line_id": "Clip_20_L004",
+   "src_start": 229.57000000000022,
+   "src_end": 231.81000000000026,
+   "en": [
+    "they need to speak",
+    "their truth off of D'Usse."
+   ],
+   "en_unmasked": "they need to speak their truth off of D'Usse.",
+   "jp": [
+    "ヘネシーで酔って"
+   ],
+   "start": 14.105458333333559,
+   "end": 16.325458333333597
+  },
+  {
+   "line_id": "Clip_20_L004",
+   "src_start": 231.81000000000026,
+   "src_end": 233.9,
+   "en": [
+    "They don't need to speak",
+    "their truth off of Hennessy."
+   ],
+   "en_unmasked": "They don't need to speak their truth off of Hennessy.",
+   "jp": [
+    "言うんじゃなくてな"
+   ],
+   "start": 16.345458333333596,
+   "end": 18.8054583333335
+  },
+  {
+   "line_id": "Clip_20_L005",
+   "src_start": 234.29000000000016,
+   "src_end": 237.5,
+   "en": [
+    "So I want to say today is,",
+    "I need every single..."
+   ],
+   "en_unmasked": "So I want to say today is, I need every single...",
+   "jp": [
+    "だから今日言いたいのは"
+   ],
+   "start": 18.8254583333335,
+   "end": 22.01545833333334
+  },
+  {
+   "line_id": "Clip_20_L005",
+   "src_start": 237.5,
+   "src_end": 238.88,
+   "en": [
+    "and we can get back to",
+    "the Black Lives Matter..."
+   ],
+   "en_unmasked": "and we can get back to the Black Lives Matter...",
+   "jp": [
+    "…ブラックライブスマ",
+    "ターの話には後で戻るけど"
+   ],
+   "start": 22.035458333333338,
+   "end": 23.395458333333334
+  },
+  {
+   "line_id": "Clip_20_L005",
+   "src_start": 238.88,
+   "src_end": 241.1,
+   "en": [
+    "but I need every single",
+    "liquor store in the world"
+   ],
+   "en_unmasked": "but I need every single liquor store in the world",
+   "jp": [
+    "世界中の酒屋から"
+   ],
+   "start": 23.415458333333333,
+   "end": 25.8054583333335
+  },
+  {
+   "line_id": "Clip_20_L005",
+   "src_start": 241.29000000000016,
+   "src_end": 244.24,
+   "en": [
+    "to remove the Hennessy",
+    "and put the D'Usse in it."
+   ],
+   "en_unmasked": "to remove the Hennessy and put the D'Usse in it.",
+   "jp": [
+    "ヘネシーを撤去して",
+    "D'Usseを置いてほしい"
+   ],
+   "start": 25.8254583333335,
+   "end": 29.405458333333353
+  },
+  {
+   "line_id": "Clip_20_L006",
+   "src_start": 244.89000000000001,
+   "src_end": 246.7,
+   "en": [
+    "I'm asking and calling for every..."
+   ],
+   "en_unmasked": "I'm asking and calling for every...",
+   "jp": [
+    "全員に呼びかける…"
+   ],
+   "start": 29.425458333333353,
+   "end": 31.735458333333327
+  },
+  {
+   "line_id": "Clip_20_L007",
+   "src_start": 249.91,
+   "src_end": 252.75,
+   "en": [
+    "I'm asking every black person,"
+   ],
+   "en_unmasked": "I'm asking every black person,",
+   "jp": [
+    "黒人のみんなに頼みたい"
+   ],
+   "start": 34.445458333333335,
+   "end": 37.78545833333334
+  },
+  {
+   "line_id": "Clip_20_L008",
+   "src_start": 253.7600000000001,
+   "src_end": 256.69,
+   "en": [
+    "when you want to drink",
+    "and you want to go full"
+   ],
+   "en_unmasked": "when you want to drink and you want to go full",
+   "jp": [
+    "結婚式で飲んで",
+    "何も気にしない"
+   ],
+   "start": 38.29545833333344,
+   "end": 41.20545833333333
+  },
+  {
+   "line_id": "Clip_20_L008",
+   "src_start": 256.69,
+   "src_end": 258.27,
+   "en": [
+    "the-uncle-that-don't-give-a-f**k",
+    "level at the wedding,"
+   ],
+   "en_unmasked": "the-uncle-that-don't-give-a-fuck level at the wedding,",
+   "jp": [
+    "おじさんレベルまで",
+    "振り切りたい時は"
+   ],
+   "start": 41.225458333333336,
+   "end": 43.30545833333332
+  },
+  {
+   "line_id": "Clip_20_L009",
+   "src_start": 259.53,
+   "src_end": 263.15,
+   "en": [
+    "do it off the D'Usse.",
+    "Don't do it off the Hennessy."
+   ],
+   "en_unmasked": "do it off the D'Usse. Don't do it off the Hennessy.",
+   "jp": [
+    "D'Usseでやれ",
+    "ヘネシーじゃなくて"
+   ],
+   "start": 44.06545833333331,
+   "end": 47.66545833333331
+  },
+  {
+   "line_id": "Clip_20_L010",
+   "src_start": 263.15,
+   "src_end": 264.85,
+   "en": [
+    "Don't do it off the Hennessy."
+   ],
+   "en_unmasked": "Don't do it off the Hennessy.",
+   "jp": [
+    "ヘネシーはやめとけ"
+   ],
+   "start": 47.685458333333315,
+   "end": 49.36545833333336
+  },
+  {
+   "line_id": "Clip_20_L011",
+   "src_start": 264.85,
+   "src_end": 266.81,
+   "en": [
+    "Go full Ye off the D'Usse. Go Ye!"
+   ],
+   "en_unmasked": "Go full Ye off the D'Usse. Go Ye!",
+   "jp": [
+    "D'Usseで"
+   ],
+   "start": 49.38545833333336,
+   "end": 51.32545833333334
+  },
+  {
+   "line_id": "Clip_20_L011",
+   "src_start": 266.81,
+   "src_end": 270.47,
+   "en": [
+    "Go full Ye off the D'Usse."
+   ],
+   "en_unmasked": "Go full Ye off the D'Usse.",
+   "jp": [
+    "フルにYeになれ"
+   ],
+   "start": 51.34545833333334,
+   "end": 54.98545833333336
+  },
+  {
+   "line_id": "Clip_20_L011",
+   "src_start": 270.47,
+   "src_end": 272.83000000000004,
+   "en": [
+    "Go full Ye off the D'Usse.",
+    "Go full Ye off the D'Usse."
+   ],
+   "en_unmasked": "Go full Ye off the D'Usse. Go full Ye off the D'Usse.",
+   "jp": [
+    "D'UsseでフルYeだ"
+   ],
+   "start": 55.005458333333365,
+   "end": 57.86545833333338
+  },
+  {
+   "line_id": "Clip_20_L012",
+   "src_start": 274.03,
+   "src_end": 276.51,
+   "en": [
+    "Let me just be clear real quick."
+   ],
+   "en_unmasked": "Let me just be clear real quick.",
+   "jp": [
+    "ちょっとはっきりさせとくと"
+   ],
+   "start": 58.56545833333331,
+   "end": 61.025458333333326
+  },
+  {
+   "line_id": "Clip_20_L012",
+   "src_start": 276.51,
+   "src_end": 279.09,
+   "en": [
+    "Respect. Because",
+    "this is the only time..."
+   ],
+   "en_unmasked": "Respect. Because this is the only time...",
+   "jp": [
+    "リスペクトはしてるよ",
+    "これは今回だけ…"
+   ],
+   "start": 61.04545833333333,
+   "end": 63.60545833333331
+  },
+  {
+   "line_id": "Clip_20_L013",
+   "src_start": 279.09,
+   "src_end": 281.79,
+   "en": [
+    "This is delicious. This D'Usse is good."
+   ],
+   "en_unmasked": "This is delicious. This D'Usse is good.",
+   "jp": [
+    "これうまいな",
+    "このD'Usseいいわ"
+   ],
+   "start": 63.62545833333331,
+   "end": 66.82545833333336
+  },
+  {
+   "line_id": "Clip_20_L014",
+   "src_start": 282.65,
+   "src_end": 284.78999999999996,
+   "en": [
+    "Also for an evening nightcap."
+   ],
+   "en_unmasked": "Also for an evening nightcap.",
+   "jp": [
+    "夜の寝酒にもいい"
+   ],
+   "start": 67.18545833333332,
+   "end": 69.8254583333333
+  },
+  {
+   "line_id": "Clip_20_L014",
+   "src_start": 285.73,
+   "src_end": 289.4,
+   "en": [
+    "A nightcap is well",
+    "recommended, my friend."
+   ],
+   "en_unmasked": "A nightcap is well recommended, my friend.",
+   "jp": [
+    "寝酒にオススメだぜ"
+   ],
+   "start": 70.26545833333336,
+   "end": 74.43545833333332
+  }
+ ]
+}

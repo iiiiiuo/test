@@ -1,0 +1,162 @@
+[
+ {
+  "round": 1,
+  "target": "Clip_01",
+  "change": "first render (adf50f73d016)",
+  "verdict": "FAIL",
+  "largest_gap": "clip ended ~0.1 s before last word \"ever\" while caption showed it",
+  "other_gaps": [
+   "~3 s uncaptioned host aside at 30.44-33.58"
+  ],
+  "fix": "systematic boundary audit of all 42 boundaries (scripts/boundary_check.py) -> 15 clips moved to quietest point between last included and first excluded word (scripts/refine_bounds.py, work/b/boundary_changes.json); Clip_01 host aside (LOW, untranslated) removed by jump cut",
+  "result": "re-render; round 2 pending"
+ },
+ {
+  "round": 1,
+  "target": "Clip_04",
+  "change": "first render",
+  "verdict": "FAIL",
+  "largest_gap": "false face (backdrop crest) framing 43-52 s; LOW lines L015-L017 captioned as a guess",
+  "fix": "crest saturation filter + cluster consistency in framing; jump cut removing L015-L017",
+  "result": "re-render pending"
+ },
+ {
+  "round": 1,
+  "target": "Clip_02",
+  "change": "render with boundary fixes",
+  "verdict": "FAIL",
+  "largest_gap": "final shot framed on backdrop crest; opening edge",
+  "fix": "framing fix; start moved to quiet point before Yeah (large-v3 span re-check confirms Yeah)",
+  "result": "re-render pending"
+ },
+ {
+  "round": 1,
+  "target": "Clip_03",
+  "change": "render with boundary fixes",
+  "verdict": "FAIL",
+  "largest_gap": "Ye cut at left edge (crest false face); caption led speech by 2 s; LOW last line not heard as written",
+  "fix": "framing fix; caption onset = first matched word; clip ends after That's crazy (L015 dropped)",
+  "result": "re-render pending"
+ },
+ {
+  "round": 2,
+  "target": "Clip_01",
+  "change": "boundary fix + jump cut (render 331bd1c36ab3)",
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "result": "frozen"
+ },
+ {
+  "round": 1,
+  "target": "Clip_06",
+  "change": "initial render 44b9bc19f02d",
+  "verdict": "FAIL",
+  "largest_gap": "\"I like both.\" 2.4 s early (Whisper glued onset of \"I\" to previous word); \"I forgive\" 1.6 s early",
+  "fix": "build_subs: onset moved to just before next heard word when gap >0.8 s; non-final chunk no longer held over long pause; pre-onset only after previous line",
+  "evidence": "work/b/Clip_06/qa/critic.md",
+  "result": "re-render queued (all clips with changed subs)"
+ },
+ {
+  "round": 0,
+  "target": "series",
+  "change": "timing rule change in build_subs (affects all clips)",
+  "failed_approach": "cross-check with turbo ASR taking later onset: mis-aligned repeated words (\"I forgive\" x2), replaced by gap rule"
+ },
+ {
+  "round": 1,
+  "target": "Clip_08",
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "evidence": "work/b/Clip_08/qa/critic.md",
+  "result": "frozen"
+ },
+ {
+  "round": 1,
+  "target": "Clip_07",
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "evidence": "work/b/Clip_07/qa/critic.md",
+  "result": "frozen"
+ },
+ {
+  "round": 1,
+  "target": "Clip_11",
+  "verdict": "PASS",
+  "largest_gap": "none",
+  "fix": "none",
+  "evidence": "work/b/Clip_11/qa/critic.md",
+  "result": "frozen"
+ },
+ {
+  "round": 2,
+  "target": "Clip_06",
+  "verdict": "PASS",
+  "largest_gap": "none (round 2)",
+  "fix": "none",
+  "evidence": "work/b/Clip_06/qa/critic.md",
+  "result": "frozen"
+ },
+ {
+  "round": 1,
+  "target": "Clip_09",
+  "verdict": "FAIL",
+  "largest_gap": "ended on dangling \"But it's funny,\"",
+  "fix": "end moved to after \"...thousand back.\" (247.125 s); JP tail segment 笑えるよな dropped (approved segments only)",
+  "evidence": "work/b/Clip_09/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 1,
+  "target": "Clip_03",
+  "verdict": "FAIL",
+  "largest_gap": "caption L007 1.75 s early; \"Wait a second.\" uncaptioned (not in approved line)",
+  "fix": "jump cut 1824.905-1826.19 removes \"Wait a second.\"",
+  "evidence": "work/b/Clip_03/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 1,
+  "target": "Clip_05",
+  "verdict": "FAIL",
+  "largest_gap": "caption 9 2.5 s early over pause",
+  "fix": "build_subs: glued short-word onset fix + forced chunk break at >1 s pauses (snapped to punctuation)",
+  "evidence": "work/b/Clip_05/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 1,
+  "target": "Clip_04",
+  "verdict": "FAIL",
+  "largest_gap": "\"Stadium. Bad Bunny...\" one 5.9 s caption ~3 s early",
+  "fix": "same pause-break rule (split \"Stadium.\" / \"Bad Bunny...\")",
+  "evidence": "work/b/Clip_04/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 1,
+  "target": "Clip_02",
+  "verdict": "FAIL",
+  "largest_gap": "L014 caption 3.8 s early over laughter",
+  "fix": "same timing rules (caption now 70.81)",
+  "evidence": "work/b/Clip_02/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 1,
+  "target": "Clip_10",
+  "verdict": "FAIL",
+  "largest_gap": "wide shot 19252-19331 cut Ye off at right edge; caption \"But...\" 1.2 s early",
+  "fix": "manual 1.2x punch crop on Ye for that shot (work/b/framing_overrides.json); timing rules",
+  "evidence": "work/b/Clip_10/qa/critic.md",
+  "result": "re-render"
+ },
+ {
+  "round": 0,
+  "target": "series",
+  "change": "build_subs timing v3: onsets checked against source audio energy (moved to sustained speech), glued-onset gap rule (no trailing punctuation), cross-ASR later onset for unique words >0.8 s apart, first chunk uses checked onset, pause breaks at punctuation, fragment merge; Clip_10_L004 display English repeat added (en_overrides)",
+  "failed_approach": "per-token cascading glue loop (moved whole phrases late, Clip_09); energy-only rule (laughter defeats it, Clip_02 L014)"
+ }
+]

@@ -1,0 +1,22 @@
+{
+ "clip": "Clip_19",
+ "crop_w": 1119,
+ "crop_h": 1080,
+ "intervals": [
+  {
+   "start_frame": 41692,
+   "end_frame_excl": 43514,
+   "shots": [
+    {
+     "start": 0,
+     "end": 1822,
+     "x": 400,
+     "y": 0,
+     "w": 1119,
+     "h": 1080,
+     "how": "no face -> neighbour/centre"
+    }
+   ]
+  }
+ ]
+}
