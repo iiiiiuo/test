@@ -10,3 +10,4 @@ Checked 2026-10-16T01:16:25Z on the exported files.
 - Subtitle style identical across clips (ASS Style line): PASS
 - Font: Yu Gothic|Bold|200
 - Translation: every Japanese line is approved rev 3 text (no new Japanese); per-clip notes list display-English corrections, hand chunking and cuts.
+- Shared-folder copy (/mnt/project-files/output/drinkchamps_ye): all 21 final.mp4 have identical audio/video packets to the frozen renders (ffmpeg stream MD5); the shared store rewrites the MP4 container header, so file-level sha256 differs there.
