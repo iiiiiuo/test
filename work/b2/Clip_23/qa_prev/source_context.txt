@@ -1,6 +1,6 @@
 # Clip_23 source context (part_1.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 1096.43-1142.89s (frames 26288-27402)
+## interval 1096.43-1143.14s (frames 26288-27408)
     1075.24- 1080.56 family three of that three four of those people in that family have been raised christian by rob
     1080.56- 1088.87 kardashian i know y'all want a question but uh i think you just gotta let some of this out
     1090.01- 1091.83 It's not even venting
@@ -47,7 +47,7 @@
     1159.15- 1161.70 Nike is as popular as Apple
     1161.70- 1163.62 But it's company number 321
 
-## interval 1157.74-1196.95s (frames 27758-28698)
+## interval 1157.74-1197.28s (frames 27758-28706)
     1136.49- 1138.03 It's just a similarity to it
     1138.03- 1138.53 Are you dyslexic like me?
     1139.09- 1140.91 Yeah, absolutely, Gemini dyslexic

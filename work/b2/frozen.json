@@ -1,15 +1,15 @@
 {
  "Clip_22": {
-  "render_sha256": "0d8b4ae002abed9e4cd91b4ee79c8508e6ecdff9ec182390511b1fd6971d30f3",
+  "render_sha256": "f845f5121c727db55bebb2ab89082ec9172eb8b9b2fab49465e356d51ab22935",
   "verdict": "PASS",
   "critic": "work/b2/Clip_22/qa/critic.md",
-  "ass_sha256": "3d00a60d28090fd9d64c7a9ff0c4fd36404221673be86deb5ac72c8021c1a4b8"
+  "ass_sha256": "5edefbf01ef1f8b086d9a220ddddd51184b0e8fd2ceaaf7a21f7a182376b1ef6"
  },
  "Clip_23": {
-  "render_sha256": "fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8",
+  "render_sha256": "57889998498f9668b10fcd5eb059fd9dfc0f968eb20a93a4fd5d9ab5c428b46a",
   "verdict": "PASS",
   "critic": "work/b2/Clip_23/qa/critic.md",
-  "ass_sha256": "b365090d80fa04a18935d48e06db4351dfad090bfc14e9a5ea73002d5297deb9"
+  "ass_sha256": "8a7e08f62e5a871b1bab81e7c19be6f5a87f7747e8ef887799dbe938edfc997b"
  },
  "Clip_26": {
   "render_sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c",
@@ -18,10 +18,10 @@
   "ass_sha256": "fe7b8c77163241ef46908875f57c49961680445549891c5be6b14d84265979ef"
  },
  "Clip_24": {
-  "render_sha256": "3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40",
+  "render_sha256": "8ae321c0ee9e55442a3e20a20f2a9f33c9548ac411c60cbafd45e8225087d172",
   "verdict": "PASS",
   "critic": "work/b2/Clip_24/qa/critic.md",
-  "ass_sha256": "509ab4cd1d61b433a7edb2a9050f879c14e364fd5c18e0a0559fba30626ccb91"
+  "ass_sha256": "3fd09efd83465f3c82f7200ea4e22e2a717dcc15a2aa7abbede12378c173cd57"
  },
  "Clip_28": {
   "render_sha256": "3f89be9543ea73bd00993b5e3a9ce7385f8ad61026f80910c18689d94d22d972",

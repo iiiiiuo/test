@@ -1,15 +1,15 @@
 {
  "clip": "Clip_23",
- "render_sha256": "7fdc61d51163865d7f4ff3254bc250c935677529e13d68db9b0bee286054aa80",
+ "render_sha256": "fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8",
  "format": {
   "width": 1080,
   "height": 1920,
   "sar": "1:1",
   "fps": "24000/1001",
-  "video_frames": 2054,
-  "expected_frames": 2054,
-  "video_duration_s": 85.668916,
-  "audio_duration_s": 85.669,
+  "video_frames": 2068,
+  "expected_frames": 2068,
+  "video_duration_s": 86.252833,
+  "audio_duration_s": 86.253,
   "v_start": "0.000000",
   "a_start": "0.000000",
   "rotation": null,
@@ -19,7 +19,7 @@
  "subtitles": {
   "events": 96,
   "captions": 30,
-  "max_end": 85.65,
+  "max_end": 86.23,
   "beyond_video": [],
   "unmasked_hits": [],
   "captions_without_jp": [],
@@ -27,14 +27,14 @@
  },
  "sync": {
   "caption_tokens": 243,
-  "asr_words": 256,
+  "asr_words": 262,
   "matched": 227,
   "match_ratio": 0.934,
   "matched_words_inside_their_caption": 0.956,
   "caption_onset_vs_first_word_s": {
    "n": 28,
    "median": -0.071,
-   "max_abs": 0.813
+   "max_abs": 1.003
   }
  },
  "frames": {
@@ -45,13 +45,13 @@
    38.16,
    40.87,
    42.5,
-   46.55,
-   46.92,
-   70.03,
-   76.03,
-   80.71,
-   84.67,
-   85.59
+   46.8,
+   47.17,
+   70.28,
+   76.28,
+   80.96,
+   85.25,
+   86.17
   ],
   "sheets": [
    "sheet_1.jpg",
@@ -64,13 +64,13 @@
    "/home/user/test/work/b2/Clip_23/qa/f_0038.16.png",
    "/home/user/test/work/b2/Clip_23/qa/f_0040.87.png",
    "/home/user/test/work/b2/Clip_23/qa/f_0042.50.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0046.55.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0046.92.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0070.03.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0076.03.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0080.71.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0084.67.png",
-   "/home/user/test/work/b2/Clip_23/qa/f_0085.59.png"
+   "/home/user/test/work/b2/Clip_23/qa/f_0046.80.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0047.17.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0070.28.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0076.28.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0080.96.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0085.25.png",
+   "/home/user/test/work/b2/Clip_23/qa/f_0086.17.png"
   ]
  }
 }

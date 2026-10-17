@@ -1,6 +1,6 @@
 {
  "clip": "Clip_24",
- "render_sha256": "538ea30524fc43bb04ccc954deb692b784da322d497e7d6fc575f042ea333a45",
+ "render_sha256": "3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -22,7 +22,9 @@
   "max_end": 65.46,
   "beyond_video": [],
   "unmasked_hits": [],
-  "captions_without_jp": [],
+  "captions_without_jp": [
+   "Clip_24_L012"
+  ],
   "max_lines": 4
  },
  "sync": {
@@ -46,7 +48,7 @@
    21.66,
    28.84,
    37.24,
-   52.23,
+   47.89,
    64.48,
    65.4
   ],
@@ -62,7 +64,7 @@
    "/home/user/test/work/b2/Clip_24/qa/f_0021.66.png",
    "/home/user/test/work/b2/Clip_24/qa/f_0028.84.png",
    "/home/user/test/work/b2/Clip_24/qa/f_0037.24.png",
-   "/home/user/test/work/b2/Clip_24/qa/f_0052.23.png",
+   "/home/user/test/work/b2/Clip_24/qa/f_0047.89.png",
    "/home/user/test/work/b2/Clip_24/qa/f_0064.48.png",
    "/home/user/test/work/b2/Clip_24/qa/f_0065.40.png"
   ]
