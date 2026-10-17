@@ -2,20 +2,20 @@
 "model": "/root/models/turbo",
 "wav": "/home/user/test/work/b/Clip_17/qa/render16k.wav",
 "clip": null,
-"elapsed": 20.1,
+"elapsed": 31.9,
 "segments": [
 {
 "start": 0.52,
 "end": 2.14,
 "text": "Puff is my idol, bro.",
-"avg_logprob": -0.174,
+"avg_logprob": -0.158,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Puff",
 "s": 0.52,
 "e": 0.96,
-"p": 0.895
+"p": 0.886
 },
 {
 "w": " is",
@@ -33,11 +33,11 @@
 "w": " idol,",
 "s": 1.42,
 "e": 1.86,
-"p": 0.985
+"p": 0.972
 },
 {
 "w": " bro.",
-"s": 1.94,
+"s": 1.96,
 "e": 2.14,
 "p": 0.999
 }
@@ -45,20 +45,20 @@
 },
 {
 "start": 2.28,
-"end": 9.2,
-"text": "Yeah, that's why I said, I was like, yo, I know how Virgil feels now on the times when I scream at Virgil,",
-"avg_logprob": -0.174,
+"end": 11.54,
+"text": "Yeah, that's why I said, I was like, yo, I know how Virgil feels now on the times when I scream at Virgil, especially if I scream at Virgil in front of somebody.",
+"avg_logprob": -0.158,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Yeah,",
 "s": 2.28,
 "e": 2.44,
-"p": 0.521
+"p": 0.534
 },
 {
 "w": " that's",
-"s": 2.62,
+"s": 2.64,
 "e": 2.68,
 "p": 0.998
 },
@@ -66,7 +66,7 @@
 "w": " why",
 "s": 2.68,
 "e": 3.46,
-"p": 0.716
+"p": 0.719
 },
 {
 "w": " I",
@@ -78,19 +78,19 @@
 "w": " said,",
 "s": 3.58,
 "e": 3.76,
-"p": 0.978
+"p": 0.977
 },
 {
 "w": " I",
 "s": 3.86,
 "e": 3.94,
-"p": 0.993
+"p": 0.994
 },
 {
 "w": " was",
 "s": 3.94,
 "e": 4.04,
-"p": 0.98
+"p": 0.984
 },
 {
 "w": " like,",
@@ -131,12 +131,12 @@
 {
 "w": " feels",
 "s": 6.04,
-"e": 6.48,
+"e": 6.46,
 "p": 1.0
 },
 {
 "w": " now",
-"s": 6.48,
+"s": 6.46,
 "e": 6.88,
 "p": 1.0
 },
@@ -144,13 +144,13 @@
 "w": " on",
 "s": 6.88,
 "e": 7.54,
-"p": 0.839
+"p": 0.855
 },
 {
 "w": " the",
 "s": 7.54,
 "e": 7.68,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " times",
@@ -162,7 +162,7 @@
 "w": " when",
 "s": 8.0,
 "e": 8.16,
-"p": 0.814
+"p": 0.842
 },
 {
 "w": " I",
@@ -174,38 +174,29 @@
 "w": " scream",
 "s": 8.26,
 "e": 8.64,
-"p": 0.912
+"p": 0.911
 },
 {
 "w": " at",
 "s": 8.64,
 "e": 8.8,
-"p": 0.922
+"p": 0.925
 },
 {
 "w": " Virgil,",
 "s": 8.8,
 "e": 9.2,
 "p": 1.0
-}
-]
 },
-{
-"start": 9.3,
-"end": 11.54,
-"text": "especially if I scream at Virgil in front of somebody.",
-"avg_logprob": -0.174,
-"no_speech_prob": 0.0,
-"words": [
 {
 "w": " especially",
 "s": 9.3,
-"e": 9.58,
+"e": 9.56,
 "p": 1.0
 },
 {
 "w": " if",
-"s": 9.58,
+"s": 9.56,
 "e": 9.76,
 "p": 1.0
 },
@@ -219,7 +210,7 @@
 "w": " scream",
 "s": 9.82,
 "e": 10.1,
-"p": 0.991
+"p": 0.992
 },
 {
 "w": " at",
@@ -263,14 +254,14 @@
 "start": 11.98,
 "end": 12.8,
 "text": "You know what I'm saying?",
-"avg_logprob": -0.174,
+"avg_logprob": -0.158,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
 "s": 11.98,
 "e": 12.42,
-"p": 0.992
+"p": 0.991
 },
 {
 "w": " know",
@@ -282,7 +273,7 @@
 "w": " what",
 "s": 12.5,
 "e": 12.72,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " I'm",
@@ -300,16 +291,16 @@
 },
 {
 "start": 13.02,
-"end": 18.5,
-"text": "Well, for Puff to call me and say anybody with a White Lives Matter t-shirt is getting greenlit,",
-"avg_logprob": -0.174,
+"end": 21.08,
+"text": "Well, for Puff to call me and say anybody with a White Lives Matter t-shirt is getting greenlit, I know how Virgil felt at that moment.",
+"avg_logprob": -0.158,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Well,",
 "s": 13.02,
 "e": 13.16,
-"p": 0.835
+"p": 0.819
 },
 {
 "w": " for",
@@ -357,7 +348,7 @@
 "w": " anybody",
 "s": 14.44,
 "e": 14.9,
-"p": 0.921
+"p": 0.925
 },
 {
 "w": " with",
@@ -393,7 +384,7 @@
 "w": " t",
 "s": 16.94,
 "e": 17.12,
-"p": 0.708
+"p": 0.71
 },
 {
 "w": "-shirt",
@@ -417,17 +408,8 @@
 "w": " greenlit,",
 "s": 17.92,
 "e": 18.5,
-"p": 0.975
-}
-]
+"p": 0.982
 },
-{
-"start": 18.9,
-"end": 21.08,
-"text": "I know how Virgil felt at that moment.",
-"avg_logprob": -0.174,
-"no_speech_prob": 0.0,
-"words": [
 {
 "w": " I",
 "s": 18.9,
@@ -438,7 +420,7 @@
 "w": " know",
 "s": 19.2,
 "e": 19.42,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " how",
@@ -449,12 +431,12 @@
 {
 "w": " Virgil",
 "s": 19.62,
-"e": 20.08,
+"e": 20.1,
 "p": 1.0
 },
 {
 "w": " felt",
-"s": 20.08,
+"s": 20.1,
 "e": 20.38,
 "p": 1.0
 },
@@ -482,18 +464,18 @@
 "start": 21.08,
 "end": 25.2,
 "text": "If I ever said something where his idol said something that hurt his feelings.",
-"avg_logprob": -0.174,
+"avg_logprob": -0.158,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " If",
 "s": 21.08,
-"e": 21.46,
-"p": 0.996
+"e": 21.48,
+"p": 0.997
 },
 {
 "w": " I",
-"s": 21.46,
+"s": 21.48,
 "e": 21.58,
 "p": 1.0
 },
@@ -519,7 +501,7 @@
 "w": " where",
 "s": 22.36,
 "e": 22.5,
-"p": 0.936
+"p": 0.883
 },
 {
 "w": " his",
@@ -530,14 +512,14 @@
 {
 "w": " idol",
 "s": 22.72,
-"e": 23.22,
+"e": 23.24,
 "p": 1.0
 },
 {
 "w": " said",
-"s": 23.22,
+"s": 23.24,
 "e": 23.96,
-"p": 0.805
+"p": 0.867
 },
 {
 "w": " something",
@@ -575,14 +557,14 @@
 "start": 26.24,
 "end": 30.2,
 "text": "And, you know, and that's why Virgil took the watch from Drake.",
-"avg_logprob": -0.193,
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " And,",
 "s": 26.24,
 "e": 26.6,
-"p": 0.672
+"p": 0.711
 },
 {
 "w": " you",
@@ -600,7 +582,7 @@
 "w": " and",
 "s": 27.26,
 "e": 27.36,
-"p": 0.977
+"p": 0.968
 },
 {
 "w": " that's",
@@ -618,13 +600,13 @@
 "w": " Virgil",
 "s": 28.02,
 "e": 28.9,
-"p": 0.997
+"p": 0.996
 },
 {
 "w": " took",
 "s": 28.9,
 "e": 29.26,
-"p": 0.998
+"p": 0.999
 },
 {
 "w": " the",
@@ -656,7 +638,7 @@
 "start": 30.86,
 "end": 31.6,
 "text": "You know what I'm saying?",
-"avg_logprob": -0.193,
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -669,23 +651,23 @@
 "w": " know",
 "s": 31.22,
 "e": 31.36,
-"p": 0.486
+"p": 0.466
 },
 {
 "w": " what",
 "s": 31.36,
-"e": 31.5,
-"p": 0.992
+"e": 31.48,
+"p": 0.996
 },
 {
 "w": " I'm",
-"s": 31.5,
-"e": 31.5,
-"p": 0.998
+"s": 31.48,
+"e": 31.48,
+"p": 0.999
 },
 {
 "w": " saying?",
-"s": 31.5,
+"s": 31.48,
 "e": 31.6,
 "p": 0.999
 }
@@ -695,7 +677,7 @@
 "start": 31.6,
 "end": 33.0,
 "text": "He knew that would hurt my feelings.",
-"avg_logprob": -0.193,
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -720,7 +702,7 @@
 "w": " would",
 "s": 32.1,
 "e": 32.22,
-"p": 0.995
+"p": 0.994
 },
 {
 "w": " hurt",
@@ -745,8 +727,8 @@
 {
 "start": 33.4,
 "end": 35.92,
-"text": "You know, we hurt each other's feelings, and we don't mean to,",
-"avg_logprob": -0.193,
+"text": "You know, we hurt each other's feelings and we don't mean to,",
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -786,16 +768,16 @@
 "p": 1.0
 },
 {
-"w": " feelings,",
+"w": " feelings",
 "s": 34.82,
 "e": 35.16,
 "p": 1.0
 },
 {
 "w": " and",
-"s": 35.2,
+"s": 35.16,
 "e": 35.36,
-"p": 0.999
+"p": 0.6
 },
 {
 "w": " we",
@@ -813,7 +795,7 @@
 "w": " mean",
 "s": 35.58,
 "e": 35.76,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " to,",
@@ -824,15 +806,15 @@
 ]
 },
 {
-"start": 35.98,
+"start": 36.0,
 "end": 37.92,
 "text": "but part of the reason why we hurt each other's feelings.",
-"avg_logprob": -0.193,
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " but",
-"s": 35.98,
+"s": 36.0,
 "e": 36.12,
 "p": 1.0
 },
@@ -876,7 +858,7 @@
 "w": " hurt",
 "s": 37.36,
 "e": 37.52,
-"p": 0.979
+"p": 0.978
 },
 {
 "w": " each",
@@ -894,7 +876,7 @@
 "w": " feelings.",
 "s": 37.92,
 "e": 37.92,
-"p": 0.995
+"p": 0.993
 }
 ]
 },
@@ -902,26 +884,26 @@
 "start": 37.92,
 "end": 38.68,
 "text": "But I want to address that.",
-"avg_logprob": -0.193,
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " But",
 "s": 37.92,
 "e": 37.92,
-"p": 0.8
+"p": 0.779
 },
 {
 "w": " I",
 "s": 37.92,
 "e": 38.02,
-"p": 0.994
+"p": 0.995
 },
 {
 "w": " want",
 "s": 38.02,
 "e": 38.14,
-"p": 0.995
+"p": 0.993
 },
 {
 "w": " to",
@@ -944,29 +926,29 @@
 ]
 },
 {
-"start": 38.76,
-"end": 40.28,
-"text": "You said Virgil took the watch from Drake,",
-"avg_logprob": -0.193,
+"start": 38.78,
+"end": 43.06,
+"text": "You said Virgil took the watch from Drake because Virgil actually designed a paddock.",
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
-"s": 38.76,
+"s": 38.78,
 "e": 38.8,
-"p": 0.976
+"p": 0.966
 },
 {
 "w": " said",
 "s": 38.8,
-"e": 38.98,
-"p": 0.853
+"e": 39.0,
+"p": 0.856
 },
 {
 "w": " Virgil",
-"s": 38.98,
+"s": 39.0,
 "e": 39.4,
-"p": 0.932
+"p": 0.922
 },
 {
 "w": " took",
@@ -990,28 +972,19 @@
 "w": " from",
 "s": 39.9,
 "e": 40.04,
-"p": 0.971
+"p": 0.968
 },
 {
-"w": " Drake,",
+"w": " Drake",
 "s": 40.04,
-"e": 40.28,
+"e": 40.3,
 "p": 1.0
-}
-]
 },
-{
-"start": 40.5,
-"end": 43.06,
-"text": "because Virgil actually designed a paddock.",
-"avg_logprob": -0.193,
-"no_speech_prob": 0.0,
-"words": [
 {
 "w": " because",
-"s": 40.5,
+"s": 40.3,
 "e": 40.86,
-"p": 0.999
+"p": 0.869
 },
 {
 "w": " Virgil",
@@ -1041,58 +1014,76 @@
 "w": " paddock.",
 "s": 42.58,
 "e": 43.06,
-"p": 0.909
+"p": 0.923
 }
 ]
 },
 {
-"start": 43.18,
-"end": 47.1,
-"text": "Oh, well, Virgil took the watch, sent the watch to Drake and all that type of stuff.",
-"avg_logprob": -0.193,
+"start": 43.2,
+"end": 47.08,
+"text": "Oh, well, Virgil, I'm sorry, Virgil took the watch, sent the watch to Drake and all that type of stuff.",
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Oh,",
-"s": 43.18,
-"e": 43.42,
-"p": 0.947
+"s": 43.2,
+"e": 43.44,
+"p": 0.941
 },
 {
 "w": " well,",
 "s": 43.52,
 "e": 43.6,
-"p": 0.913
+"p": 0.874
 },
 {
-"w": " Virgil",
+"w": " Virgil,",
 "s": 43.78,
 "e": 43.94,
 "p": 0.994
 },
 {
-"w": " took",
-"s": 43.94,
-"e": 44.18,
-"p": 0.381
-},
-{
-"w": " the",
-"s": 44.18,
-"e": 45.02,
-"p": 0.973
-},
-{
-"w": " watch,",
-"s": 45.02,
-"e": 45.26,
+"w": " I'm",
+"s": 44.1,
+"e": 44.22,
 "p": 0.999
 },
 {
+"w": " sorry,",
+"s": 44.22,
+"e": 44.34,
+"p": 0.999
+},
+{
+"w": " Virgil",
+"s": 44.44,
+"e": 44.7,
+"p": 0.999
+},
+{
+"w": " took",
+"s": 44.7,
+"e": 44.88,
+"p": 0.986
+},
+{
+"w": " the",
+"s": 44.88,
+"e": 45.04,
+"p": 1.0
+},
+{
+"w": " watch,",
+"s": 45.04,
+"e": 45.28,
+"p": 1.0
+},
+{
 "w": " sent",
-"s": 45.4,
+"s": 45.44,
 "e": 45.64,
-"p": 0.994
+"p": 0.999
 },
 {
 "w": " the",
@@ -1110,7 +1101,7 @@
 "w": " to",
 "s": 46.0,
 "e": 46.14,
-"p": 0.979
+"p": 0.98
 },
 {
 "w": " Drake",
@@ -1122,7 +1113,7 @@
 "w": " and",
 "s": 46.32,
 "e": 46.48,
-"p": 0.791
+"p": 0.996
 },
 {
 "w": " all",
@@ -1133,14 +1124,14 @@
 {
 "w": " that",
 "s": 46.62,
-"e": 46.74,
-"p": 0.993
+"e": 46.72,
+"p": 0.995
 },
 {
 "w": " type",
-"s": 46.74,
+"s": 46.72,
 "e": 46.88,
-"p": 0.85
+"p": 0.833
 },
 {
 "w": " of",
@@ -1151,53 +1142,53 @@
 {
 "w": " stuff.",
 "s": 46.94,
-"e": 47.1,
-"p": 0.985
+"e": 47.08,
+"p": 0.984
 }
 ]
 },
 {
 "start": 47.3,
 "end": 50.94,
-"text": "Because he knew that, like, you know, that would hurt my feelings.",
-"avg_logprob": -0.193,
+"text": "Because he know that, like, you know, that would hurt my feelings.",
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Because",
 "s": 47.3,
 "e": 47.66,
-"p": 0.994
+"p": 0.959
 },
 {
 "w": " he",
 "s": 47.66,
-"e": 47.86,
+"e": 47.82,
 "p": 1.0
 },
 {
-"w": " knew",
-"s": 47.86,
+"w": " know",
+"s": 47.82,
 "e": 48.32,
-"p": 0.311
+"p": 0.497
 },
 {
 "w": " that,",
 "s": 48.32,
 "e": 48.56,
-"p": 1.0
+"p": 0.998
 },
 {
 "w": " like,",
 "s": 48.58,
 "e": 48.88,
-"p": 0.988
+"p": 0.989
 },
 {
 "w": " you",
 "s": 49.56,
 "e": 49.76,
-"p": 0.998
+"p": 1.0
 },
 {
 "w": " know,",
@@ -1207,7 +1198,7 @@
 },
 {
 "w": " that",
-"s": 49.96,
+"s": 49.98,
 "e": 50.08,
 "p": 1.0
 },
@@ -1226,12 +1217,12 @@
 {
 "w": " my",
 "s": 50.4,
-"e": 50.56,
+"e": 50.58,
 "p": 1.0
 },
 {
 "w": " feelings.",
-"s": 50.56,
+"s": 50.58,
 "e": 50.94,
 "p": 1.0
 }
@@ -1240,8 +1231,8 @@
 {
 "start": 51.22,
 "end": 54.22,
-"text": "I worked with Balenciaga because I knew it would hurt Drake's feelings.",
-"avg_logprob": -0.193,
+"text": "I work with Balenciaga because I knew it would hurt Drake's feelings.",
+"avg_logprob": -0.179,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -1251,28 +1242,28 @@
 "p": 0.998
 },
 {
-"w": " worked",
+"w": " work",
 "s": 51.58,
 "e": 51.82,
-"p": 0.7
+"p": 0.584
 },
 {
 "w": " with",
 "s": 51.82,
-"e": 51.96,
+"e": 51.94,
 "p": 0.999
 },
 {
 "w": " Balenciaga",
-"s": 51.96,
+"s": 51.94,
 "e": 52.52,
-"p": 0.995
+"p": 0.996
 },
 {
 "w": " because",
 "s": 52.52,
 "e": 52.74,
-"p": 0.898
+"p": 0.999
 },
 {
 "w": " I",
@@ -1284,7 +1275,7 @@
 "w": " knew",
 "s": 52.86,
 "e": 53.0,
-"p": 1.0
+"p": 0.994
 },
 {
 "w": " it",
@@ -1296,7 +1287,7 @@
 "w": " would",
 "s": 53.12,
 "e": 53.24,
-"p": 1.0
+"p": 0.998
 },
 {
 "w": " hurt",
@@ -1308,7 +1299,7 @@
 "w": " Drake's",
 "s": 53.46,
 "e": 54.04,
-"p": 0.99
+"p": 0.976
 },
 {
 "w": " feelings.",
@@ -1321,33 +1312,33 @@
 {
 "start": 54.22,
 "end": 56.56,
-"text": "We're operating, like I said, it's 4D chess.",
-"avg_logprob": -0.246,
+"text": "We're operating, like I said, it's 4-D chess.",
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " We're",
 "s": 54.22,
 "e": 54.74,
-"p": 0.64
+"p": 0.628
 },
 {
 "w": " operating,",
 "s": 54.74,
 "e": 55.12,
-"p": 0.993
+"p": 0.992
 },
 {
 "w": " like",
 "s": 55.16,
 "e": 55.32,
-"p": 0.993
+"p": 0.991
 },
 {
 "w": " I",
 "s": 55.32,
 "e": 55.42,
-"p": 0.996
+"p": 0.995
 },
 {
 "w": " said,",
@@ -1358,20 +1349,26 @@
 {
 "w": " it's",
 "s": 55.7,
-"e": 55.74,
-"p": 0.615
+"e": 55.76,
+"p": 0.611
 },
 {
-"w": " 4D",
-"s": 55.74,
-"e": 56.18,
-"p": 0.81
+"w": " 4",
+"s": 55.76,
+"e": 56.0,
+"p": 0.945
+},
+{
+"w": "-D",
+"s": 56.0,
+"e": 56.22,
+"p": 0.636
 },
 {
 "w": " chess.",
-"s": 56.18,
+"s": 56.22,
 "e": 56.56,
-"p": 0.837
+"p": 0.873
 }
 ]
 },
@@ -1379,65 +1376,65 @@
 "start": 56.76,
 "end": 58.76,
 "text": "You guys are playing crazy games, bro.",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
 "s": 56.76,
 "e": 57.02,
-"p": 0.737
+"p": 0.689
 },
 {
 "w": " guys",
 "s": 57.02,
 "e": 57.2,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " are",
 "s": 57.2,
 "e": 57.34,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " playing",
 "s": 57.34,
 "e": 57.66,
-"p": 0.98
+"p": 0.97
 },
 {
 "w": " crazy",
 "s": 57.66,
 "e": 58.04,
-"p": 0.995
+"p": 0.991
 },
 {
 "w": " games,",
 "s": 58.04,
 "e": 58.52,
-"p": 0.915
+"p": 0.938
 },
 {
 "w": " bro.",
-"s": 58.66,
+"s": 58.64,
 "e": 58.76,
-"p": 0.992
+"p": 0.987
 }
 ]
 },
 {
-"start": 58.92,
+"start": 58.94,
 "end": 59.58,
 "text": "Yeah, you know what I'm saying?",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Yeah,",
-"s": 58.92,
+"s": 58.94,
 "e": 59.02,
-"p": 0.989
+"p": 0.982
 },
 {
 "w": " you",
@@ -1449,7 +1446,7 @@
 "w": " know",
 "s": 59.22,
 "e": 59.3,
-"p": 0.464
+"p": 0.452
 },
 {
 "w": " what",
@@ -1467,7 +1464,7 @@
 "w": " saying?",
 "s": 59.44,
 "e": 59.58,
-"p": 0.998
+"p": 0.996
 }
 ]
 },
@@ -1475,32 +1472,32 @@
 "start": 59.66,
 "end": 61.02,
 "text": "This is like real war.",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " This",
 "s": 59.66,
-"e": 59.78,
-"p": 0.893
+"e": 59.8,
+"p": 0.9
 },
 {
 "w": " is",
-"s": 59.78,
-"e": 59.94,
+"s": 59.8,
+"e": 59.96,
 "p": 0.999
 },
 {
 "w": " like",
-"s": 59.94,
+"s": 59.96,
 "e": 60.18,
-"p": 0.877
+"p": 0.874
 },
 {
 "w": " real",
 "s": 60.18,
 "e": 60.52,
-"p": 0.992
+"p": 0.986
 },
 {
 "w": " war.",
@@ -1514,38 +1511,38 @@
 "start": 61.68,
 "end": 64.62,
 "text": "This is like Virgil was a psychological warrior.",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " This",
 "s": 61.68,
 "e": 61.74,
-"p": 0.716
+"p": 0.666
 },
 {
 "w": " is",
 "s": 61.74,
 "e": 61.9,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " like",
 "s": 61.9,
 "e": 62.16,
-"p": 0.366
+"p": 0.264
 },
 {
 "w": " Virgil",
 "s": 62.16,
 "e": 63.1,
-"p": 0.845
+"p": 0.866
 },
 {
 "w": " was",
 "s": 63.1,
 "e": 63.28,
-"p": 0.679
+"p": 0.712
 },
 {
 "w": " a",
@@ -1568,15 +1565,15 @@
 ]
 },
 {
-"start": 65.36,
+"start": 65.34,
 "end": 67.02,
 "text": "He was a warrior, bro.",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " He",
-"s": 65.36,
+"s": 65.34,
 "e": 65.74,
 "p": 1.0
 },
@@ -1608,9 +1605,9 @@
 },
 {
 "start": 67.86,
-"end": 71.4,
-"text": "That man made it from being Ye's assistant to the head of Louis Vuitton.",
-"avg_logprob": -0.246,
+"end": 69.92,
+"text": "That man made it from being Ye's assistant",
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -1628,12 +1625,12 @@
 {
 "w": " made",
 "s": 68.2,
-"e": 68.54,
+"e": 68.52,
 "p": 1.0
 },
 {
 "w": " it",
-"s": 68.54,
+"s": 68.52,
 "e": 68.72,
 "p": 1.0
 },
@@ -1647,20 +1644,29 @@
 "w": " being",
 "s": 68.94,
 "e": 69.28,
-"p": 0.964
+"p": 0.963
 },
 {
 "w": " Ye's",
 "s": 69.28,
 "e": 69.56,
-"p": 0.94
+"p": 0.938
 },
 {
 "w": " assistant",
 "s": 69.56,
 "e": 69.92,
 "p": 0.998
+}
+]
 },
+{
+"start": 69.92,
+"end": 71.4,
+"text": "to the head of Louis Vuitton.",
+"avg_logprob": -0.253,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " to",
 "s": 69.92,
@@ -1695,15 +1701,15 @@
 "w": " Vuitton.",
 "s": 70.82,
 "e": 71.4,
-"p": 0.986
+"p": 0.99
 }
 ]
 },
 {
 "start": 71.54,
-"end": 72.54,
+"end": 72.56,
 "text": "That man's a warrior.",
-"avg_logprob": -0.246,
+"avg_logprob": -0.253,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -1727,7 +1733,7 @@
 {
 "w": " warrior.",
 "s": 72.24,
-"e": 72.54,
+"e": 72.56,
 "p": 1.0
 }
 ]

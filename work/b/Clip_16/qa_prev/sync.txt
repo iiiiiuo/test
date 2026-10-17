@@ -1,9 +1,9 @@
    0.01-  0.99 SUB: Can I continue?  ||  続けていい？
                HEARD: 
-   1.01-  2.11 SUB: Yeah.  ||  ああ
+   1.01-  1.51 SUB: Yeah.  ||  ああ
                HEARD: 
-   2.91-  6.53 SUB: But I feel like, you / know what I'm saying?  ||  でもさ、なんていうか
-               HEARD: I feel like, you know what I'm saying?
+   1.53-  6.53 SUB: But I feel like, you / know what I'm saying?  ||  でもさ、なんていうか
+               HEARD: But I feel like, you know what I'm saying?
    6.55-  8.73 SUB: When I was having the funny thing,  ||  Puff Daddyと揉めてた時
                HEARD: When I was having, the funny thing with
    8.75- 10.93 SUB: the issues with Puff I was having,  ||  おかしなことがあってさ
@@ -18,29 +18,29 @@
                HEARD: And I saw a couple people just standing out in front of the space.
   22.95- 24.07 SUB: Just standing there.  ||  ただ突っ立ってたんだよ
                HEARD: Just standing there.
-  25.16- 28.72 SUB: And I was like, oh man, / Puff really does this, right?  ||  で、「うわ、Puff Daddyは / マジでこういうことやるのか」　って思って
-               HEARD: And I was like, oh man, Puff really does this. Right?
-  28.74- 31.86 SUB: And it just made me think, I got to / really get on my billionaire s**t.  ||  それで思ったんだよ　億万長者らしく / 本気出さなきゃって
-               HEARD: And it just made me think, I got to really get on my billionaire shit. so
-  31.88- 35.24 SUB: So I went and bought a 50 / million dollar penthouse,  ||  だから5000万ドルの / ペントハウス買って
+  25.47- 29.01 SUB: And I was like, oh man, / Puff really does this, right?  ||  で、「うわ、Puff Daddyは / マジでこういうことやるのか」　って思って
+               HEARD: I was like, oh man, Puff really does this. Right? And
+  29.03- 32.17 SUB: And it just made me think, I got to / really get on my billionaire s**t.  ||  それで思ったんだよ　億万長者らしく / 本気出さなきゃって
+               HEARD: it just made me think, I got to really get on my billionaire shit. so
+  32.19- 35.53 SUB: So I went and bought a 50 / million dollar penthouse,  ||  だから5000万ドルの / ペントハウス買って
                HEARD: I went and bought a 50 million dollar uh penthouse and
-  35.26- 37.94 SUB: and I Maybach'd the fleet / out. Because I was like,  ||  車も全部Maybachにした / だってホームレスみたいに
+  35.55- 37.94 SUB: and I Maybach'd the fleet / out. Because I was like,  ||  車も全部Maybachにした / だってホームレスみたいに
                HEARD: I made back the fleet out because I was like
   37.96- 40.70 SUB: yo, I can't be walking / around homeless,  ||  うろついてたらダメだろ
                HEARD: like yo I'm not gonna I can't be walking around homeless like
-  40.72- 44.64 SUB: like, beefing with Puff. You got to, / like, you know what I mean?  ||  Puff Daddyとビーフしてるのにさ / わかるだろ？
-               HEARD: beefing with Puff you gotta like you know what I mean I
-  45.64- 47.80 SUB: I don't think that would / have been an issue.  ||  それは問題に / ならなかったと思うけどな
-               HEARD: think that would have been an issue and
-  48.68- 51.70 SUB: And so what I really did get / out of it is that, like, Puff,  ||  で、そこから学んだのは
+  40.72- 44.12 SUB: like, beefing with Puff. You got to, / like, you know what I mean?  ||  Puff Daddyとビーフしてるのにさ / わかるだろ？
+               HEARD: beefing with Puff you gotta like you know what I mean
+  44.14- 47.80 SUB: I don't think that would / have been an issue.  ||  それは問題に / ならなかったと思うけどな
+               HEARD: I don't think that would have been an issue and
+  48.95- 51.70 SUB: And so what I really did get / out of it is that, like, Puff,  ||  で、そこから学んだのは
                HEARD: so what I really did get out of it is the like Puff
   51.72- 54.70 SUB: like, stay rich, never gonna... / you know what I'm saying?  ||  Puff Daddyはいつでも金持ちってこと / わかる？
                HEARD: like stay rich never gonna you know what
   54.72- 58.02 SUB: You never seen this man in no / Vans. You know what I'm saying?  ||  あの人がVans履いてるとこなんか / 見たことないだろ
                HEARD: I'm saying you never seen this man in no vans you know what I'm saying this
-  58.04- 60.19 SUB: This ni**a's just keeping / it rich. He's good.  ||  あいつはいつだって / 金持ちスタイルなんだよ
+  58.04- 60.27 SUB: This ni**a's just keeping / it rich. He's good.  ||  あいつはいつだって / 金持ちスタイルなんだよ
                HEARD: nigga's just keeping rich he's good but
-  60.21- 62.08 SUB: He wasn't rich at all times.  ||  ずっと金持ちだった / わけじゃないだろ
+  60.29- 62.08 SUB: He wasn't rich at all times.  ||  ずっと金持ちだった / わけじゃないだろ
                HEARD: he was like this he
   62.10- 64.54 SUB: He was like this. He was doing / the Puppy dance, you remember?  ||  こんな感じで　パピー・ダンス / 踊ってたじゃん　覚えてる？
                HEARD: was like this he was doing the puppy dance you remember

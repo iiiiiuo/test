@@ -54,16 +54,16 @@
   "ass_sha256": "11b1c0f0a331ae692e13d46dcb766c7357a958e8730c506517c26f31b1ccf811"
  },
  "Clip_14": {
-  "render_sha256": "4acd372b4212c164e852c969d50ea40adaf778b4be380961fdc4a0c51f900520",
+  "render_sha256": "9caada490330759f4bc0dcf51341e3e954a571a077aac2a1c52289bab0790f8e",
   "verdict": "PASS",
   "critic": "work/b/Clip_14/qa/critic.md",
-  "ass_sha256": "6f047f76f5d0d53a422b639872a9f57416d3bb7dc1d1d92621d8f8757691c5f1"
+  "ass_sha256": "e7a7f6b37b0919cda8a7c2ef8435816804e614ab0964109cbdf9508b1ad322e7"
  },
  "Clip_17": {
-  "render_sha256": "c4d1fbdb4e61ce2342d110f9aaaa2e225bd1f0f2ebff409460352df7e31d1c06",
+  "render_sha256": "4d18a3bd88eb15ed8bb84b0ec48db0b2966ec2f00179dbfc854501a8ca55936e",
   "verdict": "PASS",
   "critic": "work/b/Clip_17/qa/critic.md",
-  "ass_sha256": "9b36249be62eeeb040d25d772f718e8e304fec401729a571bb7b90e70605eb00"
+  "ass_sha256": "c22ac0a909878a93de53058c72f8832c8beb418fa488cfd78d0c039fa42c0e42"
  },
  "Clip_21": {
   "render_sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f",
@@ -72,10 +72,10 @@
   "ass_sha256": "97b16c42be47f0f06983792aa806fa01f67c35926ff03185f5d4a0da584b17df"
  },
  "Clip_16": {
-  "render_sha256": "a2d12ffb84027d8fdc20d71db596f3a756d9e242ccf4cce275c1c607c39249c8",
+  "render_sha256": "75d808253713a846834903e032bb0c6c4dfb44886bf37fb8f1e4f6c0a4848f63",
   "verdict": "PASS",
   "critic": "work/b/Clip_16/qa/critic.md",
-  "ass_sha256": "a4cf5d5eb7ee08066677d71e92d0e66f7ed3d359b810f47bac5d09dad25007b1"
+  "ass_sha256": "eab050676634b64e00d572ba0c58872fa4e5d99fd36e4adba0257066a4117ab3"
  },
  "Clip_12": {
   "render_sha256": "41c7ee2d3e29e86ca2cf0dfb87db92a3dac1e6bbd0a3792a6c7b78c58623a4e2",
@@ -90,10 +90,10 @@
   "ass_sha256": "bc1f1e9b859c2482bd6fa37dc8a002c397f67fb286238d9bbd8bac8fc2e352e0"
  },
  "Clip_15": {
-  "render_sha256": "7f53fe2205ca1c0ea086f72815e8a67089fa31c3813b018874f9b41f420cde10",
+  "render_sha256": "12884c74991ff5e5336f30b9ba2df5c695af73c1ee56d00c6e34c7a2ad3eface",
   "verdict": "PASS",
   "critic": "work/b/Clip_15/qa/critic.md",
-  "ass_sha256": "603eaf45fa5f9079f7101e129f045b3212202ff94a7c1b16cd7b564070ef6928"
+  "ass_sha256": "e5dd5d8859f5069750df8eabdf4ffd388f4437ac90814c70b13728d59e718e14"
  },
  "Clip_18": {
   "render_sha256": "2b1c2860cfa03229352c95b7afaf4c51c6ac9a64d7923404184b6f66bf8b8d12",

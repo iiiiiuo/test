@@ -1,21 +1,18 @@
-VERDICT: FAIL
-Blocking gaps: Item 6 @ ~41.9-43.5s: full foreground sentence "Still on, they might not take them off." (render ASR 41.9-43.4; source 1185.00-1186.76) has no caption (gap 41.27 -> 47.49).
-Blocking gaps: Item 6 @ ~28.6-30.0s: sentence "You guys are not getting pussy." (source 1171.76-1173.14) uncaptioned between caption 13 (ends 27.67) and caption 14 (30.31); render ASR picks up "Pussy," at 30.0 before the caption appears.
-Blocking gaps: Item 4 @ 26.75-27.67s: caption 13 ("Yeah.") shows JP "最高だなそれ", a duplicate of caption 12; the JP is wrong for this line (approved row L005 is "そう / 最高だなそれ" for Yeah / amazing, the second Yeah has no own JP).
-Largest gap: two uncaptioned full sentences (28.6-30.0s and 41.9-43.5s) in the middle of the clip.
-Fix: add captions for the two sentences (needs approved EN+JP rows, e.g. "You guys are not getting pussy." and "Still on, they might not take them off.") or cut those spans via the manifest; change caption 13's JP to "うん" or drop its JP duplicate by merging with caption 12; optionally start caption 19 ("But now...") ~0.5s earlier (ASR onset 46.9 vs caption 47.49).
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none
+Fix: none
 
-Items
-1. Structure: PASS. Opens at "So I went to Adidas meeting" (source 1143.10, after a clean sentence boundary per source_context), ends on "...in Adidas, bro." with resolved punchline; standalone-understandable.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 81.915 s, audio 81.915 s, 1964 frames = expected, no decode errors.
-3. Transcript accuracy: PASS. HEARD matches captions; small ASR differences ("pull out" vs "put out", "three stitches" vs "350s", "Stout") are ASR noise against source_context. "Four Swans" kept as spoken.
-4. Translation fidelity: FAIL. Caption 13 JP is a wrong duplicate (see above); other rows match the approved CSV and meaning.
-5. Masking: PASS. auto.json unmasked_hits empty; displayed "p**sy" throughout; JP not mechanically masked.
-6. Timing/sync: FAIL. Two uncaptioned full sentences (above). Otherwise onset median 0.0 s, 95.6% of matched words inside their caption.
-7. Typography/visuals: PASS. sheet_1/2 show white bold Yu Gothic, black outline/shadow, EN above JP, centred at same height as reference, max 2 EN + 2 JP lines, no overflow.
-8. Framing: PASS. Faces in sharp centre band with blurred fill; changes occur at shot changes (Ye / host / third speaker).
-9. Source usage: PASS. Single interval part_4 frames [27407, 29371), no padding or repetition; no joins.
+1. Structure: PASS. Opens at "So I went to Adidas meeting" (HEARD matches, no clipped word). Ends on "...no one's getting p**sy in Adidas, bro." (source 1224.90, answers the "who came up with that" question). Cuts at 1171.34 (after "Yeah."), 1173.38 and 1184.18 (after "Or still on") fall in pauses. Removed lines ("You guys are not getting p...", "Still on / No, they might not take them off") do not break the sense.
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 76.827 s, audio 76.827 s, 1842 frames = expected, decode_errors empty.
+3. Transcript: PASS. HEARD matches the displayed English. Differences are ASR noise or acceptable (pulled/put out, "350s" vs three stitches, "Stout" vs "Stoute"). Match ratio 0.93, 98.6% of matched words fall inside their caption.
+4. Translation: PASS. No clear errors. JP lines 9/10 ("それがマーケティングの / プレゼンだったわけ？") are split across two captions in the right order. "ヤってる場面" and "モテる" are approved wording.
+5. Masking: PASS. auto.json unmasked_hits is empty. Every p**sy and get-p**sy toe is masked in the English. The Japanese is not mechanically masked.
+6. Timing/sync: PASS. Onset median offset 0.10 s, max 0.63 s. No caption under 0.48 s except the one-word "Yeah." (24.43-24.91), which is a single word and acceptable. The uncaptioned stretch 39.2-41.8 s is Ye laughing (frames 40.5/41.5), a reaction. The 19.8-24.4 s gap is a pause before "Yeah". No uncaptioned foreground full sentence.
+7. Typography/visuals: PASS. White bold Yu Gothic with black outline/shadow, EN above JP, centred, same vertical position and size as the reference sheet. Max 2 EN + 2 JP lines, no overflow. Readable over the white shirt (f_0000.05, f_0050.07).
+8. Framing: PASS. Faces sit in the sharp centre band with blurred fill above and below, as in the reference. Crop changes coincide with speaker/shot changes. The face is slightly off-centre at about 40.5 s (laughing, head turned), not cut off.
+9. Source usage: PASS. Three half-open intervals from part_4 (27407-28084, 28133-28392, 28465-29371), disjoint, with audio the same as video. No padding, freeze or repetition. The joins read naturally.
 
 Non-blocking notes
-- Caption 12/13 timing: second "Yeah." as a separate 0.9 s caption is brief but readable.
-- Caption 22 holds 4.9 s for a short phrase (speech pause); acceptable.
+- Caption 7 "nobody's getting p**sy in Adidas." starts at 15.40 s after a 0.6 s gap following "look,". This matches the speech pause.
+- The JP for "Let's get p**sy, guys" uses 「」 quotes, consistent with the surrounding quoted pitch.

@@ -3,16 +3,21 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-1. Structure: PASS. Opens at "So I went to Adidas meeting" (HEARD matches, no clipped word). Ends on "...no one's getting p**sy in Adidas, bro." (source 1224.90, answers the "who came up with that" question). Cuts at 1171.34 (after "Yeah."), 1173.38 and 1184.18 (after "Or still on") fall in pauses. Removed lines ("You guys are not getting p...", "Still on / No, they might not take them off") do not break the sense.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 76.827 s, audio 76.827 s, 1842 frames = expected, decode_errors empty.
-3. Transcript: PASS. HEARD matches the displayed English. Differences are ASR noise or acceptable (pulled/put out, "350s" vs three stitches, "Stout" vs "Stoute"). Match ratio 0.93, 98.6% of matched words fall inside their caption.
-4. Translation: PASS. No clear errors. JP lines 9/10 ("それがマーケティングの / プレゼンだったわけ？") are split across two captions in the right order. "ヤってる場面" and "モテる" are approved wording.
-5. Masking: PASS. auto.json unmasked_hits is empty. Every p**sy and get-p**sy toe is masked in the English. The Japanese is not mechanically masked.
-6. Timing/sync: PASS. Onset median offset 0.10 s, max 0.63 s. No caption under 0.48 s except the one-word "Yeah." (24.43-24.91), which is a single word and acceptable. The uncaptioned stretch 39.2-41.8 s is Ye laughing (frames 40.5/41.5), a reaction. The 19.8-24.4 s gap is a pause before "Yeah". No uncaptioned foreground full sentence.
-7. Typography/visuals: PASS. White bold Yu Gothic with black outline/shadow, EN above JP, centred, same vertical position and size as the reference sheet. Max 2 EN + 2 JP lines, no overflow. Readable over the white shirt (f_0000.05, f_0050.07).
-8. Framing: PASS. Faces sit in the sharp centre band with blurred fill above and below, as in the reference. Crop changes coincide with speaker/shot changes. The face is slightly off-centre at about 40.5 s (laughing, head turned), not cut off.
-9. Source usage: PASS. Three half-open intervals from part_4 (27407-28084, 28133-28392, 28465-29371), disjoint, with audio the same as video. No padding, freeze or repetition. The joins read naturally.
+Items (scope: 2, 5, 7, 10; item 4 not applicable, CHANGED_LINES = none)
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 76.827 s, audio 76.827 s, 1842 frames = expected 1842, decode_errors empty.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (no changed lines)
+5. Masking: PASS. auto.json unmasked_hits = []. A grep of ass/srt for pussy/shit/fuck/nigg/bitch finds nothing. EN shows "p**sy" (7 events, including "get-p**sy toe"). Japanese uses モテる/ヤってる, not mechanically masked.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS. Frames e_43.5, e_47.0, e_51.0 (extra/) against ref_20: white bold Yu Gothic, black outline and shadow, EN above JP, centred, same start y (~948) as the reference. Max 2 EN + 2 JP lines. Nothing clipped, all inside the sharp band, readable on the bright yellow background.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS.
+ - Text matches glossary_draft_s1.json verbatim: Clip_15_L009 "350：Yeezy Boost 350。YeがAdidasと作ったスニーカー" (two lines, break between sentences) and Clip_15_L011 "Steve Stoute：音楽・広告業界の実業家".
+ - Timing: the first runs 42.40-48.23 s (5.8 s). It starts with the "350s" caption and stays up through "So that was the whole point". The second runs 48.25-52.37 s (4.1 s) and covers the "Steve Stoute know" caption. Both are readable.
+ - Position: style Expl is Yu Gothic bold, white, outline 3, shadow 2, 40 px. Rows are at y 1138/1186 and 1188, below the last EN/JP line (4-line caption ends about 1150) with a visible gap and no overlap, and above the y 1480 band limit.
+ - No word or name is split by a line break.
 
 Non-blocking notes
-- Caption 7 "nobody's getting p**sy in Adidas." starts at 15.40 s after a 0.6 s gap following "look,". This matches the speech pause.
-- The JP for "Let's get p**sy, guys" uses 「」 quotes, consistent with the surrounding quoted pitch.
+- The two explanations sit at slightly different y (first row 1138 for a 2-line EN/JP block, second 1188 for a 4-line block). This is intentional and does not collide.
