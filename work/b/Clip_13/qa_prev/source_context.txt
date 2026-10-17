@@ -1,6 +1,6 @@
 # Clip_13 source context (part_3.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 1395.45-1474.31s (frames 33458-35348)
+## interval 1395.45-1474.47s (frames 33458-35352)
     1375.54- 1376.02 It's a possibility.
     1376.68- 1378.34 Yeah, yeah, yeah, yeah, yeah, yeah.
     1381.30- 1381.64 Okay.

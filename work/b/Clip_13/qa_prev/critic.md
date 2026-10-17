@@ -1,18 +1,18 @@
-VERDICT: FAIL
-Blocking gaps: Item 1/9 end, 78.8s (src 1474.31s, frame 35348 excl): audio is at full speech level (about -10 dB RMS) up to the last ~20 ms, and the source speech continues past the cut (source ASR "You understand that, right?" runs to 1474.43; source audio stays at -9..-11 dB to ~1474.9). The clip ends mid-word/mid-phrase on "that"; the final "right?" is lost.
-Largest gap: The ending is cut mid-speech (audio hard stop at 78.83s) instead of after the final "You understand that, right?".
-Fix: Extend the end boundary to the next natural pause in the source audio (about 1474.95s or later, check work/audio/part_3.wav, then a frame boundary), keep the interval reserved and disjoint, re-render, and add a final caption line "right?" / JP matching "わかってる？」って" held to the end. Also confirm the render ASR hears "You understand that" (render_asr ends at 77.9s).
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none
+Fix: none
 
-Items
-1. Structure: FAIL. Opening is natural ("I always thought..." after the host's "Yeah, yeah"); middle is coherent (pink polo / Pimp C / vocals up / Strokes / canceled / Drink Champs numbers). Ending is cut mid-speech (see gap).
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 78.82875 s, audio 78.829 s, 1890 frames = expected 1890, no decode errors.
-3. Transcript accuracy: PASS. Displayed English matches HEARD (sync.txt). Match ratio 0.931. The differences are ASR errors ("close" for "polo", "chance" for "Champs") or filler words.
-4. Translation fidelity: PASS. The 29 captions' JP matches the approved CSV rows and the meaning at each moment. No clear errors. Quote brackets 「」 span captions 12-13 and 26-29 correctly.
-5. Masking: PASS. auto.json unmasked_hits is empty. The English has no listed profanity, and the JP is not mechanically masked.
-6. Timing/sync: PASS. Caption onset vs first heard word has median 0.067 s. 97.1% of matched words fall inside their caption. There are no long uncaptioned stretches, and the 69.73-70.26 s gap is a short pause. One caption (L003 "you know, they did it," 15.45-16.35, 0.9 s) is short but readable. The sync is fine apart from the end gap.
-7. Typography/visuals: PASS. In sheet_1 and f_0078.75, white bold Yu Gothic with black outline and shadow, EN above JP, centred, at the same vertical position and size as the reference (about y 965-1040). There are at most 2 EN + 2 JP lines, no clipping, and it is readable on the bright gold background.
-8. Framing: PASS. The face and torso sit in the sharp centre band with a blurred fill above and below as in the reference. The head is not cut off. The framing changes (a wide shot of the smiling speaker, then a tighter shot) look like a punch-in at the shot change at about 5 s.
-9. Source usage: FAIL (end only). The single interval, part_3 frames [33458, 35348), is a frame-exact half-open range with no padding, silence or repetition. Only the end boundary is bad (see gap).
+## Items
+1. Structure: PASS. Opens on "I always thought" (ASR 1395.74s, preceded by "Yeah, yeah" outside the cut); ends on "You understand that, right?" (source 1473.55-1474.43, clip end 1474.47) with the point resolved; reads standalone.
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 78.996 s, audio 78.995 s, 1894/1894 frames, decode_errors empty.
+3. Transcript accuracy: PASS. Match ratio 0.954 and 98% of matched words inside their captions. Differences are ASR errors or filler only (e.g. "very not close" heard vs "polo", "Drink Chance").
+4. Translation fidelity: PASS. All 29 captions match approved rev3 rows with no dropped lines. Quote marks and the split of long JP lines across consecutive captions track the speech.
+5. Masking: PASS. auto.json unmasked_hits is empty and no listed words occur; the JP is not masked.
+6. Timing/sync: PASS. Onset median 0.077 s. The max of 0.727 s is the 69.73-70.26 gap, which is the speaker's real pause (source 1464.70-1465.51). No uncaptioned foreground sentence. The shortest caption is 0.88 s ("It didn't work for me", a short sentence) and still readable.
+7. Typography/visuals: PASS. sheet_1 and f_0078.92 against ref_sheet: white bold Yu Gothic, black outline and shadow, EN above JP, centred, same size and position as the reference, at most 2 EN + 2 JP lines, no overflow.
+8. Framing: PASS. Single continuous piece (one crop 1119x1080); face and cap sit in the sharp band with the blurred fill above and below. The speaker leans and moves slightly but is never cut off.
+9. Source usage: PASS. One interval, part_3 frames [33458, 35352), with video and audio from the same range. No padding, freeze or repetition.
 
-Non-blocking notes
-- Source ASR places the first word at about 1395.74, with the caption at 0.0. The 0.3 s lead-in is fine.
+## Non-blocking notes
+- Caption 6 (0.20 s gap, 1.2 s duration, "you know, they did it,") carries the JP for the full thought, so JP runs slightly ahead of EN across captions 6-8. Reads fine.
