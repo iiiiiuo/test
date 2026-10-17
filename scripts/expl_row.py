@@ -6,14 +6,16 @@ none matches); held to the end of the line, at least long enough to read (~0.13 
 the next explanation or the clip end.
 Placement: one fixed top per explanation, 22 px below the tallest EN+JA block on screen during its span, so the row
 never jumps while it is shown (top 1170 when that block has four rows).
-Style: Yu Gothic Bold 36, white, black outline 3 / shadow 2 (same family and treatment as the frozen EN/JA style),
-pitch 44. Each explained term starts on its own line; lines wrap at 760 px ink width (see wrap_part); at most
-4 lines (bottom <= 1346, inside the sharp band that ends at 1480).
+Style: Yu Gothic Bold 40 (JA row is 50), white, black outline 3 / shadow 2 (same family and treatment as the frozen
+EN/JA style), pitch 48. Each explained term starts on its own line; lines wrap at 760 px rendered ink width (see wrap_part);
+at most 4 lines (bottom <= 1362, inside the sharp band that ends at 1480).
 """
 import json, re
 from PIL import ImageFont
 
-EXPL_FS, EXPL_PITCH, EXPL_GAP, EXPL_MAX_LINES, MAXW = 36, 44, 22, 4, 760
+EXPL_FS, EXPL_PITCH, EXPL_GAP, EXPL_MAX_LINES, MAXW = 40, 48, 22, 4, 760
+MIN_HOLD = 4.0  # s an explanation keeps the screen before a back-to-back one replaces it
+INK_K = 0.753  # libass ink width / PIL advance width for this font (work/b/calib_widths.json, JP), as for the JP row
 TOP, PITCH = 948, 50
 FONT = '/home/user/test/work/fonts/YuGothB.ttc'
 BREAK_AFTER = set('、。：）」』／・')
@@ -55,7 +57,7 @@ def wrap_part(text, font):
     """
     toks = [t for t in _tokens(text)]
     n = len(toks)
-    width = lambda i, j: font.getlength(''.join(toks[i:j]).strip())
+    width = lambda i, j: font.getlength(''.join(toks[i:j]).strip()) * INK_K
     INF = (10 ** 9, float('inf'), None)
     best = [INF] * (n + 1); best[0] = (0, 0.0, None)
     for j in range(1, n + 1):
@@ -111,13 +113,21 @@ def expl_events(captions, glossary_path, clip_id, total):
         terms = _terms(text)
         hit = next((c for c in caps if any(t in (''.join(c['jp']) + ' ' + c['en_unmasked']).lower() for t in terms)), caps[0])
         st = hit['start']
-        en = max(max(c['end'] for c in caps), st + 1.0 + 0.13 * len(text))
-        events.append([st, min(en, total), lines])
+        read = 1.0 + 0.13 * len(text)
+        en = min(max(max(c['end'] for c in caps), st + read), total)
+        if en - st < read:   # term said near the clip end: start earlier within the same line to leave reading time
+            st = max(caps[0]['start'], en - read)
+        events.append([st, en, lines, read])
     events.sort(key=lambda e: e[0])
     for a, b in zip(events, events[1:]):
-        a[1] = min(a[1], b[0] - 0.02)   # never show two explanations at once
+        # back-to-back explanations: the earlier one keeps the screen for up to 4 s (or its reading time), the later
+        # one waits but still gets at least 3 s before its own end; then never show two at once
+        need = min(a[3], MIN_HOLD)
+        if b[0] - a[0] < need:
+            b[0] = max(b[0], min(a[0] + need, b[1] - 3.0))
+        a[1] = min(a[1], b[0] - 0.02)
     out = []
-    for st, en, lines in events:
+    for st, en, lines, _ in events:
         rows = max([len(c['en']) + len(c['jp']) for c in captions if c['start'] < en and c['end'] > st] or [0])
         out.append((st, en, TOP + PITCH * rows + EXPL_GAP, lines))
     return out
