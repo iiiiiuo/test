@@ -3,23 +3,22 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-Items
+## Items
 1. Structure: NOT IN SCOPE
-2. Duration/format: PASS - auto.json: 1080x1920, SAR 1:1, video 65.482 s / audio 65.482 s, 1570 frames = expected, no decode errors.
+2. Duration/format: PASS. qa/auto.json format.PASS true; 1080x1920, SAR 1:1, video 65.482083 s, audio 65.482 s (60 <= d < 120), 1570 frames = expected 1570, no decode errors; ffprobe confirms.
 3. Transcript accuracy: NOT IN SCOPE
 4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
-5. Masking: PASS - auto.json unmasked_hits = []; only masked hit in SRT is "s**t" (line 122); Japanese rows not mechanically masked.
+5. Masking: PASS. Only masked form in ASS/SRT is "s**t" (0:50.79); grep finds 0 unmasked shit/fuck/bitch/nigg/pussy/motherf hits; auto.json unmasked_hits empty; the only asterisks are in the EN row, none in Japanese rows.
 6. Timing/sync: NOT IN SCOPE
-7. Typography/visuals: PASS - f_0021.66, f_0037.24, f_0064.48: white bold Yu Gothic, black outline and shadow, EN above JP, centred, same size and position as the spec (first line y=948, pitch 50), max 2 EN + 2 JP lines, all inside the sharp band.
+7. Typography/visuals: PASS. Frames f_0021.66, f_0037.24, f_0064.48 vs ref_20.png: white bold Yu Gothic, black outline plus shadow, EN above JP, centred, same vertical band as the reference (EN starts y~948), max 2 EN + 2 JP lines, nothing clipped, readable on the bright white shirt and yellow backdrop.
 8. Framing: NOT IN SCOPE
 9. Source usage: NOT IN SCOPE
-10. Term-explanation row: PASS
- - Text matches glossary_draft_s2.json verbatim for Clip_24_L006, L009, L016 (only the line break differs).
- - L006: 18.35-22.21 s, starts with the Steve Jobs caption (18.35). L009: 32.57-39.81 s, starts with the imagineer caption (32.57). L016: 63.17-65.48 s (2.31 s), starts with the "trauma economy" caption (63.17).
- - No overlap with the EN/JP rows: the 4-line block ends about y=1148 and the Expl row starts at y=1188 (L006, L009). In L016 the block is 3 lines and Expl starts at y=1138, which is clear of the JP row in f_0064.48.
- - Inside the sharp band (y 438..1480); the lowest line is at y=1236.
- - Style Expl uses Yu Gothic Bold 40, white fill, black outline 3 and shadow 2, the same as Sub.
- - Line breaks fall after "engineer（技術者）" / "を合わせた造語" and after "生む" / "構造を指す", with no word or name split.
+10. Term-explanation row: PASS. Three Expl events, one per approved key; text verbatim vs glossary_draft_s2.json:
+   - L006 "スティーブ・ジョブズ：Appleの共同創業者": 18.35-22.21 s (3.86 s), starts with the Steve Jobs caption; frame f_0021.66 (inside span): one line at y~1208, below JP block, centred, inside band.
+   - L009 "イマジニア：imagine（想像）とengineer（技術者）を／合わせた造語。Disneyの用語": 32.57-39.81 s (7.2 s), starts with the "imagineer" caption; frame f_0037.24 (inside span, 4-row EN+JP above): two lines at y~1207/1255, clear gap to JP (bottom ~1150), break falls between を / 合わせた (no split word); text width within frame.
+   - L016 "トラウマ経済：人々の苦しみを消費して利益を生む／構造を指すYeの言葉": 63.17-65.48 s (2.31 s, >= 2 s), starts with the "trauma economy" caption; frame f_0064.48 (inside span): two lines at y~1158/1205 below the 3-row EN+JP block; break between 生む / 構造 (no word split).
+   All Expl rows: style Expl, Yu Gothic 40, white fill, black outline, shadow, y 1138..1284 max, inside sharp band 438..1480; no overlap with EN/JP rows in any frame. No extra frames needed (supplied frames fall inside all three spans).
 
-Non-blocking notes
-- Clip_24_L012 is listed under captions_without_jp in auto.json. This is outside this round's scope and the cut and caption timing are unchanged, so it was not examined.
+## Non-blocking notes
+- Clip_24_L012 first caption (44.03-46.41 s, "So even if, say, say, say, we wanted to, like,") has no JP row; the sentence continues and the JP appears on the next caption (46.43 s). Outside this round's scope and unchanged from the previous render; flagging only.
+- L016 explanation ends with the clip (2.31 s), acceptable at the minimum readable length.

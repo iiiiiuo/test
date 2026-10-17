@@ -1,13 +1,13 @@
 # Clip_06 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `ea89207a8ffdf2c0753dac6c312d43abe55ab66d21941f0fbc3c2758218cca5f`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
 - Video 75.158 s, audio 75.158 s (rule 60.0 <= d < 120.0: PASS)
 - Frames: 1802 (manifest 1802)
 - Decode/format: {"width": 1080, "height": 1920, "sar": "1:1", "fps": "24000/1001", "video_frames": 1802, "expected_frames": 1802, "video_duration_s": 75.158416, "audio_duration_s": 75.158, "v_start": "0.000000", "a_start": "0.000000", "rotation": null, "decode_errors": "", "PASS": true}
-- Caption sync vs render ASR: {"caption_tokens": 149, "asr_words": 158, "matched": 136, "match_ratio": 0.913, "matched_words_inside_their_caption": 0.978, "caption_onset_vs_first_word_s": {"n": 21, "median": 0.128, "max_abs": 2.018}}
+- Caption sync vs render ASR: {"caption_tokens": 149, "asr_words": 151, "matched": 130, "match_ratio": 0.872, "matched_words_inside_their_caption": 0.977, "caption_onset_vs_first_word_s": {"n": 19, "median": 0.108, "max_abs": 2.018}}
 
 ## Critic rounds
 - round 1: FAIL — "I like both." 2.4 s early (Whisper glued onset of "I" to previous word); "I forgive" 1.6 s early → build_subs: onset moved to just before next heard word when gap >0.8 s; non-final chunk no longer held over long pause; pre-onset only after previous line
@@ -17,20 +17,30 @@ Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 
 
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (non-blocking: caption 16 (41.56-49.82s) appears ~1.0s before first heard word and shows "I forgive Big Sean" ~6s before it is spoken at 47.9s)
-Fix: none (optional: start caption 16 at ~42.4s or split "Big Sean. May they all be forgiven." / "I forgive Big Sean")
+Largest gap: none
+Fix: none
 
-## Items
-1. Structure: PASS. Question, "I like both", "Take a shot" (0-6.0s), jump cut, then Ye's "God said not to compare..." through the forgiveness list to "I forgive the left party." Join reads as a natural pivot; ending is a complete sentence, next source sentence (1216.75s onward) not included. Audio at 1147.60s is just past a syllable onset (RMS dip at 1147.50-1147.55), so a possible 50 ms clip of "So," that ASR did not hear; not noticeable.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, 1802/1802 frames, video 75.158s, audio 75.158s, no decode errors.
-3. Transcript accuracy: PASS. HEARD matches captions throughout (sync.txt). Only differences: "Who else is you again?" vs render ASR "Who loves you again?" (approved csv marks LOW, read as "who else?"; 62.5s, host reaction line, not blocking); "Take a shot." (5.05s) not picked up by ASR but present in source ASR at 1111.32-1111.80.
-4. Translation fidelity: PASS. All 25 captions have JP matching approved rev3 rows; no clearly wrong/misplaced JP.
-5. Masking: PASS. auto.json unmasked_hits = []; "bum-ass" is not on the mask list; no mechanical asterisks in JP.
-6. Timing/sync: PASS. Median onset offset 0.13s, 97.8% of matched words inside their caption. Non-blocking early onsets: caption 16 about 1.0s early (41.56 vs first word 42.52s) and long hold, caption "Um, I forgive, uh..." 0.75s early (55.34 vs 56.09s). No uncaptioned foreground sentence; 58.5-62.5s and 39-41.5s are meaningful silent pauses.
-7. Typography/visuals: PASS. f_0045.69.png and sheets: white bold Yu Gothic, black outline/shadow, centred at y~950-1140, EN above JP, max 2 EN + 2 JP lines, within frame and readable on the bright yellow background; consistent with ref_sheet.jpg size/position.
-8. Framing: PASS. Faces in the sharp band 438-1480 with blurred fill above/below; Envy shot 0-6s, Ye close-ups, host cutaway at 16-17.5s; framing changes only at shot cuts (manifest pieces). Ye looks down at 45s but head stays fully in frame.
-9. Source usage: PASS. Manifest part_2_2, two half-open intervals [26512,26656) and [27514,29172), 144+1658=1802 frames, no overlap, no padding or repetition; the jump drops Jay Electronica chatter and does not distort meaning.
+Items (scope: 2, 5, 7, 10, and 4 for Clip_06_L009; 1, 3, 6, 8, 9 NOT IN SCOPE, nothing blocking noticed)
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 75.158 s, audio 75.158 s, 1802/1802 frames, no decode errors.
+3. NOT IN SCOPE
+4. PASS (L009) - EN "I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive" / JP 俺は許す 全員許す クリントン夫妻も許す conveys the meaning; caption 22.98-29.62 s matches ASR ("Clintons" heard 27.6-28.6 s).
+5. PASS - auto.json unmasked_hits = []; no listed word in the EN lines of the ASS (only "bum-ass", not a listed word); JP is not mechanically masked.
+6. NOT IN SCOPE
+7. PASS - frames 1.92, 6.09, 22.00 (extra), 24.00 (extra), 26.30, 31.49, 45.69, 74.16 vs ref_20.png: white bold Yu Gothic, black outline+shadow, EN above JP, centred, same position (first line top ~957), max 2 EN + 2 JP lines, nothing clipped. Changed line (L009, frame 26.30 inside 22.98-29.62): JP line ink 153..924 = 771 px, about 1.5% over the 760 guide, fully inside the frame.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS - every explanation row judged from a render frame inside its span:
+ - L001 Kool G Rap・Big Pun, 0.10-5.03 s, frame 1.92: text verbatim, 2.0 s+ readable (4.9 s).
+ - L002 一杯飲め, 5.05-9.82 s, frame 6.09: verbatim, 4.8 s.
+ - L008 Rick Ross, 20.96-24.94 s, extra frame 22.00 (and 24.00): verbatim, 4.0 s, appears with the "Ross" caption (Ross heard 21.3 s).
+ - L009 クリントン夫妻, 24.96-29.62 s, frame 26.30: verbatim, 4.7 s, on screen when "Clintons" is spoken (27.6 s). It starts about 2 s after the long caption begins, but the caption shows the name for its whole span and the term is still on screen at the spoken moment, so this is not blocking.
+ - L010 John Legend, 29.64-39.00 s, frame 31.49: verbatim, 9.4 s.
+ - L011 Big Sean, 41.56-49.82 s, frame 45.69: verbatim, 8.3 s.
+ - L018 Bob Iger, 71.93-75.16 s, frame 74.16: verbatim, 3.2 s.
+ All rows: style Expl, same Yu Gothic Bold, white, black outline and shadow, size 40 (smaller than the JP row). y 1088..1236 for the row text, below the last EN/JP line in every case (4-line captions end near 1160, rows start at 1188), so no overlap and inside the sharp band 438..1480. Line breaks fall at sentence or term boundaries and split no word or name. The draft file has no '／' separators for Clip_06, so single terms only.
 
-## Non-blocking notes
-- Caption 16 and caption 13 (22.98-29.62s) are long phrase holds that preview words before they are spoken; splitting would match the reference rhythm better.
+Non-blocking notes
+- The L009 explanation could start with its caption at 22.98 s, but the current timing is acceptable.
+- The L008 explanation (until 24.94 s) overlaps the first 2 s of the L009 caption; no collision on screen.
 

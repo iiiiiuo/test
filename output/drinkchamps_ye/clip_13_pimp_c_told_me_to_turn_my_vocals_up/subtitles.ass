@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -109,3 +110,15 @@ Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}KimがSNL
 Dialogue: 0,0:01:15.44,0:01:17.56,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}3倍だったんだぞ
 Dialogue: 0,0:01:17.58,0:01:18.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right? You understand that?
 Dialogue: 0,0:01:17.58,0:01:18.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わかってる？」って
+Dialogue: 0,0:00:03.48,0:00:07.89,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Pimp C：テキサスのラップデュオUGKの
+Dialogue: 0,0:00:03.48,0:00:07.89,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}メンバー（2007年死去）
+Dialogue: 0,0:00:07.91,0:00:14.63,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}ピンクのポロシャツ：2000年代初めのYeの
+Dialogue: 0,0:00:07.91,0:00:14.63,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}トレードマーク。南部のストリート系とは対照的
+Dialogue: 0,0:00:40.05,0:00:48.29,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}The Strokes：ニューヨークのロックバンド
+Dialogue: 0,0:00:52.64,0:00:57.54,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}『All Falls Down』：Yeの2004年のシングル
+Dialogue: 0,0:01:01.03,0:01:05.43,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Tucker Carlson：Fox Newsの司会者。
+Dialogue: 0,0:01:01.03,0:01:05.43,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}2022年10月にYeをインタビューした
+Dialogue: 0,0:01:05.45,0:01:12.26,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Drink Champs：この番組。N.O.R.E.と
+Dialogue: 0,0:01:05.45,0:01:12.26,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}DJ EFNがホストを務める
+Dialogue: 0,0:01:15.44,0:01:19.00,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}SNL：アメリカの
+Dialogue: 0,0:01:15.44,0:01:19.00,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}コメディ番組『Saturday Night Live』

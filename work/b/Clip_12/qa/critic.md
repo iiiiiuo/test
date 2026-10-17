@@ -1,23 +1,21 @@
-VERDICT: FAIL
-Blocking gaps: item 10 | 60.23 s (ASS line 83-84) | the "40エーカー" explanation appears at 60.23 s during the earlier caption "God has a place for us in a promised land..." (57.19-61.78 s). The caption that shows "40 acres" starts at 61.80 s (qa/sync.txt line 41), so the explanation is up about 1.6 s before the term is on screen.
-Largest gap: Item 10: the 40エーカー explanation starts 1.57 s before the caption that shows the term.
-Fix: Start both Expl events for Clip_12_L012 at 0:01:01.80 and end them at 1:05.52. That leaves 3.7 s on screen. Roscoe's (1.37) and Usher (10.46) already start with their captions.
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none
+Fix: none
 
-Items
-1. NOT IN SCOPE
-2. PASS: auto.json 1080x1920, SAR 1:1, video 65.5238 s, audio 65.524 s, frames 1571 = expected 1571, decode_errors empty.
-3. NOT IN SCOPE
-4. NOT IN SCOPE (CHANGED_LINES = none)
-5. PASS: auto.json unmasked_hits is empty. The ASS shows ni**as, f**k, b**ch and f**king, and no unmasked profanity. The Japanese lines are not masked mechanically.
-6. NOT IN SCOPE
-7. PASS: frames f_0013.30 and f_0059.49 and sheet_2 show white bold Yu Gothic with black outline and shadow. EN is above JP, centred, with at most 2 EN + 2 JP lines. Nothing is clipped, and the style matches the earlier render.
-8. NOT IN SCOPE
-9. NOT IN SCOPE
-10. FAIL, on timing only.
- - Text: all three rows match glossary_draft_s1.json (L002 Roscoe's, L003 Usher, L012 40エーカー). Line breaks are only after the "：" or between words, so no word or name is split.
- - Style and position: the Expl style is Yu Gothic, size 40, white, black outline and shadow. It sits at y=1188 and 1236, below the 4-line EN/JP block (ends about y 1150), with no overlap and inside the sharp band (438..1480). Seen in f_0013.30 and sheet_2.
- - Timing: Roscoe's 1.37-8.17 s and Usher 10.46-16.53 s start with the caption that shows the term and are long enough to read. 40エーカー runs 60.23-65.52 s (5.3 s, long enough to read) but starts early, as described under Blocking gaps.
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 65.524 s / audio 65.524 s, 1571 frames = expected, no decode errors.
+3. Transcript: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES none)
+5. Masking: PASS - ASS shows ni**as, f**k, b**ch, f**king; auto.json unmasked_hits empty; Japanese not mechanically masked.
+6. Timing: NOT IN SCOPE
+7. Typography/visuals: PASS - frames f_0002.89, f_0013.30, f_0064.52 vs ref_20: white bold Yu Gothic, black outline+shadow, EN above JP, centred, same position/size as reference, no clipping, 2 EN + 2 JP lines max.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS
+- L002 Roscoe's (ASS 1.37-8.17, 6.8 s): text verbatim; frame f_0002.89 inside span: single line, ink ~725 px wide, clear of JP row (JP bottom ~1145, Expl top 1188), within sharp band.
+- L003 Usher (10.46-16.53, 6.1 s): text verbatim; frame f_0013.30 inside span: breaks after "は", "2001年のヒット曲" on line 2; no split of name/title; clear of JP rows.
+- L012 40エーカー (61.80-65.52, 3.7 s, ends at clip end): text verbatim; frame f_0064.52 inside span: breaks after "に" (no word split); 4-row block ends ~1145, Expl 1188-1284, inside band (<=1480).
+- All three start with the first caption showing the term and last >= 3.7 s; no overlap between explanations; same font, white fill, black outline and shadow as EN/JP, 40 px size.
 
-Non-blocking notes
-- The 40エーカー start looks like it was pulled earlier to keep a minimum on-screen time at the end of the clip. 3.7 s from 61.80 s is still enough to read.
-- The ASR heard "400 acres" at 61.8 s. This is not in scope for this round.
+Non-blocking notes: none.

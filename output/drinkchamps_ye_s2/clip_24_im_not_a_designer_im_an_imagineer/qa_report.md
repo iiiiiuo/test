@@ -1,6 +1,6 @@
 # Clip_24 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `c6fc16ac755a2381b082167c742091da0aff643d822afe84a496702a4e81e7eb`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -22,18 +22,22 @@ Largest gap: none
 Fix: none
 
 ## Items
-1. Structure: PASS. Opens on "Okay, let me talk about Balenciaga" (Ye, f_0000.05.png), host shot at 1.54 for "Since you did the last interview, I've been Balenciaga", then a Ye answer through to "too much trauma economy" (ends on a completed clause; source continues "you know I'm not gonna...", cut at 1561.27 after the phrase). Both jump cuts (8.55 and 1.54) read naturally and are covered by shot or caption changes. Source audio dips to 0.05 to 0.07 RMS at 1494.20 and 1504.30, so those cuts are clean.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 65.482 s, audio 65.482 s, 1570 of 1570 frames, no decode errors.
-3. Transcript accuracy: PASS. HEARD matches the displayed English at 96% (matched words inside their caption: 97%). The one difference is "y'all" (3.73) against HEARD "yeah" (p=0.54, low confidence). It matches the approved row, and the intent is unaffected.
-4. Translation fidelity: PASS. All 16 approved rows are in place and attached to the right moments. L012 was not dropped; it is split across three captions.
-5. Masking: PASS. "s**t" at 50.79. auto.json shows no unmasked hits. The Japanese is not mechanically masked.
-6. Timing/sync: PASS. Median caption onset against first heard word is -0.03 s. The one outlier (max_abs 1.69 s) is the "Balenci-Yalla" line, where ASR mis-times a repeated "balenciaga". No caption is shorter than 1.26 s. Gaps with no caption are 8.32 to 9.47 (Ye smiling; no speech to caption, only reaction) and 17.07 to 18.35 (pause).
-7. Typography/visuals: PASS. White bold Yu Gothic-style text with black outline and shadow, EN above JP, centred, at the same lower-band position as ref_sheet.jpg. 2 EN plus 2 JP lines at most, with no overflow or clipping, and it reads on the bright white shirt.
-8. Framing: PASS. The sharp 1080x1042 centre band is over a blurred fill. Ye's face is centred with headroom (f_0000.05.png), the host is in the middle of the band at 1.63, and crops change only at shot changes.
-9. Source usage: PASS. There are three disjoint half-open ranges from part_1: [35384,35421), [35657,35825) and [36068,37433). Video and audio ranges are identical. There is no padding, freeze or repetition.
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS. qa/auto.json format.PASS true; 1080x1920, SAR 1:1, video 65.482083 s, audio 65.482 s (60 <= d < 120), 1570 frames = expected 1570, no decode errors; ffprobe confirms.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS. Only masked form in ASS/SRT is "s**t" (0:50.79); grep finds 0 unmasked shit/fuck/bitch/nigg/pussy/motherf hits; auto.json unmasked_hits empty; the only asterisks are in the EN row, none in Japanese rows.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS. Frames f_0021.66, f_0037.24, f_0064.48 vs ref_20.png: white bold Yu Gothic, black outline plus shadow, EN above JP, centred, same vertical band as the reference (EN starts y~948), max 2 EN + 2 JP lines, nothing clipped, readable on the bright white shirt and yellow backdrop.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS. Three Expl events, one per approved key; text verbatim vs glossary_draft_s2.json:
+   - L006 "スティーブ・ジョブズ：Appleの共同創業者": 18.35-22.21 s (3.86 s), starts with the Steve Jobs caption; frame f_0021.66 (inside span): one line at y~1208, below JP block, centred, inside band.
+   - L009 "イマジニア：imagine（想像）とengineer（技術者）を／合わせた造語。Disneyの用語": 32.57-39.81 s (7.2 s), starts with the "imagineer" caption; frame f_0037.24 (inside span, 4-row EN+JP above): two lines at y~1207/1255, clear gap to JP (bottom ~1150), break falls between を / 合わせた (no split word); text width within frame.
+   - L016 "トラウマ経済：人々の苦しみを消費して利益を生む／構造を指すYeの言葉": 63.17-65.48 s (2.31 s, >= 2 s), starts with the "trauma economy" caption; frame f_0064.48 (inside span): two lines at y~1158/1205 below the 3-row EN+JP block; break between 生む / 構造 (no word split).
+   All Expl rows: style Expl, Yu Gothic 40, white fill, black outline, shadow, y 1138..1284 max, inside sharp band 438..1480; no overlap with EN/JP rows in any frame. No extra frames needed (supplied frames fall inside all three spans).
 
 ## Non-blocking notes
-- 44.03 to 46.41 (L012 first fragment, "So even if, say, say, say, we wanted to, like,") shows English only. The Japanese appears with the continuation at 46.43. Acceptable as a sentence fragment, but the fragment is on screen for 2.4 s with no Japanese.
-- The first 0.17 s of the clip has speech under the video before the first caption. The first word "okay" starts at about 0.0 (ASR p=0.04). The source has loud audio before the cut at 1475.81, so a trace of the preceding lyric may be present. It is not audible as a distinct word in the evidence.
-- The cut at 1.54 (source 1477.35) lands in continuous speech, with energy that continues straight into the next word. It is abrupt, but the shot switches to the host at the same moment.
+- Clip_24_L012 first caption (44.03-46.41 s, "So even if, say, say, say, we wanted to, like,") has no JP row; the sentence continues and the JP appears on the next caption (46.43 s). Outside this round's scope and unchanged from the previous render; flagging only.
+- L016 explanation ends with the clip (2.31 s), acceptable at the minimum readable length.
 

@@ -1,6 +1,6 @@
 # Clip_39 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `313a0121dd1dd6e71f00e74234eeac90f5a6acedd74cc594272b61a754a2a572`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `21a944ed5c421218e5757f7d77ced03f955207bb4f53c43042534562a7ed6f1c`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -17,19 +17,24 @@ Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 
 
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (cosmetic only: ~0.5 s of uncaptioned "you know saying" at clip start; caption L001 reads "And so" where audio has "so")
+Largest gap: none
 Fix: none
 
-1. Structure: PASS. Starts at onset of "you know saying so let's be easy on everybody" (speech energy begins at src 1443.45, clip start 1443.44); ends after "...that's God." (word ends ~src 1520.6, clip ends 1521.06, tail quiet). Coherent monologue, standalone. The "looking at somebody's wife and killing somebody" line is repeated by the speaker in the source (60.3 s and 65.2 s), not a repeated cut.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 77.619 s, audio 77.619 s, 1861/1861 frames, no decode errors.
-3. Transcript: PASS. sync.txt match ratio 0.972; only differences are filler ("And" in L001, "races" ASR error vs "racist").
-4. Translation: PASS. JP lines match the EN at each moment; no clear errors.
-5. Masking: PASS. auto.json unmasked_hits empty; no listed profanity in the speech; JP not masked.
-6. Timing/sync: PASS. Captions follow speech in order with no overlong gaps; 69.46-71.59 gap is a pause/inaudible "We" lead-in (next caption begins 71.59 with "should not be judged"; ASR places "should" at 71.83). Shortest caption 1.7 s (L002b/L007), readable.
-7. Typography: PASS. Yu Gothic Bold 50-54, white, black outline 3 + shadow 2, EN above JP, centred, 2 EN + 2 JP lines max, positioned in the lower part of the sharp band similar to reference; no clipping (f_*.png, sheet_1.jpg).
-8. Framing: PASS. Ye framed in the centre band with blurred fill top/bottom as in reference; single shot, no framing changes; head not cut.
-9. Source usage: PASS. One interval part_6 frames [34607,36468), 1861 frames, matches render frame count; audio from same range; no padding.
+Items (scope: 2, 5, 7, 10; item 4 none changed)
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 77.619 s / audio 77.619 s (60<=d<120), 1861 frames = expected, no decode errors.
+3. NOT IN SCOPE
+4. NOT IN SCOPE (CHANGED_LINES = none)
+5. PASS - auto.json unmasked_hits empty; no curse words in displayed EN (captions.json read in full); JP not masked.
+6. NOT IN SCOPE
+7. PASS - frames at 13.5 s and 60.5 s (qa/extra/x_*.png): white bold Yu Gothic, black outline/shadow, EN above JP, centred, max 2 EN + 2 JP lines, inside frame, same layout as the reference.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS
+ - L003 text and L009 text in ASS match glossary_draft_s2.json verbatim. Terms are on separate lines, with no mid-word breaks.
+ - L003 row: 8.96-17.89 s (8.9 s); starts with the caption "Quincy Jones beneath...". L009 row: 56.67-65.18 s (8.5 s); matches the line's caption span.
+ - Rows are at y 1188-1284 (fs40, style Expl, Yu Gothic bold, white, black outline/shadow). The last EN/JP line is at y 1098, so there is a visible gap and no overlap. Rows are inside the sharp band (438..1480). The widest line (L009 row 2) spans x~165-915, within 1080.
 
 Non-blocking notes
-- First 0.54 s ("you know saying") is uncaptioned; could trim start by ~0.5 s to begin at "so" if a cleaner open is wanted, but that would cut mid-phrase risk is low either way.
+- The L003 row stays up to 17.89 s, about 1.6 s into the L004 caption (the L003 speech ends ~15.9 s). Harmless, and it leaves reading time.
 

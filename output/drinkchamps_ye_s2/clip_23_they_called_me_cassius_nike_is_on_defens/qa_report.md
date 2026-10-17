@@ -1,6 +1,6 @@
 # Clip_23 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `57889998498f9668b10fcd5eb059fd9dfc0f968eb20a93a4fd5d9ab5c428b46a`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -20,17 +20,24 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-1. Structure: PASS. Starts in silence 0.41s before "You know" (source energy: speech onset 1096.84s, clip start 1096.43s). Ends on "That was what the deal was about." with a sentence-final energy drop at 1197.28s. The jump cut at 46.71s joins "so I could fit in" to "Think about like Nike" and reads naturally, with a topic shift and no meaning distortion.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 86.2528s, audio 86.253s, 2068 of 2068 frames, no decode errors.
-3. Transcript accuracy: PASS. sync.txt HEARD lines match the displayed English; the differences are ASR errors (Ali/Mali, Gemini/jim, Ye/yay) and the masked words.
-4. Translation fidelity: PASS. No clear errors. The splits on L027 and L028 ("中国と取引してる" and "Fortune 500の企業に「Gapは低所得層の地域に") follow the approved rows.
-5. Masking: PASS. "f**k" (cap 1) and "ni**as" (cap 22) are masked, with no unmasked hits in auto.json. The Japanese is not masked.
-6. Timing/sync: PASS. Caption onset vs first heard word has median -0.07s. 95.6% of matched words fall inside their caption. All 30 captions are at least 1.2s long. There are no uncaptioned foreground sentences.
-7. Typography/visuals: PASS. Compared with ref_sheet.jpg: white bold Yu Gothic with black outline and shadow, EN above JP, centred at the same vertical band, max 2 EN + 2 JP lines, nothing clipped, readable on the bright yellow background.
-8. Framing: PASS. Ye is centred and sharp in the middle band with blurred fill above and below. Cutaways to the host (about 40.9s, 42-43s, 46.8s) are properly framed. The framing change is at shot changes only.
-9. Source usage: PASS. Two half-open intervals from part_1, frames 26288-27408 and 27758-28706, with no overlap or repetition. There is no padding or freeze.
+Scope: items 2, 5, 7, 10 (item 4 CHANGED_LINES = none, not judged). Items 1, 3, 6, 8, 9 NOT IN SCOPE; no blocking problem noticed.
+
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 86.253 s, audio 86.253 s (60 <= d < 120), 2068 frames = expected 2068, decode_errors empty.
+3. NOT IN SCOPE
+4. NOT IN SCOPE (CHANGED_LINES none)
+5. PASS - EN shows f**k (0:00.32) and ni**as (0:58.42); srt/ass grep finds 0 unmasked fuck/shit/bitch/nigg/pussy; auto.json unmasked_hits empty; Japanese has no asterisks.
+6. NOT IN SCOPE
+7. PASS - frames f_0001.00, f_0040.87, f_0042.50, f_0080.96 and extra/f_8.0, extra/f_33.0: white bold Yu Gothic, black outline+shadow, EN above JP, centred at the reference position (about y 950-1150), max 2 EN + 2 JP lines, no clipping, blurred fill above/below like ref_20.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS
+- Text verbatim vs glossary_draft_s2.json for Clip_23_L002, L007, L010, L018 (line breaks only differ).
+- Timing: L002 5.98-16.73 (10.7 s, starts with the Cassius/Ali caption); L007 29.72-36.83 (7.1 s, starts with the Drake caption); L010 41.63-45.36 (3.7 s, starts with the dyslexic caption); L018 74.32-83.66 (9.3 s, starts with the Fortune 500 caption).
+- Position: rows at y 1188/1236/1284 (fs40), below the last JP row (max about y 1150) with a gap, no overlap, inside the sharp band (438..1480). Frames confirm.
+- Style: same font, white fill, black outline and shadow; width at most about 740 px.
+- Line breaks do not split words or names (Kanye West, Larry Hoover's, Muhammad Ali kept whole).
 
 Non-blocking notes
-- The first caption appears at 0.32s, about 0.09s before the speech onset at 0.41s of the clip, which is not noticeable.
-- The jump-cut audio at 46.71s ends tightly at 1143.142s. The energy dip is clean.
+- The explanation row is only about 3.7 s for dyslexia, which is readable but short.
 

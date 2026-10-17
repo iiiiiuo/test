@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -45,7 +46,7 @@ Dialogue: 0,0:00:22.48,0:00:22.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I don't.
 Dialogue: 0,0:00:22.48,0:00:22.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}言ってたけど
 Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm forgiving. I forgive everybody.
 Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I forgive the Clintons. I forgive
-Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は許す　全員許す　Clinton夫妻も許す
+Dialogue: 0,0:00:22.98,0:00:29.62,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺は許す　全員許す　クリントン夫妻も許す
 Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}John Legend for wearing
 Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}them bum-ass sweaters.
 Dialogue: 0,0:00:29.64,0:00:33.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}John Legendも許す
@@ -79,3 +80,16 @@ Dialogue: 0,0:01:11.93,0:01:13.29,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive 
 Dialogue: 0,0:01:11.93,0:01:13.29,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Bob Igerも許す
 Dialogue: 0,0:01:13.31,0:01:15.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I forgive the left party.
 Dialogue: 0,0:01:13.31,0:01:15.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}左派の政党も許す
+Dialogue: 0,0:00:00.10,0:00:05.03,Expl,,0,0,0,,{\an8\pos(540,1138)\fs40}Kool G Rap・Big Pun：どちらも
+Dialogue: 0,0:00:00.10,0:00:05.03,Expl,,0,0,0,,{\an8\pos(540,1186)\fs40}ニューヨークの伝説的ラッパー
+Dialogue: 0,0:00:05.05,0:00:09.82,Expl,,0,0,0,,{\an8\pos(540,1138)\fs40}一杯飲め：番組の二択企画。選べなければ
+Dialogue: 0,0:00:05.05,0:00:09.82,Expl,,0,0,0,,{\an8\pos(540,1186)\fs40}ショットを飲むルール
+Dialogue: 0,0:00:20.96,0:00:24.94,Expl,,0,0,0,,{\an8\pos(540,1138)\fs40}Rick Ross：マイアミのラッパー。
+Dialogue: 0,0:00:20.96,0:00:24.94,Expl,,0,0,0,,{\an8\pos(540,1186)\fs40}「God Forgives, I Don't」は2012年のアルバム名
+Dialogue: 0,0:00:24.96,0:00:29.62,Expl,,0,0,0,,{\an8\pos(540,1138)\fs40}クリントン夫妻：ビル・クリントン元大統領と
+Dialogue: 0,0:00:24.96,0:00:29.62,Expl,,0,0,0,,{\an8\pos(540,1186)\fs40}ヒラリー・クリントン
+Dialogue: 0,0:00:29.64,0:00:39.00,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}John Legend：歌手。かつてYeと親しかったが
+Dialogue: 0,0:00:29.64,0:00:39.00,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}政治観の違いで疎遠に
+Dialogue: 0,0:00:41.56,0:00:49.82,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Big Sean：YeのレーベルG.O.O.D. Musicに
+Dialogue: 0,0:00:41.56,0:00:49.82,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}所属していたラッパー
+Dialogue: 0,0:01:11.93,0:01:15.16,Expl,,0,0,0,,{\an8\pos(540,1088)\fs40}Bob Iger：Disneyの最高経営責任者

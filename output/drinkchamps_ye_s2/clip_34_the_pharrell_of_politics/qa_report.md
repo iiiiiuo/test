@@ -1,6 +1,6 @@
 # Clip_34 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `56f684ea752e2ae117fd75e7b92cf1dc0674c40eeed8f299292d18ee505ce8c2`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `328257d28fec2c0885884ccd384c46af2087c06dbb491e8256f83499445fa5e0`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -17,20 +17,15 @@ Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 
 
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (JP for the long Harley-Davidson/BMX sentence is split across 3 captions in Japanese word order, so JP lags EN content at 58.7-66.1s; non-blocking)
+Largest gap: none
 Fix: none
 
-1. Structure: PASS. Opens on host's "Like, this real s**t..." right after "Go ahead" (audio starts at the "Like"); coherent Q&A (plight -> producer -> Pharrell -> BMX/nerd), ends on "We love you. We're ruling the world right now." (source 1737.22, sentence complete, next source line is a separate "Yeah, that's what I'm saying").
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 83.125s / audio 83.125s, frames 1993 = expected 1993, decode_errors empty.
-3. Transcript: PASS. sync.txt matches source ASR; differences are ASR noise ("I can see you" vs heard "consider", "Is this for me?" before "I'm the first time" is not shown, minor).
-4. Translation: PASS. JP matches approved CSV rows; L004 "Yeah." intentionally has no JP. Meaning correct throughout.
-5. Masking: PASS. s**t x3, f**k, ni**a masked in EN; auto.json unmasked_hits empty; JP not mechanically masked.
-6. Timing/sync: PASS. Median onset offset -0.01s; no caption under 0.45s except the "Pharrell." single-word 0.45s caption (49.35-49.80, spoken single word, acceptable); no uncaptioned foreground sentence.
-7. Typography/visuals: PASS. sheet_1/2 vs ref_sheet: white bold Yu Gothic, black outline/shadow, EN above JP, centred at same height (~y 950-1050), max 2 EN + 2 JP lines, no clipping, readable on bright yellow background.
-8. Framing: PASS. Faces centred in sharp band with blurred fill; crop changes align with speaker/shot changes (Ye close-ups, host shot at 3-10s and 14-17s).
-9. Source usage: PASS. part_5, two half-open intervals [39610,41193) and [41241,41651), gap 48 frames = intentional jump cut; join at 66.02s lands in a speech pause (RMS lull 65.3-66.0s), resumes "a Haro GT" naturally, meaning intact; no padding/repetition (the repeated "Pharrell" is spoken content).
+Items (scope: 2, 5, 7, 10; item 4 CHANGED_LINES = none; 1, 3, 4, 6, 8, 9 NOT IN SCOPE, no blocking problem noticed)
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 83.1247 s, audio 83.125 s, frames 1993 = expected 1993, no decode errors.
+5. PASS - auto.json unmasked_hits empty; SRT/ASS show s**t, f**k, ni**a; Japanese not mechanically masked.
+7. PASS - white bold Yu Gothic, black outline+shadow, EN above JP, centred, max 2 EN + 2 JP lines, inside frame and inside the sharp band (f_0015.71, f_0066.11, crops in qa/extra); matches ref_sheet geometry.
+10. PASS - two Expl events, text verbatim from glossary draft: Clip_34_L002 "Tシャツ：“White Lives Matter”Tシャツ" (14.40-19.17 s, 4.8 s, starts with the caption showing "t-shirt", pos y=1188, below the 4-line EN/JP block that ends about y=1145, no overlap); Clip_34_L013 "Haro・GT：BMX自転車のブランド" (61.03-69.25 s, 8.2 s, starts at the JP caption with HaroとかGT, y=1138, below the 2-line block, no overlap). Same font, white fill, black outline/shadow, fs40, single line, no word split, inside y 438..1480.
 
 Non-blocking notes
-- 58.75-66.13s: JP for one long EN sentence is distributed in Japanese order (hat / bike / "first Black person" last), so the JP on screen does not line up word-for-word with the EN beneath it; reads coherently in sequence.
-- Caption 21 ("riding on a, you know,") runs ~0.1s past the jump cut at 66.02s.
+- A 20 ms gap in EN/JP captions at 66.13-66.15 s (at the jump cut) is the normal inter-caption gap; the Expl row stays on across it.
 

@@ -2,56 +2,65 @@
 "model": "/root/models/turbo",
 "wav": "/home/user/test/work/b/Clip_05/qa/render16k.wav",
 "clip": null,
-"elapsed": 16.8,
+"elapsed": 30.0,
 "segments": [
 {
 "start": 0.0,
-"end": 6.32,
-"text": "But right now in America, say one of the laws that I would change is it's illegal to collect rainwater in America.",
-"avg_logprob": -0.191,
+"end": 1.16,
+"text": "but right now in America,",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " But",
+"w": " but",
 "s": 0.0,
-"e": 0.24,
-"p": 0.431
+"e": 0.26,
+"p": 0.402
 },
 {
 "w": " right",
-"s": 0.24,
+"s": 0.26,
 "e": 0.48,
-"p": 0.99
+"p": 0.993
 },
 {
 "w": " now",
 "s": 0.48,
 "e": 0.66,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " in",
 "s": 0.66,
 "e": 0.82,
-"p": 0.968
+"p": 0.985
 },
 {
 "w": " America,",
 "s": 0.82,
-"e": 1.14,
-"p": 0.997
+"e": 1.16,
+"p": 0.99
+}
+]
 },
+{
+"start": 1.3,
+"end": 2.96,
+"text": "say one of the laws that I would change is",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " say",
 "s": 1.3,
 "e": 1.44,
-"p": 0.968
+"p": 0.965
 },
 {
 "w": " one",
 "s": 1.44,
 "e": 1.64,
-"p": 0.848
+"p": 0.813
 },
 {
 "w": " of",
@@ -75,37 +84,46 @@
 "w": " that",
 "s": 2.08,
 "e": 2.28,
-"p": 0.979
+"p": 0.992
 },
 {
 "w": " I",
 "s": 2.28,
 "e": 2.38,
-"p": 0.998
+"p": 0.999
 },
 {
 "w": " would",
 "s": 2.38,
 "e": 2.48,
-"p": 0.987
+"p": 0.992
 },
 {
 "w": " change",
 "s": 2.48,
 "e": 2.74,
-"p": 0.998
+"p": 0.999
 },
 {
 "w": " is",
 "s": 2.74,
 "e": 2.96,
-"p": 0.976
+"p": 0.981
+}
+]
 },
+{
+"start": 2.96,
+"end": 6.32,
+"text": "it's illegal to collect rainwater in America.",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " it's",
 "s": 2.96,
 "e": 3.5,
-"p": 0.909
+"p": 0.91
 },
 {
 "w": " illegal",
@@ -117,7 +135,7 @@
 "w": " to",
 "s": 3.84,
 "e": 4.0,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " collect",
@@ -129,13 +147,13 @@
 "w": " rainwater",
 "s": 4.4,
 "e": 5.14,
-"p": 0.966
+"p": 0.965
 },
 {
 "w": " in",
 "s": 5.14,
 "e": 5.86,
-"p": 0.992
+"p": 0.997
 },
 {
 "w": " America.",
@@ -146,34 +164,52 @@
 ]
 },
 {
-"start": 6.6,
-"end": 8.6,
-"text": "What? Illegal? It's illegal?",
-"avg_logprob": -0.191,
+"start": 6.64,
+"end": 7.08,
+"text": "What?",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " What?",
-"s": 6.6,
+"s": 6.64,
 "e": 7.08,
-"p": 0.825
+"p": 0.489
+}
+]
 },
 {
+"start": 7.3,
+"end": 7.74,
+"text": "Illegal?",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " Illegal?",
-"s": 7.26,
-"e": 7.72,
-"p": 0.99
+"s": 7.3,
+"e": 7.74,
+"p": 0.989
+}
+]
 },
+{
+"start": 7.94,
+"end": 8.62,
+"text": "It's illegal?",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " It's",
 "s": 7.94,
 "e": 8.24,
-"p": 0.993
+"p": 0.991
 },
 {
 "w": " illegal?",
 "s": 8.24,
-"e": 8.6,
+"e": 8.62,
 "p": 0.999
 }
 ]
@@ -182,14 +218,14 @@
 "start": 8.82,
 "end": 11.68,
 "text": "It's illegal to collect rainwater in America.",
-"avg_logprob": -0.191,
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " It's",
 "s": 8.82,
 "e": 9.08,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " illegal",
@@ -213,74 +249,83 @@
 "w": " rainwater",
 "s": 10.7,
 "e": 11.5,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " in",
 "s": 11.5,
 "e": 11.68,
-"p": 0.862
+"p": 0.914
 },
 {
 "w": " America.",
 "s": 11.68,
 "e": 11.68,
-"p": 0.995
+"p": 0.996
 }
 ]
 },
 {
 "start": 11.68,
-"end": 13.58,
-"text": "You go to every other country, they're collecting rainwater.",
-"avg_logprob": -0.191,
+"end": 12.56,
+"text": "You go to every other country,",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
 "s": 11.68,
 "e": 11.74,
-"p": 0.906
+"p": 0.89
 },
 {
 "w": " go",
 "s": 11.74,
 "e": 11.84,
-"p": 0.909
+"p": 0.911
 },
 {
 "w": " to",
 "s": 11.84,
 "e": 11.96,
-"p": 0.979
+"p": 0.969
 },
 {
 "w": " every",
 "s": 11.96,
 "e": 12.14,
-"p": 0.992
+"p": 0.99
 },
 {
 "w": " other",
 "s": 12.14,
 "e": 12.28,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " country,",
 "s": 12.28,
 "e": 12.56,
 "p": 1.0
+}
+]
 },
+{
+"start": 12.66,
+"end": 13.58,
+"text": "they're collecting rainwater.",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " they're",
 "s": 12.66,
-"e": 12.8,
+"e": 12.78,
 "p": 1.0
 },
 {
 "w": " collecting",
-"s": 12.8,
+"s": 12.78,
 "e": 13.12,
 "p": 1.0
 },
@@ -294,16 +339,16 @@
 },
 {
 "start": 14.26,
-"end": 17.16,
+"end": 17.18,
 "text": "You know, people are controlling the water.",
-"avg_logprob": -0.191,
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
 "s": 14.26,
 "e": 14.58,
-"p": 0.963
+"p": 0.952
 },
 {
 "w": " know,",
@@ -326,35 +371,35 @@
 {
 "w": " controlling",
 "s": 15.2,
-"e": 15.76,
+"e": 15.74,
 "p": 0.999
 },
 {
 "w": " the",
-"s": 15.76,
+"s": 15.74,
 "e": 16.72,
 "p": 1.0
 },
 {
 "w": " water.",
 "s": 16.72,
-"e": 17.16,
+"e": 17.18,
 "p": 1.0
 }
 ]
 },
 {
 "start": 18.71,
-"end": 23.41,
-"text": "You know, it's going to be fuck what T-shirt you wear, what political opinion and who got beef for who.",
-"avg_logprob": -0.191,
+"end": 19.53,
+"text": "You know, it's going to be,",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
 "s": 18.71,
 "e": 19.01,
-"p": 0.985
+"p": 0.968
 },
 {
 "w": " know,",
@@ -366,13 +411,13 @@
 "w": " it's",
 "s": 19.15,
 "e": 19.27,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " going",
 "s": 19.27,
 "e": 19.37,
-"p": 0.974
+"p": 0.931
 },
 {
 "w": " to",
@@ -381,28 +426,37 @@
 "p": 1.0
 },
 {
-"w": " be",
+"w": " be,",
 "s": 19.41,
 "e": 19.53,
 "p": 1.0
+}
+]
 },
 {
+"start": 19.65,
+"end": 21.25,
+"text": "fuck what t-shirt you wear,",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " fuck",
-"s": 19.53,
+"s": 19.65,
 "e": 19.79,
-"p": 0.423
+"p": 0.995
 },
 {
 "w": " what",
 "s": 19.79,
 "e": 20.31,
-"p": 0.743
+"p": 0.917
 },
 {
-"w": " T",
+"w": " t",
 "s": 20.31,
 "e": 20.51,
-"p": 0.602
+"p": 0.519
 },
 {
 "w": "-shirt",
@@ -421,12 +475,21 @@
 "s": 21.01,
 "e": 21.25,
 "p": 1.0
+}
+]
 },
+{
+"start": 21.33,
+"end": 22.29,
+"text": "what political opinion,",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " what",
 "s": 21.33,
 "e": 21.47,
-"p": 0.997
+"p": 0.996
 },
 {
 "w": " political",
@@ -435,20 +498,29 @@
 "p": 1.0
 },
 {
-"w": " opinion",
+"w": " opinion,",
 "s": 21.85,
 "e": 22.29,
 "p": 1.0
+}
+]
 },
 {
+"start": 22.41,
+"end": 23.41,
+"text": "and who got beef for who.",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " and",
-"s": 22.29,
-"e": 22.45,
-"p": 0.47
+"s": 22.41,
+"e": 22.47,
+"p": 0.704
 },
 {
 "w": " who",
-"s": 22.45,
+"s": 22.47,
 "e": 22.55,
 "p": 1.0
 },
@@ -456,19 +528,19 @@
 "w": " got",
 "s": 22.55,
 "e": 22.75,
-"p": 0.997
+"p": 0.996
 },
 {
 "w": " beef",
 "s": 22.75,
-"e": 23.01,
-"p": 0.964
+"e": 22.97,
+"p": 0.97
 },
 {
 "w": " for",
-"s": 23.01,
+"s": 22.97,
 "e": 23.13,
-"p": 0.796
+"p": 0.857
 },
 {
 "w": " who.",
@@ -479,15 +551,15 @@
 ]
 },
 {
-"start": 23.95,
-"end": 29.01,
-"text": "You ain't got no water. You ain't got no life.",
-"avg_logprob": -0.191,
+"start": 23.99,
+"end": 25.27,
+"text": "You ain't got no water.",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " You",
-"s": 23.95,
+"s": 23.99,
 "e": 24.43,
 "p": 0.999
 },
@@ -495,7 +567,7 @@
 "w": " ain't",
 "s": 24.43,
 "e": 24.55,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " got",
@@ -507,29 +579,38 @@
 "w": " no",
 "s": 24.69,
 "e": 24.81,
-"p": 0.967
+"p": 0.988
 },
 {
 "w": " water.",
 "s": 24.81,
 "e": 25.27,
 "p": 1.0
+}
+]
 },
 {
+"start": 27.71,
+"end": 29.03,
+"text": "You ain't got no life.",
+"avg_logprob": -0.254,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " You",
-"s": 27.67,
+"s": 27.71,
 "e": 28.15,
 "p": 1.0
 },
 {
 "w": " ain't",
 "s": 28.15,
-"e": 28.27,
+"e": 28.25,
 "p": 1.0
 },
 {
 "w": " got",
-"s": 28.27,
+"s": 28.25,
 "e": 28.41,
 "p": 1.0
 },
@@ -542,29 +623,29 @@
 {
 "w": " life.",
 "s": 28.57,
-"e": 29.01,
+"e": 29.03,
 "p": 1.0
 }
 ]
 },
 {
-"start": 29.59,
-"end": 39.52,
-"text": "i'm trying to tell you because you know a lot of people call me they want to call me crazy",
-"avg_logprob": -0.079,
+"start": 29.63,
+"end": 30.95,
+"text": "I'm trying to tell you,",
+"avg_logprob": -0.254,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " i'm",
-"s": 29.59,
+"w": " I'm",
+"s": 29.63,
 "e": 30.07,
-"p": 0.511
+"p": 0.927
 },
 {
 "w": " trying",
 "s": 30.07,
 "e": 30.27,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " to",
@@ -579,34 +660,43 @@
 "p": 1.0
 },
 {
-"w": " you",
+"w": " you,",
 "s": 30.65,
 "e": 30.95,
 "p": 1.0
+}
+]
 },
 {
+"start": 33.71,
+"end": 43.46,
+"text": "because you know a lot of people call me they want to call me crazy it's like it's like running a",
+"avg_logprob": -0.079,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " because",
-"s": 32.23,
-"e": 33.41,
-"p": 0.998
+"s": 33.71,
+"e": 34.19,
+"p": 0.441
 },
 {
 "w": " you",
-"s": 33.41,
-"e": 34.67,
-"p": 0.997
+"s": 35.6,
+"e": 36.08,
+"p": 0.517
 },
 {
 "w": " know",
 "s": 36.08,
-"e": 36.22,
+"e": 36.24,
 "p": 1.0
 },
 {
 "w": " a",
-"s": 36.22,
+"s": 36.24,
 "e": 36.7,
-"p": 0.999
+"p": 0.787
 },
 {
 "w": " lot",
@@ -617,12 +707,12 @@
 {
 "w": " of",
 "s": 36.82,
-"e": 36.96,
-"p": 1.0
+"e": 36.94,
+"p": 0.999
 },
 {
 "w": " people",
-"s": 36.96,
+"s": 36.94,
 "e": 37.2,
 "p": 1.0
 },
@@ -630,35 +720,35 @@
 "w": " call",
 "s": 37.2,
 "e": 37.56,
-"p": 0.998
+"p": 0.992
 },
 {
 "w": " me",
 "s": 37.56,
-"e": 37.84,
+"e": 37.82,
 "p": 1.0
 },
 {
 "w": " they",
-"s": 37.84,
+"s": 37.82,
 "e": 38.42,
-"p": 0.999
+"p": 0.949
 },
 {
 "w": " want",
 "s": 38.42,
 "e": 38.6,
-"p": 0.999
+"p": 0.997
 },
 {
 "w": " to",
 "s": 38.6,
-"e": 38.72,
+"e": 38.7,
 "p": 1.0
 },
 {
 "w": " call",
-"s": 38.72,
+"s": 38.7,
 "e": 38.92,
 "p": 1.0
 },
@@ -671,41 +761,32 @@
 {
 "w": " crazy",
 "s": 39.08,
-"e": 39.52,
-"p": 0.999
-}
-]
+"e": 39.5,
+"p": 1.0
 },
 {
-"start": 39.52,
-"end": 48.84,
-"text": "it's like it's like running a marathon if i got some short shorts on and a tank top and i'm",
-"avg_logprob": -0.079,
-"no_speech_prob": 0.0,
-"words": [
-{
 "w": " it's",
-"s": 39.52,
+"s": 39.5,
 "e": 40.46,
-"p": 0.999
+"p": 0.938
 },
 {
 "w": " like",
 "s": 42.38,
 "e": 42.6,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " it's",
 "s": 42.6,
 "e": 42.94,
-"p": 0.997
+"p": 0.947
 },
 {
 "w": " like",
 "s": 42.94,
 "e": 43.06,
-"p": 0.99
+"p": 0.993
 },
 {
 "w": " running",
@@ -717,31 +798,40 @@
 "w": " a",
 "s": 43.28,
 "e": 43.46,
-"p": 1.0
+"p": 0.999
+}
+]
 },
+{
+"start": 43.46,
+"end": 53.26,
+"text": "marathon if i got some short shorts on and a tank top and i'm sweating hard as hell um running down",
+"avg_logprob": -0.079,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " marathon",
 "s": 43.46,
 "e": 43.8,
-"p": 0.997
+"p": 0.998
 },
 {
 "w": " if",
 "s": 43.8,
 "e": 44.68,
-"p": 0.999
+"p": 0.99
 },
 {
 "w": " i",
 "s": 45.38,
 "e": 45.5,
-"p": 1.0
+"p": 0.448
 },
 {
 "w": " got",
 "s": 45.5,
 "e": 45.7,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " some",
@@ -753,7 +843,7 @@
 "w": " short",
 "s": 45.9,
 "e": 46.24,
-"p": 0.99
+"p": 0.996
 },
 {
 "w": " shorts",
@@ -764,24 +854,24 @@
 {
 "w": " on",
 "s": 46.66,
-"e": 46.96,
+"e": 46.98,
 "p": 1.0
 },
 {
 "w": " and",
-"s": 46.96,
+"s": 46.98,
 "e": 47.48,
 "p": 1.0
 },
 {
 "w": " a",
 "s": 47.48,
-"e": 47.66,
+"e": 47.64,
 "p": 0.999
 },
 {
 "w": " tank",
-"s": 47.66,
+"s": 47.64,
 "e": 47.82,
 "p": 1.0
 },
@@ -801,17 +891,8 @@
 "w": " i'm",
 "s": 48.68,
 "e": 48.84,
-"p": 1.0
-}
-]
+"p": 0.999
 },
-{
-"start": 48.84,
-"end": 56.54,
-"text": "sweating hard as hell um running down a street running the wrong way down a freeway then they",
-"avg_logprob": -0.079,
-"no_speech_prob": 0.0,
-"words": [
 {
 "w": " sweating",
 "s": 48.84,
@@ -821,30 +902,30 @@
 {
 "w": " hard",
 "s": 49.14,
-"e": 49.46,
-"p": 0.997
+"e": 49.44,
+"p": 0.995
 },
 {
 "w": " as",
-"s": 49.46,
-"e": 49.66,
-"p": 0.999
+"s": 49.44,
+"e": 49.68,
+"p": 0.998
 },
 {
 "w": " hell",
-"s": 49.66,
+"s": 49.68,
 "e": 50.06,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " um",
 "s": 50.54,
-"e": 51.84,
-"p": 0.832
+"e": 51.72,
+"p": 0.785
 },
 {
 "w": " running",
-"s": 51.84,
+"s": 51.72,
 "e": 53.02,
 "p": 1.0
 },
@@ -853,12 +934,21 @@
 "s": 53.02,
 "e": 53.26,
 "p": 1.0
+}
+]
 },
+{
+"start": 53.26,
+"end": 58.3,
+"text": "a street running the wrong way down a freeway then they you're gonna say that person is crazy",
+"avg_logprob": -0.079,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " a",
 "s": 53.26,
 "e": 53.46,
-"p": 0.686
+"p": 0.878
 },
 {
 "w": " street",
@@ -887,12 +977,12 @@
 {
 "w": " way",
 "s": 54.54,
-"e": 54.72,
-"p": 1.0
+"e": 54.7,
+"p": 0.999
 },
 {
 "w": " down",
-"s": 54.72,
+"s": 54.7,
 "e": 54.94,
 "p": 1.0
 },
@@ -905,51 +995,42 @@
 {
 "w": " freeway",
 "s": 55.32,
-"e": 55.86,
-"p": 1.0
+"e": 55.88,
+"p": 0.999
 },
 {
 "w": " then",
-"s": 55.86,
+"s": 55.88,
 "e": 56.4,
 "p": 0.999
 },
 {
 "w": " they",
 "s": 56.4,
-"e": 56.54,
-"p": 0.689
-}
-]
+"e": 56.52,
+"p": 0.653
 },
 {
-"start": 56.54,
-"end": 61.82,
-"text": "you're gonna say that person is crazy but if a hundred other people do it with me then it's a",
-"avg_logprob": -0.079,
-"no_speech_prob": 0.0,
-"words": [
-{
 "w": " you're",
-"s": 56.54,
-"e": 56.82,
-"p": 0.979
+"s": 56.52,
+"e": 56.84,
+"p": 0.987
 },
 {
 "w": " gonna",
-"s": 56.82,
+"s": 56.84,
 "e": 56.9,
-"p": 0.648
+"p": 0.617
 },
 {
 "w": " say",
 "s": 56.9,
-"e": 57.14,
+"e": 57.12,
 "p": 1.0
 },
 {
 "w": " that",
-"s": 57.14,
+"s": 57.12,
 "e": 57.32,
 "p": 1.0
 },
@@ -969,8 +1050,17 @@
 "w": " crazy",
 "s": 57.88,
 "e": 58.3,
-"p": 0.999
+"p": 0.998
+}
+]
 },
+{
+"start": 58.3,
+"end": 65.29,
+"text": "but if a hundred other people do it with me then it's a marathon that's a good way to put it",
+"avg_logprob": -0.079,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " but",
 "s": 58.3,
@@ -987,7 +1077,7 @@
 "w": " a",
 "s": 59.36,
 "e": 59.48,
-"p": 0.974
+"p": 0.972
 },
 {
 "w": " hundred",
@@ -1023,7 +1113,7 @@
 "w": " with",
 "s": 60.6,
 "e": 60.8,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " me",
@@ -1040,71 +1130,77 @@
 {
 "w": " it's",
 "s": 61.52,
-"e": 61.7,
+"e": 61.76,
 "p": 1.0
 },
 {
 "w": " a",
-"s": 61.7,
+"s": 61.76,
 "e": 61.82,
+"p": 1.0
+},
+{
+"w": " marathon",
+"s": 61.82,
+"e": 62.22,
+"p": 0.996
+},
+{
+"w": " that's",
+"s": 62.22,
+"e": 63.2,
+"p": 0.998
+},
+{
+"w": " a",
+"s": 64.61,
+"e": 64.69,
+"p": 1.0
+},
+{
+"w": " good",
+"s": 64.69,
+"e": 64.81,
+"p": 0.999
+},
+{
+"w": " way",
+"s": 64.81,
+"e": 64.93,
+"p": 1.0
+},
+{
+"w": " to",
+"s": 64.93,
+"e": 65.03,
+"p": 1.0
+},
+{
+"w": " put",
+"s": 65.03,
+"e": 65.23,
+"p": 0.999
+},
+{
+"w": " it",
+"s": 65.23,
+"e": 65.29,
 "p": 1.0
 }
 ]
 },
 {
-"start": 61.82,
-"end": 65.27,
-"text": "Marathon, that's a good way to put it",
-"avg_logprob": -0.325,
+"start": 65.29,
+"end": 65.47,
+"text": "killed?",
+"avg_logprob": -0.522,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " Marathon,",
-"s": 61.82,
-"e": 62.26,
-"p": 0.68
-},
-{
-"w": " that's",
-"s": 63.93,
-"e": 64.63,
-"p": 0.969
-},
-{
-"w": " a",
-"s": 64.63,
-"e": 64.71,
-"p": 0.996
-},
-{
-"w": " good",
-"s": 64.71,
-"e": 64.81,
-"p": 0.996
-},
-{
-"w": " way",
-"s": 64.81,
-"e": 64.95,
-"p": 0.989
-},
-{
-"w": " to",
-"s": 64.95,
-"e": 65.05,
-"p": 0.987
-},
-{
-"w": " put",
-"s": 65.05,
-"e": 65.21,
-"p": 0.956
-},
-{
-"w": " it",
-"s": 65.21,
-"e": 65.27,
-"p": 0.986
+"w": " killed?",
+"s": 65.29,
+"e": 65.47,
+"p": 0.493
 }
 ]
 }

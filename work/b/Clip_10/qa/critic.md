@@ -3,21 +3,15 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-Items
 1. Structure: NOT IN SCOPE
-2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 71.613 s, audio 71.613 s, frames 1717 = expected 1717, no decode errors.
+2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 71.613 s, audio 71.613 s, 1717/1717 frames, no decode errors.
 3. Transcript accuracy: NOT IN SCOPE
-4. Translation fidelity (CHANGED_LINES none): NOT IN SCOPE
-5. Masking: PASS - auto.json unmasked_hits empty; ASS shows "Real s**t."; no other listed words present; Japanese rows not mechanically masked.
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS - auto.json unmasked_hits empty; ASS shows "Real s**t."; no other listed words appear in the ASS; JP not mechanically masked.
 6. Timing/sync: NOT IN SCOPE
-7. Typography/visuals: PASS - f_0010.16 and f_0014.28: white bold Yu Gothic, black outline and shadow, EN above JP, centred, within frame; EN+JP block (max 2 EN + 2 JP lines) matches reference placement.
+7. Typography/visuals: PASS - f_0010.16.png and f_0014.28.png show white bold Yu Gothic with black outline and shadow, centred, EN above JP, at the same vertical position as ref_20.png; max 2 EN + 2 JP lines; no clipping.
 8. Framing: NOT IN SCOPE
 9. Source usage: NOT IN SCOPE
-10. Term-explanation row: PASS
- - Text: ASS two lines "アカウント停止：2022年10月、Yeの投稿が問題視され" / "Twitterアカウントが凍結された" = glossary Clip_10_L003 verbatim (one term, break not inside a word).
- - Timing: 8.29-16.51 s (8.22 s) = both L003 captions; frames at 10.16 and 14.28 show it on screen.
- - Layout: Expl at y=1170/1218, fs40, ends about y 1265 (inside 438..1480); EN/JP block ends about y 1150, so no overlap (gap is small but clear in frames).
- - Style: same font, white fill, black outline and shadow as the main rows.
+10. Term explanation row: PASS - one row (Clip_10_L003) in ASS style Expl, 8.29-16.51 s (8.2 s). The text matches glossary_draft_s1.json verbatim: "アカウント停止：2022年10月、Yeの投稿が問題視されTwitterアカウントが凍結された". It is split over two lines at y=1188 and y=1236 with no word broken. It covers both L003 caption events (8.29-12.03 and 12.05-16.51). Judged from render frames f_0010.16.png (inside the first event) and f_0014.28.png (inside the second); both show the row. It sits at about y 1190-1275, below the JP row (about y 1100-1145) with a clear gap and inside the sharp band 438..1480. Same font, white fill, black outline and shadow, smaller size. No extra frames were needed.
 
-Non-blocking notes
-- Gap between the 4th caption row and the Expl row is about 20 px; reads as a separate block but is tight when EN+JP use 4 lines.
+Non-blocking notes: none

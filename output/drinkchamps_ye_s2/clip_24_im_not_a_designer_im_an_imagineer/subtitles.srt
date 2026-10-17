@@ -45,102 +45,116 @@ I'm more like a Steve Jobs type.
 スティーブ・ジョブズタイプ
 
 9
+00:00:18,354 --> 00:00:22,214
+スティーブ・ジョブズ：Appleの共同創業者
+
+10
 00:00:20,294 --> 00:00:23,034
 You know, you say to Steve,
 like, yo, you don't even program.
 スティーブに「お前プログラム
 書かないじゃん」って言うようなもんだ
 
-10
+11
 00:00:23,054 --> 00:00:26,974
 You know, I would never
 disrespect a designer that been to
 学校に通って
 型紙も切れて
 
-11
+12
 00:00:26,994 --> 00:00:30,694
 school and that can cut and
 have dedicated their whole life,
 人生を捧げてきたデザイナーを差し置いて
 自分をデザイナーだなんて
 
-12
+13
 00:00:30,714 --> 00:00:32,554
 and call myself a designer.
 絶対に名乗らない
 
-13
+14
 00:00:32,574 --> 00:00:34,894
 I'm more an imagineer.
 俺はむしろ
 「イマジニア」なんだよ
 
-14
+15
+00:00:32,574 --> 00:00:39,814
+イマジニア：imagine（想像）とengineer（技術者）を
+合わせた造語。Disneyの用語
+
+16
 00:00:34,914 --> 00:00:39,574
 I'm a visionary, and I place the
 pieces of our culture together.
 ビジョンを描いて　俺たちのカルチャーの
 ピースを組み合わせる
 
-15
+17
 00:00:39,594 --> 00:00:44,014
 Even right now, you know,
 I want to bring joy and laughter.
 今だってさ
 喜びと笑いを届けたいんだよ
 
-16
+18
 00:00:44,034 --> 00:00:46,414
 So even if, say, say,
 say, we wanted to, like,
 
-17
+19
 00:00:46,434 --> 00:00:49,344
 look at the interview and we have
 a conversation after and say,
 たとえばこのインタビューを見返して
 話し合ったとしても
 
-18
+20
 00:00:49,364 --> 00:00:50,774
 look, do we need this first segment?
 「最初のパートって
 要る？」って
 
-19
+21
 00:00:50,794 --> 00:00:53,674
 Let's just do the s**t that's like,
 you know, it's controversial,
 物議を醸すやつは　そのままでいい
 だってみんな
 
-20
+22
 00:00:53,694 --> 00:00:55,474
 because people ain't going
 to really name names.
 はっきり名前は出さないから
 
-21
+23
 00:00:55,494 --> 00:00:58,354
 But it's funny still. I think about that.
 でもやっぱり笑えるんだよ
 そう思う
 
-22
+24
 00:00:58,374 --> 00:01:01,594
 It's like, we need joy.
 It's too much pain.
 俺たちには喜びが必要だ
 痛みが多すぎる
 
-23
+25
 00:01:01,614 --> 00:01:03,154
 You know, it's too much anger,
 怒りも多すぎるし
 
-24
+26
 00:01:03,174 --> 00:01:05,462
 and it's too much trauma economy.
 「トラウマ経済」が
 デカすぎる
+
+27
+00:01:03,174 --> 00:01:05,482
+トラウマ経済：人々の苦しみを消費して利益を生む
+構造を指すYeの言葉

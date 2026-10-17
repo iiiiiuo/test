@@ -17,21 +17,21 @@ Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 
 
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (non-blocking: JP/EN pairing is offset by one caption at 0-1.3s and 40.76-44.15s)
+Largest gap: none
 Fix: none
 
 Items
-1. Structure: PASS - starts on "Like, you know" right after a sample dip at ~182.18s (word boundary), ends after "...a couple hundred thousand back." (audio onset of next "But" at ~247.14s, clip ends 247.12s). Self-contained story (bills -> billionaire -> Shaq anecdote).
-2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 64.815s / audio 64.815s, 1554 frames = expected, no decode errors.
-3. Transcript accuracy: PASS - captions match HEARD lines (0.93 token match, 95% inside caption). Omitted "what I mean and" (0.7-2.1s) and ASR-only "because he was paying himself" (57.5-58.6s, not in turbo source ASR, likely ASR error) are not meaningful mismatches.
-4. Translation fidelity: PASS - JP matches approved rows and meaning. Note the split places 「俺がYeの代弁者だ」 on "Like, you know," (0-1.3s) and ちゃんと見てなかったせいで on "lost hundreds of millions" (40.76-44.15s), one caption ahead of the EN; the next caption carries the matching EN, so the pair reads together. Not clearly wrong.
-5. Masking: PASS - auto.json unmasked_hits = []; no listed words occur in the EN; JP not masked.
-6. Timing/sync: PASS - median onset offset -0.04s; every sentence of foreground speech is captioned; shortest caption 1.3s (first), others >=1.5s. Gaps (26.05-27.12, 30.28-31.16, 47.65-49.56) are speech pauses/speaker change.
-7. Typography/visuals: PASS - white bold Yu Gothic with black outline/shadow, EN above JP, centred, at the same vertical band as the reference, max 2 EN + 2 JP lines, no clipping (sheet_1/2, f_0064.73).
-8. Framing: PASS - Ye and both hosts are centred in the sharp band with blurred fill above/below; changes occur only at shot changes (framing sheet and sheets).
-9. Source usage: PASS - single interval part_3 frames [4371,5925) = 1554 frames; no padding or repetition; no join.
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json: 1080x1920, SAR 1:1, video 64.81475 s / audio 64.815 s (60.0 <= d < 120.0), 1554 frames = manifest 4371..5925, decode_errors empty.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS - auto.json unmasked_hits empty; no profane words in subtitles.ass/srt or in sync.txt HEARD lines (grep for shit/fuck/bitch/nigg/pussy: none); JP has no asterisks.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS - f_0004.24.png and f_0053.84.png vs ref_20.png: white bold Yu Gothic, black outline+shadow, EN above JP, centred, same size and vertical position (EN first line y~975, as in reference), max 2 EN + 2 JP lines, no clipping, inside sharp band, blurred fill above/below. ASS styles Sub/Expl use Yu Gothic bold, white, black outline/shadow.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS (no rows) - glossary_draft_s1.json has no Clip_09_* keys (0 matches), and subtitles.ass has no Expl events (0 matches), so no explanation row is expected or present. No frames needed; nothing missing, nothing overlapping.
 
 Non-blocking notes
-- Caption 1 JP line uses fs50 vs fs54 for all other lines (subtitles.ass first Dialogue pair); barely visible.
-- Caption 1 (0-1.3s) is short and the JP quote appears ~1.7s before it is spoken; consider moving the JP to the following caption if the approved rows allow.
+- Style Expl is defined in the ASS but unused for this clip, which is consistent with the glossary.
 

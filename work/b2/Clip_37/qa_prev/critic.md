@@ -1,18 +1,13 @@
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (cosmetic only: caption 4 "The Supreme Lives Matter" onsets at 6.98s while the words are heard ~8.9-10.6s, host stuttering "the, um" before it)
+Largest gap: none
 Fix: none
 
-1. Structure: PASS. Opens on the host question "Why are you wearing the Trump..." (prev source line is unrelated chatter, clean break), ends after "It's bigger than White Lives Matter." (source speech ends 930.04, clip 930.47). Standalone clear.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 67.150s / audio 67.15s, 1610 frames = manifest, no decode errors.
-3. Transcript: PASS. HEARD matches captions through the clip. "It's not Trump" (4.6-6.56) is not in the render ASR, but a local large-v3 check of source 867.5-869.6 hears Ye "It's not true/Trump... No." at 867.88, matching the approved row. Tremaine/Skete/Dov Charney are proper-noun spellings from the approved CSV; ASR variants are ASR errors.
-4. Translation: PASS. JP matches the EN at each moment; no clear errors.
-5. Masking: PASS. auto.json unmasked_hits empty; no listed profanity in this clip.
-6. Timing/sync: PASS. Median onset offset 0.06s, 97.8% of matched words inside their caption. Only lead is caption 4 (see above, stutter). No long uncaptioned speech; shortest caption 0.77s ("excuse me...", short phrase, readable).
-7. Typography/visuals: PASS. White bold Yu Gothic with black outline/shadow, EN above JP, centred, up to 2 EN + 2 JP lines, same size/vertical position as reference, inside frame (f_0065.66.png), readable on the bright gold background.
-8. Framing: PASS. Sharp centre band with blurred fill above/below as in reference; faces in frame in sheets. Ye's cap brim hides his face in the head-down moment around 11-14s (natural pose, not a framing fault). Cutaways to host/Ye on shot changes only.
-9. Source usage: PASS. One interval, part_6 frames [20698, 22308), audio same range; no padding, freeze or repetition.
+Items (scope: 2, 5, 7, 10; item 4 CHANGED_LINES=none so not judged)
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 67.150 s, audio 67.15 s, frames 1610 = expected, no decode errors.
+5. PASS - no unmasked hits (auto.json, grep of srt/ass); no profanity in the clip; JP not masked.
+7. PASS - f_0065.40.png and sheet_1: white bold Yu Gothic, black outline+shadow, EN above JP, centred, 4 lines max, same size/position as reference, no clipping.
+10. PASS - six rows (L004, L007, L008, L009, L010, L016) match glossary_draft_s2.json verbatim, terms on own lines; on screen 11.02-18.39 (7.4 s), 20.32-28.34, 29.42-33.98, 34.00-37.98, 38.00-41.08, 64.18-67.15 (2.97 s), all >= 2 s and starting at the caption showing the term; pos y 1188-1284 starts below EN/JP block bottom (~1150) and ends well inside sharp band (438..1480); style Expl is Yu Gothic bold, white, black outline, shadow, 40 pt; frame 65.40 shows no overlap and no awkward breaks.
+1, 3, 4, 6, 8, 9: NOT IN SCOPE (nothing blocking noticed).
 
-Non-blocking notes
-- Caption 4 could start ~1s later to track "Supreme Lives Matter" more tightly; not worth a re-render.
-- Opening 0-4.6s shows Ye (toast) while the host speaks off-screen; acceptable reaction cutaway.
+Non-blocking notes: none.

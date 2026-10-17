@@ -1,6 +1,6 @@
 # Clip_33 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `3e47b274c2e83bcfedee6f47cd5867569077c7f0d957827d25f35b047b8868ee`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `d6ff20f0da4b7fd20ca98890789e0e872b703b3b79f1e857673dd096f5c649e9`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -19,18 +19,21 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-Items
-1. Structure: PASS. Opens on Ye's "I'm always being honest" (audio is a low-energy pause at 1093.88, speech onset ~0.2s), ends on "Louis Vuitton." (source 1177.54, next thought "I still..." excluded); coherent single argument, standalone.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 83.7086s / audio 83.708s, 2007 frames = manifest, decode_errors empty.
-3. Transcript: PASS. sync.txt match ratio 0.979; only meaningful difference is 12.36 caption "You know, I'm here, right?" where ASR also hears "what I'm saying? It's like" (trimmed filler); no meaning change.
-4. Translation: PASS. All 23 captions carry JP; JP matches approved CSV and the English meaning (checked 2.56, 34.36, 48.42, 66.28, 81.61). Long approved JP lines are split across consecutive captions correctly.
-5. Masking: PASS. auto.json unmasked_hits empty; no listed curse words in the text.
-6. Timing/sync: PASS. Onset vs first heard word median 0.10s, max 0.47s; matched words inside own caption 99.6%; shortest caption ~1.9s; no uncaptioned foreground sentence (host "Yeah" at ~34s is captioned).
-7. Typography: PASS. Frames f_0000.05/0004.90 and sheets show white bold Yu Gothic with black outline/shadow, EN above JP, centred, same vertical position and size as ref_sheet; max 2 EN + 2 JP lines; no clipping.
-8. Framing: PASS. Ye and the host faces sit in the sharp centre band with blurred fill; crop changes only at shot changes (host to Ye at ~0.7s, Ye to host ~32s, back to Ye ~34s).
-9. Source usage: PASS. Single interval part_5 frames [26226, 28233), half-open, 24000/1001, audio same range; no padding/freeze/repetition.
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 83.709 s / audio 83.708 s, frames 2007 = expected 2007, no decode errors.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS - auto.json unmasked_hits = []; no unmasked listed words in SRT or ASS dialogue text; no mechanical asterisks in JP.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals vs reference: PASS - f_0043.35, e_50.5, e_79 show white bold Yu Gothic with black outline+shadow, centred, EN above JP at the same vertical position (y~950-1150) as the reference, max 2 EN + 2 JP lines, no clipping.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS
+ - Text matches glossary_draft_s2.json verbatim: L007 Kim (41.28-48.40, 7.1 s), L008 大統領になれる歳 (48.42-52.93, 4.5 s), L011 アーミッシュ (71.99-83.69, 11.7 s). Line breaks fall between phrases, no word or name split.
+ - Each row starts with the caption showing the term (Kim at 41.28, 大統領 at 48.42, アーミッシュ at 71.99) and stays up while it is spoken.
+ - Position y=1188/1236 (rendered ~1190-1270): below the JP row (ends ~1145), no overlap, inside the sharp band 438..1480; widest line (L011) spans x~165-915, inside the frame.
+ - Style Expl: Yu Gothic bold, white fill, black outline, shadow, 40 px; visibly smaller than the 50-54 px EN/JP.
 
 Non-blocking notes
-- 0.0-0.7s shows the host's reaction shot while Ye's first line plays; reads as a natural reaction cut.
-- First caption's JP shows only 俺はいつだって正直だ; the JP for "we'll get to that point" (その話はまたするとして) appears at the next caption (~0.6s after the English). Approved wording, split by design.
+- L011 explanation appears at 71.99 while "Amish" is spoken about 75 s (JP "アーミッシュの" is already on screen at 71.99); acceptable.
 

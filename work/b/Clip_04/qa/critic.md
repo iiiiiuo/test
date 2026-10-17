@@ -3,15 +3,19 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-Scope: items 2, 5, 7, 10 (item 4 skipped, CHANGED_LINES = none). Items 1, 3, 6, 8, 9: NOT IN SCOPE (no blocking problem noticed).
-
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 75.117 s, audio 75.117 s, 1801 frames = expected 1801, decode_errors empty.
-5. Masking: PASS. No profane word (shit/fuck/bitch/nigg/pussy) in subtitles.ass or in the HEARD text of sync.txt; auto.json unmasked_hits empty; no asterisks in the Japanese rows.
-7. Typography/visuals: PASS. Frames f_0001.65 and f_0074.12: white bold Yu Gothic, black outline and shadow, EN above JP, centred, first line at y~948 as in the spec, 2 EN + 2 JP lines at most, no clipping on the bright background.
-10. Term-explanation row: PASS.
- - L001 text matches the glossary, with the three terms on separate lines: James Blake / Arca / No I.D. Shown 0:00.20-0:09.91 (9.7 s) at y 1170/1218/1266. The Expl rows sit under the 4-line EN/JP block, which ends near y~1150, so there is no overlap (f_0001.65). Max width ~690 px, no awkward breaks.
- - L024 text matches the glossary: "Saudi：サウジアラビア（の政府系マネー）のこと". Shown 1:11.65-1:15.12 (3.5 s), starting with the "Saudis"/"Saudiも見る" caption, at y 1120 under a 3-line block (JP bottom ~1095) and a 2-line block later (f_0074.12). No overlap. It stays on one line at ~705 px.
- - Style Expl: Yu Gothic Bold 40, white fill, black outline 3, shadow 2. Same as Sub apart from size. All rows are inside the sharp band (y 438..1480), and the lowest row ends near y~1290.
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json: 1080x1920, SAR 1:1, video 75.117 s / audio 75.117 s, 1801 frames = expected, no decode errors.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS - auto.json unmasked_hits empty; no profanity in displayed EN in subtitles.ass; JP not asterisked.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS - frames f_0001.65 and f_0074.12 vs ref_20: white bold Yu Gothic, black outline+shadow, EN above JP, centred, same size/position as reference, max 2 EN + 2 JP lines, no clipping.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation rows: PASS
+ - Clip_04_L001 (James Blake / Arca / No I.D.): text verbatim vs glossary_draft_s1.json, one term per line; on screen 0.20-9.91 s (9.7 s) from the first caption; judged from actual render frame f_0001.65 (inside span): rows at y 1188/1236/1284 (ink about 1190-1320), clear of the 4-line EN/JP block (ends about 1150), inside band 438..1480, same font/white/outline/shadow, smaller than Sub, no awkward breaks.
+ - Clip_04_L024 (Saudi): text verbatim; on screen 71.65-75.12 s (3.47 s) starting with the caption that shows "Saudis"; judged from f_0074.12 (inside span): single row y 1138 (ink about 1140-1175), below the 2-line EN/JP block (ends about 1050), inside band, same styling, no line break.
+ - Explanation rows exist only for L001 and L024, the two keys in the glossary for Clip_04; no extras.
 
 Non-blocking notes
-- The L001 explanation stays up through the L002 and L003 captions (to 9.91 s). That is readable, but it outlasts the term's caption.
+- f_0000.05 is before the first caption/explanation (0.20 s), so it was not used for judging.

@@ -39,6 +39,8 @@ def _cls(ch):
 def _break_cost(a, b):
     """Cost of a line break between tokens a | b (lower is better; None = forbidden)."""
     if b == ' ' or b in BREAK_AFTER or a in OPEN: return None   # break after a space, never before it
+    if _cls(b) == 'h' and _cls(a) != 'h' and a not in '、。：／':
+        return 200                                       # a particle never starts a line (critic Clip_12: 『…』⏎は)
     if a in BREAK_AFTER: return 0
     ca, cb = _cls(a), _cls(b)
     if ca == 'h': return 30 if cb == 'h' else 5          # after a particle / okurigana

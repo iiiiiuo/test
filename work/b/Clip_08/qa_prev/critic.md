@@ -3,16 +3,20 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-1. Structure: PASS - starts on "Anybody that's ever been through a divorce" (source ctx 1752.33, prior speech ends 1751.63); ends on "get back together" (ASR 80.5-80.70) as a resolved thought.
-2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 80.705625 s, audio 80.705 s, 1935/1935 frames, no decode errors.
-3. Transcript: PASS - sync.txt HEARD matches displayed English; only ASR slips ("don the two", "outcast", "boy").
-4. Translation: PASS - no clear errors; JP matches each EN line and moment (e.g. L15 "I Choose You", L19 "Ms. Jackson").
-5. Masking: PASS - "s**t" at 24.06; auto.json unmasked_hits empty; JP not masked.
-6. Timing/sync: PASS - median onset offset 0.06 s; 96% matched words inside their caption; gaps 38.76-39.84 and 74.69-75.87 are hesitation/pause ("um", silence), no uncaptioned sentences; min caption 0.74-0.75 s (L20 "Yeah, yeah, yeah." 55.27-56.01) readable.
-7. Typography: PASS - f_0022.01 / f_0079.71 show white bold Yu Gothic, black outline/shadow, EN over JP, centred at y~950-1140, similar to ref; up to 2 EN + 2 JP lines, no overflow.
-8. Framing: PASS - Ye and N.O.R.E. faces/caps fully in sharp band (f_0022.01, f_0079.71), blurred fill above/below; changes only at shot changes.
-9. Source usage: PASS - single interval part_2_2 frames [42012,43947) half-open, continuous, no padding/freezes/repetition.
+Items (scope: 2, 5, 7, 10; item 4 CHANGED_LINES = none so not re-judged)
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 80.705625 s / audio 80.705 s, 1935 frames = manifest, decode_errors empty.
+3. NOT IN SCOPE
+4. NOT IN SCOPE (no changed lines)
+5. PASS - auto.json unmasked_hits empty; only "s**t" (Gemini s**t, 24.06) is displayed masked in ASS/sync; Japanese not mechanically masked.
+6. NOT IN SCOPE
+7. PASS - f_0044.21, f_0045.84, f_0053.89 vs ref_20.png: white bold Yu Gothic with black outline and shadow, EN above JP, centred, same size/position as reference; max 2 EN + 2 JP lines; nothing clipped.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS
+ - Text verbatim vs glossary_draft_s1.json: L008 "Big Boi：ヒップホップデュオOutKastのメンバー", L009 "Big Boy：ロサンゼルスの人気ラジオDJ", L011 "『Ms. Jackson』：OutKastの2000年のヒット曲。/元恋人の母親への謝罪がテーマ" (line break only; whole-term break, no word split).
+ - Timing: 39.84-44.51 (4.7 s, starts with "Big Boi, man."), 44.53-48.39 (3.9 s, starts with L009 caption), 53.23-60.34 (7.1 s, starts with the "Ms. Jackson" caption). All >= 2 s.
+ - Layout: Expl at y=1170 (and 1218 for 2nd line), fs40, inside sharp band 438..1480; frame f_0045.84 (4-line EN/JP block) shows a clear gap above the Expl row; no overlap. Same font, white fill, black outline and shadow visible in frames.
 
 Non-blocking notes
-- Final caption ends at 80.69 s, 0.015 s before video end; last word "together" ends ~80.70, so the cut is tight.
-- At 79.71 the cap top touches the sharp band top edge (not cropped).
+- During 57.89-60.34 the 4-line EN/JP block and the 2-line Expl row are both up (no frame extracted there); by geometry (JP row 2 ends about y1150, Expl starts y1170) they should not touch, but the gap is small.

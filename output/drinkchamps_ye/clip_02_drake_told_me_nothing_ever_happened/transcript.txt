@@ -1,5 +1,5 @@
 # Clip_02 "Drake told me 'nothing ever happened'" internal transcript (UNMASKED English; audio is uncensored). Times are final.mp4 time.
-# Source part_1 (part_1.mp4); approved translation rev3 3beddae29a17
+# Source part_1 (part_1.mp4); approved translation rev4 46712d9e6ed6
 
 [00:00.000 - 00:03.047] Clip_02_L001
 EN: Yeah, it's so funny, though, because me and Drake, you know,
@@ -35,7 +35,7 @@ JA: Steveは「いや、Yeは何もしてない」って
 
 [00:29.806 - 00:31.646] Clip_02_L006
 EN: So when I went to the White House,
-JA: で、White Houseに行った時
+JA: で、ホワイトハウスに行った時
 
 [00:32.036 - 00:33.386] Clip_02_L006
 EN: I saw Jared.

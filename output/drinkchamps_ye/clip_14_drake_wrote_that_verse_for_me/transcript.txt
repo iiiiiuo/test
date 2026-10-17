@@ -1,5 +1,5 @@
 # Clip_14 "Drake wrote that verse for me" internal transcript (UNMASKED English; audio is uncensored). Times are final.mp4 time.
-# Source part_4 (part_4.mp4); approved translation rev3 3beddae29a17
+# Source part_4 (part_4.mp4); approved translation rev4 46712d9e6ed6
 
 [00:00.000 - 00:03.420] Clip_14_L001
 EN: Right? We get on our jealousy stuff,
@@ -75,7 +75,7 @@ JA: ってのをDrakeに送ったら
 
 [00:47.070 - 00:51.680] Clip_14_L010
 EN: and Drake took it and barred it out and wrote the whole rap.
-JA: Drakeがそれを　バースに仕上げて ラップ全部書いたんだよ
+JA: Drakeがそれを　verseに仕上げて ラップ全部書いたんだよ
 
 [00:51.700 - 00:53.050] Clip_14_L011
 EN: You understand, like,

@@ -1,6 +1,6 @@
 {
  "schema": "multi-source-v2",
- "updated": "2026-10-16T08:54:53Z",
+ "updated": "2026-10-17T12:20:40Z",
  "interval_convention": "half-open [start_frame,end_frame_exclusive); frame=ceil((t*24000-start_pts)/1001); timebase 1/24000",
  "sources": {
   "part_1": {
@@ -1450,7 +1450,7 @@
   }
  ],
  "overlap_check": {
-  "checked_at": "2026-10-16T01:16:25Z",
+  "checked_at": "2026-10-17T12:20:05Z",
   "pairs_overlapping": 0,
   "method": "half-open frame and 48k-sample intervals per source, all pairs"
  },
@@ -1462,7 +1462,7 @@
   "note": "SOURCE_INTERVIEW / SOURCE_VIDEO ledger kept as is; different programme (29.97 fps) so no cross-source overlap possible. Full copy: work/legacy/"
  },
  "overlap_check_series2": {
-  "checked_at": "2026-10-16T08:54:53Z",
+  "checked_at": "2026-10-17T12:20:40Z",
   "pairs_overlapping": 0,
   "method": "half-open frame and 48k-sample intervals per source, all series-2 pairs and every series-2 vs committed series-1 pair"
  }

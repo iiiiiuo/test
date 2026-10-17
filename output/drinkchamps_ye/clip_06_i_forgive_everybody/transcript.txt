@@ -1,5 +1,5 @@
 # Clip_06 "I forgive everybody" internal transcript (UNMASKED English; audio is uncensored). Times are final.mp4 time.
-# Source part_2_2 (part_2 2.mp4); approved translation rev3 3beddae29a17
+# Source part_2_2 (part_2 2.mp4); approved translation rev4 46712d9e6ed6
 
 [00:00.098 - 00:02.228] Clip_06_L001
 EN: Kool G Rap or Big Pun?
@@ -51,7 +51,7 @@ JA: 言ってたけど
 
 [00:22.982 - 00:29.622] Clip_06_L009
 EN: I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive
-JA: 俺は許す　全員許す　Clinton夫妻も許す
+JA: 俺は許す　全員許す　クリントン夫妻も許す
 
 [00:29.642 - 00:33.332] Clip_06_L010
 EN: John Legend for wearing them bum-ass sweaters.

@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -86,3 +87,4 @@ Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He was lik
 Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}the Puppy dance, you remember?
 Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}こんな感じで　パピー・ダンス
 Dialogue: 0,0:01:02.10,0:01:04.54,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}踊ってたじゃん　覚えてる？
+Dialogue: 0,0:00:15.91,0:00:21.59,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Waldorf：ビバリーヒルズの高級ホテルWaldorf Astoria

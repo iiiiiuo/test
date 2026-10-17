@@ -1,18 +1,22 @@
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (non-blocking: caption 16 (41.56-49.82s) appears ~1.0s before first heard word and shows "I forgive Big Sean" ~6s before it is spoken at 47.9s)
-Fix: none (optional: start caption 16 at ~42.4s or split "Big Sean. May they all be forgiven." / "I forgive Big Sean")
+Largest gap: none
+Fix: none
 
-## Items
-1. Structure: PASS. Question, "I like both", "Take a shot" (0-6.0s), jump cut, then Ye's "God said not to compare..." through the forgiveness list to "I forgive the left party." Join reads as a natural pivot; ending is a complete sentence, next source sentence (1216.75s onward) not included. Audio at 1147.60s is just past a syllable onset (RMS dip at 1147.50-1147.55), so a possible 50 ms clip of "So," that ASR did not hear; not noticeable.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, 1802/1802 frames, video 75.158s, audio 75.158s, no decode errors.
-3. Transcript accuracy: PASS. HEARD matches captions throughout (sync.txt). Only differences: "Who else is you again?" vs render ASR "Who loves you again?" (approved csv marks LOW, read as "who else?"; 62.5s, host reaction line, not blocking); "Take a shot." (5.05s) not picked up by ASR but present in source ASR at 1111.32-1111.80.
-4. Translation fidelity: PASS. All 25 captions have JP matching approved rev3 rows; no clearly wrong/misplaced JP.
-5. Masking: PASS. auto.json unmasked_hits = []; "bum-ass" is not on the mask list; no mechanical asterisks in JP.
-6. Timing/sync: PASS. Median onset offset 0.13s, 97.8% of matched words inside their caption. Non-blocking early onsets: caption 16 about 1.0s early (41.56 vs first word 42.52s) and long hold, caption "Um, I forgive, uh..." 0.75s early (55.34 vs 56.09s). No uncaptioned foreground sentence; 58.5-62.5s and 39-41.5s are meaningful silent pauses.
-7. Typography/visuals: PASS. f_0045.69.png and sheets: white bold Yu Gothic, black outline/shadow, centred at y~950-1140, EN above JP, max 2 EN + 2 JP lines, within frame and readable on the bright yellow background; consistent with ref_sheet.jpg size/position.
-8. Framing: PASS. Faces in the sharp band 438-1480 with blurred fill above/below; Envy shot 0-6s, Ye close-ups, host cutaway at 16-17.5s; framing changes only at shot cuts (manifest pieces). Ye looks down at 45s but head stays fully in frame.
-9. Source usage: PASS. Manifest part_2_2, two half-open intervals [26512,26656) and [27514,29172), 144+1658=1802 frames, no overlap, no padding or repetition; the jump drops Jay Electronica chatter and does not distort meaning.
+Scope: items 2, 4 (Clip_06_L009), 5, 7, 10. Items 1, 3, 6, 8, 9: NOT IN SCOPE (nothing blocking noticed).
 
-## Non-blocking notes
-- Caption 16 and caption 13 (22.98-29.62s) are long phrase holds that preview words before they are spoken; splitting would match the reference rhythm better.
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 75.158 s, audio 75.158 s, frames 1802 = expected 1802, decode_errors empty.
+4. Translation (L009, 22.98-29.62): PASS. "I'm forgiving. I forgive everybody. I forgive the Clintons." vs 俺は許す　全員許す　クリントン夫妻も許す; meaning matches, on the right moment (ASR: "Clintons" at 27.6 s).
+5. Masking: PASS. auto.json unmasked_hits = []; no listed word is unmasked in the EN. "bum-ass" is not on the list. JP is not mechanically masked.
+6 (spot check only). Expl events were checked against the ASR word times, see item 10.
+7. Typography/visuals: PASS. f_0026.30.png and f_0045.69.png plus sheet_1.jpg: white bold Yu Gothic, black outline and shadow, centred, EN above JP, same size and position as the series; no clipping; max 2 EN + 2 JP lines (4 rows at most).
+10. Term-explanation row: PASS.
+- Text is verbatim vs glossary_draft_s1.json for L001, L002, L008, L009, L010, L011, L018 (only line breaks differ).
+- Timing: L001 0.10-5.03 (4.9 s), L002 5.05-9.82, L008 20.96-24.94 ("Ross" heard 21.28), L009 24.96-29.62 ("Clintons" heard 27.6), L010 29.64-39.00, L011 41.56-49.82, L018 71.93-75.16. All are 3.2 s or longer.
+- Placement: Expl y = 1120/1168 under 3 EN+JP rows, 1170/1218 under 4 rows, 1070 under 2 rows. Frames show no overlap with the EN/JP rows, and the row stays inside the sharp band (bottom about 1260, limit 1480).
+- Style: Expl = Yu Gothic bold, 40 px, white fill, black outline, shadow (same as Sub).
+- Line breaks fall at clause boundaries; no name is split.
+
+Non-blocking notes
+- L009 explanation starts at 24.96, about 2 s after the L009 caption (22.98), because the single Expl slot is held by the Ross note until 24.94. It is on screen while "Clintons" is spoken, so this is acceptable.
+- The Ross note (L008) runs about 2 s past its speech, for the same reason.

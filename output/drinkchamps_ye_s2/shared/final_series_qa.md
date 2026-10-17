@@ -1,6 +1,6 @@
 # Final series QA
 
-Checked 2026-10-16T08:54:53Z on the exported files.
+Checked 2026-10-17T12:20:40Z on the exported files.
 
 - Clips: 18; all frozen PASS by an independent Fresh Clip Critic and byte-identical to the frozen render: PASS
 - 9:16 1080x1920 and 60.0 <= duration < 120.0 for every final.mp4: PASS (range 64.106–95.637 s)

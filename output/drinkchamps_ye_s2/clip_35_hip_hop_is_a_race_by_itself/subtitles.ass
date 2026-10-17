@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -89,3 +90,7 @@ Dialogue: 0,0:00:58.85,0:01:01.49,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}今まさ
 Dialogue: 0,0:01:01.51,0:01:04.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}right now. I feel like
 Dialogue: 0,0:01:01.51,0:01:04.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we're doing it right now.
 Dialogue: 0,0:01:01.51,0:01:04.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺たちは今やってるんだ
+Dialogue: 0,0:00:00.31,0:00:05.21,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Tidal：2015年にJay-Zが買収した音楽配信サービス
+Dialogue: 0,0:00:06.58,0:00:15.22,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Cedric：Cedric Charbit。当時のBalenciagaのCEO
+Dialogue: 0,0:00:20.09,0:00:25.90,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Claude Anderson：黒人の経済的な結束を
+Dialogue: 0,0:00:20.09,0:00:25.90,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}説いた経済学者・著述家

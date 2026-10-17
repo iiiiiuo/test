@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -107,3 +108,10 @@ Dialogue: 0,0:01:18.25,0:01:23.66,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}示すた
 Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That was what the deal was about.
 Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}あの契約は
 Dialogue: 0,0:01:24.37,0:01:26.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういうことだったんだよ
+Dialogue: 0,0:00:05.98,0:00:16.73,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Cassius・Ali：ボクサーMuhammad Aliは
+Dialogue: 0,0:00:05.98,0:00:16.73,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}本名Cassius Clayを捨てて改名した。Yeも2021年に
+Dialogue: 0,0:00:05.98,0:00:16.73,Expl,,0,0,0,,{\an8\pos(540,1284)\fs40}Kanye Westから改名
+Dialogue: 0,0:00:29.72,0:00:36.83,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}俺とDrakeのライブ：2021年12月、Larry Hooverの
+Dialogue: 0,0:00:29.72,0:00:36.83,Expl,,0,0,0,,{\an8\pos(540,1236)\fs40}釈放を訴えたチャリティ公演
+Dialogue: 0,0:00:41.63,0:00:45.36,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}失読症：文字の読み書きに困難がある学習障害
+Dialogue: 0,0:01:14.32,0:01:23.66,Expl,,0,0,0,,{\an8\pos(540,1188)\fs40}Fortune 500：アメリカの売上上位500社のランキング

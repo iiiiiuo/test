@@ -49,3 +49,10 @@ Phrase-level captions starting at the first word onset; held up to 0.5 s after t
 
 ## English masking (reference-derived, two asterisks as in the reference "s**t", "f**king")
 shit→s**t, fuck→f**k, fucking→f**king, fucked→f**ked, bitch→b**ch, nigga→ni**a, niggas→ni**as. Displayed English only; Japanese translated from unmasked meaning; audio uncensored.
+
+## Term-explanation row (third row, added 2026-10-17)
+- Content: approved Japanese term explanations (`review/glossary/glossary_draft_s1.json`, `glossary_draft_s2.json`; 114 in total), shown below the EN and JP rows. EN/JP captions and their timing are unchanged from the frozen PASS versions (series 1 except the three rev 4 JP words).
+- Style `Expl`: Yu Gothic Bold 40, white fill, black outline 3 px, black shadow 2 px (same family and treatment as EN/JP); line pitch 48 px; at most 4 lines.
+- Placement: one fixed top per explanation, 40 px below the tallest EN+JP block on screen during its span (top 1188 for a 4-row block); bottom <= 1380, inside the sharp band (ends 1480).
+- Wrapping: 760 px rendered ink width. Each explained term starts a new line; breaks prefer punctuation and particle boundaries; no break inside a Latin name, katakana word or kanji compound where avoidable; a particle never starts a line; no closing punctuation at a line start.
+- Timing: starts with the first caption of the line whose JP or EN shows the term (never earlier). Ends at the later of the line end and start + 1.0 s + 0.13 s per character, capped at the clip end. Back-to-back explanations: the earlier one keeps the screen for up to 4 s (or its reading time), the next waits but keeps at least 3 s; two explanations are never shown at once.

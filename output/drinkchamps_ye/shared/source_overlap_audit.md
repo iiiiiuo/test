@@ -1,6 +1,6 @@
 # Source overlap audit (final manifests)
 
-Checked 2026-10-16T01:16:25Z: 29 intervals in 21 clips, every pair on the same source, half-open video frames and 48 kHz audio samples.
+Checked 2026-10-17T12:20:05Z: 29 intervals in 21 clips, every pair on the same source, half-open video frames and 48 kHz audio samples.
 
 Result: **PASS, zero shared source frames or audio samples**.
 

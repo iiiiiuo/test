@@ -1,6 +1,6 @@
 {
  "schema": "multi-clip-approval-v1",
- "updated": "2026-10-16T08:54:53Z",
+ "updated": "2026-10-17T12:20:40Z",
  "status": "PHASE_B_COMPLETE",
  "phase": "B",
  "inputs": {
@@ -114,7 +114,7 @@
   "Auto-segmented lines mixed speakers; numeric s/e guesses drifted: use anchor phrases with advancing search bound"
  ],
  "blockers": [],
- "next_action": "none: series 1 and 2 delivered",
+ "next_action": "none; await giub feedback",
  "legacy": "work/legacy/state.SOURCE_INTERVIEW.json",
  "translation_style": {
   "proper_nouns": "English spelling in Japanese subtitles (people, places, brands, artists); generic loanwords stay katakana",
@@ -140,42 +140,42 @@
   "Clip_01": {
    "dir": "output/drinkchamps_ye/clip_01_degrade_the_rich_demna_and_drake",
    "duration_s": 64.106,
-   "render_sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36"
+   "render_sha256": "612b4ff8601b035801d0fbfeb5dc53c49d77913d967f05229d5e1a58e8d2f99a"
   },
   "Clip_02": {
    "dir": "output/drinkchamps_ye/clip_02_drake_told_me_nothing_ever_happened",
    "duration_s": 74.116,
-   "render_sha256": "19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af"
+   "render_sha256": "ffcec172bbbc1b2d1885e018555938fdab628189fe75effa21e9b13fc5956f51"
   },
   "Clip_03": {
    "dir": "output/drinkchamps_ye/clip_03_i_googled_drakes_address",
    "duration_s": 67.943,
-   "render_sha256": "e5a5a0830e117c520675df8df32954e08c392705ce532ef0ff33bf33b6aa6d2e"
+   "render_sha256": "ba9a1534f768972a3d3be5d57c59aa67e75389988f72373dd6a1bc025f1a34f7"
   },
   "Clip_04": {
    "dir": "output/drinkchamps_ye/clip_04_bad_bunny_is_on_our_wall",
    "duration_s": 75.117,
-   "render_sha256": "56e92fc98f06dfaee4d2c44b3755a4807e742c393b136ddd9c1e2504c824d1d5"
+   "render_sha256": "32440448fcca5ed46283269f904aa0dfe404bb74a255cd23ac8cb17d8d2dd334"
   },
   "Clip_05": {
    "dir": "output/drinkchamps_ye/clip_05_water_rainwater_and_the_marathon",
    "duration_s": 65.566,
-   "render_sha256": "af95628beae1b61c91120751fe9ee41c0734502e5683ea97b74f960f208bd12e"
+   "render_sha256": "d61c42ef4429a0b0427e640f422444eeb1b3739435653eeb728d3355c4c5233d"
   },
   "Clip_06": {
    "dir": "output/drinkchamps_ye/clip_06_i_forgive_everybody",
    "duration_s": 75.158,
-   "render_sha256": "6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15"
+   "render_sha256": "ea89207a8ffdf2c0753dac6c312d43abe55ab66d21941f0fbc3c2758218cca5f"
   },
   "Clip_07": {
    "dir": "output/drinkchamps_ye/clip_07_wu_tang_videos_and_fresh_timbs",
    "duration_s": 63.188,
-   "render_sha256": "d765352bfc81c42ca8bed030ea14f9ce730ac703b3d6f6a716d49755c498b57d"
+   "render_sha256": "bbd56a60eddd471dc48e5db5c04b636ae68d77e63f76ceeef12798a4d3a6caae"
   },
   "Clip_08": {
    "dir": "output/drinkchamps_ye/clip_08_divorce_and_big_bois_i_choose_you",
    "duration_s": 80.706,
-   "render_sha256": "8a184afc1ec4cea197bb40e7a2132776a247a3bd5faaaa2c4c8f3317c2ee44b4"
+   "render_sha256": "a019ff5ee8bb3fddf78274927ff11ec7cdd19326fb58eef2a7a67d781c1bfe95"
   },
   "Clip_09": {
    "dir": "output/drinkchamps_ye/clip_09_a_billionaire_still_checks_every_bill",
@@ -185,62 +185,62 @@
   "Clip_10": {
    "dir": "output/drinkchamps_ye/clip_10_god_put_me_on_a_timeout",
    "duration_s": 71.613,
-   "render_sha256": "6305c6d87669d836770d6151584e7d00a9c2b2af3cc86e4915a12ea6065087d9"
+   "render_sha256": "74eecdfd8c530cf542e83d9885d8962db6f46f4a993d319791474fd3888cdd1c"
   },
   "Clip_11": {
    "dir": "output/drinkchamps_ye/clip_11_never_finished_a_novel",
    "duration_s": 85.919,
-   "render_sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80"
+   "render_sha256": "61990de3dbc43403480bf4eb357de98224bd2286920fa233c8099ba90ecfbc65"
   },
   "Clip_12": {
    "dir": "output/drinkchamps_ye/clip_12_r_b_took_god_out_of_the_music",
    "duration_s": 65.524,
-   "render_sha256": "41c7ee2d3e29e86ca2cf0dfb87db92a3dac1e6bbd0a3792a6c7b78c58623a4e2"
+   "render_sha256": "9fa1c9bcb5f083457d7aacde209d9d7777036ad1b70d966d260605c013551a4c"
   },
   "Clip_13": {
    "dir": "output/drinkchamps_ye/clip_13_pimp_c_told_me_to_turn_my_vocals_up",
    "duration_s": 78.996,
-   "render_sha256": "57aa32038246b874c4a092a4edcd8734e159b671e45d45be9133485114ee6719"
+   "render_sha256": "33b0f8dea93a118df4d27e8a01b25d4bda1228ed3ccf4cd48cfc27dfe0c4665f"
   },
   "Clip_14": {
    "dir": "output/drinkchamps_ye/clip_14_drake_wrote_that_verse_for_me",
    "duration_s": 61.77,
-   "render_sha256": "4acd372b4212c164e852c969d50ea40adaf778b4be380961fdc4a0c51f900520"
+   "render_sha256": "9caada490330759f4bc0dcf51341e3e954a571a077aac2a1c52289bab0790f8e"
   },
   "Clip_15": {
    "dir": "output/drinkchamps_ye/clip_15_the_get_pssy_toe_adidas_pitch",
    "duration_s": 76.827,
-   "render_sha256": "7f53fe2205ca1c0ea086f72815e8a67089fa31c3813b018874f9b41f420cde10"
+   "render_sha256": "12884c74991ff5e5336f30b9ba2df5c695af73c1ee56d00c6e34c7a2ad3eface"
   },
   "Clip_16": {
    "dir": "output/drinkchamps_ye/clip_16_beefing_with_puff_so_i_bought_a_penthous",
    "duration_s": 64.564,
-   "render_sha256": "a2d12ffb84027d8fdc20d71db596f3a756d9e242ccf4cce275c1c607c39249c8"
+   "render_sha256": "75d808253713a846834903e032bb0c6c4dfb44886bf37fb8f1e4f6c0a4848f63"
   },
   "Clip_17": {
    "dir": "output/drinkchamps_ye/clip_17_virgil_drake_and_4d_chess",
    "duration_s": 72.823,
-   "render_sha256": "c4d1fbdb4e61ce2342d110f9aaaa2e225bd1f0f2ebff409460352df7e31d1c06"
+   "render_sha256": "4d18a3bd88eb15ed8bb84b0ec48db0b2966ec2f00179dbfc854501a8ca55936e"
   },
   "Clip_18": {
    "dir": "output/drinkchamps_ye/clip_18_jeff_bezos_aint_got_no_taste",
    "duration_s": 72.322,
-   "render_sha256": "2b1c2860cfa03229352c95b7afaf4c51c6ac9a64d7923404184b6f66bf8b8d12"
+   "render_sha256": "cc459848f12c2c279bf485a84f0bddcd40f9e060dfcda7b1f1ad0fce7b4c8949"
   },
   "Clip_19": {
    "dir": "output/drinkchamps_ye/clip_19_elon_best_eq_on_the_planet",
    "duration_s": 75.993,
-   "render_sha256": "767cd9f9d57a3fdb511deae0ac9b132f9f04ce85273071f52766f774935bcd0c"
+   "render_sha256": "20f9cd07dd44bbd38e050b9a9e3e1621784f1f3aba55021ebb3ed37e309995c6"
   },
   "Clip_20": {
    "dir": "output/drinkchamps_ye/clip_20_speak_your_truth_off_dusse_not_hennessy",
    "duration_s": 74.575,
-   "render_sha256": "76287ebc6e3653827868a4420114a225c3bad07b377d204b5360a2e8fe98d19d"
+   "render_sha256": "3feb1ec30e15a0f7a2cbfb1dbc1141ba0ace459ae2e0e37cc81007612b6e4f51"
   },
   "Clip_21": {
    "dir": "output/drinkchamps_ye/clip_21_life_is_an_album_workout_plan_to_stronge",
    "duration_s": 68.318,
-   "render_sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f"
+   "render_sha256": "f2ff586941d6423886aad0ecac430d70820da6b74cf51940b58f6900ca48154c"
   }
  },
  "qa": {
@@ -283,57 +283,57 @@
   "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
   "approved_sha256": "505ad9815a5644987af96121b673fe2e29d9f4c7eef8a6e14030b548c510c03b",
   "approved_at": "2026-10-16T07:35:42Z",
-  "updated": "2026-10-16T08:54:53Z",
+  "updated": "2026-10-17T12:20:40Z",
   "completed_clips": {
    "Clip_22": {
     "dir": "output/drinkchamps_ye_s2/clip_22_adidas_was_my_internship",
     "duration_s": 95.554,
-    "render_sha256": "0d8b4ae002abed9e4cd91b4ee79c8508e6ecdff9ec182390511b1fd6971d30f3"
+    "render_sha256": "f845f5121c727db55bebb2ab89082ec9172eb8b9b2fab49465e356d51ab22935"
    },
    "Clip_23": {
     "dir": "output/drinkchamps_ye_s2/clip_23_they_called_me_cassius_nike_is_on_defens",
     "duration_s": 86.253,
-    "render_sha256": "fc245faf456620bfb0e02c3c6f0eab3ec473d622caa71f0b15c045e5e4fe21b8"
+    "render_sha256": "57889998498f9668b10fcd5eb059fd9dfc0f968eb20a93a4fd5d9ab5c428b46a"
    },
    "Clip_24": {
     "dir": "output/drinkchamps_ye_s2/clip_24_im_not_a_designer_im_an_imagineer",
     "duration_s": 65.482,
-    "render_sha256": "3177d397aab5e1b15570fddcb8822d33c36aecd82cbc678770705d55c671dc40"
+    "render_sha256": "c6fc16ac755a2381b082167c742091da0aff643d822afe84a496702a4e81e7eb"
    },
    "Clip_25": {
     "dir": "output/drinkchamps_ye_s2/clip_25_i_am_a_leader_not_the_leader",
     "duration_s": 76.076,
-    "render_sha256": "a61b701dba128792a37cc2b46543365f02187df904e24f9fcfad62314e5da07b"
+    "render_sha256": "52d8896bab9921cfcf5ac55e0795eaefd246d1345603808dd4b57c462a57d1cf"
    },
    "Clip_26": {
     "dir": "output/drinkchamps_ye_s2/clip_26_i_dont_like_nobody_better_than_me",
     "duration_s": 82.165,
-    "render_sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c"
+    "render_sha256": "a004f75aa1756ada7976dd6cb5d50f97c716f97a79e9c76d4c895309be79f772"
    },
    "Clip_27": {
     "dir": "output/drinkchamps_ye_s2/clip_27_a_maybach_fleet_until_we_make_our_own_ca",
     "duration_s": 66.858,
-    "render_sha256": "18037f9b78a2ddab9ba49408f5b370a12b8a62917df1e2512731e6435e1b0e2b"
+    "render_sha256": "f0342ff00defe43190bad0c24e440a2c413a5075ca9b46ea411c83d5c41c7063"
    },
    "Clip_28": {
     "dir": "output/drinkchamps_ye_s2/clip_28_stella_mccartneys_husband_gets_a_pass",
     "duration_s": 64.648,
-    "render_sha256": "3f89be9543ea73bd00993b5e3a9ce7385f8ad61026f80910c18689d94d22d972"
+    "render_sha256": "0cb5125b77e9f6beb86ed423e7f4078520d8244cba0bac831020748c7896c293"
    },
    "Clip_29": {
     "dir": "output/drinkchamps_ye_s2/clip_29_nothing_i_cant_play_in_front_of_my_kids",
     "duration_s": 73.991,
-    "render_sha256": "e101e6b19d659a55fbf90f5645d455f6146ec32c851e0c305cc8f2be8e1d3f13"
+    "render_sha256": "f10f5c2b6be44ae620db47dadf46fa735f63ff8fcf61eed7f2688dcb0f6ede62"
    },
    "Clip_30": {
     "dir": "output/drinkchamps_ye_s2/clip_30_tuskegee_is_not_a_conspiracy_theory",
     "duration_s": 94.761,
-    "render_sha256": "010a3b6d030037c7b236f81e1bcd6ee3ab3bbdc128d26f24775c9e6cd9347f27"
+    "render_sha256": "d1a025a3752392513f999b4e286e54f84977d1df9b9893ae88f231c3799255c1"
    },
    "Clip_31": {
     "dir": "output/drinkchamps_ye_s2/clip_31_my_favorite_human_being_is_me",
     "duration_s": 70.529,
-    "render_sha256": "8326f691a03fd2e5059ca9d0f3e8c464305a34d73b589d2908d5d395cac78aa7"
+    "render_sha256": "e8257cd5454b4856b512e44891609f3440a71bcc45ab6daec2e605bd1c4adfb1"
    },
    "Clip_32": {
     "dir": "output/drinkchamps_ye_s2/clip_32_president_ye_ends_all_wars",
@@ -343,37 +343,37 @@
    "Clip_33": {
     "dir": "output/drinkchamps_ye_s2/clip_33_old_enough_to_be_president",
     "duration_s": 83.709,
-    "render_sha256": "3e47b274c2e83bcfedee6f47cd5867569077c7f0d957827d25f35b047b8868ee"
+    "render_sha256": "d6ff20f0da4b7fd20ca98890789e0e872b703b3b79f1e857673dd096f5c649e9"
    },
    "Clip_34": {
     "dir": "output/drinkchamps_ye_s2/clip_34_the_pharrell_of_politics",
     "duration_s": 83.125,
-    "render_sha256": "56f684ea752e2ae117fd75e7b92cf1dc0674c40eeed8f299292d18ee505ce8c2"
+    "render_sha256": "328257d28fec2c0885884ccd384c46af2087c06dbb491e8256f83499445fa5e0"
    },
    "Clip_35": {
     "dir": "output/drinkchamps_ye_s2/clip_35_hip_hop_is_a_race_by_itself",
     "duration_s": 64.106,
-    "render_sha256": "15974f7c95b188607b19be24967ed07940c8c87a6a043c1a34fe92c465552fd8"
+    "render_sha256": "96832f8417390a12b6cf89a4830206ed54ad899bd8632d5f9184983a5246093e"
    },
    "Clip_36": {
     "dir": "output/drinkchamps_ye_s2/clip_36_i_like_the_love_and_i_like_the_fear",
     "duration_s": 78.996,
-    "render_sha256": "9d1c70e2b0afa453b8431cbc2c7644df804745f6d868ba235940ef19dcd6f2da"
+    "render_sha256": "2f66d056c51411ddd5302c65b1bf797d2564b159f7c23b31ec91d417b47d9bc5"
    },
    "Clip_37": {
     "dir": "output/drinkchamps_ye_s2/clip_37_tremaine_tremendous_and_reverse_appropri",
     "duration_s": 67.15,
-    "render_sha256": "d1f2c04cdbaac9473196b83583be8aae9cd1cfeb92f07491be795dca0251a8b8"
+    "render_sha256": "f9adf91f6f827726dba7a7ec91f47f9b4d5e96af8754f43932101698b4c502c8"
    },
    "Clip_38": {
     "dir": "output/drinkchamps_ye_s2/clip_38_the_audacity",
     "duration_s": 75.409,
-    "render_sha256": "a798ef9121093c3b9971cd43b7e61b534a7efd7ebd96d3b3fa4ad6a74e77aa29"
+    "render_sha256": "678294ca826f7581d922915048fcb9de853ccdeffca14cd7bcd8d0963f5959f3"
    },
    "Clip_39": {
     "dir": "output/drinkchamps_ye_s2/clip_39_im_not_moses_im_quincy_jones",
     "duration_s": 77.619,
-    "render_sha256": "313a0121dd1dd6e71f00e74234eeac90f5a6acedd74cc594272b61a754a2a572"
+    "render_sha256": "21a944ed5c421218e5757f7d77ced03f955207bb4f53c43042534562a7ed6f1c"
    }
   },
   "qa": {
@@ -382,5 +382,6 @@
    "series": "output/drinkchamps_ye_s2/shared/final_series_qa.md"
   },
   "blockers": []
- }
+ },
+ "current_task": "2026-10-17: all 39 clips re-rendered with the approved term-explanation row (rev 4 for series 1), each passed by an independent critic, frozen, exported and mirrored to /mnt/project-files (stream MD5 verified)."
 }

@@ -1,24 +1,23 @@
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (non-blocking: Dave Chappelle explanation starts 13.42 s, 1.26 s after the caption naming him at 12.16 s)
+Largest gap: none
 Fix: none
 
 Items
-1. Structure: NOT IN SCOPE
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 67.943 s / audio 67.943 s, 1629 frames = expected 1629, decode_errors empty.
-3. Transcript accuracy: NOT IN SCOPE
-4. Translation fidelity (CHANGED_LINES = none): NOT IN SCOPE
-5. Masking: PASS. auto.json unmasked_hits = []; no listed word appears in the ASS EN text; JP and Expl rows contain no asterisks.
-6. Timing/sync: NOT IN SCOPE
-7. Typography/visuals: PASS. f_0007.01, f_0012.18, extra/e_15, extra/e_43.5: Yu Gothic Bold white, black outline and shadow, EN above JP, centred, EN 54 / JP 50, max 2 EN + 2 JP lines, nothing clipped, readable on the bright background; matches the style spec.
-8. Framing: NOT IN SCOPE
-9. Source usage: NOT IN SCOPE
-10. Term-explanation row: PASS.
- - Text matches glossary_draft_s1.json verbatim for L001, L002, L003 and L007 (ASS rows are the same strings; line breaks differ only).
- - Timing: L001 3.92-9.40 (5.5 s, starts on the caption showing Larry Hoover); L002 9.42-13.40 (4.0 s, starts on "concert together"); L003 13.42-16.80 (3.4 s); L007 42.40-48.47 (6.1 s, starts with the caption that says the address).
- - No overlap with EN/JP rows: Expl y 1120-1263, in the sharp band (438-1480). EN/JP block ends at about 1148 on 4-line captions, and the Expl row was moved to 1170 for those. Frames at 7.01, 12.18, 15, 43.5 show a clear gap.
- - Same font, white fill, outline and shadow (Expl style). Widest line spans x 150-930 inside the frame. No break splits a word or name (L001 breaks after "シカゴの", which is acceptable).
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 67.942875 s / audio 67.943 s (60 <= d < 120), 1629 frames = expected, decode_errors empty.
+3. NOT IN SCOPE
+4. PASS (no CHANGED_LINES supplied; nothing to judge)
+5. PASS - auto.json unmasked_hits = []; SRT/ASS contain no profanity needing masks, no asterisks in JP; spot-checked the HEARD text, no listed curse word spoken.
+6. NOT IN SCOPE
+7. PASS - frames f_0004.88, f_0007.01, f_0014.32 vs ref_35: white bold Yu Gothic (style Sub, 54/50 px), black outline + shadow, EN above JP, centred, same vertical start (~y 950) as reference, max 2 EN + 2 JP lines, no clipping, readable on bright yellow/white background.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS - Texts match glossary_draft_s1.json verbatim for L001 (Larry Hoover), L002 (一緒にライブ), L003 (Dave Chappelle), L007 (住所をバラした); line breaks only after a term label or at a phrase boundary, no word/name split. Timing (ASS): 3.92-9.40 (5.5 s), 9.42-13.40 (4.0 s), 13.42-16.80 (3.4 s), 42.40-48.47 (6.1 s); each starts at the caption showing the term and is >= 2 s. Placement: Expl rows sit 90 px below the last EN/JP row baseline (y 1138 for 3-line blocks, 1188 for 4-line blocks, second line +48 up to y 1236), no overlap with Sub rows (computed per overlapping event); all within sharp band y 438..1480; widest row ~150..930 px, inside frame. Frames f_0004.88/0007.01/0014.32 confirm: Yu Gothic Bold 40 px, white fill, black outline + shadow, same as Sub.
 
 Non-blocking notes
-- The L003 explanation (Dave Chappelle) starts at 13.42, while its caption starts at 12.16 and the name is spoken there. L002's row stays up until 13.40 and the two cannot share the space. It is still on screen for 3.4 s.
-- At 9.42-12.14 and 12.16-13.40 the Expl row sits at y 1170 or 1218, lower than the 1120 used for L001; this is consistent with 4-line captions and does not collide.
+- Expl row sits fairly far below the 3-line caption block in the 3.92-9.40 span (it does not move when the block grows at 6.86 because 3 lines end at y 1048; fine).
+- Frame for the 42.40-48.47 term not among the supplied f_*.png; judged from ASS geometry (same style/positions as the verified rows).
+
+Addendum (render frame extra/f_0045.00.png, 45.00 s)
+- Item 10 for the L007 row confirmed from the actual render: text "住所をバラした：確執中にYeがDrakeの住所を / Instagramに載せた騒動" matches the draft; sits at y ~1190-1255 below the 4-line EN+JP block (ends ~1140) with clear gap, no overlap; inside sharp band (438..1480) and frame width (~210..870); smaller white bold Yu Gothic with black outline/shadow as the other rows; no word split. Verdict unchanged: PASS.

@@ -1,6 +1,6 @@
 # Clip_02 QA report
 
-Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af`.
+Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 `ffcec172bbbc1b2d1885e018555938fdab628189fe75effa21e9b13fc5956f51`.
 
 ## Automated checks (final.mp4)
 - 1080x1920 SAR 1:1, 24000/1001 fps, h264/aac 48000 Hz
@@ -18,21 +18,25 @@ Final verdict: **PASS** (Fresh Clip Critic, independent context). Render sha256 
 
 VERDICT: PASS
 Blocking gaps: none
-Largest gap: none (non-blocking: caption 1 shows "Yeah," that is not heard in the render, and the first spoken word "It's" starts at t=0.0 with full energy)
+Largest gap: none
 Fix: none
 
-1. Structure: PASS. Opens on "it's so funny, though, because me and Drake..." and jumps at 6.30s to "so then Drake says to me, yo... no, I need to tell the story like this", then the Jared/Drake "nothing ever happened" story and punchline "When did I become Jared Kushner?" plus host reaction. Ends on a complete line ("You had me scared for a second"). The join (source 1598.93 to 1646.81) reads as Ye restarting his story; understandable standalone.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 74.116 s / audio 74.116 s, 1777 frames = expected 1777, no decode errors.
-3. Transcript accuracy: PASS. 24 captions, 187/195 words matched, 97.9% inside their caption. Only differences: "Yeah," in caption 1 is not heard (see notes), "Stoute"/"Stout" spelling, "scared" vs "I was scared" (same meaning).
-4. Translation fidelity: PASS. JP rows match the approved CSV (rev3) and the heard meaning; no missing or misplaced lines. Duplicate JP across captions 7/8 and 14/15 is the approved single JP for one sentence split in EN.
-5. Masking: PASS. "f**k" at 21.73-24.84; unmasked_hits empty; JP "ヤった" translated from meaning, not mechanically masked.
-6. Timing/sync: PASS. Median onset error 0.09 s; no caption under 1.3 s; uncaptioned spans are 10.37-12.75 (about 2 s of room-tone pause before "no, I need to tell the story") and 60.67-64.64 / 66.84-70.81 (loud laughter reactions, no foreground sentence). No uncaptioned full sentence.
-7. Typography/visuals: PASS. sheet_1/2 vs ref_sheet: white bold Yu Gothic, black outline/shadow, EN above JP, centred, same vertical position (about y 365/720 on the sheet) as the reference, max 2 EN + 2 JP lines, no clipping.
-8. Framing: PASS. Ye in the sharp centre band with full cap and face; host shot at ~63 s centred; blurred fill above and below like the reference; crop changes coincide with shot changes (frame 40845 punch-in, 40930 recentre).
-9. Source usage: PASS. Manifest: part_1 frames [38185,38336) and [39484,41110), half-open, disjoint, audio ranges match video. Total 151+1626=1777 frames. No freeze or repetition; the 2 s pause and the laughter are source content.
+Items (scope: 2, 4 for Clip_02_L006, 5, 7, 10)
+1. NOT IN SCOPE
+2. PASS - auto.json: 1080x1920, SAR 1:1, video 74.116 s / audio 74.116 s (60 <= d < 120), 1777 frames = expected 1777, decode_errors empty.
+3. NOT IN SCOPE
+4. PASS (L006 only) - "So when I went to the White House, I saw Jared." -> "で、ホワイトハウスに行った時 / Jaredに会ったんだよ" = approved ja_final in rev4; shown at 29.81-31.65 and 32.04-33.39, matches HEARD in sync.txt.
+5. PASS - auto.json unmasked_hits empty; EN shows "f**k" (7, 21.73-24.84); no other listed words in SRT; Japanese not mechanically masked (ヤった).
+6. NOT IN SCOPE
+7. PASS - f_0019.10.png and f_0053.38.png: white bold Yu Gothic, black outline/shadow, EN above JP, centred, 2 EN + 2 JP lines max, inside frame, readable; ASS PlayRes 1080x1920, style Sub Yu Gothic bold.
+8. NOT IN SCOPE
+9. NOT IN SCOPE
+10. PASS
+ - Text verbatim vs glossary: Clip_02_L004 "Jared Kushner：トランプ元大統領の娘婿／Steve Stoute：音楽・広告業界の実業家" (two terms, each on own line); Clip_02_L010 "「何もなかった」：DrakeとYeの元妻Kimの間に、という意味" (wrapped after "Yeの", no word/name split).
+ - Timing: L004 row 16.50-24.84 (8.3 s) starts with the caption showing both names; L010 row 51.83-56.99 (5.2 s) starts with the caption "nothing ever happened" (SRT 20/21).
+ - Geometry: Expl rows at y=1188 and 1236 (fs40), below the lowest EN/JP row (4-line block ends ~1150 in f_0053.38.png); inside sharp band y 438..1480; no overlap seen in frames.
+ - Style: Expl uses Yu Gothic bold, white fill, black outline 3, shadow 2 (same as Sub), smaller size; visible in both frames.
 
 Non-blocking notes
-- Caption 1 displays "Yeah," but render audio starts directly with "It's" (ASR and the 0.0 s onset). The clip start (frame 38185) lands right on the word onset, so it is slightly abrupt. Drop "Yeah," from the EN, or start about 0.1-0.2 s earlier if source frames allow.
-- Caption 11 JP wraps mid-word: "一応言っとくけ / ど、何もなかったから" (and caption 19 breaks after "一応言っとくけど、"). Prefer breaking after "けど、".
-- 10.37-12.75 is a roughly 2 s near-silent pause inside the clip; it is a natural beat before the restart, but it could be trimmed by ~0.8 s without harming sync if the pace is wanted tighter.
+- Explanation rows sit close under the 4-line caption block (about 40 px gap); acceptable.
 
