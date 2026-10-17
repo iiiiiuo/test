@@ -1,6 +1,6 @@
 # Clip_27 source context (part_4.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 658.41-724.72s (frames 15786-17376)
+## interval 658.03-724.89s (frames 15777-17380)
      637.86-  639.26 Cheers, cheers, cheers, cheers, fellas
      639.26-  640.00 Cheers, thank you
      641.68-  642.70 But what I

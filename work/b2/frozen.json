@@ -12,10 +12,10 @@
   "ass_sha256": "8a7e08f62e5a871b1bab81e7c19be6f5a87f7747e8ef887799dbe938edfc997b"
  },
  "Clip_26": {
-  "render_sha256": "dfc8cd6ed1b7131a08a1b4f9f251224fa0a20790c4eb2000b7b85c15d1063f8c",
+  "render_sha256": "a004f75aa1756ada7976dd6cb5d50f97c716f97a79e9c76d4c895309be79f772",
   "verdict": "PASS",
   "critic": "work/b2/Clip_26/qa/critic.md",
-  "ass_sha256": "fe7b8c77163241ef46908875f57c49961680445549891c5be6b14d84265979ef"
+  "ass_sha256": "78a7c110fbc0d65ec8957791e0199cbd2cb6d55c12fdd61453867e7b763e6323"
  },
  "Clip_24": {
   "render_sha256": "8ae321c0ee9e55442a3e20a20f2a9f33c9548ac411c60cbafd45e8225087d172",
@@ -36,16 +36,16 @@
   "ass_sha256": "b710acb34c9e6a3c2adcb739103ee0cf5e5689fad80c1baf4a791011f56fbc8c"
  },
  "Clip_25": {
-  "render_sha256": "a61b701dba128792a37cc2b46543365f02187df904e24f9fcfad62314e5da07b",
+  "render_sha256": "52d8896bab9921cfcf5ac55e0795eaefd246d1345603808dd4b57c462a57d1cf",
   "verdict": "PASS",
   "critic": "work/b2/Clip_25/qa/critic.md",
-  "ass_sha256": "bb4e6bc242acf7594cf85e6e66115b510add6afe1f7ca233d7ed8da1b4f24272"
+  "ass_sha256": "b2736ca826283442adf11fbc2cd52a9166ff0425749712678d31d4a9ddfa1274"
  },
  "Clip_27": {
-  "render_sha256": "18037f9b78a2ddab9ba49408f5b370a12b8a62917df1e2512731e6435e1b0e2b",
+  "render_sha256": "f0342ff00defe43190bad0c24e440a2c413a5075ca9b46ea411c83d5c41c7063",
   "verdict": "PASS",
   "critic": "work/b2/Clip_27/qa/critic.md",
-  "ass_sha256": "dee7f549831cdcc400047a3970f51bf196ec7660c29d28f25f153c9aadd1ed58"
+  "ass_sha256": "91f40949241c501df9ebe21cd8ffabcfa024ed8c8580223092ff4a904af69cc0"
  },
  "Clip_31": {
   "render_sha256": "8326f691a03fd2e5059ca9d0f3e8c464305a34d73b589d2908d5d395cac78aa7",
