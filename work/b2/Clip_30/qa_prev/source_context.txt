@@ -1,6 +1,6 @@
 # Clip_30 source context (part_5.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 51.47-146.44s (frames 1233-3510)
+## interval 51.68-146.44s (frames 1238-3510)
       25.85-   34.11 but i was taken away from my dad and then then i was taken away from my kids and that's what they
       34.11-   38.65 did to the black community as a tuskegee experiment basically and they're using that
       38.65-   44.77 same tactic to destroy america and that's my opinion on the reason why i have to run for

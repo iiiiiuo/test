@@ -1,18 +1,19 @@
-VERDICT: FAIL
-Blocking gaps: Item 1 (opening) t=0.00-0.25s / source frames 1233-~1238: render opens on the clipped tail of the previous sentence ("thing is", ASR words thing 0.0-0.10, is 0.10-0.26, loud audio rms ~10000 from sample 0, no caption) before the real start "this is the thing" at 0.26; bad mid-word/mid-thought start.
-Largest gap: Clip starts mid-word on prior speech ("...thing is" uncaptioned) about 0.25s before the first captioned sentence.
-Fix: Move the start forward to ~0.24s into the current clip (source ~51.71s, about frame 1238/1239, in the gap between "is" and "this"; verify on part_5.wav), shift all captions/pieces by that amount, re-render; frame count/duration stay well inside 60-120s.
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none (non-blocking: clip opens ~0.06 s inside the tail of the previous word "is," before "this is the thing")
+Fix: none required; optional: start at source frame 1240 (51.76 s) instead of 1238
 
 ## Items
-1. Structure: FAIL. Opening clipped as above (render_asr.json words, render audio rms at 0-0.4s). Middle coherent; ending "told us not to talk to each other." resolved, audio tail decays to ~2000 rms after 94.55 and ends 94.95 (source 146.437), natural.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, 2277 frames = expected, video 94.970s, audio 94.97s, no decode errors.
-3. Transcript accuracy: PASS. sync.txt match ratio 0.988; displayed English matches HEARD; the one omission ("who you know, I'm saying" at ~79.9-81.3s) is a filler span.
-4. Translation fidelity: PASS. Approved rows correctly attached by moment; no clear errors seen (e.g. 0:00:57.5 "Right. Hold on" -> そうだな/待て待て; slave-ship line OK).
-5. Masking: PASS. auto.json unmasked_hits empty; no listed words in the English; JP not mechanically masked.
-6. Timing/sync: PASS. 28 captions, median onset -0.35s vs ASR (ASR drifts late in the clip, e.g. 76-84s); caption at 79.39 coincides with the resumed speech (energy returns ~79.3); 76.11-79.39 is a meaningful pause on the host/N.O.R.E. shot, not padding. No full sentence uncaptioned except the clipped opening fragment (item 1). Shortest caption 1.2s (0.25-1.45 "This is the thing.") readable.
-7. Typography/visuals: PASS. f_0008.22.png / f_0094.89.png: white bold Yu Gothic, black outline+shadow, EN above JP, centred, 2 EN + up to 2 JP lines, inside frame, same size/position as ref_sheet.jpg, readable on bright gold/dark backgrounds.
-8. Framing: PASS. sheet_1/2: faces centred in the sharp band 438-1480 with blurred fill; crop changes in manifest pieces coincide with shot changes (Ye, N.O.R.E., host).
-9. Source usage: PASS. Single interval part_5 frames [1233,3510), half-open, no repetition/freeze/padding (fix above would move start to ~1238 and stay single-interval).
+1. Structure: PASS. Opens on "This is the thing" and goes straight into the Tuskegee point. Ends on "...told us not to talk to each other", where audio energy has dropped (RMS ~1300 at 94.7 s) before the source's next "Yeah, like...". Standalone and coherent. Minor: the first ~60 ms is the tail of "is," (source ASR: "is," ends 51.74, "this" starts 51.78, cut at 51.676); see note.
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 94.761 s, audio 94.761 s, frames 2272 = expected, decode_errors empty.
+3. Transcript accuracy: PASS. sync.txt SUB vs HEARD match on all 28 captions (match ratio 0.992). No meaningful mismatches.
+4. Translation fidelity: PASS. Spot-checked all 28 rows against the English and context. Meaning is intact, with no wrong-moment attachment. "Drink Champs" is kept in English per the naming rules.
+5. Masking: PASS. auto.json unmasked_hits is empty. No listed words are spoken in this clip. The Japanese has no mechanical asterisks.
+6. Timing/sync: PASS. Onsets track first heard words (e.g. caption 24 at 79.18 s vs speech ~79.2 s; caption 1 at 0.04 s). Longest gap with no caption is 75.90-79.18 s. I checked that span with a span-only ASR on the source and found no words, only laughter/crosstalk (loud, non-speech) over Ye smiling. The pause or reaction is meaningful and acceptable. Every caption lasts at least 1.1 s.
+7. Typography/visuals: PASS. sheet_1/2 and f_0076.08 show white bold Yu Gothic with black outline and shadow, EN above JP, centred, at the same vertical band and size as ref_sheet. No more than 2 EN and 2 JP lines (max 4). No clipping or overflow, readable over the bright gold backdrop and white shirt.
+8. Framing: PASS. Faces sit in the sharp centre band (1080x1042 at y=438) with blurred fill above and below like the reference. Crop changes at 1400/1427/2725/3032/3059 line up with speaker or shot changes. No cut-off heads (checked at 0.05, 6.88, 56.57, 76.08, 93.76 s).
+9. Source usage: PASS. One interval, part_5 frames [1238, 3510), half-open, with matching audio segment and no auxiliary footage. No padding, freezes or repetition.
 
 ## Non-blocking notes
-- Caption "Right. Hold on. Hold on." is shown over the Ye shot while the ASR hears "right hold up no"; matches approved row, no action.
+- The first ~0.06 s of audio (RMS ~8000 at t=0, no ramp) is the tail of the prior word "is,". It is a faint blip and is not likely to read as a mid-word start. Starting at frame 1240 would remove it.
+- Caption 23 ("When you were talking right now, like...") stays up to 75.90 s, while the speech ends at ~74 s. This is harmless, since it holds through the trailing pause.
