@@ -17,3 +17,5 @@ work/b2/**/*.jpg
 work/b2/**/*.wav
 work/b2/*.png
 work/b2/*.jpg
+__pycache__/
+work/logs/
