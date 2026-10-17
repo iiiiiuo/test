@@ -9,7 +9,7 @@ Japanese text is the approved ja_final verbatim except removal of bare speaker l
 import csv, json, re, sys, os, difflib, math
 from PIL import ImageFont
 sys.path.insert(0, '/home/user/test/scripts')
-from expl_row import expl_events, EXPL_FS, EXPL_PITCH, EXPL_TOP
+from expl_row import expl_events, EXPL_FS, EXPL_PITCH
 
 ROOT = '/home/user/test'
 CLIP = sys.argv[1]
@@ -377,8 +377,7 @@ for c in captions:
         ass.append(f"Dialogue: 0,{ass_t(c['start'])},{ass_t(c['end'])},Sub,,0,0,0,,{{\\an8\\pos(540,{y})\\fs{JP_FS}}}{t}"); y += PITCH
     blocks.append((c['start'], [f"{srt_t(c['start'])} --> {srt_t(c['end'])}", *c['en'], *c['jp'], '']))
 # third row: approved Japanese term explanation under the EN + JA block (see scripts/expl_row.py)
-for st, en_, lines in expl_events(captions, f'{ROOT}/review/glossary/glossary_draft_s1.json', CLIP):
-    y = EXPL_TOP
+for st, en_, y, lines in expl_events(captions, f'{ROOT}/review/glossary/glossary_draft_s1.json', CLIP, TOTAL):
     for t in lines:
         ass.append(f"Dialogue: 0,{ass_t(st)},{ass_t(en_)},Expl,,0,0,0,,{{\\an8\\pos(540,{y})\\fs{EXPL_FS}}}{t}"); y += EXPL_PITCH
     blocks.append((st, [f"{srt_t(st)} --> {srt_t(en_)}", *lines, '']))
