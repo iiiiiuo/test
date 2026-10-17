@@ -24,10 +24,10 @@
   "ass_sha256": "0d1e831447bd405ea0ace98fd1d00e0273345c2839cd69bad881459e14267803"
  },
  "Clip_11": {
-  "render_sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80",
+  "render_sha256": "61990de3dbc43403480bf4eb357de98224bd2286920fa233c8099ba90ecfbc65",
   "verdict": "PASS",
   "critic": "work/b/Clip_11/qa/critic.md",
-  "ass_sha256": "0b4e3220423d68233691c24b967c5102044bbb1eea0bc4598b705c9af1243829"
+  "ass_sha256": "5ef804d8fcc9aa342bd631453674adf9e6b15efcc36e2ddb37ec4a60cccdec2e"
  },
  "Clip_05": {
   "render_sha256": "a5f49222b176b6beea102696762be51b4a0c82075040ca6ae0f999bb88cb525c",

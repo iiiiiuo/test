@@ -7,7 +7,7 @@
    8.19- 10.44 SUB: but they're playing the music,  ||  でも店でかかってた曲が
                HEARD: but they're playing the music and
   10.46- 12.67 SUB: and it's like Usher saying, / 'You got it bad.'  ||  Usherの / 『You Got It Bad』で
-               HEARD: it's like usher saying you got it
+               HEARD: it's like us just saying you got it
   12.69- 14.81 SUB: 'You got it, you got it bad.'  ||  「お前は重症だ」ってさ
                HEARD: it bad you got it you got it bad
   14.83- 18.75 SUB: Yeah, that messaging is not uplifting.  ||  そういうメッセージは / 前向きじゃないだろ
@@ -37,6 +37,6 @@
   53.40- 55.36 SUB: And God has...  ||  でも神は
                HEARD: and god has a
   57.19- 61.78 SUB: God has a place for us in a promised / land that can't be defined by man.  ||  俺らのために　約束の地を用意してる / 人間には定義できない場所だ
-               HEARD: God has a place for us in a promised land That can't be defined by man
-  61.80- 65.05 SUB: It's not the 40 acres that the / oppressors can take away.  ||  抑圧者が奪える / 40エーカーとは違う
-               HEARD: It's not the 400 acres That the oppressors can take
+               HEARD: God has a place for us in a promised land that can't be defined by man.
+  61.80- 65.50 SUB: It's not the 40 acres that the / oppressors can take away.  ||  抑圧者が奪える / 40エーカーとは違う
+               HEARD: It's not the 400 acres that the oppressors can take away.

@@ -3,7 +3,7 @@
 Shown below the English and Japanese rows. Used by build_subs.py (series 1) and build_subs_s2.py (series 2).
 Timing: starts with the first caption of the line whose JA (or EN) shows one of the explained terms (line start if
 none matches); held to the end of the line, at least long enough to read (~0.13 s per character + 1 s), never past
-the next explanation or the clip end.
+the next explanation or the clip end (so a term said in the last seconds gets less than its reading time).
 Placement: one fixed top per explanation, 40 px below the tallest EN+JA block on screen during its span, so the row
 never jumps while it is shown (top 1188 when that block has four rows; the gap keeps it visibly separate from the JA row).
 Style: Yu Gothic Bold 40 (JA row is 50), white, black outline 3 / shadow 2 (same family and treatment as the frozen
@@ -114,9 +114,9 @@ def expl_events(captions, glossary_path, clip_id, total):
         hit = next((c for c in caps if any(t in (''.join(c['jp']) + ' ' + c['en_unmasked']).lower() for t in terms)), caps[0])
         st = hit['start']
         read = 1.0 + 0.13 * len(text)
+        # never before the caption that shows the term (critic Clip_12: an early start reads as a stray note);
+        # near the clip end that can leave less than the reading time
         en = min(max(max(c['end'] for c in caps), st + read), total)
-        if en - st < read:   # term said near the clip end: start earlier within the same line to leave reading time
-            st = max(caps[0]['start'], en - read)
         events.append([st, en, lines, read])
     events.sort(key=lambda e: e[0])
     for a, b in zip(events, events[1:]):

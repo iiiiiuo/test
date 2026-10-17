@@ -1,6 +1,6 @@
 # Clip_12 source context (part_3.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 1027.50-1092.59s (frames 24636-26196)
+## interval 1027.50-1093.05s (frames 24636-26207)
     1006.94- 1012.48 i gave him a yeezy slippers he wore right here right here right here yeah did you see that i
     1012.48- 1012.86 Did you do the footage?
     1013.16- 1013.64 Yeah, yeah, yeah.
