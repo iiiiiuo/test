@@ -381,5 +381,17 @@
    "start": 70.96024999999997,
    "end": 71.59320833333332
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 8.2902499999999,
+   "end": 16.510249999999928,
+   "top_y": 1170,
+   "lines": [
+    "アカウント停止：2022年10月、Yeの投稿が問題視され",
+    "Twitterアカウントが凍結された"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

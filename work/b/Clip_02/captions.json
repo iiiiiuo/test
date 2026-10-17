@@ -144,7 +144,7 @@
    ],
    "en_unmasked": "So when I went to the White House,",
    "jp": [
-    "で、White Houseに行った時"
+    "で、ホワイトハウスに行った時"
    ],
    "start": 29.806124999999838,
    "end": 31.646124999999984
@@ -369,5 +369,29 @@
    "start": 72.72612499999991,
    "end": 74.09570833333326
   }
+ ],
+ "explanations": [
+  {
+   "start": 16.496124999999665,
+   "end": 24.836124999999566,
+   "top_y": 1170,
+   "lines": [
+    "Jared Kushner：トランプ元大統領の娘婿",
+    "Steve Stoute：音楽・広告業界の実業家"
+   ]
+  },
+  {
+   "start": 51.82612499999982,
+   "end": 56.98612499999982,
+   "top_y": 1170,
+   "lines": [
+    "「何もなかった」：DrakeとYeの",
+    "元妻Kimの間に、という意味"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json",
+ "rev4_changed_lines": [
+  "Clip_02_L006"
  ]
 }

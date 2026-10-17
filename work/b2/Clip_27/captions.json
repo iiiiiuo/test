@@ -368,5 +368,25 @@
    "start": 63.64762499999995,
    "end": 66.83845833333338
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 15.457625000000007,
+   "end": 20.077624999999994,
+   "top_y": 1170,
+   "lines": [
+    "ウォーレンバフェット：アメリカの著名な投資家"
+   ]
+  },
+  {
+   "start": 59.967625,
+   "end": 66.85845833333337,
+   "top_y": 1170,
+   "lines": [
+    "Black Mafia Family：1990〜2000年代にデトロイトで",
+    "生まれた麻薬組織。ドラマ『BMF』の題材"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

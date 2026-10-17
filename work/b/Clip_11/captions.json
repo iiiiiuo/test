@@ -475,5 +475,24 @@
    "start": 83.92599999999993,
    "end": 85.89916666666669
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 0.0,
+   "end": 7.666000000000036,
+   "top_y": 1170,
+   "lines": [
+    "モーゼ：旧約聖書の預言者"
+   ]
+  },
+  {
+   "start": 73.88599999999997,
+   "end": 76.96599999999997,
+   "top_y": 1170,
+   "lines": [
+    "天にいる父：キリスト教で神のこと"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

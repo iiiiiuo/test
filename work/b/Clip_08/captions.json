@@ -410,5 +410,33 @@
    "start": 75.86850000000004,
    "end": 80.68562500000006
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 39.83850000000007,
+   "end": 44.50849999999989,
+   "top_y": 1170,
+   "lines": [
+    "Big Boi：ヒップホップデュオOutKastのメンバー"
+   ]
+  },
+  {
+   "start": 44.528499999999894,
+   "end": 48.388499999999894,
+   "top_y": 1170,
+   "lines": [
+    "Big Boy：ロサンゼルスの人気ラジオDJ"
+   ]
+  },
+  {
+   "start": 53.22849999999994,
+   "end": 60.33849999999994,
+   "top_y": 1170,
+   "lines": [
+    "『Ms. Jackson』：OutKastの2000年のヒット曲。",
+    "元恋人の母親への謝罪がテーマ"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

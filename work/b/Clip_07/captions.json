@@ -389,5 +389,38 @@
    "start": 62.0459166666667,
    "end": 63.1681249999999
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 0.05591666666668971,
+   "end": 10.02591666666669,
+   "top_y": 1170,
+   "lines": [
+    "Dungeon Family：OutKastらを擁する",
+    "アトランタの音楽集団",
+    "Wu-Tang Clan：ニューヨークの",
+    "伝説的ヒップホップ集団"
+   ]
+  },
+  {
+   "start": 10.955916666666553,
+   "end": 17.675916666666552,
+   "top_y": 1170,
+   "lines": [
+    "Tony Starks：Wu-Tang Clanの",
+    "Ghostface Killahの別名"
+   ]
+  },
+  {
+   "start": 19.455916666666553,
+   "end": 28.80591666666669,
+   "top_y": 1170,
+   "lines": [
+    "Don C：Yeの長年の友人でデザイナー",
+    "Wallabees：Clarksの靴。Wu-Tangの",
+    "メンバーの愛用で有名"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

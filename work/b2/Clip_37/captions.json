@@ -393,5 +393,61 @@
    "start": 64.17991666666671,
    "end": 67.13041666666673
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 11.019916666666745,
+   "end": 18.389916666666746,
+   "top_y": 1170,
+   "lines": [
+    "Tremaine：Tremaine Emory。当時のSupremeの",
+    "クリエイティブ・ディレクター"
+   ]
+  },
+  {
+   "start": 20.3199166666667,
+   "end": 28.3399166666667,
+   "top_y": 1170,
+   "lines": [
+    "Pete Davidson：コメディアン。",
+    "Yeの元妻Kimの元交際相手",
+    "Skete：Yeがつけた悪口のあだ名"
+   ]
+  },
+  {
+   "start": 29.41991666666672,
+   "end": 33.97991666666676,
+   "top_y": 1170,
+   "lines": [
+    "Tremendous：YeがTremaineにつけたあだ名"
+   ]
+  },
+  {
+   "start": 33.99991666666676,
+   "end": 37.97991666666676,
+   "top_y": 1170,
+   "lines": [
+    "逆盗用：文化の盗用（cultural appropriation）",
+    "を逆にやった、というYeの表現"
+   ]
+  },
+  {
+   "start": 37.99991666666676,
+   "end": 41.07991666666623,
+   "top_y": 1170,
+   "lines": [
+    "Ian Connor：スタイリスト・デザイナー"
+   ]
+  },
+  {
+   "start": 62.29991666666672,
+   "end": 67.15041666666673,
+   "top_y": 1170,
+   "lines": [
+    "Dov Charney：American Apparelの創業者。",
+    "現在はLos Angeles Apparelを率いる"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

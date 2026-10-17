@@ -296,7 +296,7 @@
    ],
    "en_unmasked": "and Drake took it and barred it out and wrote the whole rap.",
    "jp": [
-    "Drakeがそれを　バースに仕上げて",
+    "Drakeがそれを　verseに仕上げて",
     "ラップ全部書いたんだよ"
    ],
    "start": 47.07041666666663,
@@ -363,5 +363,20 @@
    "start": 58.220416666666665,
    "end": 60.76041666666663
   }
+ ],
+ "explanations": [
+  {
+   "start": 12.880416666666633,
+   "end": 19.600416666666632,
+   "top_y": 1170,
+   "lines": [
+    "『30 Hours』：2016年の",
+    "アルバム『The Life of Pablo』の収録曲"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json",
+ "rev4_changed_lines": [
+  "Clip_14_L010"
  ]
 }

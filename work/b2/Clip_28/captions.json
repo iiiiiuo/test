@@ -438,5 +438,71 @@
    "start": 62.78824999999995,
    "end": 64.62791666666668
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 3.288249999999948,
+   "end": 9.22824999999995,
+   "top_y": 1120,
+   "lines": [
+    "ポルノの話：Adidasの会議でYeが成人向け動画を",
+    "流したと番組内で語った件"
+   ]
+  },
+  {
+   "start": 10.478249999999889,
+   "end": 14.20824999999989,
+   "top_y": 1170,
+   "lines": [
+    "Nori：番組ホストN.O.R.E.のこと"
+   ]
+  },
+  {
+   "start": 15.528249999999957,
+   "end": 21.61824999999963,
+   "top_y": 1170,
+   "lines": [
+    "Stella McCartney：イギリスのデザイナー。",
+    "夫のAlasdhair Willisは当時Adidasの",
+    "クリエイティブ・ディレクター"
+   ]
+  },
+  {
+   "start": 21.63824999999963,
+   "end": 28.22824999999963,
+   "top_y": 1170,
+   "lines": [
+    "義父：Stella McCartneyの父、",
+    "元ビートルズのPaul McCartney"
+   ]
+  },
+  {
+   "start": 30.848249999999894,
+   "end": 38.31824999999967,
+   "top_y": 1170,
+   "lines": [
+    "『Only One』『FourFiveSeconds』：",
+    "YeがPaul McCartneyと作った2014〜15年の曲"
+   ]
+  },
+  {
+   "start": 38.338249999999675,
+   "end": 44.168250000000036,
+   "top_y": 1170,
+   "lines": [
+    "Virgil：Virgil Abloh。Yeの元右腕で、Louis Vuittonの",
+    "メンズ部門を率いた（2021年死去）"
+   ]
+  },
+  {
+   "start": 44.18825000000004,
+   "end": 52.63824999999961,
+   "top_y": 1170,
+   "lines": [
+    "John Wick・Neo：どちらも俳優Keanu Reevesが",
+    "演じた映画の主人公"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

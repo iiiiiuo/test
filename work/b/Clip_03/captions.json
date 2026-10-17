@@ -354,5 +354,43 @@
    "start": 64.78941666666697,
    "end": 65.98941666666701
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 3.9242916666667034,
+   "end": 9.397625000000042,
+   "top_y": 1120,
+   "lines": [
+    "Larry Hoover：シカゴの",
+    "ギャング組織Gangster Disciplesの共同創設者。服役中"
+   ]
+  },
+  {
+   "start": 9.417625000000042,
+   "end": 13.397625000000042,
+   "top_y": 1170,
+   "lines": [
+    "一緒にライブ：2021年12月、Hooverの釈放を訴えて",
+    "YeとDrakeが共演した公演"
+   ]
+  },
+  {
+   "start": 13.417625000000042,
+   "end": 16.80237500000011,
+   "top_y": 1170,
+   "lines": [
+    "Dave Chappelle：アメリカの人気コメディアン"
+   ]
+  },
+  {
+   "start": 42.399416666666866,
+   "end": 48.469416666666866,
+   "top_y": 1170,
+   "lines": [
+    "住所をバラした：確執中にYeがDrakeの住所を",
+    "Instagramに載せた騒動"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

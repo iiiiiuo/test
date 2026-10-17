@@ -442,5 +442,17 @@
    "start": 92.33408333333333,
    "end": 94.74133333333334
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 3.084083333333332,
+   "end": 10.324083333333332,
+   "top_y": 1170,
+   "lines": [
+    "Tuskegee：1932〜72年、米公衆衛生局が黒人男性の",
+    "梅毒を治療せずに経過観察した人体実験"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

@@ -527,5 +527,35 @@
    "start": 92.15475,
    "end": 95.53379166666669
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 1.614750000000015,
+   "end": 10.284750000000015,
+   "top_y": 1170,
+   "lines": [
+    "Sway：ラジオ司会者Sway Calloway。2013年の対談で",
+    "Yeが「答えを持ってないだろ、Sway!」と叫んだ"
+   ]
+  },
+  {
+   "start": 77.05475000000001,
+   "end": 83.77475000000001,
+   "top_y": 1170,
+   "lines": [
+    "Bernard Arnault：LVMH会長で世界有数の富豪",
+    "ベゾス：Amazon創業者"
+   ]
+  },
+  {
+   "start": 89.74475000000012,
+   "end": 95.53379166666669,
+   "top_y": 1170,
+   "lines": [
+    "D'Usse：Jay-Zが共同所有していた",
+    "コニャックのブランド"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

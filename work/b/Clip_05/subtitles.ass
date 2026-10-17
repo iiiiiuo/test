@@ -8,6 +8,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+Style: Expl,Yu Gothic,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -73,3 +74,8 @@ Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも100
 Dialogue: 0,0:00:58.76,0:01:02.57,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}それはマラソンなんだよ
 Dialogue: 0,0:01:04.04,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a good way to put it.
 Dialogue: 0,0:01:04.04,0:01:05.50,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}うまいこと言うな
+Dialogue: 0,0:00:00.08,0:00:06.48,Expl,,0,0,0,,{\an8\pos(540,1170)\fs40}雨水の収集：実際にはアメリカの大半の州で合法。
+Dialogue: 0,0:00:00.08,0:00:06.48,Expl,,0,0,0,,{\an8\pos(540,1218)\fs40}一部の州に制限がある
+Dialogue: 0,0:00:18.49,0:00:27.55,Expl,,0,0,0,,{\an8\pos(540,1170)\fs40}Tシャツ：2022年10月にYeが着て物議を醸した
+Dialogue: 0,0:00:18.49,0:00:27.55,Expl,,0,0,0,,{\an8\pos(540,1218)\fs40}“White Lives Matter”Tシャツ
+Dialogue: 0,0:00:18.49,0:00:27.55,Expl,,0,0,0,,{\an8\pos(540,1266)\fs40}ビーフ：対立・確執のこと

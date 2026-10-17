@@ -400,5 +400,25 @@
    "start": 73.64545833333341,
    "end": 75.38866666666671
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 6.16545833333339,
+   "end": 13.40545833333339,
+   "top_y": 1170,
+   "lines": [
+    "Tucker Carlson：Fox Newsの司会者。",
+    "2022年10月にYeをインタビューした"
+   ]
+  },
+  {
+   "start": 60.24545833333332,
+   "end": 65.66545833333332,
+   "top_y": 1170,
+   "lines": [
+    "White Lives Matter：Yeが着て物議を醸したTシャツ"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

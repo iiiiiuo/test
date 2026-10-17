@@ -390,5 +390,17 @@
    "start": 68.19529166666669,
    "end": 70.50879166666668
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 0.0,
+   "end": 7.695166666666676,
+   "top_y": 1170,
+   "lines": [
+    "Common：シカゴ出身のラッパー・俳優。",
+    "本名はLonnie Rashid Lynn"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

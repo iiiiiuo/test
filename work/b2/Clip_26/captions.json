@@ -392,5 +392,17 @@
    "start": 79.2508333333335,
    "end": 82.14541666666672
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 70.35083333333341,
+   "end": 76.55083333333341,
+   "top_y": 1170,
+   "lines": [
+    "『Watch the Throne』：2011年の",
+    "Jay-ZとYeの共作アルバム"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

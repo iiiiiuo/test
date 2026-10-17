@@ -411,5 +411,25 @@
    "start": 70.34400000000005,
    "end": 73.96399999999994
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 0.0,
+   "end": 8.67,
+   "top_y": 1170,
+   "lines": [
+    "『True Love』：YeとXXXTentacionの2022年の曲",
+    "Kim：Yeの元妻Kim Kardashian"
+   ]
+  },
+  {
+   "start": 10.14399999999955,
+   "end": 13.613999999999551,
+   "top_y": 1170,
+   "lines": [
+    "Chicago：YeとKimの娘の名前"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

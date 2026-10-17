@@ -450,5 +450,44 @@
    "start": 70.53762499999971,
    "end": 72.30224999999994
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 0.0,
+   "end": 9.027625000000153,
+   "top_y": 1170,
+   "lines": [
+    "Bernard Arnault：LVMHの会長で世界有数の富豪",
+    "LVMH：Louis Vuittonなどを持つ",
+    "高級ブランドグループ"
+   ]
+  },
+  {
+   "start": 9.047625000000153,
+   "end": 19.0876250000001,
+   "top_y": 1170,
+   "lines": [
+    "Alexandre：Bernard Arnaultの息子。",
+    "2021年の結婚式でYeがライブを行った"
+   ]
+  },
+  {
+   "start": 25.74762499999997,
+   "end": 29.08762499999997,
+   "top_y": 1120,
+   "lines": [
+    "ジェフ・ベゾス：Amazonの創業者"
+   ]
+  },
+  {
+   "start": 45.72762499999999,
+   "end": 52.18762499999999,
+   "top_y": 1170,
+   "lines": [
+    "マシンをぶっ壊す：スロットマシンで大当たりを",
+    "出すように、仕組みを攻略したというたとえ"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

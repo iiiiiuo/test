@@ -465,5 +465,25 @@
    "start": 73.44129166666676,
    "end": 76.80674999999995
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 42.401291666666566,
+   "end": 48.2312916666667,
+   "top_y": 1120,
+   "lines": [
+    "350：Yeezy Boost 350。",
+    "YeがAdidasと作ったスニーカー"
+   ]
+  },
+  {
+   "start": 48.2512916666667,
+   "end": 52.3712916666667,
+   "top_y": 1170,
+   "lines": [
+    "Steve Stoute：音楽・広告業界の実業家"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

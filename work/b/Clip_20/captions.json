@@ -415,5 +415,17 @@
    "start": 70.26545833333336,
    "end": 74.43545833333332
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 5.995458333333346,
+   "end": 11.025458333333347,
+   "top_y": 1170,
+   "lines": [
+    "D'Usse：Jay-Zが共同所有していた",
+    "コニャックのブランド"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

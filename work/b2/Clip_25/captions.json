@@ -478,5 +478,44 @@
    "start": 72.70112499999959,
    "end": 76.0559999999998
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 44.34129166666662,
+   "end": 48.42129166666653,
+   "top_y": 1170,
+   "lines": [
+    "Gangster Disciples：Larry Hooverが共同創設した",
+    "シカゴのギャング組織"
+   ]
+  },
+  {
+   "start": 48.44129166666653,
+   "end": 54.92129166666653,
+   "top_y": 1170,
+   "lines": [
+    "Larry Hoover：Gangster Disciplesの",
+    "共同創設者。服役中"
+   ]
+  },
+  {
+   "start": 56.641124999999874,
+   "end": 60.62112499999987,
+   "top_y": 1170,
+   "lines": [
+    "Drink Champs：この番組。N.O.R.E.と",
+    "DJ EFNがホストを務める"
+   ]
+  },
+  {
+   "start": 60.641124999999874,
+   "end": 67.42112499999983,
+   "top_y": 1170,
+   "lines": [
+    "Tucker Carlson：Fox Newsの司会者。",
+    "2022年10月にYeをインタビューした"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s2.json"
 }

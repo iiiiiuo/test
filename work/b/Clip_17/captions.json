@@ -464,5 +464,42 @@
    "start": 71.6850416666664,
    "end": 72.80275000000005
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 4.775041666666311,
+   "end": 12.90504166666663,
+   "top_y": 1170,
+   "lines": [
+    "Virgil：Virgil Abloh。Yeの元右腕で、Louis Vuittonの",
+    "メンズ部門を率いた（2021年死去）"
+   ]
+  },
+  {
+   "start": 12.92504166666663,
+   "end": 20.16504166666663,
+   "top_y": 1170,
+   "lines": [
+    "White Lives MatterのTシャツ：2022年10月にYeが",
+    "着て物議を醸したTシャツ"
+   ]
+  },
+  {
+   "start": 40.65504166666642,
+   "end": 45.81504166666642,
+   "top_y": 1170,
+   "lines": [
+    "Patek：スイスの高級時計ブランドPatek Philippe"
+   ]
+  },
+  {
+   "start": 54.20504166666683,
+   "end": 58.19504166666683,
+   "top_y": 1170,
+   "lines": [
+    "4次元チェス：何手も先を読んだ駆け引きのたとえ"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }

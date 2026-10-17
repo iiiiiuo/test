@@ -361,5 +361,16 @@
    "start": 62.09954166666671,
    "end": 64.54449999999996
   }
- ]
+ ],
+ "explanations": [
+  {
+   "start": 15.909541666666655,
+   "end": 21.589541666666655,
+   "top_y": 1170,
+   "lines": [
+    "Waldorf：ビバリーヒルズの高級ホテルWaldorf Astoria"
+   ]
+  }
+ ],
+ "explanation_source": "review/glossary/glossary_draft_s1.json"
 }
