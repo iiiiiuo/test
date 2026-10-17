@@ -2,7 +2,7 @@
 "model": "/root/models/turbo",
 "wav": "/home/user/test/work/b/Clip_02/qa/render16k.wav",
 "clip": null,
-"elapsed": 31.8,
+"elapsed": 31.2,
 "segments": [
 {
 "start": 0.0,

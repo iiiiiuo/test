@@ -1,6 +1,6 @@
 # Clip_35 source context (part_6.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 596.72-663.91s (frames 14306-15917)
+## interval 596.72-638.43s (frames 14306-15306)
      573.85-  578.73 pyramids and also building up Jewish record labels and you know I'm saying building up the
      578.73-  584.39 basketball teams or building up the fashion brands and shooting ads for like fashion brands
      584.39-  590.15 we don't own or drinking Hennessy or signing with Larry Jackson at Apple instead of doing it on
@@ -13,7 +13,17 @@
 >>   626.21-  630.47 in our wildest dreams yay doesn't become president hip-hop is a tribe by
 >>   630.47-  635.17 itself yeah so everyone is hip-hop also we come together that's it that's a race
 >>   635.17-  637.95 itself hip-hop is a racist that's what I've been trying to tell you
->>   637.95-  644.45 this is a race i've been trying to tell you that hip-hop has no color what are we doing with hip-hop
+     637.95-  644.45 this is a race i've been trying to tell you that hip-hop has no color what are we doing with hip-hop
+     644.97-  650.13 hip-hop if you say it's not a race at least it's the people just like our jewish people are people
+     650.65-  655.91 yeah hip-hop against everybody and we're making our people do our own thing yes yeah it's time
+     655.91-  661.99 for us to do it a tremendous name i feel like drink chance is doing that immediately right now
+
+## interval 641.52-663.91s (frames 15380-15917)
+     619.73-  626.21 Anderson said we have to be a block so this time say if I don't let's say just
+     626.21-  630.47 in our wildest dreams yay doesn't become president hip-hop is a tribe by
+     630.47-  635.17 itself yeah so everyone is hip-hop also we come together that's it that's a race
+     635.17-  637.95 itself hip-hop is a racist that's what I've been trying to tell you
+     637.95-  644.45 this is a race i've been trying to tell you that hip-hop has no color what are we doing with hip-hop
 >>   644.97-  650.13 hip-hop if you say it's not a race at least it's the people just like our jewish people are people
 >>   650.65-  655.91 yeah hip-hop against everybody and we're making our people do our own thing yes yeah it's time
 >>   655.91-  661.99 for us to do it a tremendous name i feel like drink chance is doing that immediately right now

@@ -79,14 +79,14 @@ Tremaineには　もっと強いのをやった
 Ye流に格上げして
 
 14
-00:00:29,420 --> 00:00:33,980
-Tremendous：YeがTremaineにつけたあだ名
-
-15
 00:00:29,420 --> 00:00:31,500
 I Ye'd him up. I gave
 him Tremendous.
 “Tremendous”ってあだ名をな
+
+15
+00:00:29,420 --> 00:00:33,980
+Tremendous：YeがTremaineにつけたあだ名
 
 16
 00:00:31,520 --> 00:00:33,980
@@ -174,13 +174,13 @@ People are... love this, and they love,
 みんな気に入ってる
 
 30
-00:01:02,300 --> 00:01:07,150
-Dov Charney：American Apparelの創業者。
-現在はLos Angeles Apparelを率いる
-
-31
 00:01:04,180 --> 00:01:07,130
 because you got Dov Charney.
 It's bigger than White Lives Matter.
 Dov Charneyが付いてるからな
 White Lives Matterよりデカい
+
+31
+00:01:04,180 --> 00:01:07,150
+Dov Charney：American Apparelの創業者。
+現在はLos Angeles Apparelを率いる

@@ -1,0 +1,68 @@
+# Clip_36 source context (part_6.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 663.91-742.91s (frames 15917-17811)
+     637.95-  644.45 this is a race i've been trying to tell you that hip-hop has no color what are we doing with hip-hop
+     644.97-  650.13 hip-hop if you say it's not a race at least it's the people just like our jewish people are people
+     650.65-  655.91 yeah hip-hop against everybody and we're making our people do our own thing yes yeah it's time
+     655.91-  661.99 for us to do it a tremendous name i feel like drink chance is doing that immediately right now
+     661.99-  663.71 I feel like we're doing it right now.
+>>   664.61-  668.45 Did you express everything that you wanted to express?
+>>   668.79-  669.99 Did we get that, like?
+>>   671.18-  672.86 Because I got to go on 20 minutes.
+>>   672.94-  673.38 I got to go.
+>>   673.50-  674.06 I got to leave soon.
+>>   674.24-  675.50 I ain't going to lie to you, Kanye.
+>>   675.74-  676.72 I'm going to be honest with you.
+>>   679.46-  681.24 You didn't have to do this.
+>>   682.13-  684.37 You could have went to Steve and A. Smith.
+>>   684.89-  686.31 You could have went to Oprah.
+>>   686.41-  687.17 You could have went to anybody.
+>>   687.63-  688.63 But you know what you did?
+>>   689.21-  690.67 You came back to the culture.
+>>   692.89-  693.41 Boy, they did.
+>>   693.63-  694.53 Don't clap yet.
+>>   698.84-  701.50 We could have been scared, and guess what?
+>>   701.76-  705.32 We were scared, but you're my brother.
+>>   706.09-  708.03 I like that I have that effect on people.
+>>   710.08-  711.18 I like that I have that 730.
+>>   711.18-  712.34 You don't want to let me finish my speech?
+>>   713.44-  714.38 Go ahead, go ahead, go ahead.
+>>   714.58-  715.70 You don't want to let me finish my speech?
+>>   716.08-  716.98 I mean, you can do it.
+>>   717.00-  717.52 Wait, wait, wait.
+>>   717.62-  721.18 Do you not think you have the effect that we really love what you do?
+>>   722.24-  724.64 I like the love and I like the fear also.
+>>   725.64-  729.06 Nah, but on the cultural standpoint, we love what you do.
+>>   729.32-  730.62 You mean so much to us.
+>>   731.64-  732.72 Good money America
+>>   732.72-  733.74 They don't give a fuck
+>>   733.74-  734.56 And by the way
+>>   734.56-  735.50 Because that's the thing
+>>   735.50-  736.40 Tucker Carlson
+>>   736.78-  737.68 They're going to help me
+>>   737.68-  738.48 Up to the point
+>>   738.48-  739.34 Where I'm like
+>>   739.82-  740.54 Supporting Trump
+>>   740.54-  740.98 Right
+>>   741.64-  742.92 That's all they care about
+     742.92-  743.40 At the end of the day
+     743.40-  743.98 I'm going to tell you
+     743.98-  744.78 For 2024
+     745.80-  746.16 Trump
+     747.18-  747.54 Look
+     747.54-  748.30 You know what I'm saying
+     748.30-  749.26 Let's say
+     749.26-  750.44 Let's say Trump goes in
+     750.44-  751.40 We got a demand
+     751.92-  752.84 Whoever goes in
+     752.84-  753.54 We got a demand
+     753.54-  754.24 That they give us
+     754.24-  754.70 What we need
+     754.70-  755.80 But we need to define that
+     755.80-  756.34 And we're going to need
+     756.34-  757.04 Ice Cube
+     757.04-  758.06 It ain't going to be Trump bro
+     758.06-  759.58 Y'all ain't for the gang up
+     759.58-  760.24 But who would it be
+     760.24-  760.98 If it wasn't Trump
+     760.98-  769.78 DeSantos, Mayor Suarez, I like Mayor Suarez, I like Mayor Suarez, I don't like you fucking

@@ -1,19 +1,19 @@
-VERDICT: FAIL
-Blocking gaps: Item 6 | 41.93-43.75s (src ~638.15-640.47) | Ye's foreground sentence "this is a race, I've been trying to tell you (that)" is heard (render_asr.json: this 41.71, is 42.03, a 42.43, race 42.71, I've 43.11 ... tell you 44.59) but has no caption for ~1.8s; the following caption "Hip-hop has no color." shows at 43.75 while "I've been trying to tell you that" is still being spoken (hip-hop is only said at 44.79, ~1.0s late relative to the caption onset; auto.json max_abs onset 1.14s).
-Largest gap: Uncaptioned/early-captioned span 41.93-44.8s (caption 14 ends at 41.93 mid "the whole time. This...", caption 15 starts 43.75 before its words are spoken).
-Fix: Caption the missing "This is a race, I've been trying to tell you that" (needs approved JP) at ~41.95-44.7 and start "Hip-hop has no color." at ~44.8; or, if no approved wording exists, trim the source span ~638.15-640.9 (a jump cut between "...trying to tell you" and "Hip-hop has no color") and re-check sync/duration (currently 67.19s, ample headroom).
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none
+Fix: none
 
-Items
-1. Structure: PASS - opens "But every single Black artist..." right after Larry Jackson aside (source_context), ends "I feel like we're doing it right now." resolved; next source speech is a new question. Coherent single argument.
-2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 67.192s, audio 67.192s, frames 1611 = expected, no decode errors.
-3. Transcript accuracy: PASS - HEARD lines match displayed EN; only ASR slips ("jay" for Ye, "racist", "title"). Note EN row 14 omits "the whole time" (spoken 41.4-41.7); minor.
-4. Translation fidelity: PASS - JP matches approved rows and meaning; no wrong-moment attachments found (except timing issue in item 6).
-5. Masking: PASS - auto.json unmasked_hits empty; no listed curse words occur; JP not masked.
-6. Timing/sync: FAIL - see blocking gap above. Elsewhere onset median -0.04s, 95.7% of matched words inside their caption.
-7. Typography/visuals: PASS - sheet_1/2 vs ref_sheet: white bold Yu Gothic, black outline/shadow, EN above JP, centred, same vertical band as reference (y~950 anchor), <=2 EN + 2 JP lines (auto max_lines 4), no clipping.
-8. Framing: PASS - speakers' faces in sharp centre band with blurred fill; crop changes align with shot changes (Ye / host / Ye); host shot (3 frames at 32s, 52-58s, 62-66s) well centred.
-9. Source usage: PASS - single interval part_6 [14306,15917), 1611 frames, audio same range; no padding/freeze/repetition (the repeated "this is a race / I've been trying to tell you" is Ye's own speech, not duplicated footage).
+## Items
+1. Structure: PASS. Opens on "But every single Black artist need to be on Tidal" (complete thought, source_context shows it follows "...that's better"). It ends on "we're doing it right now" (661.99-663.71 in source), which resolves the point. The single jump cut at 41.71s skips about 3s of repeated "this is a race / I've been trying to tell you" and reads naturally. A 0.35s breath follows the join before "hip-hop has no color".
+2. Duration/format: PASS. auto.json gives 1080x1920, SAR 1:1, video 64.106s, audio 64.106s, 1537 of 1537 frames, no decode errors, A/V start 0.
+3. Transcript accuracy: PASS. HEARD matches the captions apart from ASR noise (title/Tidal, "racist" at 39-40s, "Dream Champs", "block" vs the spelled "bloc"). 96% of matched words fall inside their own caption.
+4. Translation fidelity: PASS. No clear errors against the heard speech. Cedric/Balenciaga switch lines, "tribe"/"race"/"people" (部族/人種/民), and the closing lines all match the meaning. "Tremendous" and Claude Anderson follow the approved naming rules.
+5. Masking: PASS. auto.json reports unmasked_hits [] and no curse words appear in the English. The Japanese is not mechanically masked.
+6. Timing/sync: PASS. Median onset error is -0.06s. Caption 1 starts 0.31s after the first heard word (0.02s), which is negligible. There are no uncaptioned sentences. The shortest caption, "Hip-hop is a race." (0.87s, 39.16-40.03), is brief but short enough to read.
+7. Typography/visuals: PASS. White bold Yu Gothic-style text with black outline and shadow, EN above JP, centred, at the same vertical position and similar size as the reference (sheet tile y approx. 0.50-0.58). All captions wrap to at most 2 EN + 2 JP lines. No clipping (checked f_0041.79 and f_0064.03) and it stays readable on the bright gold background.
+8. Framing: PASS. Faces sit in the sharp centre band with blurred fill above and below, as in the reference. Framing changes only at shot changes (Ye to interviewer and back). The Ye shot at 63.69 sits slightly low but is fully framed.
+9. Source usage: PASS. Both intervals are from part_6: [14306,15306) and [15380,15917), half-open, with a gap of 74 frames. There is no padding, freeze or repetition, and the join does not distort meaning.
 
-Non-blocking notes
-- Caption 8 "So this time, say, if I..." lingers ~0.5s into "don't" and caption 9 "don't..." appears 28.35 vs spoken 27.21; acceptable.
-- Caption 9 JP line is long (single line at fs50) but fits.
+## Non-blocking notes
+- The join at 41.70s drops audio from about 8600 to about 1000 RMS within 50ms, so "time" ends slightly abruptly. It is acceptable at speech pace.
+- At 63.1-64.0 the speaker of "I feel like we're doing it right now" is ambiguous. The frame shows the interviewer at 63.11 and Ye at 63.69, so the line is attributed to Ye on screen. It follows the source cut.

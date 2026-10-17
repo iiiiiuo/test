@@ -1,0 +1,34 @@
+# Clip_37 source context (part_6.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
+
+## interval 863.32-930.47s (frames 20698-22308)
+     841.97-  843.49 You know, I'm just here to like-
+     843.49-  844.39 Hey, don't take my balls.
+     845.59-  847.80 Yo, that's hip-hop, baby.
+     848.38-  849.50 Yo, all right, let's be clear.
+     849.76-  849.82 Yeah.
+     851.12-  854.24 Yo, this Duce, Duce also makes you have to use
+     854.24-  855.42 the bathroom every 20 minutes.
+     855.80-  856.54 I mean, Duce.
+>>   863.54-  872.22 Why are you wearing the Trump, um, the, excuse me, the, um, the, um, the, um, the, um, the
+>>   872.22-  873.98 Supreme Lives Matter.
+>>   874.50-  875.64 This is not Lives Matter.
+>>   875.78-  876.60 This is Jermaine.
+>>   876.80-  877.58 This is Jermaine.
+>>   878.12-  879.14 This is my boy.
+>>   879.18-  880.20 This is at Supreme now.
+>>   880.40-  883.56 And the weird thing is like, you know, he's a good guy.
+>>   883.72-  884.86 So you think about like Pete Davis.
+>>   884.96-  886.36 I gave him, I gave him money.
+>>   886.54-  892.82 uh a negative nickname ski davidson with tremaine i gave him something that was even more powerful
+>>   892.82-  898.30 i yayed him up i gave him tremendous right and then we went in we appropriate we did a reverse
+>>   898.30-  903.26 appropriation of everything supreme and i went to the studio with e and connor right and we went
+>>   903.26-  907.32 supreme is this you know it's a skate brand it's the high school right you know what i'm saying
+>>   907.32-  914.86 so it's like we went in and flipped everything this thing is so the tremendous movement is more
+>>   914.86-  916.90 I don't want to call it a movement because you don't move nowhere.
+>>   917.32-  922.56 That's like the tremendous idea is so much bigger than even a T-shirt, the other T-shirt I wore.
+>>   923.04-  924.88 Like, this is finna go crazy.
+>>   925.62-  928.70 People are, love this, and they love because you got Dove Charney.
+>>   929.00-  930.04 It's bigger than White Lives Matter.
+     930.74-  933.74 Well, White Lives Matter is very important for a couple of reasons.
+     934.00-  941.48 One reason is the leftists and liberals have used the trauma of black culture to black out the white voice.
+     941.48-  950.84 and the america is still majority white right so they're using the trauma of black culture to black

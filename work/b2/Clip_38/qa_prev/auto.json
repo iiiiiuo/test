@@ -1,6 +1,6 @@
 {
  "clip": "Clip_38",
- "render_sha256": "b4f0da01af6f46c2211f792473b7b69db9b7fc85273bbb92a0b6cc38d4367de1",
+ "render_sha256": "a798ef9121093c3b9971cd43b7e61b534a7efd7ebd96d3b3fa4ad6a74e77aa29",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -17,12 +17,14 @@
   "PASS": true
  },
  "subtitles": {
-  "events": 80,
+  "events": 79,
   "captions": 26,
   "max_end": 75.39,
   "beyond_video": [],
   "unmasked_hits": [],
-  "captions_without_jp": [],
+  "captions_without_jp": [
+   "Clip_38_L010"
+  ],
   "max_lines": 4
  },
  "sync": {

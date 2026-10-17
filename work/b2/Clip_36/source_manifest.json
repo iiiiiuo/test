@@ -105,7 +105,7 @@
  ],
  "subtitles": {
   "ass": "/home/user/test/work/b2/Clip_36/subtitles.ass",
-  "sha256": "ad1ee050d0628acb5cd73f7ca55b0c962745db7a06ea8da01b37dfa6535d36a5"
+  "sha256": "5ef71702b76806e20345c084243c42a8632f4f85a5935d9709accfed00abb358"
  },
  "translation": {
   "approved_csv": "review/s2/approved/translations_approved_s2_rev2.csv",
@@ -114,6 +114,6 @@
  },
  "render": {
   "path": "/home/user/test/work/b2/Clip_36/render.mp4",
-  "sha256": "9d1c70e2b0afa453b8431cbc2c7644df804745f6d868ba235940ef19dcd6f2da"
+  "sha256": "2f66d056c51411ddd5302c65b1bf797d2564b159f7c23b31ec91d417b47d9bc5"
  }
 }

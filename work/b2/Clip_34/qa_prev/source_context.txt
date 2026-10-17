@@ -1,6 +1,6 @@
 # Clip_34 source context (part_5.mp4), turbo ASR. '>>' = inside a used interval, '  ' = outside (not in the clip)
 
-## interval 1652.11-1737.23s (frames 39610-41651)
+## interval 1652.11-1718.13s (frames 39610-41193)
     1630.78- 1632.78 You get the Doucet and the Juicy.
     1636.05- 1639.91 Y'all ain't stay on some fuck, but you say, I don't give a fuck, who say?
     1642.37- 1643.49 But, but, but yeah.
@@ -29,6 +29,22 @@
 >>  1703.62- 1703.88 Pharrell.
 >>  1703.88- 1711.98 my wife is a pharrell i'm the pharrell i'm the pharrell of politics this is for me i'm the first
 >>  1711.98- 1721.42 time you see a black dude wearing a harley davidson hat riding on a you know on a gt on a haro gt or
+    1721.42- 1727.04 gt bike because i used to freestyle bike i was a extreme gamer and i can i can stand up on top
+    1727.04- 1731.80 of a bike like this and ride and like just like pharrell i was a nerd also you're going to say
+    1731.80- 1734.86 And I was a nigga with the pink polo and, you know.
+    1735.10- 1736.14 We love you.
+    1736.36- 1737.22 We're ruling the world right now.
+    1737.26- 1738.60 Yeah, that's what I'm saying.
+
+## interval 1720.13-1737.23s (frames 41241-41651)
+    1699.36- 1700.28 Okay, add that.
+    1700.32- 1700.74 Who do you say?
+    1701.36- 1701.84 Pharrell.
+    1702.00- 1702.40 Pharrell.
+    1702.46- 1703.46 I said Pharrell.
+    1703.62- 1703.88 Pharrell.
+    1703.88- 1711.98 my wife is a pharrell i'm the pharrell i'm the pharrell of politics this is for me i'm the first
+    1711.98- 1721.42 time you see a black dude wearing a harley davidson hat riding on a you know on a gt on a haro gt or
 >>  1721.42- 1727.04 gt bike because i used to freestyle bike i was a extreme gamer and i can i can stand up on top
 >>  1727.04- 1731.80 of a bike like this and ride and like just like pharrell i was a nerd also you're going to say
 >>  1731.80- 1734.86 And I was a nigga with the pink polo and, you know.
