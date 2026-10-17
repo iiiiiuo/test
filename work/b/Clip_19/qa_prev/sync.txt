@@ -1,18 +1,18 @@
-   0.51-  2.49 SUB: In a way, they got a guy / who had taste, though, bro.  ||  少なくとも / センスのある奴はいたんだよ
-               HEARD: a way, they got a guy who had a taste, though, bro.
-   2.51-  5.10 SUB: You know what I'm saying? / Steve Jobs had the best taste.  ||  スティーブ・ジョブズは / 最高のセンスを持ってた
-               HEARD: bro. You know what I'm saying? Steve Jobs had the best taste. I've
+   0.51-  2.84 SUB: In a way, they got a guy / who had taste, though, bro.  ||  少なくとも / センスのある奴はいたんだよ
+               HEARD: a way, they got a guy that had a taste, though, bro.
+   2.86-  5.10 SUB: You know what I'm saying? / Steve Jobs had the best taste.  ||  スティーブ・ジョブズは / 最高のセンスを持ってた
+               HEARD: You know what I'm saying? Steve Jobs had the best taste. I've
    5.12-  8.14 SUB: I've yet to meet a tech guy / with better taste than me.  ||  俺よりセンスのある　テック系には / まだ会ったことない
                HEARD: I've yet to meet a tech guy with better taste than me.
    8.16- 12.85 SUB: I'm the next frontier. You got / Ralph, Steve, and then it's me.  ||  俺が次のフロンティアだ / Ralph Lauren、ジョブズ
                HEARD: I'm the next frontier. You got Ralph, Steve, and then it's me. You
-  12.87- 14.31 SUB: You know what I'm saying? / It's like none of these guys.  ||  その次が俺 / 他の連中じゃない
-               HEARD: You know what I'm saying? It's like none of these guys.
-  14.33- 20.03 SUB: Even Elon flew me... you know / what I'm saying? Vory, Wack 100,  ||  イーロンですら　俺を呼んだんだぜ / Vory、Wack 100と
-               HEARD: guys. Even Elon flew me. You know what I'm saying? Voree, WAC 100.
-  20.05- 23.60 SUB: it was like a team / that went to SpaceX.  ||  チームでSpaceXに行ったんだよ
-               HEARD: It was like a team that went to SpaceX.
-  23.62- 25.04 SUB: He flew me in his new jet out there.  ||  新しいジェットで / 連れてってくれて
+  12.87- 15.03 SUB: You know what I'm saying? / It's like none of these guys.  ||  その次が俺 / 他の連中じゃない
+               HEARD: You know what I'm saying? It's like none of these guys. Even Elon
+  15.05- 20.32 SUB: Even Elon flew me... you know / what I'm saying? Vory, Wack 100,  ||  イーロンですら　俺を呼んだんだぜ / Vory、Wack 100と
+               HEARD: flew me. You know what I'm saying? Voree, WAC 100.
+  20.34- 23.56 SUB: it was like a team / that went to SpaceX.  ||  チームでSpaceXに行ったんだよ
+               HEARD: It was like a team was like went to SpaceX.
+  23.58- 25.04 SUB: He flew me in his new jet out there.  ||  新しいジェットで / 連れてってくれて
                HEARD: He flew me in his new jet out there.
   25.06- 27.42 SUB: He said, I want you to / design SpaceX for me.  ||  「SpaceXを / デザインしてほしい」って
                HEARD: there. He said, I want you to design SpaceX for me.
@@ -26,13 +26,13 @@
                HEARD: you had the best eq on the planet that
   35.61- 39.35 SUB: That means taste. / Best EQ on the planet.  ||  つまりセンスってことだ / EQ地球一
                HEARD: means taste best eq on the planet this
-  39.37- 40.39 SUB: This is a person...  ||  IQが地球一だって
-               HEARD: relaxation
-  40.41- 43.38 SUB: — Yeah. This is a person / that a lot of people  ||  言われてるような人が
-               HEARD: guy yeah this is a person that a lot of people
-  43.40- 45.69 SUB: consider to have the / best IQ on the planet.  ||  俺のEQは地球一だって
+  39.37- 41.60 SUB: This is a person... — Yeah.  ||  
+               HEARD: relaxation guy yeah
+  41.62- 43.38 SUB: This is a person that a lot of people  ||  
+               HEARD: this is a person that a lot of people
+  43.40- 45.69 SUB: consider to have the / best IQ on the planet.  ||  IQが地球一だって / 言われてるような人が
                HEARD: people consider have the best iq on the planet he
-  45.71- 47.56 SUB: He says you got the / best EQ on the planet.  ||  言ったんだよ
+  45.71- 47.56 SUB: He says you got the / best EQ on the planet.  ||  俺のEQは地球一だって / 言ったんだよ
                HEARD: says you got the best eq on the eq
   47.58- 49.38 SUB: The EQ is the connectivity.  ||  EQってのは / つながる力なんだよ
                HEARD: eq the eq is the connectivity

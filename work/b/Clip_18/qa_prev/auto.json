@@ -1,6 +1,6 @@
 {
  "clip": "Clip_18",
- "render_sha256": "6c4d05cbd80b1f1137f8f8d03f3d28daf620e5951600acf6432c0dce9b4fccd8",
+ "render_sha256": "2b1c2860cfa03229352c95b7afaf4c51c6ac9a64d7923404184b6f66bf8b8d12",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -30,11 +30,11 @@
   "asr_words": 259,
   "matched": 238,
   "match_ratio": 0.964,
-  "matched_words_inside_their_caption": 0.979,
+  "matched_words_inside_their_caption": 0.975,
   "caption_onset_vs_first_word_s": {
    "n": 28,
-   "median": 0.092,
-   "max_abs": 1.048
+   "median": 0.022,
+   "max_abs": 1.128
   }
  },
  "frames": {
@@ -44,12 +44,12 @@
    3.59,
    4.67,
    11.04,
-   37.13,
+   37.44,
    47.09,
    48.42,
    49.88,
    54.01,
-   55.77,
+   56.24,
    68.78,
    71.32,
    72.24
@@ -64,12 +64,12 @@
    "/home/user/test/work/b/Clip_18/qa/f_0003.59.png",
    "/home/user/test/work/b/Clip_18/qa/f_0004.67.png",
    "/home/user/test/work/b/Clip_18/qa/f_0011.04.png",
-   "/home/user/test/work/b/Clip_18/qa/f_0037.13.png",
+   "/home/user/test/work/b/Clip_18/qa/f_0037.44.png",
    "/home/user/test/work/b/Clip_18/qa/f_0047.09.png",
    "/home/user/test/work/b/Clip_18/qa/f_0048.42.png",
    "/home/user/test/work/b/Clip_18/qa/f_0049.88.png",
    "/home/user/test/work/b/Clip_18/qa/f_0054.01.png",
-   "/home/user/test/work/b/Clip_18/qa/f_0055.77.png",
+   "/home/user/test/work/b/Clip_18/qa/f_0056.24.png",
    "/home/user/test/work/b/Clip_18/qa/f_0068.78.png",
    "/home/user/test/work/b/Clip_18/qa/f_0071.32.png",
    "/home/user/test/work/b/Clip_18/qa/f_0072.24.png"

@@ -3,17 +3,21 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-## Items
-1. Structure: PASS. Opens at "I still... Bernard Arnault is still one of my heroes" (source_context: begins right at "I still", after the Louis Vuitton list-end), middle is a coherent Bernard Arnault vs Bezos argument, ends on the complete sentence "I would deal with it being Bernard Arnault." (render ends 72.30 s; the next source line is a new topic). Standalone understandable.
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 72.32225 s / audio 72.322 s, 1734 frames = expected 1734, decode_errors empty.
-3. Transcript accuracy: PASS. match_ratio 0.964; HEARD lines agree with the displayed English throughout. Only nit: 20.19 caption shows "on stage for them", both ASRs hear "with him" (see notes).
-4. Translation fidelity: PASS. Approved rev3 wording; no clearly wrong or misattached line (e.g. 28.03 "Your opinion" -> それはお前の意見な on the host cutaway, 35.78 Christmas line, 54.12 "でもさ/確かにマシンは壊したけど").
-5. Masking: PASS. auto.json unmasked_hits = []; no listed curse words occur in the text; Japanese not mechanically masked.
-6. Timing/sync: PASS. Median onset offset 0.022 s, 97.5% of matched words inside their caption. Shortest caption is the host "Yeah." at 19.11-20.17 (1.06 s, one word, readable); 4.83-5.85 "head of LVMH. Yeah." 1.02 s is acceptable. Uncaptioned gaps 24.59-25.75 and 29.35-30.10 are pauses/short reaction (no full foreground sentence in context transcript).
-7. Typography/visuals: PASS. Frames (f_0004.67, f_0011.04, sheets) show white bold Yu Gothic with black outline and shadow, EN above JP, centred, same size and vertical band as ref_sheet; max 2 EN + 2 JP lines (auto max_lines 4); no clipping; readable over the white sweatshirt and bright backgrounds.
-8. Framing: PASS. Ye's face sits in the sharp centre band in all sampled frames, blurred fill above/below as in the reference; cutaways to host (3.59, 48.42-49.88) are at shot changes.
-9. Source usage: PASS. Single interval part_5 frames [28233,29967) half-open, audio same range, no padding/freeze/repetition; no joins.
+Items (scope: 2, 5, 7, 10; item 4 CHANGED_LINES = none, not checked)
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json: 1080x1920, SAR 1:1, video 72.322 s, audio 72.322 s, 1734/1734 frames, no decode errors.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (no changed lines)
+5. Masking: PASS - auto.json unmasked_hits = []; no profanity in srt/ass/sync HEARD; Japanese not mechanically masked (clip has no listed masked words).
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS - frames 4.67, 11.04, 27.0, 48.42, 50.5: white bold Yu Gothic, black outline+shadow, EN above JP, centred, same position (pos y 948 start) as reference ref_20.png; max 2 EN + 2 JP lines (4 lines max); nothing clipped, all inside sharp band.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS
+ - Text verbatim vs glossary_draft_s1.json: L001 (two terms, each on own line, 0.00-9.03 s), L003 Alexandre (9.05-19.09 s), L006 ジェフ・ベゾス (25.75-29.09 s), L012 マシンをぶっ壊す (45.73-52.19 s). All match; line breaks fall at 。 or between phrases, no word/name split.
+ - Timing: each starts at the caption showing the term (L006 caption 25.75; L012 "break the machine" caption 45.73); durations 9.0, 10.0, 3.3, 6.5 s, all >= 2 s.
+ - Layout: Expl style Yu Gothic 40 bold, white, black outline 3, shadow 2; lines at y 1138-1284 (text bottom about 1320), below EN/JP block (bottom about 1150 in worst 4-line case, 1100 for 3-line case) with visible gap, inside y 438..1480. Frames 4.67, 11.04, 27.0, 48.42, 50.5 confirm no overlap.
 
-## Non-blocking notes
-- 20.19-22.41 EN "for them" vs heard "with him" in both source and render ASR; approved wording kept, could be rechecked against audio.
-- 4.83 caption shows "Louis" only; source says "Louis Vuitton" (render ASR also hears "Louis"), no meaning loss.
+Non-blocking notes
+- L012 explanation stays up to 52.19 s, past the spoken term (47.25 s), over a different speaker (frame 50.5); readable and approved, just lingers.
+- L006 explanation sits close under the 3-line EN/JP block (about 40 px gap) but does not touch.

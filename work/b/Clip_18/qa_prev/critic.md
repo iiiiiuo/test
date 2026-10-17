@@ -1,19 +1,19 @@
-VERDICT: FAIL
-Blocking gaps: Item 6/4 - caption 18 at 42.90-43.37 s (0.47 s): EN "You know what I'm saying?" is paired with JP "あいつはLas Vegasで", which is the lead-in of the next sentence (caption 19 continues "マシンをぶっ壊す方法を覚えただけなんだよ"), so the JP is attached to the wrong moment and the caption flashes too briefly to read (sync.txt lines 42.90 and 43.39; approved row L012 JP is one sentence split across two captions).
-Largest gap: Caption 18 (42.90-43.37 s) is a 0.47 s flash whose JP belongs to the following caption.
-Fix: Merge captions 18 and 19 into one caption from 42.90 to 47.25 (EN "You know what I'm saying? So he just learned how to go to Vegas and break the machine." wrapped to max 2 EN lines, with JP as one 2-line block), or drop the "You know what I'm saying?" filler from the display and start caption 19 at 42.90 with the full JP, so each caption carries its own JP and lasts >= 0.8 s.
+VERDICT: PASS
+Blocking gaps: none
+Largest gap: none
+Fix: none
 
-Items
-1. Structure: PASS - starts on "I still" (source 1177.59; "Vuitton" ends ~1177.50 per audio RMS, "I" marginally tight at onset), ends on completed "being Bernard Arnault." (last word ends 72.18 s of 72.32; frame f_0072.24). Standalone coherent.
-2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 72.322 s, audio 72.322 s, 1734/1734 frames, no decode errors.
-3. Transcript accuracy: PASS - match ratio 0.964; only minor ASR diffs (cap 9 "for them" vs heard "with him", cap 22 heard "I can't front him. He came from" is likely ASR noise on a host line, approved wording kept).
-4. Translation fidelity: FAIL - caption 18 JP "あいつはLas Vegasで" does not translate "You know what I'm saying?" (see gap). All other lines convey the English.
-5. Masking: PASS - auto.json unmasked_hits empty; no masked words needed in this clip; JP not mechanically masked.
-6. Timing/sync: FAIL - caption 18 flashes 0.47 s (42.90-43.37). Other captions onset median 0.09 s, 97.9% of matched words inside their caption; no uncaptioned foreground sentence found. Caption min length otherwise >= 0.86 s.
-7. Typography/visuals: PASS - frames f_0072.24, sheets 1-2: white bold Yu Gothic, black outline/shadow, EN above JP, centred, same vertical position and size as reference; max 2 EN + 2 JP lines; no overflow.
-8. Framing: PASS - Ye (and the host cutaways at 3.6 s, 47-52 s) framed in the sharp band with blurred fill; head not cut; changes only at shot changes.
-9. Source usage: PASS - single interval part_5 frames [28233, 29967) = 1734 frames, matches render; no padding, freeze or repetition.
+## Items
+1. Structure: PASS. Opens at "I still... Bernard Arnault is still one of my heroes" (source_context: begins right at "I still", after the Louis Vuitton list-end), middle is a coherent Bernard Arnault vs Bezos argument, ends on the complete sentence "I would deal with it being Bernard Arnault." (render ends 72.30 s; the next source line is a new topic). Standalone understandable.
+2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 72.32225 s / audio 72.322 s, 1734 frames = expected 1734, decode_errors empty.
+3. Transcript accuracy: PASS. match_ratio 0.964; HEARD lines agree with the displayed English throughout. Only nit: 20.19 caption shows "on stage for them", both ASRs hear "with him" (see notes).
+4. Translation fidelity: PASS. Approved rev3 wording; no clearly wrong or misattached line (e.g. 28.03 "Your opinion" -> それはお前の意見な on the host cutaway, 35.78 Christmas line, 54.12 "でもさ/確かにマシンは壊したけど").
+5. Masking: PASS. auto.json unmasked_hits = []; no listed curse words occur in the text; Japanese not mechanically masked.
+6. Timing/sync: PASS. Median onset offset 0.022 s, 97.5% of matched words inside their caption. Shortest caption is the host "Yeah." at 19.11-20.17 (1.06 s, one word, readable); 4.83-5.85 "head of LVMH. Yeah." 1.02 s is acceptable. Uncaptioned gaps 24.59-25.75 and 29.35-30.10 are pauses/short reaction (no full foreground sentence in context transcript).
+7. Typography/visuals: PASS. Frames (f_0004.67, f_0011.04, sheets) show white bold Yu Gothic with black outline and shadow, EN above JP, centred, same size and vertical band as ref_sheet; max 2 EN + 2 JP lines (auto max_lines 4); no clipping; readable over the white sweatshirt and bright backgrounds.
+8. Framing: PASS. Ye's face sits in the sharp centre band in all sampled frames, blurred fill above/below as in the reference; cutaways to host (3.59, 48.42-49.88) are at shot changes.
+9. Source usage: PASS. Single interval part_5 frames [28233,29967) half-open, audio same range, no padding/freeze/repetition; no joins.
 
-Non-blocking notes
-- Start is tight on "I still" (audio at 1177.55-1177.60 is already low-energy); a 2-3 frame earlier start would be safer.
-- Frame 3.59 s shows the host in a reaction shot while Ye's line is captioned; reads fine.
+## Non-blocking notes
+- 20.19-22.41 EN "for them" vs heard "with him" in both source and render ASR; approved wording kept, could be rechecked against audio.
+- 4.83 caption shows "Louis" only; source says "Louis Vuitton" (render ASR also hears "Louis"), no meaning loss.
