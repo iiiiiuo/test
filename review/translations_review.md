@@ -17,17 +17,17 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_01_L001 | 0:20:03.660 | Host | Because as a person that, when we first seen the Gap deal, right, um, we understand that rich motherfuckers ain't going in the Gap. | Gapとの契約を<br>初めて見た時さ<br>金持ちはGapなんか<br>行かないってのは<br>わかってたけど | 【解説（草案）】Gap：アメリカのアパレル大手。2020年からYeと組み「Yeezy Gap」を展開した<br>Yeezy Gap launched 2022. |
-| Clip_01_L002 | 0:20:11.960 | Host | But you know what, they was going in the Gap because of you. It was going. And they say 'powered by Balenciaga,' but then you walk into the store, | あんたのおかげで<br>みんなGapに行ったんだよ<br>「Powered by Balenciaga」って<br>書いてあるのに<br>店に入ったら | 【解説（草案）】Balenciaga：フランスの高級ブランド。Gapとの協業は「Yeezy Gap Engineered by Balenciaga」<br>'Yeezy Gap Engineered by Balenciaga' was the line's branding. |
+| Clip_01_L001 | 0:20:03.660 | Host | Because as a person that, when we first seen the Gap deal, right, um, we understand that rich motherfuckers ain't going in the Gap. | Gapとの契約を<br>初めて見た時さ<br>金持ちはGapなんか<br>行かないってのは<br>わかってたけど | Yeezy Gap launched 2022. |
+| Clip_01_L002 | 0:20:11.960 | Host | But you know what, they was going in the Gap because of you. It was going. And they say 'powered by Balenciaga,' but then you walk into the store, | あんたのおかげで<br>みんなGapに行ったんだよ<br>「Powered by Balenciaga」って<br>書いてあるのに<br>店に入ったら | 'Yeezy Gap Engineered by Balenciaga' was the line's branding. |
 | ⚠ Clip_01_L003 | 0:20:19.060 | Host | and then the clothes is just on the floor. Is that degrading to somebody that's rich that want to come in there and support you? | 服がそのまま<br>床に置いてある<br>あれって応援しに来た<br>金持ちに失礼じゃない？ | 【解説（草案）】床に置いてある：Yeezy Gapの店では服が大きな袋に入れて床に並べられた<br>Yeezy Gap displayed clothes in large bags on the floor. / MEDIUM: ASR 'this is closed that's just on the floor'; read as 'the clothes is just on the floor'. |
 | Clip_01_L004 | 0:20:26.800 | Ye | We should degrade the rich. | 金持ちなんか<br>落としてやればいいんだよ |  |
 | Clip_01_L005 | 0:20:28.260 | Ye | Everybody is dirt. Everybody on the same level beneath God. | みんな土だよ<br>神の下では<br>みんな同じレベル |  |
 | ⚠ Clip_01_L006 | 0:20:32.340 | Ye / Host | Because we'll hop over... (Host: That was a good one.) | だって俺らは<br>またいで行くんだよ… | LOW: crosstalk; large-v3 'That was all. That was very good.', turbo has nothing. Host reaction not translated. |
-| Clip_01_L007 | 0:20:37.280 | Ye | You know, we'll walk over a homeless person to get to the Gucci store. | Gucciの店に行くために<br>ホームレスをまたいで<br>歩くんだから | 【解説（草案）】Gucci：イタリアの高級ブランド |
+| Clip_01_L007 | 0:20:37.280 | Ye | You know, we'll walk over a homeless person to get to the Gucci store. | Gucciの店に行くために<br>ホームレスをまたいで<br>歩くんだから |  |
 | ⚠ Clip_01_L008 | 0:20:42.960 | Ye | Ray Kurzweil said a utopia is possible where we're led by the least noble and the greediest people. | Ray Kurzweilは<br>最も高潔じゃなく<br>最も強欲な連中に<br>率いられたユートピアが<br>あり得るって言ってた | 【解説（草案）】Ray Kurzweil：アメリカの未来学者・発明家<br>Ray Kurzweil = futurist. Attribution and wording are Ye's. / MEDIUM: the quote's meaning is ambiguous as spoken; translated literally. Ye repeats 'the world is led by the least noble and the most greedy' later in the interview. |
 | Clip_01_L009 | 0:20:49.800 | Ye | I brought the head designer of Balenciaga, the greatest designer on our planet today, Demna. | 俺はBalenciagaの<br>ヘッドデザイナーを連れてきた<br>今この星で最高のデザイナー<br>Demnaだ | 【解説（草案）】Demna：当時のBalenciagaのクリエイティブ・ディレクター<br>Demna = Balenciaga creative director. |
 | Clip_01_L010 | 0:20:58.080 | Ye | Demna is the Ye of clothing. | Demnaは<br>服の世界のYeだ |  |
-| Clip_01_L011 | 0:21:02.100 | Ye | Demna is the Drake of clothing. | Demnaは<br>服の世界のDrakeだ | 【解説（草案）】Drake：カナダ出身のラッパー。Yeとは長く確執があった |
+| Clip_01_L011 | 0:21:02.100 | Ye | Demna is the Drake of clothing. | Demnaは<br>服の世界のDrakeだ |  |
 | Clip_01_L012 | 0:21:05.540 | Ye | Drake is the greatest rapper ever. | Drakeは<br>史上最高のラッパーだよ | Notable because of their long feud. |
 
 ## Clip_02 — Drake told me 'nothing ever happened'
@@ -40,11 +40,11 @@
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
 | Clip_02_L001 | 0:26:32.520 | Ye | Yeah, it's so funny, though, because me and Drake, you know, | いや、マジで笑えるんだけどさ<br>俺とDrakeがさ |  |
-| Clip_02_L002 | 0:26:35.520 | Ye | before Donda came out, we met up at the studio. | 『Donda』が出る前に<br>スタジオで会ったんだよ | 【解説（草案）】『Donda』：Yeの2021年のアルバム。亡き母の名前から<br>Donda = Ye's 2021 album. |
+| Clip_02_L002 | 0:26:35.520 | Ye | before Donda came out, we met up at the studio. | 『Donda』が出る前に<br>スタジオで会ったんだよ | Donda = Ye's 2021 album. |
 | Clip_02_L003 | 0:27:26.820 | Ye | So then Drake says to me, yo... no, I need to tell the story like this. | で、Drakeが俺に言うわけ…<br>いや、話す順番を変えるわ | Ye stops himself to tell the Kushner part first; the edit removes the spoiler he gave before this. |
 | Clip_02_L004 | 0:27:36.680 | Ye | So basically, you know, Jared Kushner asked Steve Stoute, like, yo, just tell me, did Ye fuck my wife? | 要するにさ、Jared Kushnerが<br>Steve Stouteに聞いたんだよ<br>「正直に言ってくれ、Yeは俺の妻とヤったのか？」って | 【解説（草案）】Jared Kushner：トランプ元大統領の娘婿／Steve Stoute：音楽・広告業界の実業家<br>Jared Kushner (Trump's son-in-law, husband of Ivanka Trump). Steve Stoute = music/marketing executive. / Name spelled 'Stout' by ASR; standard spelling is Stoute. |
 | Clip_02_L005 | 0:27:45.100 | Ye | And Steve Stoute was like, no, Ye never did nothing. | Steveは「いや、Yeは何もしてない」って |  |
-| Clip_02_L006 | 0:27:50.320 | Ye | So when I went to the White House, I saw Jared. | で、White Houseに行った時<br>Jaredに会ったんだよ | 【解説（草案）】White House：アメリカ大統領の官邸 |
+| Clip_02_L006 | 0:27:50.320 | Ye | So when I went to the White House, I saw Jared. | で、ホワイトハウスに行った時<br>Jaredに会ったんだよ |  |
 | Clip_02_L007 | 0:27:53.920 | Ye | I was like, yo, I want to just tell you, nothing ever happened. He's like, yo, I don't know what you're talking about. | 俺は「一応言っとくけど、何もなかったから」<br>あいつは「何の話かわからない」って |  |
 | Clip_02_L008 | 0:27:58.340 | Ye | I was like, yo, and I grabbed him by both shoulders, and I was like, yo, Jared, nothing has ever happened. | で、俺はあいつの両肩をつかんで<br>「Jared、マジで何もなかったから」って |  |
 | Clip_02_L009 | 0:28:05.020 | Ye | And he said, yo, thank you for saying that. | そしたら「言ってくれてありがとう」って |  |
@@ -92,26 +92,26 @@
 | Clip_04_L001 | 0:00:30.540 | Ye | Okay, you know, like right now, when me, James Blake, Arca and No I.D. in the studio working on our album, | 例えば今、俺と<br>James Blake、Arca、No I.D.で<br>スタジオでアルバム作ってる時 | 【解説（草案）】James Blake：イギリスの歌手・プロデューサー／Arca：ベネズエラ出身の音楽家／No I.D.：シカゴの大御所プロデューサー<br>No I.D. = veteran Chicago producer. / Names after 'James Blake' are unclear: both models hear 'are and no idea'. 'Arca' is a guess; 'No I.D.' is likely. Please confirm or reduce to 'producers'. |
 | Clip_04_L002 | 0:00:36.720 | Ye | who do you think we'd be bringing up when we're talking about songs? | 曲の話で誰の名前が<br>出てくると思う？ |  |
 | Clip_04_L003 | 0:00:40.140 | Ye | Stadium artists. Who do you think we bring up? | スタジアム級のアーティストだよ<br>誰だと思う？ |  |
-| Clip_04_L004 | 0:00:42.370 | Ye | And we ain't got no problem, we don't beef. | 別に揉めてるわけじゃないぜ<br>ビーフはない | 【解説（草案）】ビーフ：ラッパー同士の対立・確執のこと<br>Large-v3 'We don't beef'; turbo 'we do it so beefy'. MEDIUM. |
+| Clip_04_L004 | 0:00:42.370 | Ye | And we ain't got no problem, we don't beef. | 別に揉めてるわけじゃないぜ<br>ビーフはない | Large-v3 'We don't beef'; turbo 'we do it so beefy'. MEDIUM. |
 | Clip_04_L005 | 0:00:44.650 | Ye | No problem. It's just like, yo, we competing. | 問題なし<br>ただ競い合ってるってこと |  |
 | Clip_04_L006 | 0:00:46.390 | Ye | Not Drake. Who do you think we bring? | Drakeじゃない<br>誰だと思う？ |  |
-| Clip_04_L007 | 0:00:47.790 | Ye | Anybody else got another Travis Stadium? | Travis以外で<br>スタジアム埋める奴は？ | 【解説（草案）】Travis：Travis Scott。スタジアム公演を行うラッパー<br>Large-v3 'another Travis Stadium'; turbo 'another Travis'. Meaning: who besides Travis Scott fills stadiums. |
+| Clip_04_L007 | 0:00:47.790 | Ye | Anybody else got another Travis Stadium? | Travis以外で<br>スタジアム埋める奴は？ | Large-v3 'another Travis Stadium'; turbo 'another Travis'. Meaning: who besides Travis Scott fills stadiums. |
 | ⚠ Clip_04_L008 | 0:00:51.900 | Host | Think down here. | このへんで考えてみろ | LOW: short host aside; meaning unclear (possibly a hint about Miami/Latin artists). |
-| Clip_04_L009 | 0:00:54.480 | Host | Kodak Black? No, no. | Kodak Black？<br>いや、違う | 【解説（草案）】Kodak Black：フロリダ出身のラッパー<br>Hosts guessing. / Turbo 'Kodak Black?'; large-v3 'It's called Black'. Turbo reading fits a guess. |
-| Clip_04_L010 | 0:00:58.420 | Ye | Stadium. Bad Bunny. That's who's on our wall. | スタジアム<br>Bad Bunnyだよ<br>あいつが俺らの壁に貼ってある | 【解説（草案）】Bad Bunny：プエルトリコ出身のスーパースター。2022年にスタジアムツアーを成功させた<br>Bad Bunny = Puerto Rican superstar who led stadium tours in 2022. |
+| Clip_04_L009 | 0:00:54.480 | Host | Kodak Black? No, no. | Kodak Black？<br>いや、違う | Hosts guessing. / Turbo 'Kodak Black?'; large-v3 'It's called Black'. Turbo reading fits a guess. |
+| Clip_04_L010 | 0:00:58.420 | Ye | Stadium. Bad Bunny. That's who's on our wall. | スタジアム<br>Bad Bunnyだよ<br>あいつが俺らの壁に貼ってある | Bad Bunny = Puerto Rican superstar who led stadium tours in 2022. |
 | Clip_04_L011 | 0:01:04.820 | Ye | That's who's on our wall when we make music. We loading up concert footage. | 曲作ってる時に<br>壁に映してんのはあいつ<br>ライブ映像を流してんだよ |  |
 | Clip_04_L012 | 0:01:08.520 | Host | Are you talking about the aesthetics of the stadium and what it's looking for? | スタジアムの見せ方とか<br>雰囲気の話？ | Large-v3 'what would it look'; turbo 'what it's looking for'. Same gist. |
 | Clip_04_L013 | 0:01:12.380 | Ye | Yeah, not just the aesthetics. And in retrospect, | 見た目だけじゃない<br>それに、振り返ってみれば | Large-v3 'not just the respect'; turbo 'not just the aesthetics. And in retrospect'. Turbo used. |
-| Clip_04_L014 | 0:01:15.020 | Ye | If it wasn't for me, there might not be no Bad Bunny. I brought reggaeton to America. I'm sorry. | 俺がいなかったら<br>Bad Bunnyはいなかったかもな<br>Americaにレゲトンを持ち込んだのは俺だから<br>悪いね | 【解説（草案）】レゲトン：プエルトリコなどで生まれたラテン音楽のジャンル<br>Ye's boast; deliberately over the top. 'I'm sorry' is mock-apologetic. |
+| Clip_04_L014 | 0:01:15.020 | Ye | If it wasn't for me, there might not be no Bad Bunny. I brought reggaeton to America. I'm sorry. | 俺がいなかったら<br>Bad Bunnyはいなかったかもな<br>Americaにレゲトンを持ち込んだのは俺だから<br>悪いね | Ye's boast; deliberately over the top. 'I'm sorry' is mock-apologetic. |
 | ⚠ Clip_04_L015 | 0:01:21.340 | Ye | Let's make some noise for me. | 俺に拍手してくれよ | LOW: speaker and words unclear (turbo: 'I was making you know it. You're making me.'). |
 | ⚠ Clip_04_L016 | 0:01:24.340 | Host | I'm sorry, I didn't mean to grab you. Cool. | ごめん、つかんじゃった<br>オッケー | LOW: crosstalk; turbo heard 'You're cool.' only. |
 | Clip_04_L017 | 0:01:26.180 | Host | Come on, let's go. | よし、いこう |  |
 | Clip_04_L018 | 0:01:26.760 | Ye | So the thing is, it depends on what we're doing. | 要するに<br>何をやるかによるんだよ |  |
-| Clip_04_L019 | 0:01:29.220 | Ye | You know what I'm saying? We're going to do clothes, we're going to look at Supreme, | 服をやるなら<br>Supremeを見る | 【解説（草案）】Supreme：ニューヨーク発のスケート／ストリートブランド |
-| Clip_04_L020 | 0:01:32.520 | Ye | we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps, | Balenciagaを見る<br>Ralph Laurenを見る<br>ラップも見る | 【解説（草案）】Ralph Lauren：アメリカの高級ファッションブランド |
+| Clip_04_L019 | 0:01:29.220 | Ye | You know what I'm saying? We're going to do clothes, we're going to look at Supreme, | 服をやるなら<br>Supremeを見る |  |
+| Clip_04_L020 | 0:01:32.520 | Ye | we're going to look at Balenciaga, we're going to look at Ralph, we're going to look at these raps, | Balenciagaを見る<br>Ralph Laurenを見る<br>ラップも見る |  |
 | Clip_04_L021 | 0:01:37.340 | Ye | you know, we're going to look at Drake, you know what I'm saying, we're looking at stadiums, we're going to look at Bad Bunny, | Drakeも見るし<br>スタジアムも見るし<br>Bad Bunnyも見る |  |
 | Clip_04_L022 | 0:01:43.200 | Ye | we got to look at everything, that's what we have. | 全部を見なきゃいけない<br>それが俺らのやり方 |  |
-| Clip_04_L023 | 0:01:44.840 | Ye | We're gonna look at money. We're gonna look at Elon. | 金も見るし<br>イーロンも見る | 【解説（草案）】イーロン：イーロン・マスク。TeslaやSpaceXを率いる実業家 |
+| Clip_04_L023 | 0:01:44.840 | Ye | We're gonna look at money. We're gonna look at Elon. | 金も見るし<br>イーロンも見る |  |
 | Clip_04_L024 | 0:01:47.940 | Ye | You know, so we're gonna look at the Saudis. That's how I look at everything. | Saudiも見る<br>俺は何でもそうやって見てる | 【解説（草案）】Saudi：サウジアラビア（の政府系マネー）のこと |
 
 ## Clip_05 — Water, rainwater and the marathon
@@ -154,7 +154,7 @@
 | Clip_06_L006 | 0:19:19.140 | Host | Yeah. | 確かに |  |
 | Clip_06_L007 | 0:19:20.060 | Ye | it's not godly. You know what I'm saying? | 神の道に反するんだよ<br>わかる？ |  |
 | Clip_06_L008 | 0:19:22.560 | Ye | I know Ross said God forgives, I don't. | Rick Rossは<br>「神は許すが俺は許さない」って<br>言ってたけど | 【解説（草案）】Rick Ross：マイアミのラッパー。「God Forgives, I Don't」は2012年のアルバム名<br>Rick Ross album title 'God Forgives, I Don't' (2012). |
-| Clip_06_L009 | 0:19:24.580 | Ye | I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive | 俺は許す<br>全員許す<br>Clinton夫妻も許す | 【解説（草案）】Clinton夫妻：ビル・クリントン元大統領とヒラリー・クリントン<br>Turbo 'I'm forgiven'; large-v3 'I'm forgiving'. |
+| Clip_06_L009 | 0:19:24.580 | Ye | I'm forgiving. I forgive everybody. I forgive the Clintons. I forgive | 俺は許す<br>全員許す<br>クリントン夫妻も許す | 【解説（草案）】クリントン夫妻：ビル・クリントン元大統領とヒラリー・クリントン<br>Turbo 'I'm forgiven'; large-v3 'I'm forgiving'. |
 | Clip_06_L010 | 0:19:31.240 | Ye | John Legend for wearing them bum-ass sweaters. I forgive... I forgive him. He's forgiven. | John Legendも許す<br>あのダサいセーター着てたことをな<br>許す…許してやる<br>あいつは許された | 【解説（草案）】John Legend：歌手。かつてYeと親しかったが政治観の違いで疎遠に<br>John Legend = singer, formerly close to Ye; they fell out over politics. |
 | Clip_06_L011 | 0:19:43.160 | Ye | Big Sean. May they all be forgiven. I forgive Big Sean | Big Sean<br>みんな許されますように<br>Big Seanも許す | 【解説（草案）】Big Sean：YeのレーベルG.O.O.D. Musicに所属していたラッパー<br>Big Sean = rapper signed to Ye's G.O.O.D. Music. |
 | Clip_06_L012 | 0:19:52.140 | Ye | for not being able to make the choice between braids or a beard. Choose one. | 編み込みか髭か<br>決められなかったことをな<br>どっちか選べよ | Joke about Big Sean's look (braids together with a beard). |
@@ -184,7 +184,7 @@
 | Clip_07_L007 | 0:27:53.050 | Ye | But I got to say, the Wu-Tang videos had me spending a lot more money than I needed to. | でもさ、Wu-TangのMVのせいで<br>必要以上に金使っちまったんだよ |  |
 | Clip_07_L008 | 0:27:57.570 | Ye | Me and Don C was buying new Timbs, new puffer jackets, fitted hats, white tees, Wallabees. | 俺とDon Cで<br>新品のティンバーランドにダウンに<br>キャップに白T、Wallabeesまで買ってた | 【解説（草案）】Don C：Yeの長年の友人でデザイナー／Wallabees：Clarksの靴。Wu-Tangのメンバーの愛用で有名<br>Don C = Ye's longtime friend and designer (Just Don). Timbs = Timberland boots; Wallabees = Clarks shoes. |
 | Clip_07_L009 | 0:28:07.370 | Ye | And then, because it looked like every day was a video. | だって毎日がMVみたいに<br>見えてたからさ |  |
-| Clip_07_L010 | 0:28:10.050 | Ye | And I got to, like, New York and I seen dirty Timbs. | で、New Yorkに着いたら<br>みんな汚れたティンバーランド履いてんの | 【解説（草案）】ティンバーランド：Timberlandのブーツ。ニューヨークのヒップホップの定番 |
+| Clip_07_L010 | 0:28:10.050 | Ye | And I got to, like, New York and I seen dirty Timbs. | で、New Yorkに着いたら<br>みんな汚れたティンバーランド履いてんの |  |
 | ⚠ Clip_07_L011 | 0:28:15.280 | Ye | I called Free up. | Freeに電話して | LOW: 'Free' is unclear in both models (possibly a friend's name, e.g. Free from 106 & Park). Check the audio at ~1695 s. |
 | Clip_07_L012 | 0:28:16.600 | Ye | I said, I didn't know niggas had dirty Timbs in New York. I just spent all this money on my fresh Timbs. | 「NYの奴らが汚れたティンバーランド<br>履いてるなんて知らなかったぞ<br>新品にこんだけ金かけたのに」って | Turbo 'my fresh beer Timbs', large-v3 'my freshman Tims'. Read as 'fresh Timbs'. |
 | Clip_07_L013 | 0:28:21.760 | Ye | I couldn't let my Timbs go more than three days. | 俺は3日以上<br>同じティンバーランド履けなかったからな | Turbo 'I couldn't let my Timbs go more than three days' fits better than large-v3 'I can't remember if...'. |
@@ -208,8 +208,8 @@
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
 | Clip_08_L001 | 0:29:12.200 | Ye | Anybody that's ever been through a divorce, it's a difficult thing, you know, because your baby mama gonna play with you. | 離婚を経験した奴ならわかるけど<br>キツいもんなんだよ<br>子どもの母親に振り回されるから |  |
-| Clip_08_L002 | 0:29:18.340 | Ye | Like, when we did the Donda 2 thing, | 例えば『Donda 2』の<br>イベントの時 | 【解説（草案）】『Donda 2』：Yeの2022年のアルバム。マイアミで公開イベントを行った<br>Donda 2 = Ye's 2022 album/live event in Miami. / Large-v3 'the don the two thing'; turbo 'the Donda 2 thing'. |
-| Clip_08_L003 | 0:29:20.180 | Ye | uh, when my kids came on a plane, after they was on a plane, Kim texted me and said North's not on a plane. | 子どもたちが飛行機に乗ってきた時<br>もう乗ってたのに<br>Kimから「Northは乗ってない」ってメールが来た | 【解説（草案）】Kim：Kim Kardashian。Yeの元妻／North：YeとKimの長女<br>North = Ye and Kim Kardashian's eldest daughter. / Exact meaning of 'after they was on a plane' is unclear (possibly: the text came after they had already boarded). |
+| Clip_08_L002 | 0:29:18.340 | Ye | Like, when we did the Donda 2 thing, | 例えば『Donda 2』の<br>イベントの時 | Donda 2 = Ye's 2022 album/live event in Miami. / Large-v3 'the don the two thing'; turbo 'the Donda 2 thing'. |
+| Clip_08_L003 | 0:29:20.180 | Ye | uh, when my kids came on a plane, after they was on a plane, Kim texted me and said North's not on a plane. | 子どもたちが飛行機に乗ってきた時<br>もう乗ってたのに<br>Kimから「Northは乗ってない」ってメールが来た | North = Ye and Kim Kardashian's eldest daughter. / Exact meaning of 'after they was on a plane' is unclear (possibly: the text came after they had already boarded). |
 | Clip_08_L004 | 0:29:28.230 | Ye | And knowing my personality, you know what I'm saying, that could affect my show. | 俺の性格わかってたら<br>それでライブに<br>影響出るってわかるだろ |  |
 | ⚠ Clip_08_L005 | 0:29:32.270 | Ye / Host | So baby mamas across the world, not just me, like on some billionaire — (Host:) That's a Gemini shit. Yeah, I can attest to that. | 世界中の子どもの母親がそうなんだよ<br>俺みたいな億万長者だけじゃなく<br>（ホスト）それ双子座あるあるだな<br>マジでわかる | MEDIUM: the speaker of 'That's a Gemini shit / I can attest to that' is inferred (a host); Ye is a Gemini. |
 | Clip_08_L006 | 0:29:38.110 | Ye | And like, but everybody goes through a lot of that type of... I just thought about, you know, | でもみんな<br>そういうのを経験するもんで<br>俺がずっと思ってたのは |  |
@@ -238,7 +238,7 @@
 | Clip_09_L005 | 0:03:32.090 | Ye | Now one of my biggest jobs is keeping my money, | 今じゃ一番の仕事は<br>自分の金を守ることだよ |  |
 | Clip_09_L006 | 0:03:36.480 | Ye | because there's a lot of people that's on a full-time job to take my money, right? | だって俺の金を取ることを<br>フルタイムでやってる奴が<br>いっぱいいるからな |  |
 | Clip_09_L007 | 0:03:42.500 | Ye | And I've literally lost hundreds of millions of dollars by not looking close enough. | ちゃんと見てなかったせいで<br>マジで何億ドルも<br>失ってきたんだよ | 'Hundreds of millions of dollars' = 数億ドル. |
-| Clip_09_L008 | 0:03:51.380 | Host | So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib, | それで思い出したのが<br>シャキールオニールの話でさ<br>契約してた時<br>家にスタジオがあったのに | 【解説（草案）】シャキールオニール：元NBAのスター選手。1990年代にはラップアルバムも出した<br>Host anecdote about Shaquille O'Neal's rap career. / Speaker inferred as a host. |
+| Clip_09_L008 | 0:03:51.380 | Host | So it reminded me of what Shaq said, when he had the deal and he had the studio in his crib, | それで思い出したのが<br>シャキールオニールの話でさ<br>契約してた時<br>家にスタジオがあったのに | Host anecdote about Shaquille O'Neal's rap career. / Speaker inferred as a host. |
 | Clip_09_L009 | 0:03:57.340 | Host | and when he got the check, he looked at what the label was charging him, and they were charging him for studio time. | 明細を見たら<br>レーベルがスタジオ代を<br>請求してたんだって | Large-v3 has false starts ('the on the check because he was paying this'). Condensed to the clear meaning. |
 | Clip_09_L010 | 0:04:03.800 | Host | He was like, the studio's at my crib! And then he got a couple hundred thousand back. But it's funny, | 「スタジオ俺ん家だぞ！」って<br>で、数十万ドル取り返した<br>笑えるよな | Line ends on 'it's funny' (the next words 'he overlooked that easily' were cut at the clip end); consider ending at 'got a couple hundred thousand back'. |
 
@@ -251,12 +251,12 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_10_L001 | 0:12:50.500 | Host | We had Quavo and Takeoff here the other day. | この前Quavoと<br>Takeoffが来てたんだけど | 【解説（草案）】Quavo・Takeoff：ラップグループMigosのメンバー<br>Takeoff (Migos) and an associate visited the show earlier. / 'Quavo' is the ASR spelling of a name; unverified. |
+| Clip_10_L001 | 0:12:50.500 | Host | We had Quavo and Takeoff here the other day. | この前Quavoと<br>Takeoffが来てたんだけど | Takeoff (Migos) and an associate visited the show earlier. / 'Quavo' is the ASR spelling of a name; unverified. |
 | Clip_10_L002 | 0:12:54.870 | Host | What they were saying? Real shit. | 何て言ってたと思う？<br>マジな話 |  |
 | Clip_10_L003 | 0:12:58.810 | Host | They said, Quavo said that you asked to borrow his Twitter during the blockout. Is this true? | Quavoが言うには<br>あんたがアカウント停止中に<br>あいつのTwitterを<br>借りようとしたって<br>本当？ | 【解説（草案）】アカウント停止：2022年10月、Yeの投稿が問題視されTwitterアカウントが凍結された<br>Ye's Twitter was locked in Oct 2022. |
 | Clip_10_L004 | 0:13:07.680 | Ye | Yeah. He said... he offered it. He said he offered it. | ああ<br>あいつが…<br>貸すって言ってきたんだよ |  |
 | Clip_10_L005 | 0:13:14.260 | Ye | But, you know what I'm saying, I just said, let me take this time as just like a breather. | でも<br>この時間はひと休みだと思おうって |  |
-| Clip_10_L006 | 0:13:18.620 | Ye | They put me, like, it's a technical foul, right? Because, oh, here goes another thing. | テクニカル・ファウル<br>取られたようなもんだろ<br>「またかよ」ってな | 【解説（草案）】テクニカル・ファウル：バスケットボールの反則。ここでは処分のたとえ |
+| Clip_10_L006 | 0:13:18.620 | Ye | They put me, like, it's a technical foul, right? Because, oh, here goes another thing. | テクニカル・ファウル<br>取られたようなもんだろ<br>「またかよ」ってな |  |
 | Clip_10_L007 | 0:13:26.600 | Ye | I feel like God put me on a little timeout. | 神様にちょっと<br>タイムアウトを<br>取らされた気がする |  |
 | Clip_10_L008 | 0:13:28.540 | Ye | Yeah. Because my dad was like, I feel where you coming from, Ye, I understand, | 親父に言われたんだよ<br>「言いたいことはわかる<br>Ye、理解はできる |  |
 | Clip_10_L009 | 0:13:36.740 | Ye | but you got to be more sophisticated with your words. You have to be more sophisticated. | でも言葉はもっと<br>洗練させなきゃダメだ」って |  |
@@ -338,7 +338,7 @@
 | Clip_13_L011 | 0:24:12.000 | Ye | I had to speak up, you know what I'm saying? | 声を上げなきゃ<br>ダメだったんだよ | Double meaning: louder vocals / speaking out publicly. |
 | Clip_13_L012 | 0:24:14.480 | Ye | And they canceled me this week. There's no... not Tucker Carlson, no platform would carry me this week either. | で、今週は<br>キャンセルされた<br>Tucker Carlsonも<br>どこも今週は<br>俺を出してくれなかった | 【解説（草案）】Tucker Carlson：Fox Newsの司会者。2022年10月にYeをインタビューした<br>Tucker Carlson = Fox News host who interviewed Ye earlier in Oct 2022. |
 | Clip_13_L013 | 0:24:20.580 | Ye | And even a publicist that I'm working with was like, I don't know why you would go on Drink Champs. | 一緒に仕事してる広報にも<br>「なんで『Drink Champs』<br>なんか出るの？」って<br>言われたけど | 【解説（草案）】Drink Champs：この番組。N.O.R.E.とDJ EFNがホストを務める |
-| Clip_13_L014 | 0:24:27.760 | Ye | I said, you understand that our numbers did three times the numbers of when Kim was on SNL, right? You understand that? | 俺は言ったよ<br>「俺らの再生数<br>KimがSNLに出た時の<br>3倍だったんだぞ<br>わかってる？」って | 【解説（草案）】SNL：米コメディ番組『Saturday Night Live』。Kimは2021年に司会を務めた<br>Kim Kardashian hosted Saturday Night Live in Oct 2021; Ye's previous Drink Champs episode is meant. |
+| Clip_13_L014 | 0:24:27.760 | Ye | I said, you understand that our numbers did three times the numbers of when Kim was on SNL, right? You understand that? | 俺は言ったよ<br>「俺らの再生数<br>KimがSNLに出た時の<br>3倍だったんだぞ<br>わかってる？」って | 【解説（草案）】SNL：アメリカのコメディ番組『Saturday Night Live』<br>Kim Kardashian hosted Saturday Night Live in Oct 2021; Ye's previous Drink Champs episode is meant. |
 
 ## Clip_14 — Drake wrote that verse for me
 
@@ -353,12 +353,12 @@
 | ⚠ Clip_14_L002 | 0:05:48.600 | Ye | I'll be having, like, 12 writers in the studio that don't add up to Drake, God's version, and be like, oh, Drake just... | スタジオに12人ライターがいても<br>Drake一人に及ばない<br>神バージョンのDrakeには<br>「Drakeって…」ってなる | MEDIUM: 'Drake, God's version' is how both models hear it; exact phrase uncertain. |
 | Clip_14_L003 | 0:05:56.140 | Ye | That's why I was interested when he heard '30 Hours,' because Drake wrote that for me. | だから『30 Hours』を<br>あいつが聴いた時<br>気になったんだよ<br>あれはDrakeが<br>書いてくれたから | 【解説（草案）】『30 Hours』：2016年のアルバム『The Life of Pablo』の収録曲<br>'30 Hours' = track on The Life of Pablo (2016). / Ye's claim that Drake wrote '30 Hours' is his own account. |
 | Clip_14_L004 | 0:06:00.100 | Ye | I said, I'm like, boom, here, I got, like, this many ideas, like the line I had. | 俺は「ほら、アイデアは<br>こんなにあるぜ」って<br>例えば俺が考えた<br>ラインがあって |  |
-| Clip_14_L005 | 0:06:03.800 | Ye | I had, like, I was nervous to do the Victoria's Secret show until I pictured everybody with no clothes. | 「Victoria's Secretの<br>ショーは緊張したけど<br>みんな裸だと思ったら<br>平気だった」ってやつ | 【解説（草案）】Victoria's Secretのショー：下着ブランドのファッションショー。Yeは2011年に出演<br>Ye performed at the 2011 Victoria's Secret Fashion Show; the line plays on the models' outfits. |
+| Clip_14_L005 | 0:06:03.800 | Ye | I had, like, I was nervous to do the Victoria's Secret show until I pictured everybody with no clothes. | 「Victoria's Secretの<br>ショーは緊張したけど<br>みんな裸だと思ったら<br>平気だった」ってやつ | Ye performed at the 2011 Victoria's Secret Fashion Show; the line plays on the models' outfits. |
 | Clip_14_L006 | 0:06:13.670 | Ye | Right? Was like a line I had. And like, it's like a stripper line. | そういうラインだよ<br>まあストリッパーっぽい<br>ラインだけどな |  |
 | ⚠ Clip_14_L007 | 0:06:17.690 | Host | Like, yeah, but you don't think about it. | そうそう<br>でも普通は思いつかないよな | LOW: speaker and wording inferred from crosstalk. |
 | Clip_14_L008 | 0:06:19.270 | Ye | Yeah, you could be nervous to do, like, a speech, and they say what they say: picture everybody naked. | スピーチで緊張したら<br>「みんな裸だと思え」って<br>よく言うだろ |  |
 | Clip_14_L009 | 0:06:23.930 | Ye | So we flipped it, like, I was nervous to do Victoria's Secret until I pictured everybody naked, and I sent it to Drake, | それをひっくり返して<br>「Victoria's Secretで<br>緊張したけど<br>みんな裸だと思ったら…」<br>ってのをDrakeに送ったら |  |
-| Clip_14_L010 | 0:06:30.330 | Ye | and Drake took it and barred it out and wrote the whole rap. | Drakeがそれを<br>バースに仕上げて<br>ラップ全部書いたんだよ | 【解説（草案）】バース：ラップ曲の一区切りのパート |
+| Clip_14_L010 | 0:06:30.330 | Ye | and Drake took it and barred it out and wrote the whole rap. | Drakeがそれを<br>verseに仕上げて<br>ラップ全部書いたんだよ |  |
 | Clip_14_L011 | 0:06:34.960 | Ye | You understand, like, how much easier my life would be if Drake would just, like, write my raps for me? You know what I'm saying? | Drakeが俺のラップ<br>全部書いてくれたら<br>どんだけ楽か<br>わかる？ |  |
 | Clip_14_L012 | 0:06:41.480 | Host | I'm sure everyone wished they had that luxury, but... | 誰だって<br>そんな贅沢したいわな | Speaker inferred as a host. |
 
@@ -371,9 +371,9 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_15_L001 | 0:19:03.060 | Ye | So I went to Adidas meeting, and I took out... I had a laptop. I don't have laptops anymore, I just use my phone. | で、Adidasの会議に行って<br>取り出したのが…<br>ノートPCだった<br>今はもう持ってない<br>スマホしか使わない | 【解説（草案）】Adidas：ドイツのスポーツブランド。2013年からYeと提携し、2022年10月に契約を解除<br>Context: the hosts asked about a reported Adidas meeting. / Large-v3 dropped 'I don't'; turbo has it. |
+| Clip_15_L001 | 0:19:03.060 | Ye | So I went to Adidas meeting, and I took out... I had a laptop. I don't have laptops anymore, I just use my phone. | で、Adidasの会議に行って<br>取り出したのが…<br>ノートPCだった<br>今はもう持ってない<br>スマホしか使わない | Context: the hosts asked about a reported Adidas meeting. / Large-v3 dropped 'I don't'; turbo has it. |
 | ⚠ Clip_15_L002 | 0:19:08.180 | Host / Ye | But it's just... and it's during the beef, between what's going on recently? — (Ye:) No, no, this is the beginning of the Adidas relationship, before I even put out anything. | それって最近の<br>揉め事の最中の話？<br>（Ye）いや、Adidasとの関係が<br>始まったばかりの頃<br>まだ何も出す前 | MEDIUM: speakers of the question/answer inferred. 'pull anything' heard; read as 'put out anything'. |
-| Clip_15_L003 | 0:19:15.980 | Ye | Oh, and I was like, look, nobody's getting pussy in Adidas. People get pussy at Nike. | で、言ったんだよ<br>「いいか、Adidas履いて<br>モテてる奴なんかいない<br>モテるのはNikeだ」って | 【解説（草案）】Nike：アメリカのスポーツブランド。YeはAdidasの前にNikeと組んでいた<br>Ye's crude sales pitch: Adidas lacked sex appeal. |
+| Clip_15_L003 | 0:19:15.980 | Ye | Oh, and I was like, look, nobody's getting pussy in Adidas. People get pussy at Nike. | で、言ったんだよ<br>「いいか、Adidas履いて<br>モテてる奴なんかいない<br>モテるのはNikeだ」って | Ye's crude sales pitch: Adidas lacked sex appeal. |
 | ⚠ Clip_15_L004 | 0:19:21.800 | Host | And I was just like, yo... — This is the way you presented your marketing? | それがマーケティングの<br>プレゼンだったわけ？ | MEDIUM: 'And I was just like, yo' may be Ye; the question is a host. |
 | Clip_15_L005 | 0:19:27.110 | Host / Ye | Yeah. — This is amazing, by the way. — Yeah. | そう<br>最高だなそれ | Speaker split inferred. |
 | Clip_15_L006 | 0:19:33.410 | Ye | Let's get pussy, guys. | 「モテようぜ、みんな」 | Large-v3 'Let's get pussy good'; turbo 'Let's get pussy, guys.' |
@@ -400,18 +400,18 @@
 |---|---|---|---|---|---|
 | ⚠ Clip_16_L001 | 0:30:20.620 | Host | Can I continue? | 続けていい？ | LOW: short crosstalk; speaker inferred. |
 | Clip_16_L002 | 0:30:21.620 | Ye | Yeah. But I feel like, you know what I'm saying? | ああ<br>でもさ、なんていうか |  |
-| Clip_16_L003 | 0:30:27.160 | Ye | When I was having the funny thing, the issues with Puff I was having, | Puff Daddyと揉めてた時<br>おかしなことがあってさ | 【解説（草案）】Puff Daddy：Sean Combs。Bad Boy Recordsの創設者<br>Puff = Sean 'Diddy' Combs. In Oct 2022 they argued publicly over Ye's 'White Lives Matter' shirt. |
+| Clip_16_L003 | 0:30:27.160 | Ye | When I was having the funny thing, the issues with Puff I was having, | Puff Daddyと揉めてた時<br>おかしなことがあってさ | Puff = Sean 'Diddy' Combs. In Oct 2022 they argued publicly over Ye's 'White Lives Matter' shirt. |
 | Clip_16_L004 | 0:30:31.560 | Ye | Thank you. I went to the Waldorf and I saw a couple people. | どうも<br>Waldorfに行ったら<br>何人か人がいて |  |
 | Clip_16_L005 | 0:30:35.820 | Host | Waldorf where? | どこのWaldorf？ |  |
 | Clip_16_L006 | 0:30:36.520 | Ye | Because I visited... the Waldorf in California. I love it. | 行ったのは<br>CaliforniaのWaldorf<br>大好きなんだよ | 【解説（草案）】Waldorf：ビバリーヒルズの高級ホテルWaldorf Astoria<br>Waldorf Astoria Beverly Hills. / Turbo heard 'the wall of golf'; large-v3 'The Waldorf in California'. |
 | Clip_16_L007 | 0:30:39.980 | Ye | And I saw a couple people just standing out in front of the space. Just standing there. | 建物の前に何人か<br>ただ突っ立ってたんだよ |  |
 | Clip_16_L008 | 0:30:45.770 | Ye | And I was like, oh man, Puff really does this, right? | で、「うわ、Puff Daddyは<br>マジでこういうことやるのか」<br>って思って | Ye read the people outside as Puff's doing (intimidation or surveillance); this is his impression. |
 | Clip_16_L009 | 0:30:49.350 | Ye | And it just made me think, I got to really get on my billionaire shit. So I went and bought a 50 million dollar penthouse, | それで思ったんだよ<br>億万長者らしく<br>本気出さなきゃって<br>だから5000万ドルの<br>ペントハウス買って |  |
-| ⚠ Clip_16_L010 | 0:30:55.870 | Ye | and I Maybach'd the fleet out. Because I was like, yo, I can't be walking around homeless, | 車も全部Maybachにした<br>だってホームレスみたいに<br>うろついてたらダメだろ | 【解説（草案）】Maybach：メルセデス・ベンツの最高級車ブランド<br>'Made back the fleet out' is heard as 'Maybach'd the fleet out' (Maybach cars); Ye mentions a Maybach fleet elsewhere in the interview. / MEDIUM: 'made back the fleet out' in both models; 'Maybach' is an inference. |
+| ⚠ Clip_16_L010 | 0:30:55.870 | Ye | and I Maybach'd the fleet out. Because I was like, yo, I can't be walking around homeless, | 車も全部Maybachにした<br>だってホームレスみたいに<br>うろついてたらダメだろ | 'Made back the fleet out' is heard as 'Maybach'd the fleet out' (Maybach cars); Ye mentions a Maybach fleet elsewhere in the interview. / MEDIUM: 'made back the fleet out' in both models; 'Maybach' is an inference. |
 | Clip_16_L011 | 0:31:01.330 | Ye | like, beefing with Puff. You got to, like, you know what I mean? | Puff Daddyとビーフしてるのにさ<br>わかるだろ？ |  |
 | Clip_16_L012 | 0:31:04.750 | Host | I don't think that would have been an issue. | それは問題に<br>ならなかったと思うけどな | Speaker inferred as a host. |
 | Clip_16_L013 | 0:31:09.290 | Ye | And so what I really did get out of it is that, like, Puff, like, stay rich, never gonna... you know what I'm saying? | で、そこから学んだのは<br>Puff Daddyはいつでも金持ちってこと<br>わかる？ |  |
-| Clip_16_L014 | 0:31:15.330 | Ye | You never seen this man in no Vans. You know what I'm saying? | あの人がVans履いてるとこなんか<br>見たことないだろ | 【解説（草案）】Vans：カジュアルなスケートシューズのブランド<br>Vans = casual skate shoes; i.e., Puff never dresses down. |
+| Clip_16_L014 | 0:31:15.330 | Ye | You never seen this man in no Vans. You know what I'm saying? | あの人がVans履いてるとこなんか<br>見たことないだろ | Vans = casual skate shoes; i.e., Puff never dresses down. |
 | Clip_16_L015 | 0:31:18.450 | Ye | This nigga's just keeping it rich. He's good. | あいつはいつだって<br>金持ちスタイルなんだよ | Large-v3 'man, this nigga's just keeping it rich'; turbo 'this thing is just keeping rich'. MEDIUM. |
 | ⚠ Clip_16_L016 | 0:31:20.770 | Host | He wasn't rich at all times. | ずっと金持ちだった<br>わけじゃないだろ | MEDIUM: large-v3 'He's been rich at all times' vs turbo 'he wasn't rich at all times'. The next line ('he was doing the Puppy dance') supports turbo; speaker likely a host. |
 | Clip_16_L017 | 0:31:22.710 | Host | He was like this. He was doing the Puppy dance, you remember? | こんな感じで<br>パピー・ダンス<br>踊ってたじゃん<br>覚えてる？ | 'Puppy dance' = Puff's 1990s dance move from Bad Boy videos. / Speaker inferred. |
@@ -440,7 +440,7 @@
 | Clip_17_L013 | 0:32:23.940 | Ye | Yeah, you know what I'm saying? This is like real war. | そう<br>マジの戦争なんだよ |  |
 | Clip_17_L014 | 0:32:26.420 | Ye | This is psychological. Like, Virgil was a psychological warrior. | 心理戦だよ<br>Virgilは<br>心理戦の戦士だった | Large-v3 'This is like a lot like Virgil is a psychological Warrior'; turbo 'This is psycholog, like Virgil was a psychological warrior'. |
 | Clip_17_L015 | 0:32:30.430 | Ye | He was a warrior, bro. | 戦士だったんだよ |  |
-| Clip_17_L016 | 0:32:32.670 | Ye | That man made it from being Ye's assistant to the head of Louis Vuitton. | Yeのアシスタントから<br>Louis Vuittonのトップまで<br>上り詰めたんだぜ | 【解説（草案）】Louis Vuitton：フランスの高級ブランド |
+| Clip_17_L016 | 0:32:32.670 | Ye | That man made it from being Ye's assistant to the head of Louis Vuitton. | Yeのアシスタントから<br>Louis Vuittonのトップまで<br>上り詰めたんだぜ |  |
 | Clip_17_L017 | 0:32:36.570 | Ye | That man's a warrior. | あいつは戦士だよ |  |
 
 ## Clip_18 — Jeff Bezos ain't got no taste
@@ -478,21 +478,21 @@
 
 | line_id | 時刻 | 話者 | Original English | Japanese Draft | Notes |
 |---|---|---|---|---|---|
-| Clip_19_L001 | 0:28:59.450 | Ye | In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste. | 少なくとも<br>センスのある奴はいたんだよ<br>スティーブ・ジョブズは<br>最高のセンスを持ってた | 【解説（草案）】スティーブ・ジョブズ：Appleの共同創業者<br>Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM. |
+| Clip_19_L001 | 0:28:59.450 | Ye | In a way, they got a guy who had taste, though, bro. You know what I'm saying? Steve Jobs had the best taste. | 少なくとも<br>センスのある奴はいたんだよ<br>スティーブ・ジョブズは<br>最高のセンスを持ってた | Large-v3 'they gotta gotta have to taste though'; turbo 'they got a guy who had a taste'. MEDIUM. |
 | Clip_19_L002 | 0:29:03.690 | Ye | I've yet to meet a tech guy with better taste than me. | 俺よりセンスのある<br>テック系には<br>まだ会ったことない |  |
 | Clip_19_L003 | 0:29:06.630 | Ye | I'm the next frontier. You got Ralph, Steve, and then it's me. You know what I'm saying? It's like none of these guys. | 俺が次のフロンティアだ<br>Ralph Lauren、ジョブズ<br>その次が俺<br>他の連中じゃない | 【解説（草案）】Ralph Lauren：アメリカの高級ファッションブランドの創業者 |
-| Clip_19_L004 | 0:29:13.270 | Ye | Even Elon flew me... you know what I'm saying? Vory, Wack 100, | イーロンですら<br>俺を呼んだんだぜ<br>Vory、Wack 100と | 【解説（草案）】イーロン：イーロン・マスク／Vory：Yeのチームの歌手／Wack 100：音楽マネージャー<br>Vory = singer on Ye's team; Wack 100 = music manager. / Name 'Vory' heard as 'fory'/'Vorey'. |
-| Clip_19_L005 | 0:29:18.850 | Ye | it was like a team that went to SpaceX. He flew me in his new jet out there. | チームでSpaceXに行ったんだよ<br>新しいジェットで<br>連れてってくれて | 【解説（草案）】SpaceX：イーロン・マスクが率いる宇宙開発企業 |
+| Clip_19_L004 | 0:29:13.270 | Ye | Even Elon flew me... you know what I'm saying? Vory, Wack 100, | イーロンですら<br>俺を呼んだんだぜ<br>Vory、Wack 100と | 【解説（草案）】Vory：Yeのチームの歌手／Wack 100：音楽マネージャー<br>Vory = singer on Ye's team; Wack 100 = music manager. / Name 'Vory' heard as 'fory'/'Vorey'. |
+| Clip_19_L005 | 0:29:18.850 | Ye | it was like a team that went to SpaceX. He flew me in his new jet out there. | チームでSpaceXに行ったんだよ<br>新しいジェットで<br>連れてってくれて |  |
 | Clip_19_L006 | 0:29:24.000 | Ye | He said, I want you to design SpaceX for me. | 「SpaceXを<br>デザインしてほしい」って |  |
 | Clip_19_L007 | 0:29:26.080 | Ye | We're sitting there, Grimes there, he just had a newborn. We watched a rocket take off. | Grimesもいて<br>子どもが生まれたばっかりで<br>ロケットの打ち上げを見たんだ | 【解説（草案）】Grimes：カナダ出身の音楽家。当時のマスクのパートナー<br>Grimes = musician, Elon Musk's then-partner. |
 | Clip_19_L008 | 0:29:30.300 | Ye | But before we started the meeting, he said, you have the best EQ on the planet. | でもミーティングの前に<br>あいつが言ったんだよ<br>「お前のEQは地球一だ」って | 【解説（草案）】EQ：心の知能指数。人の感情を読み取る力<br>EQ = emotional intelligence. |
 | Clip_19_L009 | 0:29:34.200 | Ye | That means taste. Best EQ on the planet. | つまりセンスってことだ<br>EQ地球一 |  |
 | ⚠ Clip_19_L010 | 0:29:37.820 | Ye | This is a person... — (Host: Relaxation guy.) — Yeah. This is a person that a lot of people consider to have the best IQ on the planet. He says you got the best EQ on the planet. | IQが地球一だって<br>言われてるような人が<br>俺のEQは地球一だって<br>言ったんだよ | LOW: the short interjection after 'This is a person' is unclear in both models; left out of the Japanese. |
 | Clip_19_L011 | 0:29:46.520 | Ye | The EQ is the connectivity. | EQってのは<br>つながる力なんだよ |  |
-| Clip_19_L012 | 0:29:48.340 | Ye | Man, how can, like, Jay-Z be my brother, right, Kim, like, be my baby mama type shit? | じゃなきゃ<br>Jay-Zが兄弟になったり<br>Kimが子どもの母親に<br>なったりしないだろ | 【解説（草案）】Jay-Z：ニューヨークのラッパー・実業家。Yeの盟友／Kim：Yeの元妻Kim Kardashian |
+| Clip_19_L012 | 0:29:48.340 | Ye | Man, how can, like, Jay-Z be my brother, right, Kim, like, be my baby mama type shit? | じゃなきゃ<br>Jay-Zが兄弟になったり<br>Kimが子どもの母親に<br>なったりしないだろ | 【解説（草案）】Kim：Yeの元妻Kim Kardashian |
 | Clip_19_L013 | 0:29:58.300 | Ye | I'm here talking to you, right? | こうしてお前らとも<br>話してるだろ |  |
 | Clip_19_L014 | 0:29:59.980 | Host | But you got a connection. | あんたには<br>人とつながる力があるよな | Host responds. / Speaker inferred as a host. |
-| ⚠ Clip_19_L015 | 0:30:01.400 | Host | The same way that you connected with Pharrell, and in ways you indemnified him, is the way you connected with me. | Pharrellとつながったみたいに<br>ある意味で守ってきたみたいに<br>俺ともつながってくれた | 【解説（草案）】Pharrell：Pharrell Williams。プロデューサー・歌手<br>MEDIUM: 'indemnified' heard by large-v3; meaning unclear (possibly 'identified with'). |
+| ⚠ Clip_19_L015 | 0:30:01.400 | Host | The same way that you connected with Pharrell, and in ways you indemnified him, is the way you connected with me. | Pharrellとつながったみたいに<br>ある意味で守ってきたみたいに<br>俺ともつながってくれた | MEDIUM: 'indemnified' heard by large-v3; meaning unclear (possibly 'identified with'). |
 | Clip_19_L016 | 0:30:09.040 | Host | You got a sight beyond sight. It's something that you got that's like, you see. | あんたには<br>先を見通す目がある<br>見えてるんだよ |  |
 | Clip_19_L017 | 0:30:13.720 | Ye | I ain't gonna lie, yeah. | まあ、否定はしないよ |  |
 
@@ -508,8 +508,8 @@
 | Clip_20_L001 | 0:03:35.460 | Ye | Like, you at somebody's wedding, and somebody get into a fight with a family member at the end. | 誰かの結婚式で<br>最後に親戚と<br>ケンカになる奴いるだろ | Context: Ye is talking about speaking his mind after drinking D'Usse, the cognac on the table. |
 | Clip_20_L002 | 0:03:40.300 | Ye | And they say some real shit, but they ain't said it until they had the D'Usse. | 本音をぶちまけるけど<br>それもD'Usseを<br>飲むまでは言わなかった | 【解説（草案）】D'Usse：Jay-Zが共同所有していたコニャックのブランド<br>D'Usse = cognac brand co-owned by Jay-Z, sponsor on the table. / ASR 'do say' = D'Usse. |
 | Clip_20_L003 | 0:03:44.140 | Ye | They say some real shit. | マジな本音をな |  |
-| Clip_20_L004 | 0:03:45.220 | Ye | And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy. | 言っとくけど<br>本音を言うなら<br>D'Usseで酔って言えよ<br>ヘネシーで酔って<br>言うんじゃなくてな | 【解説（草案）】ヘネシー：ヒップホップと縁の深いコニャックのブランド<br>Hennessy = rival cognac, long associated with hip-hop. |
-| Clip_20_L005 | 0:03:53.900 | Ye | So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it. | だから今日言いたいのは<br>…ブラックライブスマターの話には後で戻るけど<br>世界中の酒屋から<br>ヘネシーを撤去して<br>D'Usseを置いてほしい | 【解説（草案）】ブラックライブスマター：黒人への暴力や差別に抗議する運動<br>Mid-sentence aside about returning to the Black Lives Matter topic. |
+| Clip_20_L004 | 0:03:45.220 | Ye | And I'm telling you, the whole difference is, when people come and speak their truth, they need to speak their truth off of D'Usse. They don't need to speak their truth off of Hennessy. | 言っとくけど<br>本音を言うなら<br>D'Usseで酔って言えよ<br>ヘネシーで酔って<br>言うんじゃなくてな | Hennessy = rival cognac, long associated with hip-hop. |
+| Clip_20_L005 | 0:03:53.900 | Ye | So I want to say today is, I need every single... and we can get back to the Black Lives Matter... but I need every single liquor store in the world to remove the Hennessy and put the D'Usse in it. | だから今日言いたいのは<br>…ブラックライブスマターの話には後で戻るけど<br>世界中の酒屋から<br>ヘネシーを撤去して<br>D'Usseを置いてほしい | Mid-sentence aside about returning to the Black Lives Matter topic. |
 | Clip_20_L006 | 0:04:04.240 | Ye | I'm asking and calling for every... | 全員に呼びかける… | Large-v3 'I'm asking a good day every'; turbo 'I'm asking and calling for every'. |
 | Clip_20_L007 | 0:04:09.910 | Ye | I'm asking every black person, | 黒人のみんなに頼みたい |  |
 | Clip_20_L008 | 0:04:13.450 | Ye | when you want to drink and you want to go full the-uncle-that-don't-give-a-fuck level at the wedding, | 結婚式で飲んで<br>何も気にしない<br>おじさんレベルまで<br>振り切りたい時は | ASR 'go fool' = 'go full'. |
@@ -531,7 +531,7 @@
 |---|---|---|---|---|---|
 | Clip_21_L001 | 0:19:51.080 | Ye | Okay, so I'm giving you an analogy, right? We're at the beginning of this album. Our life is the album. | たとえで言うとさ<br>俺らは今アルバムの<br>始まりにいるんだよ<br>人生がアルバムで |  |
 | Clip_21_L002 | 0:19:57.830 | Ye | Our world is a symphony. We're playing on different notes, but like Quincy Jones, we have to bring it together and have us all play on one accord. | 世界は交響曲なんだ<br>みんな違う音を<br>鳴らしてるけど<br>Quincy Jonesみたいに<br>ひとつにまとめなきゃいけない | 【解説（草案）】Quincy Jones：Michael Jacksonの作品などで知られる伝説的プロデューサー<br>Quincy Jones = legendary producer/arranger. |
-| Clip_21_L003 | 0:20:05.890 | Ye | We're at the beginning of this album, and even if you go back, like, even J. Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right? | 俺らはまだ<br>アルバムの1曲目にいるんだ<br>例えば『Workout Plan』<br>J. Coleもサンプリングしたけど<br>あの曲から始まるわけ | 【解説（草案）】『Workout Plan』：Yeの2004年の曲『The New Workout Plan』／J. Cole：ラッパー<br>'The New Workout Plan' = Ye's 2004 single, later sampled by J. Cole. / Large-v3 'jay cole sample workout plan'; reading as 'J. Cole sampled'. |
+| Clip_21_L003 | 0:20:05.890 | Ye | We're at the beginning of this album, and even if you go back, like, even J. Cole sampled 'Workout Plan,' we could play 'Workout Plan,' right? | 俺らはまだ<br>アルバムの1曲目にいるんだ<br>例えば『Workout Plan』<br>J. Coleもサンプリングしたけど<br>あの曲から始まるわけ | 【解説（草案）】『Workout Plan』：Yeの2004年の曲『The New Workout Plan』<br>'The New Workout Plan' = Ye's 2004 single, later sampled by J. Cole. / Large-v3 'jay cole sample workout plan'; reading as 'J. Cole sampled'. |
 | Clip_21_L004 | 0:20:12.470 | Ye | But by the time we got to 'Stronger,' it was a diamond record. | でも『Stronger』の頃には<br>ダイヤモンド・レコードに<br>なってた | 【解説（草案）】ダイヤモンド・レコード：アメリカで1000万ユニット以上を売り上げた作品の認定<br>'Stronger' (2007) was certified Diamond (10 million units). |
 | Clip_21_L005 | 0:20:15.950 | Ye | We are in line for a diamond record, but we have to do some unorthodox things. | 俺らは今<br>ダイヤモンドに向かってる<br>でも型破りなことも<br>やらなきゃいけない |  |
 | Clip_21_L006 | 0:20:22.250 | Ye | 'Workout Plan' was, for me as a backpack rapper, to have that song, or even, like, be cursing or talking about the addictions I was dealing with, and my addiction to girls and all this type of shit, | リュック系ラッパーの俺が<br>『Workout Plan』を出したり<br>汚い言葉を使ったり<br>女好きとか<br>自分の依存症の話をしたりするのは | 【解説（草案）】リュック系ラッパー：社会派で地に足のついた“コンシャス”なラッパー像<br>'Backpack rapper' = conscious/underground rapper image. |

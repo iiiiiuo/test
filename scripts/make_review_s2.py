@@ -136,7 +136,7 @@ for lvl in ('LOW', 'MEDIUM', 'NOTE'):
     um.append('')
 um_text = '\n'.join(um)
 
-files = {'review/s2/translations_review.md': md_text, 'review/s2/clip_selection_summary.md': cs_text, 'review/s2/translation_uncertainties.md': um_text}
+files = {'review/s2/translations_review2.md': md_text, 'review/s2/clip_selection_summary.md': cs_text, 'review/s2/translation_uncertainties.md': um_text}
 for out in (ROOT, SHARED):
     open(f'{out}/review/s2/translations_review.csv', 'wb').write(csv_bytes)
     for k, v in files.items(): open(f'{out}/{k}', 'w', encoding='utf-8').write(v)
