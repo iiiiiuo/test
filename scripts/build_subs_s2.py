@@ -8,6 +8,8 @@ Japanese text is the approved ja_final verbatim except removal of bare speaker l
 """
 import csv, json, re, sys, os, difflib, math
 from PIL import ImageFont
+sys.path.insert(0, '/home/user/test/scripts')
+from expl_row import expl_events, EXPL_FS, EXPL_PITCH, EXPL_TOP
 
 ROOT = '/home/user/test'
 CLIP = sys.argv[1]
@@ -363,15 +365,25 @@ ass = ['[Script Info]', 'ScriptType: v4.00+', 'PlayResX: 1080', 'PlayResY: 1920'
        '[V4+ Styles]',
        'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
        'Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1', '',
+       'Style: Expl,Yu Gothic,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1', '',
        '[Events]', 'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text']
 srt = []
-for i, c in enumerate(captions, 1):
+blocks = []   # (start, srt text) for captions and explanations, written in time order
+for c in captions:
     y = TOP
     for t in c['en']:
         ass.append(f"Dialogue: 0,{ass_t(c['start'])},{ass_t(c['end'])},Sub,,0,0,0,,{{\\an8\\pos(540,{y})\\fs{EN_FS}}}{t}"); y += PITCH
     for t in c['jp']:
         ass.append(f"Dialogue: 0,{ass_t(c['start'])},{ass_t(c['end'])},Sub,,0,0,0,,{{\\an8\\pos(540,{y})\\fs{JP_FS}}}{t}"); y += PITCH
-    srt += [str(i), f"{srt_t(c['start'])} --> {srt_t(c['end'])}", *c['en'], *c['jp'], '']
+    blocks.append((c['start'], [f"{srt_t(c['start'])} --> {srt_t(c['end'])}", *c['en'], *c['jp'], '']))
+# third row: approved Japanese term explanation under the EN + JA block (see scripts/expl_row.py)
+for st, en_, lines in expl_events(captions, f'{ROOT}/review/glossary/glossary_draft_s2.json', CLIP):
+    y = EXPL_TOP
+    for t in lines:
+        ass.append(f"Dialogue: 0,{ass_t(st)},{ass_t(en_)},Expl,,0,0,0,,{{\\an8\\pos(540,{y})\\fs{EXPL_FS}}}{t}"); y += EXPL_PITCH
+    blocks.append((st, [f"{srt_t(st)} --> {srt_t(en_)}", *lines, '']))
+for i, (_, b) in enumerate(sorted(blocks, key=lambda x: x[0]), 1):
+    srt += [str(i), *b]
 open(f'{out}/subtitles.ass', 'w', encoding='utf-8').write('\n'.join(ass) + '\n')
 open(f'{out}/subtitles.srt', 'w', encoding='utf-8').write('\n'.join(srt))
 json.dump(dict(clip=CLIP, total_s=TOTAL, segments=segs, dropped_lines=dropped, captions=captions), open(f'{out}/captions.json', 'w'), indent=1, ensure_ascii=False)

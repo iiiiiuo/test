@@ -58,7 +58,7 @@ man = dict(clip=CLIP, candidate=clip['candidate'], title=clip['title'],
            video_segments=manifest_v, audio_segments=manifest_a,
            layers=[dict(type='foreground_band(1080x1042 @y438)+blurred_background', note='both layers from the same source frame; no auxiliary footage')],
            pieces=pieces, subtitles=dict(ass=f'{OUT}/subtitles.ass', sha256=hashlib.sha256(open(f'{OUT}/subtitles.ass', 'rb').read()).hexdigest()),
-           translation=dict(approved_csv='review/approved/translations_approved_rev3.csv', revision=3),
+           translation=dict(approved_csv='review/approved/translations_approved_rev4.csv', revision=4),
            render=dict(path=f'{OUT}/render.mp4', sha256=h))
 json.dump(man, open(f'{OUT}/source_manifest.json', 'w'), indent=1)
 print(CLIP, 'rendered', h[:12])

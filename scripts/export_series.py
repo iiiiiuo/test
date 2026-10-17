@@ -18,8 +18,8 @@ frozen = json.load(open(f'{B}/frozen.json'))
 ovr = json.load(open(f'{B}/en_overrides.json'))
 bchg = json.load(open(f'{B}/boundary_changes.json'))
 fovr = json.load(open(f'{B}/framing_overrides.json'))
-rows = {r['line_id']: r for r in csv.DictReader(open(f'{ROOT}/review/approved/translations_approved_rev3.csv'))}
-CSV_SHA = sha(f'{ROOT}/review/approved/translations_approved_rev3.csv')
+rows = {r['line_id']: r for r in csv.DictReader(open(f'{ROOT}/review/approved/translations_approved_rev4.csv'))}
+CSV_SHA = sha(f'{ROOT}/review/approved/translations_approved_rev4.csv')
 
 def slug(t):
     return re.sub(r'[^a-z0-9]+', '_', t.lower().replace("'", '').replace('*', '')).strip('_')[:40]
@@ -49,12 +49,12 @@ for c in clips:
     # transcript: unmasked English as spoken (display masking is only on screen) + approved Japanese, render time
     with open(f'{od}/transcript.txt', 'w') as f:
         f.write(f'# {cid} "{c["title"]}" internal transcript (UNMASKED English; audio is uncensored). Times are final.mp4 time.\n')
-        f.write(f'# Source {man["source"]["id"]} ({os.path.basename(man["source"]["path"])}); approved translation rev3 {CSV_SHA[:12]}\n\n')
+        f.write(f'# Source {man["source"]["id"]} ({os.path.basename(man["source"]["path"])}); approved translation rev4 {CSV_SHA[:12]}\n\n')
         for x in cap['captions']:
             f.write(f'[{ts(x["start"])} - {ts(x["end"])}] {x["line_id"]}\nEN: {x["en_unmasked"]}\nJA: {" ".join(x["jp"]) if x["jp"] else "(no Japanese: interjection shown in English only)"}\n\n')
     # translation notes
     used = sorted({x['line_id'] for x in cap['captions']})
-    notes = [f'# {cid} translation notes', '', f'- Approved source: `review/approved/translations_approved_rev3.csv` (sha256 `{CSV_SHA}`), revision 3, approved by giub 2026-10-15.',
+    notes = [f'# {cid} translation notes', '', f'- Approved source: `review/approved/translations_approved_rev4.csv` (sha256 `{CSV_SHA}`), revision 4, approved by giub 2026-10-17 (rev 3 + the three JA edits).',
              f'- Lines used ({len(used)}): {", ".join(used)}',
              '- Japanese text is the approved `ja_final` verbatim; only line breaks and the split across caption chunks are layout. Bare speaker labels （Ye）/（ホスト） are not displayed.',
              '- Naming rules (rev 2/3): proper nouns in English spelling; Timbs→ティンバーランド, Shaq→シャキールオニール, Moses→モーゼ, Steve Jobs/Jeff Bezos/Elon Musk/Hennessy in katakana, BLM→ブラックライブスマター, backpack rapper→リュック系ラッパー.',
