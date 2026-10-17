@@ -66,10 +66,10 @@
   "ass_sha256": "c22ac0a909878a93de53058c72f8832c8beb418fa488cfd78d0c039fa42c0e42"
  },
  "Clip_21": {
-  "render_sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f",
+  "render_sha256": "f2ff586941d6423886aad0ecac430d70820da6b74cf51940b58f6900ca48154c",
   "verdict": "PASS",
   "critic": "work/b/Clip_21/qa/critic.md",
-  "ass_sha256": "97b16c42be47f0f06983792aa806fa01f67c35926ff03185f5d4a0da584b17df"
+  "ass_sha256": "f63b006efad910745d696b7e87dbc4526a84d34da04d003f74db098475cbec15"
  },
  "Clip_16": {
   "render_sha256": "75d808253713a846834903e032bb0c6c4dfb44886bf37fb8f1e4f6c0a4848f63",

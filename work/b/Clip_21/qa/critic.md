@@ -3,16 +3,20 @@ Blocking gaps: none
 Largest gap: none
 Fix: none
 
-1. Structure: PASS. Opens on "Okay, so I'm giving you an analogy" (first word 0.45s, source speech from 1191.46s). The first 0.4s is room crosstalk fading from the previous exchange, not Ye mid-word (source RMS 0.16 -> 0.04 by 1191.4). Middle is one continuous argument (album analogy -> Workout Plan -> Stronger diamond). Ends on "You know what I'm saying?", which resolves; next source line "so we're at the beginning of a new frontier" is excluded. Render audio decays to 0.04 at 68.30s (no hard clip).
-2. Duration/format: PASS. auto.json: 1080x1920, SAR 1:1, video 68.318s / audio 68.318s, 1638 frames = manifest 1638, decode_errors empty.
-3. Transcript: PASS. sync.txt HEARD matches displayed EN across all 25 captions. Differences are ASR noise (Mos Def, Irina Shayk, "shit") plus the speaker's repeated "you know what I'm saying". Source says "Our life is an album" and the caption says "the album" (immaterial).
-4. Translation: PASS. All JP lines match the approved rev3 rows and sit at the right moments. No dropped lines.
-5. Masking: PASS. "s**t" at 38.96s (cap 15). auto.json unmasked_hits empty. JP has no asterisks.
-6. Timing/sync: PASS. 21 caption onsets: median -0.24s vs the first heard word, max |0.57s|. 94.6% of matched words fall inside their caption. No caption is shorter than 0.85s (cap 17, 0.85s, a short 2-line caption but readable). No uncaptioned foreground sentence.
-7. Typography/visuals: PASS. Sheet frames show white bold Yu Gothic with black outline, EN above JP, centred, same lower-centre position and size as ref_sheet. All captions are at most 2 EN + 2 JP lines. No clipping, and the text is readable over the white shirt and gold backdrop.
-8. Framing: PASS. Ye is centred in the sharp band with the whole head and cap visible, with blurred fill above and below as in the reference. One continuous shot, with no framing change.
-9. Source usage: PASS. One interval, part_6 frames [28555, 30193), 1638 frames, audio same range. No freeze, padding or repetition (the doubled "You know what I'm saying?" is in the source audio).
+1. Structure: NOT IN SCOPE
+2. Duration/format: PASS - auto.json 1080x1920, SAR 1:1, video 68.318 s, audio 68.318 s, frames 1638 = manifest 1638, decode_errors empty.
+3. Transcript accuracy: NOT IN SCOPE
+4. Translation fidelity: NOT IN SCOPE (CHANGED_LINES = none)
+5. Masking: PASS - auto.json unmasked_hits empty; only profanity "s**t" (L006 at 38.96-41.31) is masked; JP rows and Expl rows not masked.
+6. Timing/sync: NOT IN SCOPE
+7. Typography/visuals: PASS - sheet_1.jpg and extra/e_35/e_43/e_51.png show white bold Yu Gothic, black outline+shadow, centred, EN above JP, max 2 EN + 2 JP lines, same size and position as reference, no clipping, readable on bright background.
+8. Framing: NOT IN SCOPE
+9. Source usage: NOT IN SCOPE
+10. Term-explanation row: PASS
+ - Text matches glossary_draft_s1.json for L002, L003, L004, L006, L007, L008, L009 verbatim (only line breaks differ; L008's two terms are on separate lines).
+ - Timing: L002 8.80-16.04 (starts with "Quincy Jones" caption, 7.2 s); L003 17.24-21.94 (4.7 s); L004 21.96-28.03 (6.1 s); L006 31.45-41.31 (9.9 s); L007 41.33-48.22 (6.9 s); L008 49.85-57.87 (8.0 s); L009 59.04-end (9.3 s). Each starts with the caption that carries the term, all over 2 s.
+ - Layout: Expl at y=1188..1284 (L007 shifted up to 1138/1186 because JP is 1 line); checked frames at 35, 43, 51 and 60.89 s show a clear gap below the JP row, no overlap. Lowest line (L008 third line, y~1284+40) is well inside the sharp band (438..1480).
+ - Style: same Yu Gothic Bold, white fill, black outline and shadow, size 40. No word or name is split by the line breaks (Quincy Jones, Irina Shayk, Mos Def・Common, 『The New Workout Plan』 all intact).
 
 Non-blocking notes
-- Caption 7 -> 8 splits "J." / "Cole" across two captions (17.24-18.59 / 18.61), and JP caption 1 ends on a dangling "アルバムの". Both are cosmetic and follow the approved wording.
-- Caption 25 shows "You know what I'm saying?" twice on two EN lines, matching the doubled phrase in the audio.
+- Expl row is noticeably thinner/smaller than EN/JP; still legible on all checked frames.

@@ -1,6 +1,6 @@
 {
  "clip": "Clip_21",
- "render_sha256": "946317144c9af0332adf036fc60d9f19651be405cb88d646c2af287741bf5a6f",
+ "render_sha256": "f2ff586941d6423886aad0ecac430d70820da6b74cf51940b58f6900ca48154c",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -32,9 +32,9 @@
   "match_ratio": 0.887,
   "matched_words_inside_their_caption": 0.946,
   "caption_onset_vs_first_word_s": {
-   "n": 21,
+   "n": 22,
    "median": -0.238,
-   "max_abs": 0.568
+   "max_abs": 0.608
   }
  },
  "frames": {

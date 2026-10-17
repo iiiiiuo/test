@@ -1,6 +1,6 @@
 {
  "clip": "Clip_22",
- "render_sha256": "b1670794b7a4334aaed6afc72380546af408347952c62cedffbb464ef412076a",
+ "render_sha256": "0d8b4ae002abed9e4cd91b4ee79c8508e6ecdff9ec182390511b1fd6971d30f3",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -48,7 +48,7 @@
    66.94,
    67.6,
    68.03,
-   75.42,
+   80.39,
    93.84,
    94.51,
    94.55,
@@ -68,7 +68,7 @@
    "/home/user/test/work/b2/Clip_22/qa/f_0066.94.png",
    "/home/user/test/work/b2/Clip_22/qa/f_0067.60.png",
    "/home/user/test/work/b2/Clip_22/qa/f_0068.03.png",
-   "/home/user/test/work/b2/Clip_22/qa/f_0075.42.png",
+   "/home/user/test/work/b2/Clip_22/qa/f_0080.39.png",
    "/home/user/test/work/b2/Clip_22/qa/f_0093.84.png",
    "/home/user/test/work/b2/Clip_22/qa/f_0094.51.png",
    "/home/user/test/work/b2/Clip_22/qa/f_0094.55.png",
