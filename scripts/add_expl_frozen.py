@@ -50,7 +50,7 @@ def caption_events(c):
 
 
 frozen_ass = git(f'{BASE}/subtitles.ass')
-assert hashlib.sha256(frozen_ass).hexdigest() == json.load(open(f'{ROOT}/work/{D}/frozen.json'))[CLIP]['ass_sha256'], CLIP
+assert hashlib.sha256(frozen_ass).hexdigest() == json.loads(git(f'work/{D}/frozen.json'))[CLIP]['ass_sha256'], CLIP   # PASS record at FROZEN_REF
 cap = json.loads(git(f'{BASE}/captions.json'))
 frozen_lines = frozen_ass.decode('utf-8').rstrip('\n').split('\n')
 head = frozen_lines[:frozen_lines.index('[Events]') + 2]
