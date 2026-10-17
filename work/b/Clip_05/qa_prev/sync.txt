@@ -1,40 +1,36 @@
-   0.08-  2.86 SUB: But right now in America, say, one / of the laws that I would change is,  ||  でも今のAmericaで / 俺が変えたい法律のひとつが
-               HEARD: But right now in America, say one of the laws that I would change is
-   2.88-  6.48 SUB: it's illegal to collect / rainwater in America.  ||  雨水を集めるのが / 違法だってことだ
-               HEARD: it's illegal to collect rainwater in America.
+   0.08-  3.19 SUB: But right now in America, say, one / of the laws that I would change is,  ||  でも今のAmericaで / 俺が変えたい法律のひとつが
+               HEARD: But right now in America, say one of the laws that I would change is it's
+   3.21-  6.48 SUB: it's illegal to collect / rainwater in America.  ||  雨水を集めるのが / 違法だってことだ
+               HEARD: illegal to collect rainwater in America.
    6.50-  8.70 SUB: What? Illegal? It's illegal?  ||  は？違法？ / 違法なの？
                HEARD: What? Illegal? It's illegal?
    8.72- 11.60 SUB: It's illegal to collect / rainwater in America.  ||  Americaじゃ雨水を集めるのは / 違法なんだよ
                HEARD: It's illegal to collect rainwater in
-  11.62- 14.10 SUB: You go to every other country, / they're collecting rainwater.  ||  他の国じゃ / どこでも雨水を集めてる
+  11.62- 14.00 SUB: You go to every other country, / they're collecting rainwater.  ||  他の国じゃ / どこでも雨水を集めてる
                HEARD: America. You go to every other country, they're collecting rainwater.
-  14.12- 17.60 SUB: You know, people are / controlling the water.  ||  水を支配してる / 連中がいるんだよ
-               HEARD: You know, people are controlling the water.
-  18.31- 21.14 SUB: You know, it's going to be / f**k what t-shirt you wear,  ||  どんなTシャツ着てるかとか / 政治的な意見とか
+  14.41- 17.60 SUB: You know, people are / controlling the water.  ||  水を支配してる / 連中がいるんだよ
+               HEARD: know, people are controlling the water.
+  18.49- 21.14 SUB: You know, it's going to be / f**k what t-shirt you wear,  ||  どんなTシャツ着てるかとか / 政治的な意見とか
                HEARD: You know, it's going to be fuck what T-shirt you wear,
   21.16- 25.68 SUB: what political opinion, and who got / beef with who. You ain't got no water,  ||  誰と誰がビーフしてるとか / どうでもよくなる　水がなかったら
                HEARD: what political opinion and who got beef for who. You ain't got no water.
-  27.73- 30.80 SUB: you ain't got no life. / I'm trying to tell you.  ||  命もないんだよ / そう言いたいわけ
+  27.73- 31.32 SUB: you ain't got no life. / I'm trying to tell you.  ||  命もないんだよ / そう言いたいわけ
                HEARD: You ain't got no life. i'm trying to tell you
-  30.82- 32.72 SUB: Because,  ||  みんな俺のことを…
-               HEARD: because
-  35.42- 39.87 SUB: you know, a lot of people call me... / they want to call me crazy.  ||  イカれてるって / 言いたがるだろ
-               HEARD: know a lot of people call me they want to call me crazy it's
-  41.89- 42.55 SUB: It's like,  ||  それって
-               HEARD: like
-  42.57- 44.23 SUB: it's like running a marathon.  ||  マラソンみたいなもんでさ
-               HEARD: it's like running a marathon if
-  45.08- 47.98 SUB: If I got some short / shorts on and a tank top,  ||  俺が短パンにタンクトップで
-               HEARD: i got some short shorts on and a tank top
-  48.00- 50.54 SUB: and I'm sweating hard as hell,  ||  俺が短パンにタンクトップで
-               HEARD: and i'm sweating hard as hell um
-  51.37- 52.30 SUB: um,  ||  汗だくになって
-               HEARD: running
-  52.32- 55.67 SUB: running down the street, running / the wrong way down a freeway,  ||  高速道路を逆走してたら
-               HEARD: down a street running the wrong way down a freeway
-  55.69- 58.05 SUB: then you're going to say / that person is crazy.  ||  あいつイカれてるって / 言うだろ
-               HEARD: then they you're gonna say that person is crazy
-  58.07- 62.57 SUB: But if a hundred other people do / it with me, then it's a marathon.  ||  でも100人が　一緒に走ってたら / それはマラソンなんだよ
-               HEARD: but if a hundred other people do it with me then it's a Marathon,
+  33.03- 38.20 SUB: Because, you know, / a lot of people call me...  ||  みんな俺のことを… / イカれてるって
+               HEARD: you know a lot of people call me they
+  38.22- 39.87 SUB: they want to call me crazy.  ||  言いたがるだろ
+               HEARD: want to call me crazy it's
+  41.89- 44.23 SUB: It's like, it's like running a marathon.  ||  それって / マラソンみたいなもんでさ
+               HEARD: like it's like running a marathon if
+  45.08- 48.47 SUB: If I got some short / shorts on and a tank top,  ||  俺が短パンにタンクトップで
+               HEARD: i got some short shorts on and a tank top and
+  48.49- 50.54 SUB: and I'm sweating hard as hell,  ||  汗だくになって
+               HEARD: i'm sweating hard as hell um
+  51.33- 56.18 SUB: um, running down the street, running / the wrong way down a freeway,  ||  高速道路を逆走してたら
+               HEARD: running down a street running the wrong way down a freeway then
+  56.20- 58.74 SUB: then you're going to say / that person is crazy.  ||  あいつイカれてるって / 言うだろ
+               HEARD: they you're gonna say that person is crazy but
+  58.76- 62.57 SUB: But if a hundred other people do / it with me, then it's a marathon.  ||  でも100人が　一緒に走ってたら / それはマラソンなんだよ
+               HEARD: if a hundred other people do it with me then it's a Marathon,
   64.04- 65.50 SUB: That's a good way to put it.  ||  うまいこと言うな
                HEARD: a good way to put it

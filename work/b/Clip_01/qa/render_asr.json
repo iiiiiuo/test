@@ -2,26 +2,26 @@
 "model": "/root/models/turbo",
 "wav": "/home/user/test/work/b/Clip_01/qa/render16k.wav",
 "clip": null,
-"elapsed": 24.1,
+"elapsed": 35.3,
 "segments": [
 {
 "start": 0.0,
-"end": 1.8,
-"text": "because as a person that",
-"avg_logprob": -0.213,
+"end": 1.52,
+"text": "because as a person",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " because",
 "s": 0.0,
 "e": 0.3,
-"p": 0.804
+"p": 0.794
 },
 {
 "w": " as",
 "s": 0.3,
 "e": 1.1,
-"p": 0.972
+"p": 0.968
 },
 {
 "w": " a",
@@ -34,27 +34,27 @@
 "s": 1.22,
 "e": 1.52,
 "p": 1.0
-},
-{
-"w": " that",
-"s": 1.52,
-"e": 1.8,
-"p": 0.964
 }
 ]
 },
 {
-"start": 1.8,
-"end": 3.54,
-"text": "when we first seen the Gap deal, right,",
-"avg_logprob": -0.213,
+"start": 1.52,
+"end": 2.5,
+"text": "that when we first",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
+{
+"w": " that",
+"s": 1.52,
+"e": 1.8,
+"p": 0.962
+},
 {
 "w": " when",
 "s": 1.8,
 "e": 2.08,
-"p": 0.858
+"p": 0.888
 },
 {
 "w": " we",
@@ -67,67 +67,94 @@
 "s": 2.22,
 "e": 2.5,
 "p": 0.999
+}
+]
 },
+{
+"start": 2.5,
+"end": 3.34,
+"text": "seen the gap deal,",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " seen",
 "s": 2.5,
 "e": 2.7,
-"p": 0.996
+"p": 0.997
 },
 {
 "w": " the",
 "s": 2.7,
 "e": 2.82,
-"p": 0.969
+"p": 0.959
 },
 {
-"w": " Gap",
+"w": " gap",
 "s": 2.82,
-"e": 3.1,
-"p": 0.612
+"e": 3.06,
+"p": 0.683
 },
 {
 "w": " deal,",
-"s": 3.1,
+"s": 3.06,
 "e": 3.34,
-"p": 0.976
-},
-{
-"w": " right,",
-"s": 3.46,
-"e": 3.54,
-"p": 0.792
+"p": 0.999
 }
 ]
 },
 {
-"start": 5.46,
-"end": 7.5,
-"text": "we understand that rich motherfuckers",
-"avg_logprob": -0.213,
+"start": 3.46,
+"end": 3.54,
+"text": "right,",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
+{
+"w": " right,",
+"s": 3.46,
+"e": 3.54,
+"p": 0.838
+}
+]
+},
+{
+"start": 5.42,
+"end": 6.12,
+"text": "we understand",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " we",
-"s": 5.46,
+"s": 5.42,
 "e": 5.86,
-"p": 0.976
+"p": 0.968
 },
 {
 "w": " understand",
 "s": 5.86,
 "e": 6.12,
-"p": 0.997
+"p": 0.996
+}
+]
 },
+{
+"start": 6.12,
+"end": 7.5,
+"text": "that rich motherfuckers",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " that",
 "s": 6.12,
-"e": 6.52,
+"e": 6.5,
 "p": 1.0
 },
 {
 "w": " rich",
-"s": 6.52,
+"s": 6.5,
 "e": 7.06,
 "p": 0.993
 },
@@ -142,27 +169,27 @@
 {
 "start": 7.5,
 "end": 8.34,
-"text": "ain't going in the Gap.",
-"avg_logprob": -0.213,
+"text": "ain't going in the gap.",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " ain't",
 "s": 7.5,
 "e": 7.66,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " going",
 "s": 7.66,
 "e": 7.82,
-"p": 0.993
+"p": 0.992
 },
 {
 "w": " in",
 "s": 7.82,
 "e": 7.98,
-"p": 0.964
+"p": 0.97
 },
 {
 "w": " the",
@@ -171,31 +198,31 @@
 "p": 1.0
 },
 {
-"w": " Gap.",
+"w": " gap.",
 "s": 8.1,
 "e": 8.34,
-"p": 0.98
+"p": 1.0
 }
 ]
 },
 {
-"start": 8.46,
+"start": 8.48,
 "end": 8.92,
 "text": "But you know what?",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " But",
-"s": 8.46,
+"s": 8.48,
 "e": 8.52,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " you",
 "s": 8.52,
 "e": 8.66,
-"p": 0.995
+"p": 0.996
 },
 {
 "w": " know",
@@ -213,16 +240,16 @@
 },
 {
 "start": 9.0,
-"end": 10.38,
-"text": "It was going in the Gap because of you.",
-"avg_logprob": -0.213,
+"end": 9.86,
+"text": "It was going in the gap",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " It",
 "s": 9.0,
 "e": 9.12,
-"p": 0.604
+"p": 0.572
 },
 {
 "w": " was",
@@ -249,16 +276,25 @@
 "p": 1.0
 },
 {
-"w": " Gap",
+"w": " gap",
 "s": 9.68,
-"e": 9.88,
+"e": 9.86,
 "p": 1.0
+}
+]
 },
 {
+"start": 9.86,
+"end": 10.38,
+"text": "because of you.",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
+{
 "w": " because",
-"s": 9.88,
+"s": 9.86,
 "e": 10.08,
-"p": 0.995
+"p": 0.997
 },
 {
 "w": " of",
@@ -276,29 +312,38 @@
 },
 {
 "start": 10.52,
-"end": 11.58,
-"text": "It was going, and it said,",
-"avg_logprob": -0.213,
+"end": 11.02,
+"text": "It was going,",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " It",
 "s": 10.52,
 "e": 10.76,
-"p": 0.374
+"p": 0.416
 },
 {
 "w": " was",
 "s": 10.76,
 "e": 10.86,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " going,",
 "s": 10.86,
 "e": 11.02,
-"p": 0.996
+"p": 0.998
+}
+]
 },
+{
+"start": 11.18,
+"end": 11.58,
+"text": "and it said,",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " and",
 "s": 11.18,
@@ -309,13 +354,13 @@
 "w": " it",
 "s": 11.32,
 "e": 11.44,
-"p": 0.812
+"p": 0.824
 },
 {
 "w": " said,",
 "s": 11.44,
 "e": 11.58,
-"p": 0.701
+"p": 0.593
 }
 ]
 },
@@ -323,14 +368,14 @@
 "start": 11.78,
 "end": 12.78,
 "text": "powered by Balenciaga.",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " powered",
 "s": 11.78,
 "e": 11.92,
-"p": 0.974
+"p": 0.978
 },
 {
 "w": " by",
@@ -342,15 +387,15 @@
 "w": " Balenciaga.",
 "s": 12.12,
 "e": 12.78,
-"p": 0.993
+"p": 0.989
 }
 ]
 },
 {
 "start": 13.06,
-"end": 15.52,
-"text": "But then you walk into the store",
-"avg_logprob": -0.213,
+"end": 14.32,
+"text": "But then you walk",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -363,7 +408,7 @@
 "w": " then",
 "s": 13.44,
 "e": 13.84,
-"p": 0.993
+"p": 0.992
 },
 {
 "w": " you",
@@ -376,7 +421,16 @@
 "s": 13.98,
 "e": 14.32,
 "p": 1.0
+}
+]
 },
+{
+"start": 14.32,
+"end": 15.52,
+"text": "into the store",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " into",
 "s": 14.32,
@@ -393,59 +447,59 @@
 "w": " store",
 "s": 14.8,
 "e": 15.52,
-"p": 0.99
+"p": 0.987
 }
 ]
 },
 {
 "start": 15.52,
-"end": 17.28,
+"end": 17.3,
 "text": "and then there's these clothes",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " and",
 "s": 15.52,
 "e": 16.04,
-"p": 0.675
+"p": 0.615
 },
 {
 "w": " then",
 "s": 16.04,
 "e": 16.3,
-"p": 0.968
+"p": 0.977
 },
 {
 "w": " there's",
 "s": 16.3,
 "e": 16.58,
-"p": 0.81
+"p": 0.751
 },
 {
 "w": " these",
 "s": 16.58,
 "e": 16.8,
-"p": 0.924
+"p": 0.866
 },
 {
 "w": " clothes",
 "s": 16.8,
-"e": 17.28,
+"e": 17.3,
 "p": 1.0
 }
 ]
 },
 {
-"start": 17.28,
+"start": 17.3,
 "end": 18.64,
 "text": "that's just on the floor.",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " that's",
-"s": 17.28,
+"s": 17.3,
 "e": 17.8,
 "p": 0.999
 },
@@ -477,16 +531,16 @@
 },
 {
 "start": 19.26,
-"end": 21.4,
-"text": "Is that degrading to somebody that's rich",
-"avg_logprob": -0.213,
+"end": 20.34,
+"text": "Is that degrading",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Is",
 "s": 19.26,
 "e": 19.36,
-"p": 0.994
+"p": 0.995
 },
 {
 "w": " that",
@@ -498,8 +552,17 @@
 "w": " degrading",
 "s": 19.5,
 "e": 20.34,
-"p": 0.958
+"p": 0.972
+}
+]
 },
+{
+"start": 20.34,
+"end": 21.4,
+"text": "to somebody that's rich",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " to",
 "s": 20.34,
@@ -522,32 +585,32 @@
 "w": " rich",
 "s": 21.14,
 "e": 21.4,
-"p": 0.998
+"p": 1.0
 }
 ]
 },
 {
 "start": 21.4,
-"end": 23.08,
-"text": "that want to come in there and support you?",
-"avg_logprob": -0.213,
+"end": 22.46,
+"text": "that want to come in there",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " that",
 "s": 21.4,
 "e": 21.74,
-"p": 0.957
+"p": 0.965
 },
 {
 "w": " want",
 "s": 21.74,
-"e": 21.9,
-"p": 0.932
+"e": 21.88,
+"p": 0.938
 },
 {
 "w": " to",
-"s": 21.9,
+"s": 21.88,
 "e": 21.98,
 "p": 1.0
 },
@@ -567,23 +630,32 @@
 "w": " there",
 "s": 22.32,
 "e": 22.46,
-"p": 0.987
+"p": 0.983
+}
+]
 },
+{
+"start": 22.46,
+"end": 23.08,
+"text": "and support you?",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " and",
 "s": 22.46,
 "e": 22.58,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " support",
 "s": 22.58,
-"e": 22.9,
+"e": 22.88,
 "p": 1.0
 },
 {
 "w": " you?",
-"s": 22.9,
+"s": 22.88,
 "e": 23.08,
 "p": 1.0
 }
@@ -593,14 +665,14 @@
 "start": 23.12,
 "end": 24.38,
 "text": "We should degrade the rich.",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " We",
 "s": 23.12,
 "e": 23.4,
-"p": 0.998
+"p": 0.997
 },
 {
 "w": " should",
@@ -612,13 +684,13 @@
 "w": " degrade",
 "s": 23.56,
 "e": 23.96,
-"p": 0.996
+"p": 0.997
 },
 {
 "w": " the",
 "s": 23.96,
 "e": 24.1,
-"p": 0.995
+"p": 0.992
 },
 {
 "w": " rich.",
@@ -629,42 +701,42 @@
 ]
 },
 {
-"start": 24.9,
+"start": 24.8,
 "end": 25.9,
 "text": "Everybody is dirt.",
-"avg_logprob": -0.213,
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Everybody",
-"s": 24.9,
-"e": 25.3,
+"s": 24.8,
+"e": 25.24,
 "p": 0.999
 },
 {
 "w": " is",
-"s": 25.3,
+"s": 25.24,
 "e": 25.62,
-"p": 0.999
+"p": 0.998
 },
 {
 "w": " dirt.",
 "s": 25.62,
 "e": 25.9,
-"p": 0.998
+"p": 0.999
 }
 ]
 },
 {
-"start": 26.62,
-"end": 28.58,
-"text": "Everybody on the same level beneath God.",
-"avg_logprob": -0.213,
+"start": 26.58,
+"end": 27.84,
+"text": "Everybody on the same level",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Everybody",
-"s": 26.62,
+"s": 26.58,
 "e": 27.02,
 "p": 1.0
 },
@@ -672,7 +744,7 @@
 "w": " on",
 "s": 27.02,
 "e": 27.22,
-"p": 0.995
+"p": 0.994
 },
 {
 "w": " the",
@@ -691,75 +763,93 @@
 "s": 27.56,
 "e": 27.84,
 "p": 1.0
+}
+]
 },
+{
+"start": 27.84,
+"end": 28.58,
+"text": "beneath God.",
+"avg_logprob": -0.227,
+"no_speech_prob": 0.0,
+"words": [
 {
 "w": " beneath",
 "s": 27.84,
-"e": 28.12,
+"e": 28.14,
 "p": 0.998
 },
 {
 "w": " God.",
-"s": 28.12,
+"s": 28.14,
 "e": 28.58,
 "p": 1.0
 }
 ]
 },
 {
-"start": 28.58,
-"end": 35.96,
-"text": "because we'll hop over, you know, we'll walk over a homeless person to get to the Gucci store.",
-"avg_logprob": -0.187,
+"start": 28.76,
+"end": 30.04,
+"text": "Because we'll hop over",
+"avg_logprob": -0.227,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " because",
-"s": 28.58,
-"e": 29.04,
-"p": 0.431
+"w": " Because",
+"s": 28.76,
+"e": 29.06,
+"p": 0.989
 },
 {
 "w": " we'll",
-"s": 29.04,
-"e": 29.34,
-"p": 0.977
+"s": 29.06,
+"e": 29.32,
+"p": 0.902
 },
 {
 "w": " hop",
-"s": 29.34,
-"e": 29.6,
-"p": 0.996
-},
-{
-"w": " over,",
-"s": 29.6,
-"e": 30.08,
-"p": 1.0
-},
-{
-"w": " you",
-"s": 30.24,
-"e": 31.12,
-"p": 0.631
-},
-{
-"w": " know,",
-"s": 31.12,
-"e": 32.34,
+"s": 29.32,
+"e": 29.58,
 "p": 0.999
 },
 {
-"w": " we'll",
-"s": 32.42,
-"e": 32.86,
+"w": " over",
+"s": 29.58,
+"e": 30.04,
 "p": 1.0
+}
+]
+},
+{
+"start": 30.04,
+"end": 35.98,
+"text": "you know we'll walk over a homeless person at to get to the gucci store",
+"avg_logprob": -0.136,
+"no_speech_prob": 0.0,
+"words": [
+{
+"w": " you",
+"s": 30.04,
+"e": 31.04,
+"p": 0.074
+},
+{
+"w": " know",
+"s": 31.04,
+"e": 32.34,
+"p": 0.994
+},
+{
+"w": " we'll",
+"s": 32.34,
+"e": 32.86,
+"p": 0.709
 },
 {
 "w": " walk",
 "s": 32.86,
 "e": 33.16,
-"p": 0.993
+"p": 0.971
 },
 {
 "w": " over",
@@ -771,7 +861,7 @@
 "w": " a",
 "s": 33.44,
 "e": 33.58,
-"p": 0.945
+"p": 0.985
 },
 {
 "w": " homeless",
@@ -786,14 +876,20 @@
 "p": 1.0
 },
 {
-"w": " to",
+"w": " at",
 "s": 34.24,
-"e": 34.62,
-"p": 0.993
+"e": 34.4,
+"p": 0.234
+},
+{
+"w": " to",
+"s": 34.4,
+"e": 34.88,
+"p": 0.983
 },
 {
 "w": " get",
-"s": 34.62,
+"s": 34.88,
 "e": 35.1,
 "p": 1.0
 },
@@ -806,89 +902,89 @@
 {
 "w": " the",
 "s": 35.24,
-"e": 35.34,
+"e": 35.36,
 "p": 0.999
 },
 {
-"w": " Gucci",
-"s": 35.34,
-"e": 35.6,
-"p": 1.0
+"w": " gucci",
+"s": 35.36,
+"e": 35.66,
+"p": 0.797
 },
 {
-"w": " store.",
-"s": 35.6,
-"e": 35.96,
-"p": 0.999
+"w": " store",
+"s": 35.66,
+"e": 35.98,
+"p": 0.998
 }
 ]
 },
 {
-"start": 36.54,
-"end": 43.4,
-"text": "Ray Kurzweil said, a utopia is possible where we're led by the least noble and the greediest",
-"avg_logprob": -0.187,
+"start": 35.98,
+"end": 43.74,
+"text": "ray kerzwell said a utopia is possible where we're led by the least noble and the greediest people",
+"avg_logprob": -0.136,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " Ray",
-"s": 36.54,
-"e": 37.24,
-"p": 0.447
+"w": " ray",
+"s": 35.98,
+"e": 37.22,
+"p": 0.933
 },
 {
-"w": " Kurzweil",
-"s": 37.24,
-"e": 37.9,
-"p": 0.995
+"w": " kerzwell",
+"s": 37.22,
+"e": 37.86,
+"p": 0.683
 },
 {
-"w": " said,",
-"s": 37.9,
-"e": 38.4,
+"w": " said",
+"s": 37.86,
+"e": 38.38,
 "p": 0.999
 },
 {
 "w": " a",
-"s": 38.92,
-"e": 38.92,
-"p": 0.941
+"s": 38.38,
+"e": 38.96,
+"p": 0.999
 },
 {
 "w": " utopia",
-"s": 38.92,
-"e": 39.54,
-"p": 0.998
+"s": 38.96,
+"e": 39.52,
+"p": 1.0
 },
 {
 "w": " is",
-"s": 39.54,
+"s": 39.52,
 "e": 39.78,
-"p": 0.99
+"p": 0.932
 },
 {
 "w": " possible",
 "s": 39.78,
 "e": 40.2,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " where",
 "s": 40.2,
-"e": 40.44,
-"p": 0.927
+"e": 40.46,
+"p": 0.899
 },
 {
 "w": " we're",
-"s": 40.44,
-"e": 40.64,
-"p": 1.0
+"s": 40.46,
+"e": 40.66,
+"p": 0.999
 },
 {
 "w": " led",
-"s": 40.64,
+"s": 40.66,
 "e": 40.82,
-"p": 1.0
+"p": 0.999
 },
 {
 "w": " by",
@@ -906,7 +1002,7 @@
 "w": " least",
 "s": 41.18,
 "e": 41.46,
-"p": 0.999
+"p": 0.997
 },
 {
 "w": " noble",
@@ -918,98 +1014,98 @@
 "w": " and",
 "s": 41.9,
 "e": 42.8,
-"p": 0.997
+"p": 1.0
 },
 {
 "w": " the",
 "s": 42.8,
-"e": 43.0,
-"p": 0.995
+"e": 42.94,
+"p": 0.998
 },
 {
 "w": " greediest",
-"s": 43.0,
+"s": 42.94,
 "e": 43.4,
 "p": 0.979
+},
+{
+"w": " people",
+"s": 43.4,
+"e": 43.74,
+"p": 1.0
 }
 ]
 },
 {
-"start": 43.4,
+"start": 43.74,
 "end": 50.74,
-"text": "people. I brought the head designer of Balenciaga, the greatest designer on our planet today,",
-"avg_logprob": -0.187,
+"text": "i brought the head designer of balenciaga the greatest designer on our planet today",
+"avg_logprob": -0.136,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " people.",
-"s": 43.4,
-"e": 43.74,
-"p": 1.0
-},
-{
-"w": " I",
-"s": 44.0,
+"w": " i",
+"s": 43.74,
 "e": 44.54,
-"p": 0.999
+"p": 0.986
 },
 {
 "w": " brought",
 "s": 44.54,
-"e": 44.82,
-"p": 1.0
+"e": 44.84,
+"p": 0.999
 },
 {
 "w": " the",
-"s": 44.82,
+"s": 44.84,
 "e": 45.06,
 "p": 1.0
 },
 {
 "w": " head",
 "s": 45.06,
-"e": 45.28,
+"e": 45.3,
 "p": 1.0
 },
 {
 "w": " designer",
-"s": 45.28,
-"e": 45.94,
+"s": 45.3,
+"e": 45.96,
 "p": 1.0
 },
 {
 "w": " of",
-"s": 45.94,
-"e": 46.86,
-"p": 0.997
+"s": 45.96,
+"e": 46.84,
+"p": 0.993
 },
 {
-"w": " Balenciaga,",
-"s": 46.86,
-"e": 47.62,
-"p": 0.999
+"w": " balenciaga",
+"s": 46.84,
+"e": 47.6,
+"p": 0.993
 },
 {
 "w": " the",
-"s": 47.92,
+"s": 47.6,
 "e": 48.22,
-"p": 0.999
+"p": 1.0
 },
 {
 "w": " greatest",
 "s": 48.22,
-"e": 48.66,
-"p": 1.0
+"e": 48.68,
+"p": 0.999
 },
 {
 "w": " designer",
-"s": 48.66,
-"e": 49.24,
+"s": 48.68,
+"e": 49.26,
 "p": 1.0
 },
 {
 "w": " on",
-"s": 49.24,
+"s": 49.26,
 "e": 49.54,
 "p": 1.0
 },
@@ -1023,154 +1119,163 @@
 "w": " planet",
 "s": 49.72,
 "e": 50.12,
-"p": 1.0
+"p": 0.999
 },
 {
-"w": " today,",
+"w": " today",
 "s": 50.12,
 "e": 50.74,
-"p": 0.994
+"p": 1.0
 }
 ]
 },
 {
 "start": 50.74,
-"end": 55.8,
-"text": "Demna, Demna is the yay of clothing.",
-"avg_logprob": -0.368,
+"end": 58.9,
+"text": "so dimna dimna is the yay wow of of clothing dimna is the drake of clothing",
+"avg_logprob": -0.136,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " Demna,",
+"w": " so",
 "s": 50.74,
-"e": 51.6,
-"p": 0.586
+"e": 51.14,
+"p": 0.876
 },
 {
-"w": " Demna",
-"s": 51.76,
-"e": 52.64,
-"p": 0.96
+"w": " dimna",
+"s": 51.14,
+"e": 51.6,
+"p": 0.932
+},
+{
+"w": " dimna",
+"s": 51.6,
+"e": 52.6,
+"p": 0.999
 },
 {
 "w": " is",
-"s": 52.64,
-"e": 52.94,
-"p": 0.979
+"s": 52.6,
+"e": 52.96,
+"p": 1.0
 },
 {
 "w": " the",
-"s": 52.94,
+"s": 52.96,
 "e": 53.16,
-"p": 0.994
+"p": 1.0
 },
 {
 "w": " yay",
 "s": 53.16,
-"e": 53.42,
-"p": 0.573
+"e": 53.58,
+"p": 0.966
+},
+{
+"w": " wow",
+"s": 53.58,
+"e": 54.26,
+"p": 0.477
 },
 {
 "w": " of",
-"s": 53.42,
-"e": 54.84,
-"p": 0.854
+"s": 54.26,
+"e": 54.86,
+"p": 0.999
 },
 {
-"w": " clothing.",
-"s": 54.84,
-"e": 55.8,
-"p": 0.914
-}
-]
+"w": " of",
+"s": 54.86,
+"e": 55.46,
+"p": 0.997
 },
 {
-"start": 56.2,
-"end": 58.88,
-"text": "Demna is the Drake of clothing.",
-"avg_logprob": -0.368,
-"no_speech_prob": 0.0,
-"words": [
+"w": " clothing",
+"s": 55.46,
+"e": 55.9,
+"p": 0.996
+},
 {
-"w": " Demna",
-"s": 56.2,
+"w": " dimna",
+"s": 55.9,
 "e": 56.5,
-"p": 0.988
+"p": 0.998
 },
 {
 "w": " is",
 "s": 56.5,
-"e": 56.68,
-"p": 0.998
+"e": 56.7,
+"p": 1.0
 },
 {
 "w": " the",
-"s": 56.68,
-"e": 56.86,
-"p": 0.996
+"s": 56.7,
+"e": 56.9,
+"p": 1.0
 },
 {
-"w": " Drake",
-"s": 56.86,
-"e": 57.36,
-"p": 0.975
+"w": " drake",
+"s": 56.9,
+"e": 57.46,
+"p": 0.993
 },
 {
 "w": " of",
-"s": 57.36,
-"e": 58.44,
-"p": 0.985
+"s": 57.46,
+"e": 58.42,
+"p": 0.99
 },
 {
-"w": " clothing.",
-"s": 58.44,
-"e": 58.88,
-"p": 0.993
+"w": " clothing",
+"s": 58.42,
+"e": 58.9,
+"p": 0.997
 }
 ]
 },
 {
-"start": 59.48,
-"end": 63.6,
+"start": 58.9,
+"end": 63.62,
 "text": "Drake is the greatest rapper ever.",
-"avg_logprob": -0.368,
+"avg_logprob": -0.321,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Drake",
-"s": 59.48,
-"e": 59.96,
-"p": 0.993
+"s": 58.9,
+"e": 60.02,
+"p": 0.932
 },
 {
 "w": " is",
-"s": 59.96,
+"s": 60.02,
 "e": 61.24,
-"p": 0.83
+"p": 0.708
 },
 {
 "w": " the",
 "s": 61.24,
 "e": 61.4,
-"p": 0.999
+"p": 0.997
 },
 {
 "w": " greatest",
 "s": 61.4,
-"e": 61.76,
-"p": 0.997
+"e": 61.74,
+"p": 0.996
 },
 {
 "w": " rapper",
-"s": 61.76,
+"s": 61.74,
 "e": 62.28,
-"p": 0.997
+"p": 0.996
 },
 {
 "w": " ever.",
 "s": 62.28,
-"e": 63.6,
-"p": 0.949
+"e": 63.62,
+"p": 0.952
 }
 ]
 }

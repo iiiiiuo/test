@@ -1,6 +1,6 @@
 {
  "clip": "Clip_04",
- "render_sha256": "8999ce5878c1ddbd62b3e8fead68589f2e006137ec1e9f9729e4b95d0aacb658",
+ "render_sha256": "406bbf5f197180603b2c6783bb5c8a1faf824892d0a529f4a57de1c2db2d7bd4",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -27,28 +27,28 @@
  },
  "sync": {
   "caption_tokens": 248,
-  "asr_words": 250,
-  "matched": 222,
-  "match_ratio": 0.895,
-  "matched_words_inside_their_caption": 0.986,
+  "asr_words": 251,
+  "matched": 218,
+  "match_ratio": 0.879,
+  "matched_words_inside_their_caption": 0.995,
   "caption_onset_vs_first_word_s": {
-   "n": 30,
-   "median": 0.08,
-   "max_abs": 1.084
+   "n": 32,
+   "median": 0.07,
+   "max_abs": 0.48
   }
  },
  "frames": {
   "times": [
    0.05,
    1.0,
-   1.58,
+   1.65,
    18.23,
    19.44,
    38.16,
    41.58,
    43.33,
    50.55,
-   59.13,
+   59.06,
    62.41,
    65.34,
    74.12,
@@ -61,14 +61,14 @@
   "full_res": [
    "/home/user/test/work/b/Clip_04/qa/f_0000.05.png",
    "/home/user/test/work/b/Clip_04/qa/f_0001.00.png",
-   "/home/user/test/work/b/Clip_04/qa/f_0001.58.png",
+   "/home/user/test/work/b/Clip_04/qa/f_0001.65.png",
    "/home/user/test/work/b/Clip_04/qa/f_0018.23.png",
    "/home/user/test/work/b/Clip_04/qa/f_0019.44.png",
    "/home/user/test/work/b/Clip_04/qa/f_0038.16.png",
    "/home/user/test/work/b/Clip_04/qa/f_0041.58.png",
    "/home/user/test/work/b/Clip_04/qa/f_0043.33.png",
    "/home/user/test/work/b/Clip_04/qa/f_0050.55.png",
-   "/home/user/test/work/b/Clip_04/qa/f_0059.13.png",
+   "/home/user/test/work/b/Clip_04/qa/f_0059.06.png",
    "/home/user/test/work/b/Clip_04/qa/f_0062.41.png",
    "/home/user/test/work/b/Clip_04/qa/f_0065.34.png",
    "/home/user/test/work/b/Clip_04/qa/f_0074.12.png",

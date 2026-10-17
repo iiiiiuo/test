@@ -1,6 +1,6 @@
 {
  "clip": "Clip_01",
- "render_sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36",
+ "render_sha256": "96a2e0ffba7b9f14941a040e49010ebf47941b476747c56831af473d252f341e",
  "format": {
   "width": 1080,
   "height": 1920,
@@ -27,14 +27,14 @@
  },
  "sync": {
   "caption_tokens": 162,
-  "asr_words": 162,
-  "matched": 153,
-  "match_ratio": 0.944,
-  "matched_words_inside_their_caption": 0.987,
+  "asr_words": 166,
+  "matched": 149,
+  "match_ratio": 0.92,
+  "matched_words_inside_their_caption": 0.973,
   "caption_onset_vs_first_word_s": {
-   "n": 20,
+   "n": 18,
    "median": 0.103,
-   "max_abs": 1.383
+   "max_abs": 1.343
   }
  },
  "frames": {

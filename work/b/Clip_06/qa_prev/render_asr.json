@@ -2,7 +2,7 @@
 "model": "/root/models/turbo",
 "wav": "/home/user/test/work/b/Clip_06/qa/render16k.wav",
 "clip": null,
-"elapsed": 22.9,
+"elapsed": 24.9,
 "segments": [
 {
 "start": 0.0,
@@ -878,15 +878,15 @@
 ]
 },
 {
-"start": 56.11,
+"start": 56.09,
 "end": 57.01,
 "text": "I forgive.",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " I",
-"s": 56.11,
+"s": 56.09,
 "e": 56.65,
 "p": 0.493
 },
@@ -899,15 +899,15 @@
 ]
 },
 {
-"start": 62.69,
+"start": 62.67,
 "end": 67.17,
 "text": "Who loves you again?",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " Who",
-"s": 62.69,
+"s": 62.67,
 "e": 63.23,
 "p": 0.515
 },
@@ -935,7 +935,7 @@
 "start": 67.35,
 "end": 67.65,
 "text": "That's it?",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -953,53 +953,62 @@
 ]
 },
 {
-"start": 68.64,
-"end": 71.04,
-"text": "Everybody, everybody I ever, you know what I'm saying?",
-"avg_logprob": -0.324,
+"start": 68.62,
+"end": 69.18,
+"text": "Everybody.",
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
-"w": " Everybody,",
-"s": 68.64,
+"w": " Everybody.",
+"s": 68.62,
 "e": 69.18,
 "p": 0.707
+}
+]
 },
 {
-"w": " everybody",
+"start": 69.42,
+"end": 71.02,
+"text": "Everybody I ever, you know what I'm saying?",
+"avg_logprob": -0.298,
+"no_speech_prob": 0.0,
+"words": [
+{
+"w": " Everybody",
 "s": 69.42,
 "e": 69.78,
-"p": 0.961
+"p": 0.904
 },
 {
 "w": " I",
 "s": 69.78,
 "e": 70.14,
-"p": 0.795
+"p": 0.829
 },
 {
 "w": " ever,",
 "s": 70.14,
 "e": 70.46,
-"p": 0.984
+"p": 0.987
 },
 {
 "w": " you",
-"s": 70.6,
+"s": 70.58,
 "e": 70.7,
-"p": 0.96
+"p": 0.975
 },
 {
 "w": " know",
 "s": 70.7,
-"e": 70.74,
+"e": 70.76,
 "p": 0.999
 },
 {
 "w": " what",
-"s": 70.74,
+"s": 70.76,
 "e": 70.86,
-"p": 0.944
+"p": 0.96
 },
 {
 "w": " I'm",
@@ -1010,29 +1019,29 @@
 {
 "w": " saying?",
 "s": 70.86,
-"e": 71.04,
-"p": 0.965
+"e": 71.02,
+"p": 0.977
 }
 ]
 },
 {
-"start": 71.12,
+"start": 71.1,
 "end": 71.92,
 "text": "I forgive everyone.",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
 "w": " I",
-"s": 71.12,
+"s": 71.1,
 "e": 71.24,
-"p": 0.988
+"p": 0.987
 },
 {
 "w": " forgive",
 "s": 71.24,
 "e": 71.48,
-"p": 0.964
+"p": 0.965
 },
 {
 "w": " everyone.",
@@ -1046,7 +1055,7 @@
 "start": 72.08,
 "end": 73.3,
 "text": "I forgive Bob Iger.",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -1058,20 +1067,20 @@
 {
 "w": " forgive",
 "s": 72.1,
-"e": 72.4,
-"p": 0.99
+"e": 72.42,
+"p": 0.993
 },
 {
 "w": " Bob",
-"s": 72.4,
+"s": 72.42,
 "e": 72.78,
-"p": 0.991
+"p": 0.99
 },
 {
 "w": " Iger.",
 "s": 72.78,
 "e": 73.3,
-"p": 0.972
+"p": 0.973
 }
 ]
 },
@@ -1079,7 +1088,7 @@
 "start": 73.44,
 "end": 75.14,
 "text": "I forgive the left party.",
-"avg_logprob": -0.324,
+"avg_logprob": -0.298,
 "no_speech_prob": 0.0,
 "words": [
 {
@@ -1098,19 +1107,19 @@
 "w": " the",
 "s": 74.32,
 "e": 74.5,
-"p": 0.99
+"p": 0.991
 },
 {
 "w": " left",
 "s": 74.5,
 "e": 74.72,
-"p": 0.844
+"p": 0.862
 },
 {
 "w": " party.",
 "s": 74.72,
 "e": 75.14,
-"p": 0.98
+"p": 0.982
 }
 ]
 }

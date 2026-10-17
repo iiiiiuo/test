@@ -1,7 +1,7 @@
-   0.10-  1.51 SUB: Kool G Rap or Big Pun?  ||  Kool G Rapか / Big Punか
-               HEARD: cool G rap or big pun
-   1.53-  5.03 SUB: I like both.  ||  どっちも好き
-               HEARD: I like both so
+   0.10-  2.23 SUB: Kool G Rap or Big Pun?  ||  Kool G Rapか / Big Punか
+               HEARD: cool G rap or big pun I
+   3.66-  5.03 SUB: I like both.  ||  どっちも好き
+               HEARD: like both so
    5.05-  6.00 SUB: Take a shot.  ||  じゃあ一杯飲め
                HEARD: 
    6.02-  7.90 SUB: So, you know, God said for us to not  ||  神は / 互いを比べるなって
@@ -24,9 +24,9 @@
                HEARD: I don't
   22.98- 29.62 SUB: I'm forgiving. I forgive everybody. / I forgive the Clintons. I forgive  ||  俺は許す　全員許す　Clinton夫妻も許す
                HEARD: you know I'm I'm forgiving I forgive everybody I forgive the the Clintons. I forgive
-  29.64- 32.42 SUB: John Legend for wearing / them bum-ass sweaters.  ||  John Legendも許す / あのダサいセーター着てたことをな
+  29.64- 33.33 SUB: John Legend for wearing / them bum-ass sweaters.  ||  John Legendも許す / あのダサいセーター着てたことをな
                HEARD: John Legend for wearing them bum-ass sweaters.
-  32.44- 39.00 SUB: I forgive... I forgive / him. He's forgiven.  ||  許す…許してやる / あいつは許された
+  33.35- 39.00 SUB: I forgive... I forgive / him. He's forgiven.  ||  許す…許してやる / あいつは許された
                HEARD: I forgive... Well, I forgive him. He's forgiven.
   41.56- 49.82 SUB: Big Sean. May they all be / forgiven. I forgive Big Sean  ||  Big Sean　みんな許されますように / Big Seanも許す
                HEARD: Big Sean, forgive him. May they all be forgiven? I forgive... Big Sean? I forgive
@@ -40,8 +40,8 @@
                HEARD: Who loves you again?
   67.16- 68.02 SUB: That's it?  ||  それで終わり？
                HEARD: That's it?
-  68.37- 71.03 SUB: Everybody. Everybody I ever... / you know what I'm saying?  ||  全員だよ　今までの全員　わかるだろ
-               HEARD: Everybody, everybody I ever, you know what I'm saying?
+  68.48- 71.03 SUB: Everybody. Everybody I ever... / you know what I'm saying?  ||  全員だよ　今までの全員　わかるだろ
+               HEARD: Everybody. Everybody I ever, you know what I'm saying?
   71.05- 71.91 SUB: I forgive everyone.  ||  みんな許す
                HEARD: I forgive everyone.
   71.93- 73.29 SUB: I forgive Bob Iger.  ||  Bob Igerも許す
