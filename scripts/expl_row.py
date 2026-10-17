@@ -4,16 +4,16 @@ Shown below the English and Japanese rows. Used by build_subs.py (series 1) and 
 Timing: starts with the first caption of the line whose JA (or EN) shows one of the explained terms (line start if
 none matches); held to the end of the line, at least long enough to read (~0.13 s per character + 1 s), never past
 the next explanation or the clip end.
-Placement: one fixed top per explanation, 22 px below the tallest EN+JA block on screen during its span, so the row
-never jumps while it is shown (top 1170 when that block has four rows).
+Placement: one fixed top per explanation, 40 px below the tallest EN+JA block on screen during its span, so the row
+never jumps while it is shown (top 1188 when that block has four rows; the gap keeps it visibly separate from the JA row).
 Style: Yu Gothic Bold 40 (JA row is 50), white, black outline 3 / shadow 2 (same family and treatment as the frozen
 EN/JA style), pitch 48. Each explained term starts on its own line; lines wrap at 760 px rendered ink width (see wrap_part);
-at most 4 lines (bottom <= 1362, inside the sharp band that ends at 1480).
+at most 4 lines (bottom <= 1380, inside the sharp band that ends at 1480).
 """
 import json, re
 from PIL import ImageFont
 
-EXPL_FS, EXPL_PITCH, EXPL_GAP, EXPL_MAX_LINES, MAXW = 40, 48, 22, 4, 760
+EXPL_FS, EXPL_PITCH, EXPL_GAP, EXPL_MAX_LINES, MAXW = 40, 48, 40, 4, 760
 MIN_HOLD = 4.0  # s an explanation keeps the screen before a back-to-back one replaces it
 INK_K = 0.753  # libass ink width / PIL advance width for this font (work/b/calib_widths.json, JP), as for the JP row
 TOP, PITCH = 948, 50
