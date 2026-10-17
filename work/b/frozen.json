@@ -1,27 +1,27 @@
 {
  "Clip_01": {
-  "render_sha256": "331bd1c36ab32ac11387d5c8906924bf9d22040f17755f888d2e64c73582ab36",
+  "render_sha256": "96a2e0ffba7b9f14941a040e49010ebf47941b476747c56831af473d252f341e",
   "verdict": "PASS",
   "critic": "work/b/Clip_01/qa/critic.md",
-  "ass_sha256": "39ac9faf6d659c4ca70de6420ea81e07736b5a520e28f8fee88f35c9f979e7b1"
+  "ass_sha256": "a6ec82b9e4c07978bddc286cb6ddcd3a65410d97a9b4ea8f9c52f35c927631ec"
  },
  "Clip_06": {
-  "render_sha256": "6e80dff45b4f09f0e5f48622a291d6e4ecfa528395b92094eb06ae107a499a15",
+  "render_sha256": "af28be7b965e30ac52e73d34132cae65b26754faea86c36fa31f352a6c53eddd",
   "verdict": "PASS",
   "critic": "work/b/Clip_06/qa/critic.md",
-  "ass_sha256": "68a2dfe978ca6e9eb69813478307911e4483a7e910f928491dfa40c93dda713b"
+  "ass_sha256": "95e46c35bd434517c5f285b1ba4bf13f47d5ccfc41444f47c647300eeda75e27"
  },
  "Clip_07": {
-  "render_sha256": "d765352bfc81c42ca8bed030ea14f9ce730ac703b3d6f6a716d49755c498b57d",
+  "render_sha256": "ed6ae042d2593ffec964456ef5efe60c340790cb5de5b69fe036fa5f202aa446",
   "verdict": "PASS",
   "critic": "work/b/Clip_07/qa/critic.md",
-  "ass_sha256": "ac8eb9216157e9041164a5a165325003e4c5c1599bf1b82d77a777c1e60965dc"
+  "ass_sha256": "f24fc4c206b0de4f8179660f4d72ec47a37465012caadb33ce1d0343fa20c1a0"
  },
  "Clip_08": {
-  "render_sha256": "8a184afc1ec4cea197bb40e7a2132776a247a3bd5faaaa2c4c8f3317c2ee44b4",
+  "render_sha256": "1c6241c66fca74dafcbbb5d4e44c336272bb81d3a3ed35073ae63d26b5f2cd78",
   "verdict": "PASS",
   "critic": "work/b/Clip_08/qa/critic.md",
-  "ass_sha256": "cd7c57de00aaf46dd6292429f6321fdc90b139984359bd5a769a1c7c161b4119"
+  "ass_sha256": "0d1e831447bd405ea0ace98fd1d00e0273345c2839cd69bad881459e14267803"
  },
  "Clip_11": {
   "render_sha256": "d9a24657387e7cc9fab88b92621357290963d22b8ae35b36d1df07ad9c7b5d80",
@@ -30,28 +30,28 @@
   "ass_sha256": "0b4e3220423d68233691c24b967c5102044bbb1eea0bc4598b705c9af1243829"
  },
  "Clip_05": {
-  "render_sha256": "af95628beae1b61c91120751fe9ee41c0734502e5683ea97b74f960f208bd12e",
+  "render_sha256": "a5f49222b176b6beea102696762be51b4a0c82075040ca6ae0f999bb88cb525c",
   "verdict": "PASS",
   "critic": "work/b/Clip_05/qa/critic.md",
-  "ass_sha256": "d331ceddd6725391f4d325c34406260ccd1d5fb5a525eedd5cbbef7091f9a88a"
+  "ass_sha256": "3ea14858e2233b0d78ed1ce76b67bca137f23ff92a2221731c2fb98b527e7fac"
  },
  "Clip_03": {
-  "render_sha256": "e5a5a0830e117c520675df8df32954e08c392705ce532ef0ff33bf33b6aa6d2e",
+  "render_sha256": "09ffaa0b86cd05892db1f4856a0c9423bcd493e8820c42da4cbb52cbd2e40f6b",
   "verdict": "PASS",
   "critic": "work/b/Clip_03/qa/critic.md",
-  "ass_sha256": "286d6361fe03d51edd6fdf230e18b408607ec7855fbe379e4a605d008645cbac"
+  "ass_sha256": "9306e58032b4dd10d532227bfdaa119a23a8d837e3e5d64af91214fda82d2197"
  },
  "Clip_04": {
-  "render_sha256": "56e92fc98f06dfaee4d2c44b3755a4807e742c393b136ddd9c1e2504c824d1d5",
+  "render_sha256": "3ff432e378fb529a0a6cc5a63751df18d94bdefe81582e4fabfa766f3dfd6336",
   "verdict": "PASS",
   "critic": "work/b/Clip_04/qa/critic.md",
-  "ass_sha256": "d1c92488ae9b09c946e1d30d055a4f2b879af29242bfd29d115ce2946631ec55"
+  "ass_sha256": "fa32d6ab05185bf0793739bc42fe63e7bcfead98d4e3b5d2ba20c673decd31da"
  },
  "Clip_09": {
   "render_sha256": "8ea513c487762b436b73b58c9d438f2d7273b36a656994bf66584c9b5f4e81b1",
   "verdict": "PASS",
   "critic": "work/b/Clip_09/qa/critic.md",
-  "ass_sha256": "cee9c1af7217c424915cdd87d75b48b68cf62e36b182f92335a0b557c74a5d25"
+  "ass_sha256": "11b1c0f0a331ae692e13d46dcb766c7357a958e8730c506517c26f31b1ccf811"
  },
  "Clip_14": {
   "render_sha256": "4acd372b4212c164e852c969d50ea40adaf778b4be380961fdc4a0c51f900520",
@@ -120,9 +120,9 @@
   "ass_sha256": "724826122500906ef06ca4173edaff903741a221443f5da1c3c487fff2cca84b"
  },
  "Clip_02": {
-  "render_sha256": "19723d69e7ae880cd482db048a882bbdd990ba748066c31849186acbbe3b15af",
+  "render_sha256": "ea962a3f19a60f109e01a170188e96deda4af92b890e9ce70eac1bf4429b05be",
   "verdict": "PASS",
   "critic": "work/b/Clip_02/qa/critic.md",
-  "ass_sha256": "dfb1e9bd5aa9a22ddd28d3f88d1c7784229b9cf90667d1bd11cee52887a8079b"
+  "ass_sha256": "a4bfe0d65c1560ac0f4a674652e0d813c2b962624de2316f07502d0289d6bc7f"
  }
 }
