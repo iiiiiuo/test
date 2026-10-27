@@ -1,0 +1,83 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He broke us mentally
+Dialogue: 0,0:00:00.00,0:00:01.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with that mentality
+Dialogue: 0,0:00:00.00,0:00:01.94,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}あいつはその考え方で
+Dialogue: 0,0:00:00.00,0:00:01.94,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}俺らを精神的にぶっ壊したんだ
+Dialogue: 0,0:00:01.96,0:00:03.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}that you have to pick and choose.
+Dialogue: 0,0:00:01.96,0:00:03.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どっちかを選ばなきゃいけない
+Dialogue: 0,0:00:03.10,0:00:04.26,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You can't be together.
+Dialogue: 0,0:00:03.10,0:00:04.26,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}両方とは一緒にやれないってな
+Dialogue: 0,0:00:04.42,0:00:07.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's why we have to do things
+Dialogue: 0,0:00:04.42,0:00:07.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}to break that mentality
+Dialogue: 0,0:00:04.42,0:00:07.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからそういう考え方を
+Dialogue: 0,0:00:04.42,0:00:07.20,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ぶっ壊すことをやんなきゃいけねえ
+Dialogue: 0,0:00:07.22,0:00:08.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}to be like, you know what?
+Dialogue: 0,0:00:07.22,0:00:08.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}"いいか？"って言えるようにな
+Dialogue: 0,0:00:08.96,0:00:11.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We're embracing Jay-Z,
+Dialogue: 0,0:00:08.96,0:00:11.34,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and we're embracing the NFL.
+Dialogue: 0,0:00:08.96,0:00:11.34,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺らはJay-Zも受け入れるし
+Dialogue: 0,0:00:08.96,0:00:11.34,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}NFLも受け入れる
+Dialogue: 0,0:00:11.36,0:00:12.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Now what?
+Dialogue: 0,0:00:11.36,0:00:12.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、何か文句ある？
+Dialogue: 0,0:00:12.58,0:00:15.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}'Cause it was some motherf**ker
+Dialogue: 0,0:00:12.58,0:00:15.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}chasing me around all day yesterday.
+Dialogue: 0,0:00:12.58,0:00:15.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}昨日なんか どっかのクソ野郎に
+Dialogue: 0,0:00:12.58,0:00:15.52,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}一日中追い回されてよ
+Dialogue: 0,0:00:15.84,0:00:17.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Little white dude with a little camera.
+Dialogue: 0,0:00:15.84,0:00:17.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ちっちゃいカメラ持った 小柄な白人の男
+Dialogue: 0,0:00:17.14,0:00:18.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Hey, Snoop.
+Dialogue: 0,0:00:17.14,0:00:18.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}"ヘイ、Snoop"
+Dialogue: 0,0:00:18.72,0:00:21.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What do you feel about
+Dialogue: 0,0:00:18.72,0:00:21.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jay-Z and the NFL thing?
+Dialogue: 0,0:00:18.72,0:00:21.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}"Jay-ZとNFLの件 どう思います？"
+Dialogue: 0,0:00:22.84,0:00:23.62,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm not answering.
+Dialogue: 0,0:00:22.84,0:00:23.62,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}答えねえよ
+Dialogue: 0,0:00:23.64,0:00:24.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I showed up somewhere else.
+Dialogue: 0,0:00:23.64,0:00:24.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で、別の場所に顔出したら
+Dialogue: 0,0:00:24.94,0:00:25.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Here this ni**a come again.
+Dialogue: 0,0:00:24.94,0:00:25.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}またこいつが来やがった
+Dialogue: 0,0:00:25.90,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Hey, Snoop, what's going on?
+Dialogue: 0,0:00:25.90,0:00:27.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}"ヘイ、Snoop 調子どうです？"
+Dialogue: 0,0:00:27.44,0:00:30.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}What do you feel about
+Dialogue: 0,0:00:27.44,0:00:30.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Jay-Z and the NFL thing?
+Dialogue: 0,0:00:27.44,0:00:30.20,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}"Jay-ZとNFLの件 どう思います？"
+Dialogue: 0,0:00:30.76,0:00:32.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You ask me that one more time,
+Dialogue: 0,0:00:30.76,0:00:32.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}もう一回それ聞いてきたら
+Dialogue: 0,0:00:32.18,0:00:33.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm gonna hit you in the head
+Dialogue: 0,0:00:32.18,0:00:33.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with a football.
+Dialogue: 0,0:00:32.18,0:00:33.48,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}アメフトのボールで頭ぶん殴るぞ
+Dialogue: 0,0:00:33.50,0:00:34.78,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}F**k out my face.
+Dialogue: 0,0:00:33.50,0:00:34.78,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}とっとと失せろ
+Dialogue: 0,0:00:34.94,0:00:36.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}See, that's why
+Dialogue: 0,0:00:34.94,0:00:36.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you need bodyguards.
+Dialogue: 0,0:00:34.94,0:00:36.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だからボディガードが必要なんだって
+Dialogue: 0,0:00:39.30,0:00:40.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Well, Snoop,
+Dialogue: 0,0:00:39.30,0:00:40.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}we appreciate you for coming
+Dialogue: 0,0:00:39.30,0:00:40.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Snoop、今日は来てくれてありがとう
+Dialogue: 0,0:00:41.00,0:00:43.34,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and joining in on 67% of the…
+Dialogue: 0,0:00:43.36,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's a lot.
+Dialogue: 0,0:00:43.36,0:00:43.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}結構多いな
+Dialogue: 0,0:00:43.94,0:00:44.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Somebody hit you with that?
+Dialogue: 0,0:00:43.94,0:00:44.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それ誰に吹き込まれた？
+Dialogue: 0,0:00:44.96,0:00:46.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just Googled it.
+Dialogue: 0,0:00:44.96,0:00:46.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ググっただけだよ
+Dialogue: 0,0:00:46.56,0:00:47.92,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That ain't enough.
+Dialogue: 0,0:00:46.56,0:00:47.92,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}それじゃ足りねえよ
+Dialogue: 0,0:00:48.00,0:00:48.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}S**t.
+Dialogue: 0,0:00:48.00,0:00:48.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}クソッ
+Dialogue: 0,0:00:48.78,0:00:50.98,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}If that was THC,
+Dialogue: 0,0:00:48.78,0:00:50.98,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you'd be high as a motherf**ker.
+Dialogue: 0,0:00:48.78,0:00:50.98,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}それがTHCだったら
+Dialogue: 0,0:00:48.78,0:00:50.98,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前バチバチにキマってるぞ

@@ -1,0 +1,49 @@
+{
+ "run_id": "full_source_translation_20261027_070832",
+ "source_id": "SOURCE_VIDEO.mp4 (attached 2026-10-27T07:07Z, Snoop Dogg on The Breakfast Club)",
+ "source_paths": [
+  "/root/.claude/uploads/fea347ca-d230-5d5a-8af8-6fb5b44ae0f1/9980dadf-SOURCE_VIDEO.mp4",
+  "/mnt/project-files/uploads/hearth/9980dadf-4de0-426e-b4a6-ac3142fd829d"
+ ],
+ "sha256": "197216ec1b98d648e3704e55c868ba5377027b88dc5b6bf1f5f25be4d89ff86f",
+ "not_the_same_as": "/mnt/project-files/SOURCE_VIDEO.mp4 (older Breakfast Club interview) and the Travis Scott source of full_source_translation_20261027_030524",
+ "container_duration_s": 51.0169,
+ "video": {
+  "codec": "av1",
+  "width": 1920,
+  "height": 1080,
+  "fps": "30000/1001",
+  "cfr": true,
+  "time_base": "1/30000",
+  "start_time": 0.0,
+  "duration_s": 51.0169,
+  "nb_frames": 1667,
+  "rotation": null
+ },
+ "audio": {
+  "codec": "opus",
+  "sample_rate": 48000,
+  "channels": 2,
+  "start_time": 0.0,
+  "duration_s": 51.014
+ },
+ "audio_source": "SOURCE_VIDEO.mp4",
+ "video_source": "SOURCE_VIDEO.mp4",
+ "audio_interval": "ENTIRE SOURCE [0, 51.014) s, original audio re-encoded Opus->AAC 256k, no filters",
+ "video_interval": "ENTIRE SOURCE: all 1528 presented frames [0, 1528), original PTS kept",
+ "original_duration_s": 51.0169,
+ "expected_final_duration": "SAME AS ORIGINAL",
+ "final_output": "final.mp4",
+ "presented_timeline": "MP4 edit list hides 139 pre-roll video frames (pts<0); presented video = 1528 frames, pts 0..50.951 s (end 50.984 s); audio 51.014 s",
+ "final_sha256": "f94944f80aaabf2763d6fcb08de0635e09251e3f023f7d5dd56639d71496b9b6",
+ "final_measured": {
+  "video_frames": 1528,
+  "video_duration_s": 50.984267,
+  "audio_duration_s": 51.014,
+  "format_duration_s": 51.014,
+  "resolution": "1080x1920",
+  "sar": "1:1"
+ },
+ "spatial_edit": "1119x1080 crop window per shot (work/runs/RUN/framing.json) -> 1080x1042 sharp band at y=438 over blurred fill; EN+JP subtitles burned in",
+ "temporal_edits": "none"
+}
