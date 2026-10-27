@@ -1,0 +1,13 @@
+{
+ "run_id": "full_source_translation_20261027_070832",
+ "updated": "2026-10-27T07:28:39Z",
+ "source": {"manifest": "source_manifest.json", "sha256": "197216ec1b98d648e3704e55c868ba5377027b88dc5b6bf1f5f25be4d89ff86f", "duration_s": 51.0169},
+ "phase": 1,
+ "translation": {"version": "v1", "file": "translation_review.md", "data": "transcription.json", "qa": "translation_qa.md", "critic_verdict": "FAIL round 1 (019/021 unresolved, user input needed)", "approval_status": "PENDING HUMAN APPROVAL"},
+ "caches": {"asr": "/mnt/project-files/work/runs/full_source_translation_20261027_070832/asr/"},
+ "phase2_inputs_known": {"style_spec": "reuse run full_source_translation_20261027_030524 (scripts on branch claude/project-thread-7egzl5; work/runs/<that run>/)", "no_annotation_row": true},
+ "uncertainties": ["019", "021", "025"],
+ "current_task": "waiting for giub: translation approval + 019/021/025 choice",
+ "next_action": "apply giub's answer, re-run critic on changed lines, then write approved_translation.md and start PHASE 2 only after explicit approval",
+ "blockers": ["human approval"]
+}
