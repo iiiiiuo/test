@@ -1,0 +1,130 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:04.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Let's get it, yo.
+Dialogue: 0,0:00:02.90,0:00:04.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}よっしゃ、行くぞ
+Dialogue: 0,0:00:04.48,0:00:05.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Welcome home.
+Dialogue: 0,0:00:04.48,0:00:05.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}おかえり
+Dialogue: 0,0:00:05.40,0:00:05.94,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yes.
+Dialogue: 0,0:00:05.40,0:00:05.94,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}おう
+Dialogue: 0,0:00:05.96,0:00:06.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You ready for this?
+Dialogue: 0,0:00:05.96,0:00:06.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}準備はいいか？
+Dialogue: 0,0:00:06.82,0:00:07.44,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah.
+Dialogue: 0,0:00:06.82,0:00:07.44,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ああ
+Dialogue: 0,0:00:07.46,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Let me just take you straight there.
+Dialogue: 0,0:00:07.46,0:00:08.82,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}このまま直接案内するよ
+Dialogue: 0,0:00:08.84,0:00:09.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Let's go.
+Dialogue: 0,0:00:08.84,0:00:09.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}行こう
+Dialogue: 0,0:00:09.20,0:00:10.28,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We just won't even talk about it.
+Dialogue: 0,0:00:09.20,0:00:10.28,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}もう何も言わないでおこう
+Dialogue: 0,0:00:10.30,0:00:11.54,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We won't talk about the colors.
+Dialogue: 0,0:00:10.30,0:00:11.54,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}色の話もしない
+Dialogue: 0,0:00:11.56,0:00:12.96,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We won't talk about nothing.
+Dialogue: 0,0:00:11.56,0:00:12.96,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}一切ナシだ
+Dialogue: 0,0:00:15.32,0:00:17.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Kind of bringing it
+Dialogue: 0,0:00:15.32,0:00:17.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}back to the old days.
+Dialogue: 0,0:00:15.32,0:00:17.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}昔ながらのやり方でいくよ
+Dialogue: 0,0:00:17.02,0:00:19.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We covered it because I didn't
+Dialogue: 0,0:00:17.02,0:00:19.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}want you to sneak peek it.
+Dialogue: 0,0:00:17.02,0:00:19.02,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}チラ見されたくなかったから
+Dialogue: 0,0:00:17.02,0:00:19.02,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}カバーかけといた
+Dialogue: 0,0:00:19.04,0:00:19.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Damn.
+Dialogue: 0,0:00:19.04,0:00:19.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マジか
+Dialogue: 0,0:00:20.46,0:00:21.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But let's do it.
+Dialogue: 0,0:00:20.46,0:00:21.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}じゃあ、いくぞ
+Dialogue: 0,0:00:21.44,0:00:22.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's crazy.
+Dialogue: 0,0:00:21.44,0:00:22.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Pull it off.
+Dialogue: 0,0:00:21.44,0:00:22.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ヤバいな
+Dialogue: 0,0:00:21.44,0:00:22.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}カバー取って
+Dialogue: 0,0:00:25.75,0:00:27.75,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}That's the chocolate Lambo.
+Dialogue: 0,0:00:25.75,0:00:27.75,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}これがチョコレート色のLambo
+Dialogue: 0,0:00:36.74,0:00:37.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Travis, for reals, though,
+Dialogue: 0,0:00:36.74,0:00:37.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}Travis、マジな話
+Dialogue: 0,0:00:37.86,0:00:40.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}it all comes together
+Dialogue: 0,0:00:37.86,0:00:40.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when you see this interior.
+Dialogue: 0,0:00:37.86,0:00:40.30,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}この内装見たら全部しっくりくるんだ
+Dialogue: 0,0:00:52.28,0:00:54.56,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is, this is wild, bro.
+Dialogue: 0,0:00:52.28,0:00:54.56,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}これは…これはヤバいって、マジで
+Dialogue: 0,0:00:55.64,0:00:56.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}See that stitching?
+Dialogue: 0,0:00:55.64,0:00:56.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}このステッチ見てよ
+Dialogue: 0,0:00:57.10,0:00:58.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}We took the exact factory pattern
+Dialogue: 0,0:00:57.10,0:00:58.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}純正とまったく同じパターンにしたから
+Dialogue: 0,0:00:58.90,0:01:01.08,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}so it still looks like the factory SV.
+Dialogue: 0,0:00:58.90,0:01:01.08,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ちゃんと純正のSVに見えるんだ
+Dialogue: 0,0:01:01.10,0:01:02.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Fire.
+Dialogue: 0,0:01:01.10,0:01:02.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}最高
+Dialogue: 0,0:01:05.00,0:01:06.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Look crazy.
+Dialogue: 0,0:01:05.00,0:01:06.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}見た目ヤバすぎ
+Dialogue: 0,0:01:08.50,0:01:11.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}♪ Ooh, for this life I cannot change
+Dialogue: 0,0:01:08.50,0:01:11.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}♪ この生き方は変えられねえ
+Dialogue: 0,0:01:12.30,0:01:14.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}♪ Hidden Hills
+Dialogue: 0,0:01:12.30,0:01:14.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}♪ Hidden Hills
+Dialogue: 0,0:01:15.55,0:01:17.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I just, I was, like, shocked.
+Dialogue: 0,0:01:15.55,0:01:17.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}もう、なんていうか、衝撃だった
+Dialogue: 0,0:01:17.45,0:01:19.38,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, we were, like, mocking it up,
+Dialogue: 0,0:01:17.45,0:01:19.38,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}モックアップ作ったりして
+Dialogue: 0,0:01:19.40,0:01:22.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}went through mad colors,
+Dialogue: 0,0:01:19.40,0:01:22.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know, to try to get it right,
+Dialogue: 0,0:01:19.40,0:01:22.70,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}ちょうどいい色を探して
+Dialogue: 0,0:01:19.40,0:01:22.70,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}色をめっちゃ試したんだ
+Dialogue: 0,0:01:22.90,0:01:24.42,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and it just looked
+Dialogue: 0,0:01:22.90,0:01:24.42,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}way better in person.
+Dialogue: 0,0:01:22.90,0:01:24.42,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}実物のほうが断然よかった
+Dialogue: 0,0:01:24.44,0:01:25.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It was, like, crazy.
+Dialogue: 0,0:01:24.44,0:01:25.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マジでヤバかった
+Dialogue: 0,0:01:29.30,0:01:31.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Man, I'm, like, ready to run
+Dialogue: 0,0:01:29.30,0:01:31.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}off this camera right now.
+Dialogue: 0,0:01:29.30,0:01:31.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}もう今すぐカメラの前から
+Dialogue: 0,0:01:29.30,0:01:31.66,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}飛び出したいくらいだよ
+Dialogue: 0,0:01:31.68,0:01:32.48,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's crazy.
+Dialogue: 0,0:01:31.68,0:01:32.48,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ヤバい
+Dialogue: 0,0:01:32.64,0:01:33.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm too excited.
+Dialogue: 0,0:01:32.64,0:01:33.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}テンション上がりすぎてる
+Dialogue: 0,0:01:34.28,0:01:35.16,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Mad thankful, man.
+Dialogue: 0,0:01:34.28,0:01:35.16,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}マジで感謝してる
+Dialogue: 0,0:01:35.18,0:01:36.40,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}This is crazy.
+Dialogue: 0,0:01:35.18,0:01:36.40,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ヤバいよ
+Dialogue: 0,0:01:37.30,0:01:38.12,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Dope.
+Dialogue: 0,0:01:37.30,0:01:38.12,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}最高
+Dialogue: 0,0:01:38.25,0:01:39.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Let's do it.
+Dialogue: 0,0:01:38.25,0:01:39.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}よし、行こう
+Dialogue: 0,0:01:39.85,0:01:40.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}It's lit!
+Dialogue: 0,0:01:39.85,0:01:40.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}アガるぜ！
+Dialogue: 0,0:01:47.90,0:01:50.84,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So Travis just came,
+Dialogue: 0,0:01:47.90,0:01:50.84,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}he picked up his Lambo,
+Dialogue: 0,0:01:47.90,0:01:50.84,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}Travisが来て Lamboを受け取って
+Dialogue: 0,0:01:50.86,0:01:51.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and he's happy.
+Dialogue: 0,0:01:50.86,0:01:51.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}喜んでくれたよ
+Dialogue: 0,0:01:52.30,0:01:54.55,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So I feel like today was a good day.
+Dialogue: 0,0:01:52.30,0:01:54.55,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}今日はいい日だったな
+Dialogue: 0,0:01:55.00,0:01:56.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I kind of gave him
+Dialogue: 0,0:01:55.00,0:01:56.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}a couple sneak peeks
+Dialogue: 0,0:01:55.00,0:01:56.68,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}どんな仕上がりになるか
+Dialogue: 0,0:01:55.00,0:01:56.68,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}何回かチラ見せはしてたんだけど
+Dialogue: 0,0:01:56.70,0:01:57.80,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}of what it was gonna look like,
+Dialogue: 0,0:01:56.70,0:01:57.80,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}どんな仕上がりになるか
+Dialogue: 0,0:01:56.70,0:01:57.80,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}何回かチラ見せはしてたんだけど
+Dialogue: 0,0:01:57.82,0:01:58.68,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but then I was like, you know what,
+Dialogue: 0,0:01:57.82,0:01:58.68,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}やっぱりサプライズにしたいなって
+Dialogue: 0,0:01:58.70,0:01:59.88,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I want this thing to be a surprise
+Dialogue: 0,0:01:58.70,0:01:59.88,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}やっぱりサプライズにしたいなって
+Dialogue: 0,0:01:59.90,0:02:02.18,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because in pictures
+Dialogue: 0,0:01:59.90,0:02:02.18,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you can't really see
+Dialogue: 0,0:01:59.90,0:02:02.18,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}写真じゃこの色の本当の感じは
+Dialogue: 0,0:02:02.20,0:02:03.70,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}what this color looks like.
+Dialogue: 0,0:02:02.20,0:02:03.70,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}わからないからね
+Dialogue: 0,0:02:03.74,0:02:05.66,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}So today he got to see
+Dialogue: 0,0:02:03.74,0:02:05.66,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}it for the first time,
+Dialogue: 0,0:02:03.74,0:02:05.66,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}で、今日初めて実物を見て
+Dialogue: 0,0:02:05.68,0:02:07.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and he loved it.
+Dialogue: 0,0:02:05.68,0:02:07.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}すごく気に入ってくれた

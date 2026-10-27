@@ -1,0 +1,198 @@
+[
+ {
+  "t0": 0.0,
+  "t1": 4.137,
+  "centre": 0.48,
+  "x0": 362,
+  "note": "intro car, Travis enters"
+ },
+ {
+  "t0": 4.137,
+  "t1": 8.675,
+  "centre": 0.55,
+  "x0": 496,
+  "note": "Ryan greets, hug, both talk"
+ },
+ {
+  "t0": 8.675,
+  "t1": 12.579,
+  "centre": 0.6,
+  "x0": 592,
+  "note": "walk in: Travis + Ryan; shop photos"
+ },
+ {
+  "t0": 12.579,
+  "t1": 15.916,
+  "centre": 0.55,
+  "x0": 496,
+  "note": "covered car"
+ },
+ {
+  "t0": 15.916,
+  "t1": 23.724,
+  "centre": 0.56,
+  "x0": 516,
+  "note": "Travis + Ryan at the cover"
+ },
+ {
+  "t0": 23.724,
+  "t1": 29.73,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "Travis walks / reacts at red wall"
+ },
+ {
+  "t0": 29.73,
+  "t1": 40.274,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "car exterior details"
+ },
+ {
+  "t0": 40.274,
+  "t1": 43.51,
+  "centre": 0.56,
+  "x0": 516,
+  "note": "Travis + Ryan at the car"
+ },
+ {
+  "t0": 43.51,
+  "t1": 52.219,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "interior details"
+ },
+ {
+  "t0": 52.219,
+  "t1": 54.988,
+  "centre": 0.45,
+  "x0": 304,
+  "note": "Travis by car"
+ },
+ {
+  "t0": 54.988,
+  "t1": 61.828,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "seats / steering wheel"
+ },
+ {
+  "t0": 61.828,
+  "t1": 63.73,
+  "centre": 0.4,
+  "x0": 208,
+  "note": "Travis close-up"
+ },
+ {
+  "t0": 63.73,
+  "t1": 68.368,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "car profile / rear"
+ },
+ {
+  "t0": 68.368,
+  "t1": 71.605,
+  "centre": 0.55,
+  "x0": 496,
+  "note": "Travis dances at red wall"
+ },
+ {
+  "t0": 71.605,
+  "t1": 73.607,
+  "centre": 0.64,
+  "x0": 669,
+  "note": "Ryan + Travis at the door"
+ },
+ {
+  "t0": 73.607,
+  "t1": 76.71,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "dash / car profile"
+ },
+ {
+  "t0": 76.71,
+  "t1": 81.215,
+  "centre": 0.45,
+  "x0": 304,
+  "note": "Travis by the car"
+ },
+ {
+  "t0": 81.215,
+  "t1": 85.352,
+  "centre": 0.45,
+  "x0": 304,
+  "note": "Travis interview"
+ },
+ {
+  "t0": 85.352,
+  "t1": 92.192,
+  "centre": 0.52,
+  "x0": 439,
+  "note": "Travis + Ryan hug, Ryan by the car"
+ },
+ {
+  "t0": 92.192,
+  "t1": 96.697,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "Travis interview"
+ },
+ {
+  "t0": 96.697,
+  "t1": 101.969,
+  "centre": 0.52,
+  "x0": 439,
+  "note": "Travis + Ryan by the door / walk"
+ },
+ {
+  "t0": 101.969,
+  "t1": 104.037,
+  "centre": 0.42,
+  "x0": 247,
+  "note": "car wash"
+ },
+ {
+  "t0": 104.037,
+  "t1": 110.611,
+  "centre": 0.42,
+  "x0": 247,
+  "note": "car in the lot"
+ },
+ {
+  "t0": 110.611,
+  "t1": 114.214,
+  "centre": 0.48,
+  "x0": 362,
+  "note": "Ryan to camera"
+ },
+ {
+  "t0": 114.214,
+  "t1": 119.486,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "car drives off"
+ },
+ {
+  "t0": 119.486,
+  "t1": 124.358,
+  "centre": 0.48,
+  "x0": 362,
+  "note": "Ryan to camera"
+ },
+ {
+  "t0": 124.358,
+  "t1": 127.361,
+  "centre": 0.4,
+  "x0": 208,
+  "note": "Travis close"
+ },
+ {
+  "t0": 127.361,
+  "t1": 131.0,
+  "centre": 0.5,
+  "x0": 400,
+  "note": "group photo"
+ }
+]

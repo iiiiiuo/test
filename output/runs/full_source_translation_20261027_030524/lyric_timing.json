@@ -1,0 +1,611 @@
+{
+ "run_id": "full_source_translation_20261027_030524",
+ "source_duration_s": 130.714,
+ "method": "caption start = first-word onset (medium.en span pass, cross-checked with large-v3 and 250-3500 Hz energy); end = last word end + 0.5 s, min 0.8 s, never overlapping the next caption",
+ "not_subtitled": [
+  "018 (approved: no subtitle)"
+ ],
+ "events": [
+  {
+   "event": 1,
+   "line_ids": [
+    "001"
+   ],
+   "start": 2.9,
+   "end": 4.3,
+   "last_word_end": 3.8,
+   "en": "Let's get it, yo.",
+   "en_display": "Let's get it, yo.",
+   "jp": "よっしゃ、行くぞ"
+  },
+  {
+   "event": 2,
+   "line_ids": [
+    "002"
+   ],
+   "start": 4.48,
+   "end": 5.38,
+   "last_word_end": 5.08,
+   "en": "Welcome home.",
+   "en_display": "Welcome home.",
+   "jp": "おかえり"
+  },
+  {
+   "event": 3,
+   "line_ids": [
+    "003"
+   ],
+   "start": 5.4,
+   "end": 5.94,
+   "last_word_end": 5.62,
+   "en": "Yes.",
+   "en_display": "Yes.",
+   "jp": "おう"
+  },
+  {
+   "event": 4,
+   "line_ids": [
+    "004"
+   ],
+   "start": 5.96,
+   "end": 6.8,
+   "last_word_end": 6.62,
+   "en": "You ready for this?",
+   "en_display": "You ready for this?",
+   "jp": "準備はいいか？"
+  },
+  {
+   "event": 5,
+   "line_ids": [
+    "005"
+   ],
+   "start": 6.82,
+   "end": 7.44,
+   "last_word_end": 6.94,
+   "en": "Yeah.",
+   "en_display": "Yeah.",
+   "jp": "ああ"
+  },
+  {
+   "event": 6,
+   "line_ids": [
+    "006"
+   ],
+   "start": 7.46,
+   "end": 8.82,
+   "last_word_end": 8.62,
+   "en": "Let me just take you straight there.",
+   "en_display": "Let me just take you straight there.",
+   "jp": "このまま直接案内するよ"
+  },
+  {
+   "event": 7,
+   "line_ids": [
+    "007"
+   ],
+   "start": 8.84,
+   "end": 9.18,
+   "last_word_end": 9.12,
+   "en": "Let's go.",
+   "en_display": "Let's go.",
+   "jp": "行こう"
+  },
+  {
+   "event": 8,
+   "line_ids": [
+    "008"
+   ],
+   "start": 9.2,
+   "end": 10.28,
+   "last_word_end": 10.18,
+   "en": "We just won't even talk about it.",
+   "en_display": "We just won't even talk about it.",
+   "jp": "もう何も言わないでおこう"
+  },
+  {
+   "event": 9,
+   "line_ids": [
+    "009"
+   ],
+   "start": 10.3,
+   "end": 11.54,
+   "last_word_end": 11.3,
+   "en": "We won't talk about the colors.",
+   "en_display": "We won't talk about the colors.",
+   "jp": "色の話もしない"
+  },
+  {
+   "event": 10,
+   "line_ids": [
+    "010"
+   ],
+   "start": 11.56,
+   "end": 12.96,
+   "last_word_end": 12.46,
+   "en": "We won't talk about nothing.",
+   "en_display": "We won't talk about nothing.",
+   "jp": "一切ナシだ"
+  },
+  {
+   "event": 11,
+   "line_ids": [
+    "011"
+   ],
+   "start": 15.32,
+   "end": 17.0,
+   "last_word_end": 16.8,
+   "en": "Kind of bringing it back to the old days.",
+   "en_display": "Kind of bringing it back to the old days.",
+   "jp": "昔ながらのやり方でいくよ"
+  },
+  {
+   "event": 12,
+   "line_ids": [
+    "012"
+   ],
+   "start": 17.02,
+   "end": 19.02,
+   "last_word_end": 19.0,
+   "en": "We covered it because I didn't want you to sneak peek it.",
+   "en_display": "We covered it because I didn't want you to sneak peek it.",
+   "jp": "チラ見されたくなかったから\nカバーかけといた"
+  },
+  {
+   "event": 13,
+   "line_ids": [
+    "013"
+   ],
+   "start": 19.04,
+   "end": 19.84,
+   "last_word_end": 19.26,
+   "en": "Damn.",
+   "en_display": "Damn.",
+   "jp": "マジか"
+  },
+  {
+   "event": 14,
+   "line_ids": [
+    "014"
+   ],
+   "start": 20.46,
+   "end": 21.42,
+   "last_word_end": 21.4,
+   "en": "But let's do it.",
+   "en_display": "But let's do it.",
+   "jp": "じゃあ、いくぞ"
+  },
+  {
+   "event": 15,
+   "line_ids": [
+    "015",
+    "016"
+   ],
+   "start": 21.44,
+   "end": 22.7,
+   "last_word_end": 22.2,
+   "en": "That's crazy.\nPull it off.",
+   "en_display": "That's crazy.\nPull it off.",
+   "jp": "ヤバいな\nカバー取って"
+  },
+  {
+   "event": 16,
+   "line_ids": [
+    "017"
+   ],
+   "start": 25.75,
+   "end": 27.75,
+   "last_word_end": 27.25,
+   "en": "That's the chocolate Lambo.",
+   "en_display": "That's the chocolate Lambo.",
+   "jp": "これがチョコレート色のLambo"
+  },
+  {
+   "event": 17,
+   "line_ids": [
+    "019"
+   ],
+   "start": 36.74,
+   "end": 37.84,
+   "last_word_end": 37.8,
+   "en": "Travis, for reals, though,",
+   "en_display": "Travis, for reals, though,",
+   "jp": "Travis、マジな話"
+  },
+  {
+   "event": 18,
+   "line_ids": [
+    "019"
+   ],
+   "start": 37.86,
+   "end": 40.3,
+   "last_word_end": 39.8,
+   "en": "it all comes together when you see this interior.",
+   "en_display": "it all comes together when you see this interior.",
+   "jp": "この内装見たら全部しっくりくるんだ"
+  },
+  {
+   "event": 19,
+   "line_ids": [
+    "020"
+   ],
+   "start": 52.28,
+   "end": 54.56,
+   "last_word_end": 54.06,
+   "en": "This is, this is wild, bro.",
+   "en_display": "This is, this is wild, bro.",
+   "jp": "これは…これはヤバいって、マジで"
+  },
+  {
+   "event": 20,
+   "line_ids": [
+    "021"
+   ],
+   "start": 55.64,
+   "end": 56.9,
+   "last_word_end": 56.4,
+   "en": "See that stitching?",
+   "en_display": "See that stitching?",
+   "jp": "このステッチ見てよ"
+  },
+  {
+   "event": 21,
+   "line_ids": [
+    "022"
+   ],
+   "start": 57.1,
+   "end": 58.88,
+   "last_word_end": 58.8,
+   "en": "We took the exact factory pattern",
+   "en_display": "We took the exact factory pattern",
+   "jp": "純正とまったく同じパターンにしたから"
+  },
+  {
+   "event": 22,
+   "line_ids": [
+    "022"
+   ],
+   "start": 58.9,
+   "end": 61.08,
+   "last_word_end": 60.7,
+   "en": "so it still looks like the factory SV.",
+   "en_display": "so it still looks like the factory SV.",
+   "jp": "ちゃんと純正のSVに見えるんだ"
+  },
+  {
+   "event": 23,
+   "line_ids": [
+    "023"
+   ],
+   "start": 61.1,
+   "end": 62.0,
+   "last_word_end": 61.5,
+   "en": "Fire.",
+   "en_display": "Fire.",
+   "jp": "最高"
+  },
+  {
+   "event": 24,
+   "line_ids": [
+    "024"
+   ],
+   "start": 65.0,
+   "end": 66.15,
+   "last_word_end": 65.65,
+   "en": "Look crazy.",
+   "en_display": "Look crazy.",
+   "jp": "見た目ヤバすぎ"
+  },
+  {
+   "event": 25,
+   "line_ids": [
+    "025"
+   ],
+   "start": 68.5,
+   "end": 71.3,
+   "last_word_end": 70.8,
+   "en": "♪ Ooh, for this life I cannot change",
+   "en_display": "♪ Ooh, for this life I cannot change",
+   "jp": "♪ この生き方は変えられねえ"
+  },
+  {
+   "event": 26,
+   "line_ids": [
+    "026"
+   ],
+   "start": 72.3,
+   "end": 74.16,
+   "last_word_end": 73.66,
+   "en": "♪ Hidden Hills",
+   "en_display": "♪ Hidden Hills",
+   "jp": "♪ Hidden Hills"
+  },
+  {
+   "event": 27,
+   "line_ids": [
+    "027"
+   ],
+   "start": 75.55,
+   "end": 77.43,
+   "last_word_end": 77.2,
+   "en": "I just, I was, like, shocked.",
+   "en_display": "I just, I was, like, shocked.",
+   "jp": "もう、なんていうか、衝撃だった"
+  },
+  {
+   "event": 28,
+   "line_ids": [
+    "028"
+   ],
+   "start": 77.45,
+   "end": 79.38,
+   "last_word_end": 78.9,
+   "en": "Like, we were, like, mocking it up,",
+   "en_display": "Like, we were, like, mocking it up,",
+   "jp": "モックアップ作ったりして"
+  },
+  {
+   "event": 29,
+   "line_ids": [
+    "029"
+   ],
+   "start": 79.4,
+   "end": 82.7,
+   "last_word_end": 82.2,
+   "en": "went through mad colors, you know, to try to get it right,",
+   "en_display": "went through mad colors, you know, to try to get it right,",
+   "jp": "ちょうどいい色を探して\n色をめっちゃ試したんだ"
+  },
+  {
+   "event": 30,
+   "line_ids": [
+    "030"
+   ],
+   "start": 82.9,
+   "end": 84.42,
+   "last_word_end": 84.25,
+   "en": "and it just looked way better in person.",
+   "en_display": "and it just looked way better in person.",
+   "jp": "実物のほうが断然よかった"
+  },
+  {
+   "event": 31,
+   "line_ids": [
+    "031"
+   ],
+   "start": 84.44,
+   "end": 85.6,
+   "last_word_end": 85.1,
+   "en": "It was, like, crazy.",
+   "en_display": "It was, like, crazy.",
+   "jp": "マジでヤバかった"
+  },
+  {
+   "event": 32,
+   "line_ids": [
+    "032"
+   ],
+   "start": 89.3,
+   "end": 91.66,
+   "last_word_end": 91.65,
+   "en": "Man, I'm, like, ready to run off this camera right now.",
+   "en_display": "Man, I'm, like, ready to run off this camera right now.",
+   "jp": "もう今すぐカメラの前から\n飛び出したいくらいだよ"
+  },
+  {
+   "event": 33,
+   "line_ids": [
+    "033"
+   ],
+   "start": 91.68,
+   "end": 92.48,
+   "last_word_end": 91.95,
+   "en": "It's crazy.",
+   "en_display": "It's crazy.",
+   "jp": "ヤバい"
+  },
+  {
+   "event": 34,
+   "line_ids": [
+    "034"
+   ],
+   "start": 92.64,
+   "end": 93.9,
+   "last_word_end": 93.4,
+   "en": "I'm too excited.",
+   "en_display": "I'm too excited.",
+   "jp": "テンション上がりすぎてる"
+  },
+  {
+   "event": 35,
+   "line_ids": [
+    "035"
+   ],
+   "start": 94.28,
+   "end": 95.16,
+   "last_word_end": 95.06,
+   "en": "Mad thankful, man.",
+   "en_display": "Mad thankful, man.",
+   "jp": "マジで感謝してる"
+  },
+  {
+   "event": 36,
+   "line_ids": [
+    "036"
+   ],
+   "start": 95.18,
+   "end": 96.4,
+   "last_word_end": 95.9,
+   "en": "This is crazy.",
+   "en_display": "This is crazy.",
+   "jp": "ヤバいよ"
+  },
+  {
+   "event": 37,
+   "line_ids": [
+    "037"
+   ],
+   "start": 97.3,
+   "end": 98.12,
+   "last_word_end": 97.62,
+   "en": "Dope.",
+   "en_display": "Dope.",
+   "jp": "最高"
+  },
+  {
+   "event": 38,
+   "line_ids": [
+    "038"
+   ],
+   "start": 98.25,
+   "end": 99.25,
+   "last_word_end": 98.75,
+   "en": "Let's do it.",
+   "en_display": "Let's do it.",
+   "jp": "よし、行こう"
+  },
+  {
+   "event": 39,
+   "line_ids": [
+    "039"
+   ],
+   "start": 99.85,
+   "end": 100.84,
+   "last_word_end": 100.34,
+   "en": "It's lit!",
+   "en_display": "It's lit!",
+   "jp": "アガるぜ！"
+  },
+  {
+   "event": 40,
+   "line_ids": [
+    "040"
+   ],
+   "start": 107.9,
+   "end": 110.84,
+   "last_word_end": 110.7,
+   "en": "So Travis just came, he picked up his Lambo,",
+   "en_display": "So Travis just came, he picked up his Lambo,",
+   "jp": "Travisが来て Lamboを受け取って"
+  },
+  {
+   "event": 41,
+   "line_ids": [
+    "040"
+   ],
+   "start": 110.86,
+   "end": 111.95,
+   "last_word_end": 111.45,
+   "en": "and he's happy.",
+   "en_display": "and he's happy.",
+   "jp": "喜んでくれたよ"
+  },
+  {
+   "event": 42,
+   "line_ids": [
+    "041"
+   ],
+   "start": 112.3,
+   "end": 114.55,
+   "last_word_end": 114.05,
+   "en": "So I feel like today was a good day.",
+   "en_display": "So I feel like today was a good day.",
+   "jp": "今日はいい日だったな"
+  },
+  {
+   "event": 43,
+   "line_ids": [
+    "042"
+   ],
+   "start": 115.0,
+   "end": 116.68,
+   "last_word_end": 116.6,
+   "en": "I kind of gave him a couple sneak peeks",
+   "en_display": "I kind of gave him a couple sneak peeks",
+   "jp": "どんな仕上がりになるか\n何回かチラ見せはしてたんだけど"
+  },
+  {
+   "event": 44,
+   "line_ids": [
+    "042"
+   ],
+   "start": 116.7,
+   "end": 117.8,
+   "last_word_end": 117.75,
+   "en": "of what it was gonna look like,",
+   "en_display": "of what it was gonna look like,",
+   "jp": "どんな仕上がりになるか\n何回かチラ見せはしてたんだけど"
+  },
+  {
+   "event": 45,
+   "line_ids": [
+    "043"
+   ],
+   "start": 117.82,
+   "end": 118.68,
+   "last_word_end": 118.62,
+   "en": "but then I was like, you know what,",
+   "en_display": "but then I was like, you know what,",
+   "jp": "やっぱりサプライズにしたいなって"
+  },
+  {
+   "event": 46,
+   "line_ids": [
+    "043"
+   ],
+   "start": 118.7,
+   "end": 119.88,
+   "last_word_end": 119.88,
+   "en": "I want this thing to be a surprise",
+   "en_display": "I want this thing to be a surprise",
+   "jp": "やっぱりサプライズにしたいなって"
+  },
+  {
+   "event": 47,
+   "line_ids": [
+    "044"
+   ],
+   "start": 119.9,
+   "end": 122.18,
+   "last_word_end": 122.15,
+   "en": "because in pictures you can't really see",
+   "en_display": "because in pictures you can't really see",
+   "jp": "写真じゃこの色の本当の感じは"
+  },
+  {
+   "event": 48,
+   "line_ids": [
+    "044"
+   ],
+   "start": 122.2,
+   "end": 123.7,
+   "last_word_end": 123.2,
+   "en": "what this color looks like.",
+   "en_display": "what this color looks like.",
+   "jp": "わからないからね"
+  },
+  {
+   "event": 49,
+   "line_ids": [
+    "045"
+   ],
+   "start": 123.74,
+   "end": 125.66,
+   "last_word_end": 125.6,
+   "en": "So today he got to see it for the first time,",
+   "en_display": "So today he got to see it for the first time,",
+   "jp": "で、今日初めて実物を見て"
+  },
+  {
+   "event": 50,
+   "line_ids": [
+    "045"
+   ],
+   "start": 125.68,
+   "end": 127.25,
+   "last_word_end": 126.75,
+   "en": "and he loved it.",
+   "en_display": "and he loved it.",
+   "jp": "すごく気に入ってくれた"
+  }
+ ]
+}

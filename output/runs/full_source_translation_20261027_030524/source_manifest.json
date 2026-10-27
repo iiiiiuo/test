@@ -1,0 +1,67 @@
+{
+ "run_id": "full_source_translation_20261027_030524",
+ "source_id": "SOURCE_VIDEO_TRAVIS_WCC",
+ "source_file": "SOURCE_VIDEO.mp4 (attached 2026-10-27; project copy /mnt/project-files/uploads/hearth/7e1ad6f4-32c8-492c-b8b3-032c4a7f9beb)",
+ "sha256": "6a4e1cf5fdb5133a7b2a32f98bca6968307f27c52b68f607f92aba730df8a996",
+ "bytes": 25046626,
+ "not_the_same_as": {
+  "path": "/mnt/project-files/SOURCE_VIDEO.mp4",
+  "sha256": "2bc9e4b5d7e07dce784dfdc99991c4b6de6b09d9adb9dd19bb2dec4795d0280f",
+  "note": "older 747.8 s Breakfast Club interview; not used in this run"
+ },
+ "content": "Inside West Coast Customs (Velocity): Travis Scott's brown Lamborghini Aventador S Roadster reveal at West Coast Customs; Ryan Friedlinghaus piece to camera at the end",
+ "container": {
+  "format": "mp4 (isom/av01)",
+  "duration_s": 130.714,
+  "encoder": "Lavf63.5.101"
+ },
+ "video": {
+  "codec": "av1",
+  "width": 1920,
+  "height": 1080,
+  "sar": "1:1",
+  "dar": "16:9",
+  "fps": "30000/1001",
+  "cfr": true,
+  "timebase": "1/30000",
+  "pts_step": 1001,
+  "start_pts": 0,
+  "frames": 3917,
+  "duration_s": 130.697233,
+  "rotation": null
+ },
+ "audio": {
+  "codec": "opus",
+  "sample_rate": 48000,
+  "channels": 2,
+  "timebase": "1/48000",
+  "start_pts": 0,
+  "duration_s": 130.714
+ },
+ "av_sync": "both streams start at pts 0; audio ends 0.017 s after last video frame end",
+ "frame_to_time": "t = frame * 1001 / 30000",
+ "lyrics_file": "1.lyrics.txt not found in repo, input/, or /mnt/project-files/ (N/A)",
+ "audio_source": "SOURCE_VIDEO.mp4",
+ "video_source": "SOURCE_VIDEO.mp4",
+ "audio_interval": "ENTIRE SOURCE [0, 130.714) s, 48 kHz, lag 0 samples",
+ "video_interval": "ENTIRE SOURCE frames [0, 3917), every output frame has the same PTS as its source frame (tb 1/30000, step 1001)",
+ "original_duration_s": 130.714,
+ "expected_final_duration": "SAME AS ORIGINAL",
+ "final_output": "final.mp4",
+ "final": {
+  "path": "output/runs/full_source_translation_20261027_030524/final.mp4",
+  "sha256": "251215934a6e3d912add3153dc7a3d9ae169eec3ea92f0a7aa96eab63f277a07",
+  "stream_md5": {
+   "v": "03dc47605181d25a591ad9dbd8c938c7",
+   "a": "fcf1edfc300cf732a172c46cfe7a4f9d"
+  },
+  "video": "h264 1080x1920 SAR 1:1 30000/1001 CFR, 3917 frames, 130.697233 s",
+  "audio": "aac 48 kHz stereo 256 kb/s, 130.714 s (Opus to AAC re-encode, no filters/gain)",
+  "format_duration_s": 130.714
+ },
+ "edits": {
+  "temporal": "none (no cuts, no speed change, no reordering, no added audio)",
+  "spatial": "per-shot 1119x1080 crop of the source -> 1080x1042 sharp band at y=438 over a blurred copy of the same crop (work/runs/RUN/framing.json)",
+  "subtitles": "subtitles.ass, burned in with libass (FFmpeg 6.1.1), Yu Gothic Bold"
+ }
+}

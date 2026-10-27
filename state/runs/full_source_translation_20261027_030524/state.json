@@ -1,13 +1,38 @@
 {
-  "run_id": "full_source_translation_20261027_030524",
-  "updated": "2026-10-27T03:40:00Z",
-  "source": {"manifest": "source_manifest.json", "sha256": "6a4e1cf5fdb5133a7b2a32f98bca6968307f27c52b68f607f92aba730df8a996", "duration_s": 130.714},
-  "phase": 1,
-  "translation": {"version": "v1", "file": "translation_review.md", "data": "transcription.json", "qa": "translation_qa.md", "critic_verdict": "PASS (round 2)", "approval_status": "PENDING HUMAN APPROVAL", "approved_file": null},
-  "open_questions_for_user": ["025 lyric: subtitle with ♪ or not (proposed: subtitle)", "018 'Ooh!': proposed no subtitle", "026: no subtitle (unintelligible)"],
-  "caches": {"asr": "/mnt/project-files/work/runs/full_source_translation_20261027_030524/asr/", "models": "faster-whisper large-v3 + medium.en (container-local, re-download from HF if needed)"},
-  "phase2_inputs_known": {"reference_video": "/mnt/project-files/uploads/hearth/a7582389-71c5-4e44-be09-2f1d68fe7027", "fonts": "/mnt/project-files/uploads/hearth/ (YuGoth*.ttc)", "style_spec": "/mnt/project-files/output/shared/subtitle_style_spec.md (verify)"},
-  "current_task": "waiting for human approval of translation_review.md",
-  "next_action": "on explicit approval: write approved_translation.md, then PHASE 2",
-  "blockers": ["human approval"]
+ "run_id": "full_source_translation_20261027_030524",
+ "updated": "2026-10-27T06:00:00Z",
+ "source": {
+  "manifest": "source_manifest.json",
+  "sha256": "6a4e1cf5fdb5133a7b2a32f98bca6968307f27c52b68f607f92aba730df8a996",
+  "duration_s": 130.714
+ },
+ "phase": 2,
+ "translation": {
+  "version": "v2",
+  "file": "translation_review.md",
+  "data": "transcription.json",
+  "qa": "translation_qa.md",
+  "critic_verdict": "PASS (round 2)",
+  "approval_status": "APPROVED (giub 2026-10-27T04:53:54Z)",
+  "approved_file": "approved_translation.md"
+ },
+ "caches": {
+  "asr": "/mnt/project-files/work/runs/full_source_translation_20261027_030524/asr/",
+  "models": "faster-whisper large-v3 + medium.en (container-local, re-download from HF if needed)"
+ },
+ "phase2_inputs_known": {
+  "reference_video": "/mnt/project-files/uploads/hearth/a7582389-71c5-4e44-be09-2f1d68fe7027",
+  "fonts": "/mnt/project-files/uploads/hearth/ (YuGoth*.ttc)",
+  "style_spec": "/mnt/project-files/output/shared/subtitle_style_spec.md (verify)"
+ },
+ "current_task": "done",
+ "next_action": "none",
+ "blockers": [],
+ "phase2": {
+  "output_dir": "output/runs/full_source_translation_20261027_030524/",
+  "final_sha256": "251215934a6e3d912add3153dc7a3d9ae169eec3ea92f0a7aa96eab63f277a07",
+  "qa": "output/runs/full_source_translation_20261027_030524/qa_report.md",
+  "critic": "PASS (round 2)",
+  "frozen": true
+ }
 }
