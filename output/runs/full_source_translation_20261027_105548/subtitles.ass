@@ -1,0 +1,166 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Yu Gothic,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,950,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}...trust you more than they
+Dialogue: 0,0:00:00.00,0:00:02.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}trust their mother and father,
+Dialogue: 0,0:00:00.00,0:00:02.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}…自分の親より こっちを信用してんだよ
+Dialogue: 0,0:00:02.78,0:00:06.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}because they know their mother
+Dialogue: 0,0:00:02.78,0:00:06.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and father can't beat you.
+Dialogue: 0,0:00:02.78,0:00:06.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}親じゃ勝てねえって わかってるからな
+Dialogue: 0,0:00:06.76,0:00:10.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I tell my grandkids, I tell my
+Dialogue: 0,0:00:06.76,0:00:10.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}granddaughters all the time,
+Dialogue: 0,0:00:06.76,0:00:10.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}孫たちに 孫娘たちに いつも言ってんだ
+Dialogue: 0,0:00:10.16,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}You scared of your daddy?
+Dialogue: 0,0:00:10.16,0:00:11.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「パパが怖いのか？
+Dialogue: 0,0:00:12.37,0:00:14.67,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I will beat your daddy.
+Dialogue: 0,0:00:12.37,0:00:14.67,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Your daddy ain't nothing.
+Dialogue: 0,0:00:12.37,0:00:14.67,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺がパパをぶっ倒してやる
+Dialogue: 0,0:00:12.37,0:00:14.67,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}パパなんて屁でもねえ」
+Dialogue: 0,0:00:15.53,0:00:17.33,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, how much money
+Dialogue: 0,0:00:15.53,0:00:17.33,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you think your daddy got?
+Dialogue: 0,0:00:15.53,0:00:17.33,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「パパがいくら持ってると思う？」
+Dialogue: 0,0:00:15.53,0:00:17.33,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}って聞くと
+Dialogue: 0,0:00:17.38,0:00:19.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"He got a lot of money, Grandpa."
+Dialogue: 0,0:00:17.38,0:00:19.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「いっぱい持ってるよ おじいちゃん」
+Dialogue: 0,0:00:19.36,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I pulled out like $10,000 and thought,
+Dialogue: 0,0:00:19.36,0:00:21.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}で 1万ドルくらい出して見せたら
+Dialogue: 0,0:00:21.50,0:00:24.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"Wow, you have way
+Dialogue: 0,0:00:21.50,0:00:24.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}more money than him."
+Dialogue: 0,0:00:21.50,0:00:24.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「すごい パパよりずっとお金持ってる」
+Dialogue: 0,0:00:24.74,0:00:27.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Yeah, you come holla at Grandpa
+Dialogue: 0,0:00:24.74,0:00:27.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when you need something.
+Dialogue: 0,0:00:24.74,0:00:27.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だろ？ 何か欲しい時は
+Dialogue: 0,0:00:24.74,0:00:27.21,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}じいちゃんに言いに来な
+Dialogue: 0,0:00:27.28,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I know that's right.
+Dialogue: 0,0:00:27.28,0:00:28.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ほんとそれ
+Dialogue: 0,0:00:28.16,0:00:29.90,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I laid the law down
+Dialogue: 0,0:00:28.16,0:00:29.90,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with my grandbabies
+Dialogue: 0,0:00:28.16,0:00:29.90,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}孫たちには ビシッと教えといたんだ
+Dialogue: 0,0:00:29.92,0:00:31.30,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and let them know, because they
+Dialogue: 0,0:00:29.92,0:00:31.30,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}自分のじいちゃんが何者か
+Dialogue: 0,0:00:29.92,0:00:31.30,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}知っとかなきゃいけねえからな
+Dialogue: 0,0:00:32.20,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}need to know who
+Dialogue: 0,0:00:32.20,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}their grandfather is.
+Dialogue: 0,0:00:32.20,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}自分のじいちゃんが何者か
+Dialogue: 0,0:00:32.20,0:00:33.60,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}知っとかなきゃいけねえからな
+Dialogue: 0,0:00:34.31,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Not celebrity and none
+Dialogue: 0,0:00:34.31,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}of that other stuff,
+Dialogue: 0,0:00:34.31,0:00:36.14,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}セレブとか そういうのじゃなくて
+Dialogue: 0,0:00:36.16,0:00:39.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but who he is up close and personal,
+Dialogue: 0,0:00:36.16,0:00:39.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}with being a part of their life.
+Dialogue: 0,0:00:36.16,0:00:39.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}孫の人生にちゃんと関わってる
+Dialogue: 0,0:00:36.16,0:00:39.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}素のじいちゃんをな
+Dialogue: 0,0:00:39.48,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}My grandfather was my best friend
+Dialogue: 0,0:00:39.48,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}my first 12 years on this earth.
+Dialogue: 0,0:00:39.48,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}俺のじいちゃんは
+Dialogue: 0,0:00:39.48,0:00:43.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}生まれてから12年間 俺の親友だった
+Dialogue: 0,0:00:43.36,0:00:45.20,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}My mother could never whoop me.
+Dialogue: 0,0:00:43.36,0:00:45.20,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}おふくろは俺をシバけなかった
+Dialogue: 0,0:00:45.22,0:00:47.07,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}She could never
+Dialogue: 0,0:00:45.22,0:00:47.07,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}do none of that to me,
+Dialogue: 0,0:00:45.22,0:00:47.07,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そういうことは 一切できなかった
+Dialogue: 0,0:00:47.28,0:00:49.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}but when he wasn't
+Dialogue: 0,0:00:47.28,0:00:49.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}around, I got beat.
+Dialogue: 0,0:00:47.28,0:00:49.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも じいちゃんがいない時は シバかれた
+Dialogue: 0,0:00:49.52,0:00:51.11,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But when he was ever around...
+Dialogue: 0,0:00:49.52,0:00:51.11,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}でも じいちゃんがいる時は…
+Dialogue: 0,0:00:51.76,0:00:54.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I got suspended from school and
+Dialogue: 0,0:00:51.76,0:00:54.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}I knew I was gonna get beat.
+Dialogue: 0,0:00:51.76,0:00:54.95,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}学校で停学くらって
+Dialogue: 0,0:00:51.76,0:00:54.95,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}絶対シバかれるって わかってた
+Dialogue: 0,0:00:55.17,0:00:57.76,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He lived right here, and my
+Dialogue: 0,0:00:55.17,0:00:57.76,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}mama house was right here.
+Dialogue: 0,0:00:55.17,0:00:57.76,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}じいちゃんちがここで おふくろの家がここ
+Dialogue: 0,0:00:57.78,0:01:00.21,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I had to pass his house
+Dialogue: 0,0:00:57.78,0:01:00.21,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}before I went home.
+Dialogue: 0,0:00:57.78,0:01:00.21,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}家に帰る前に じいちゃんちを通るんだよ
+Dialogue: 0,0:01:01.08,0:01:04.47,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I went there, sat down with him,
+Dialogue: 0,0:01:01.08,0:01:04.47,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}watched Rasslin' and Bonanza.
+Dialogue: 0,0:01:01.08,0:01:04.47,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そこに寄って じいちゃんと座って
+Dialogue: 0,0:01:01.08,0:01:04.47,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}プロレスとBonanzaを見てた
+Dialogue: 0,0:01:06.52,0:01:10.02,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He said, "Why you here so early?"
+Dialogue: 0,0:01:06.52,0:01:10.02,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}じいちゃんが「なんでこんな早えんだ？」
+Dialogue: 0,0:01:10.04,0:01:11.81,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I said, "Papa, I got suspended.
+Dialogue: 0,0:01:10.04,0:01:11.81,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺は「じいちゃん 停学くらった
+Dialogue: 0,0:01:11.83,0:01:13.45,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}My mom gonna beat me."
+Dialogue: 0,0:01:11.83,0:01:13.45,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}ママにシバかれる」
+Dialogue: 0,0:01:13.65,0:01:15.39,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"Your mom ain't gonna do s**t to you.
+Dialogue: 0,0:01:13.65,0:01:15.39,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「母ちゃんなんか 何もできやしねえよ
+Dialogue: 0,0:01:15.84,0:01:17.22,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}I'm finna tell her right now."
+Dialogue: 0,0:01:15.84,0:01:17.22,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}今すぐ言ってやる」
+Dialogue: 0,0:01:17.24,0:01:18.59,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"Don't tell her, Papa. Please."
+Dialogue: 0,0:01:17.24,0:01:18.59,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「言わないで じいちゃん お願い」
+Dialogue: 0,0:01:18.70,0:01:20.77,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"No, hell no. I'm
+Dialogue: 0,0:01:18.70,0:01:20.77,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}telling her right now."
+Dialogue: 0,0:01:18.70,0:01:20.77,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「ダメだ 冗談じゃねえ 今すぐ言う」
+Dialogue: 0,0:01:21.00,0:01:24.23,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"Beverly, Snoopy got suspended,
+Dialogue: 0,0:01:21.00,0:01:24.23,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}and you ain't doing s**t.
+Dialogue: 0,0:01:21.00,0:01:24.23,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}「Beverly Snoopyが停学になったが
+Dialogue: 0,0:01:21.00,0:01:24.23,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}お前は何もすんじゃねえぞ
+Dialogue: 0,0:01:24.25,0:01:26.43,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He's here with me watching
+Dialogue: 0,0:01:24.25,0:01:26.43,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}Rasslin' and Bonanza."
+Dialogue: 0,0:01:24.25,0:01:26.43,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今 俺とプロレスとBonanza見てるからな」
+Dialogue: 0,0:01:27.10,0:01:28.65,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"I'm beating his ass
+Dialogue: 0,0:01:27.10,0:01:28.65,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when he get out here!"
+Dialogue: 0,0:01:27.10,0:01:28.65,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}そしたらおふくろが「帰ってきたら
+Dialogue: 0,0:01:27.10,0:01:28.65,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}ケツひっぱたいてやる！」
+Dialogue: 0,0:01:28.98,0:01:31.37,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}On the back of the phone: "Please,
+Dialogue: 0,0:01:28.98,0:01:31.37,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}mama, I ain't gonna do it, please!"
+Dialogue: 0,0:01:28.98,0:01:31.37,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}後ろで俺が「ママ お願い
+Dialogue: 0,0:01:28.98,0:01:31.37,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}もうしないから お願い！」
+Dialogue: 0,0:01:32.42,0:01:33.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}"She ain't gonna do s**t.
+Dialogue: 0,0:01:32.42,0:01:33.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}「母ちゃんは何もしやしねえ
+Dialogue: 0,0:01:33.95,0:01:35.93,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}He's spending the night with me."
+Dialogue: 0,0:01:33.95,0:01:35.93,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}こいつは今夜うちに泊まる」
+Dialogue: 0,0:01:36.89,0:01:39.17,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And so my grandpa was a G,
+Dialogue: 0,0:01:36.89,0:01:39.17,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying?
+Dialogue: 0,0:01:36.89,0:01:39.17,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}だから じいちゃんはマジでGだったんだよ
+Dialogue: 0,0:01:36.89,0:01:39.17,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ？
+Dialogue: 0,0:01:39.19,0:01:40.52,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Mom couldn't break that,
+Dialogue: 0,0:01:39.19,0:01:40.52,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know what I'm saying?
+Dialogue: 0,0:01:39.19,0:01:40.52,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}おふくろも そこは崩せなかった
+Dialogue: 0,0:01:39.19,0:01:40.52,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}わかるだろ？
+Dialogue: 0,0:01:40.54,0:01:42.95,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Like, that protector.
+Dialogue: 0,0:01:40.54,0:01:42.95,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}守ってくれる存在っつうかさ
+Dialogue: 0,0:01:43.78,0:01:47.25,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}But despite mama being,
+Dialogue: 0,0:01:43.78,0:01:47.25,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}you know, disciplinary,
+Dialogue: 0,0:01:43.78,0:01:47.25,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}でも おふくろは まあ 厳しかったけど
+Dialogue: 0,0:01:47.52,0:01:49.15,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}she was an amazing protector.
+Dialogue: 0,0:01:47.52,0:01:49.15,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}最高に俺らを守ってくれた
+Dialogue: 0,0:01:49.38,0:01:52.09,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Because when you were
+Dialogue: 0,0:01:49.38,0:01:52.09,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}a single mother raising men
+Dialogue: 0,0:01:49.38,0:01:52.09,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}シングルマザーで 男の子を育ててたんだぜ
+Dialogue: 0,0:01:52.54,0:01:53.73,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}in the '70s and the '80s,
+Dialogue: 0,0:01:52.54,0:01:53.73,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}70年代 80年代にさ
+Dialogue: 0,0:01:53.86,0:01:56.04,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and from what we was encountering
+Dialogue: 0,0:01:53.86,0:01:56.04,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}俺らが家の外で 出くわしてたことや
+Dialogue: 0,0:01:56.06,0:01:59.00,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}and the things we was seeing
+Dialogue: 0,0:01:56.06,0:01:59.00,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}when we was outside of our home,
+Dialogue: 0,0:01:56.06,0:01:59.00,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}見てたもんを考えたら
+Dialogue: 0,0:01:59.14,0:02:00.61,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}she did an amazing job.
+Dialogue: 0,0:01:59.14,0:02:00.61,Sub,,0,0,0,,{\an8\pos(540,998)\fs50}おふくろは 本当によくやってくれたよ
+Dialogue: 0,0:02:00.96,0:02:04.19,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}And I understand now,
+Dialogue: 0,0:02:00.96,0:02:04.19,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}as a father and a grandfather,
+Dialogue: 0,0:02:00.96,0:02:04.19,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}今 父親として じいちゃんとして わかるんだ
+Dialogue: 0,0:02:04.32,0:02:09.83,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}how hard it is to raise a kid,
+Dialogue: 0,0:02:04.32,0:02:09.83,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}or kids, when it's you by yourself.
+Dialogue: 0,0:02:04.32,0:02:09.83,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}1人で子供を 子供たちを育てるのが
+Dialogue: 0,0:02:04.32,0:02:09.83,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}どれだけ大変か
+Dialogue: 0,0:02:10.25,0:02:13.74,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}Do you feel like there's
+Dialogue: 0,0:02:10.25,0:02:13.74,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}really a big difference
+Dialogue: 0,0:02:10.25,0:02:13.74,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}両親そろって育った子と…
+Dialogue: 0,0:02:10.25,0:02:13.74,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}本当に大きな違いってあると思う？
+Dialogue: 0,0:02:13.76,0:02:15.79,Sub,,0,0,0,,{\an8\pos(540,948)\fs54}between children that grow
+Dialogue: 0,0:02:13.76,0:02:15.79,Sub,,0,0,0,,{\an8\pos(540,998)\fs54}up with both their parents...
+Dialogue: 0,0:02:13.76,0:02:15.79,Sub,,0,0,0,,{\an8\pos(540,1048)\fs50}両親そろって育った子と…
+Dialogue: 0,0:02:13.76,0:02:15.79,Sub,,0,0,0,,{\an8\pos(540,1098)\fs50}本当に大きな違いってあると思う？

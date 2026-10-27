@@ -1,14 +1,45 @@
 {
  "run_id": "full_source_translation_20261027_105548",
- "updated": "2026-10-27T12:10:00Z",
- "source": {"manifest": "source_manifest.json", "file": "/mnt/project-files/ScreenRecording_10-26-2026 15-15-33_1.mp4", "sha256": "48ce9840119359f101e18265f9f7e1e48335797580931d65e030063ecfafecfe", "duration_s": 135.811814},
- "phase": 1,
- "translation": {"version": "v1", "file": "translation_review.md", "data": "transcription.json", "qa": "translation_qa.md", "critic_verdict": "PASS round 1 (4 suggestions applied)", "approval_status": "PENDING HUMAN APPROVAL", "approved_file": null},
- "caches": {"asr": "/mnt/project-files/work/runs/full_source_translation_20261027_105548/asr/", "video_pts": "/mnt/project-files/work/runs/full_source_translation_20261027_105548/video_pts.txt"},
+ "updated": "2026-10-27T15:30:00Z",
+ "source": {
+  "manifest": "source_manifest.json",
+  "file": "/mnt/project-files/ScreenRecording_10-26-2026 15-15-33_1.mp4",
+  "sha256": "48ce9840119359f101e18265f9f7e1e48335797580931d65e030063ecfafecfe",
+  "duration_s": 135.811814
+ },
+ "phase": 2,
+ "translation": {
+  "version": "v1",
+  "file": "translation_review.md",
+  "data": "transcription.json",
+  "qa": "translation_qa.md",
+  "critic_verdict": "PASS round 1 (4 suggestions applied)",
+  "approval_status": "APPROVED (giub 2026-10-27T14:27:20Z)",
+  "approved_file": "approved_translation.md"
+ },
+ "caches": {
+  "asr": "/mnt/project-files/work/runs/full_source_translation_20261027_105548/asr/",
+  "video_pts": "/mnt/project-files/work/runs/full_source_translation_20261027_105548/video_pts.txt"
+ },
  "scripts": "scripts/runs/full_source_translation_20261027_105548/ (lines.py = translation data, build_review.py)",
- "phase2_inputs_known": {"style_spec": "reuse run full_source_translation_20261027_070832 scripts (branch claude/project-thread-rfnly8)", "no_annotation_row": true, "masking": "two-asterisk s**t", "source_notes": "HEVC VFR (1/600 timebase), rotation 90 -> display 2556x1180 landscape with black side bars; audio starts 0.023 s"},
- "uncertainties": ["008 and thought / oh wow", "025 vocative after 'He said' unresolved, omitted"],
- "current_task": "waiting for giub's translation approval",
- "next_action": "on approval: write approved_translation.md, then Phase 2",
- "blockers": ["human approval"]
+ "phase2_inputs_known": {
+  "style_spec": "reuse run full_source_translation_20261027_070832 scripts (branch claude/project-thread-rfnly8)",
+  "no_annotation_row": true,
+  "masking": "two-asterisk s**t",
+  "source_notes": "HEVC VFR (1/600 timebase), rotation 90 -> display 2556x1180 landscape with black side bars; audio starts 0.023 s"
+ },
+ "uncertainties": [
+  "008 and thought / oh wow",
+  "025 vocative after 'He said' unresolved, omitted"
+ ],
+ "current_task": "done",
+ "next_action": "none (optional: user may ask to add 'Sonny' at 67.6 s)",
+ "blockers": [],
+ "phase2": {
+  "output_dir": "output/runs/full_source_translation_20261027_105548/",
+  "final_sha256": "18d290d9366cc50a459f3cda21636c42a082fac2fa6bb43e53cd7f40eec8f96f",
+  "qa": "output/runs/full_source_translation_20261027_105548/qa_report.md",
+  "critic": "FAIL r1 (two-shot framing) -> PASS r2",
+  "frozen": true
+ }
 }

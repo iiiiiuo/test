@@ -1,0 +1,530 @@
+{
+ "run_id": "full_source_translation_20261027_105548",
+ "source_duration_s": 135.79,
+ "method": "caption start = voiced-region onset of the first word (medium.en word time refined with 250-3500 Hz energy, onsets.py); end = medium.en last word end - 0.15 + 0.3 s, min 1.0 s, never overlapping the next caption",
+ "not_subtitled": [
+  "host backchannels 'yeah'"
+ ],
+ "events": [
+  {
+   "event": 1,
+   "line_id": "001",
+   "start": 0.0,
+   "end": 2.67,
+   "last_word_end": 2.37,
+   "en": "...trust you more than they trust their mother and father,",
+   "en_display": "...trust you more than they trust their mother and father,",
+   "jp": "…自分の親より こっちを信用してんだよ"
+  },
+  {
+   "event": 2,
+   "line_id": "002",
+   "start": 2.78,
+   "end": 6.25,
+   "last_word_end": 5.949999999999999,
+   "en": "because they know their mother and father can't beat you.",
+   "en_display": "because they know their mother and father can't beat you.",
+   "jp": "親じゃ勝てねえって わかってるからな"
+  },
+  {
+   "event": 3,
+   "line_id": "003",
+   "start": 6.76,
+   "end": 10.14,
+   "last_word_end": 10.25,
+   "en": "I tell my grandkids, I tell my granddaughters all the time,",
+   "en_display": "I tell my grandkids, I tell my granddaughters all the time,",
+   "jp": "孫たちに 孫娘たちに いつも言ってんだ"
+  },
+  {
+   "event": 4,
+   "line_id": "004",
+   "start": 10.16,
+   "end": 11.79,
+   "last_word_end": 11.49,
+   "en": "You scared of your daddy?",
+   "en_display": "You scared of your daddy?",
+   "jp": "「パパが怖いのか？"
+  },
+  {
+   "event": 5,
+   "line_id": "005",
+   "start": 12.37,
+   "end": 14.67,
+   "last_word_end": 14.37,
+   "en": "I will beat your daddy. Your daddy ain't nothing.",
+   "en_display": "I will beat your daddy. Your daddy ain't nothing.",
+   "jp": "俺がパパをぶっ倒してやる パパなんて屁でもねえ」"
+  },
+  {
+   "event": 6,
+   "line_id": "006",
+   "start": 15.53,
+   "end": 17.33,
+   "last_word_end": 17.03,
+   "en": "I said, how much money you think your daddy got?",
+   "en_display": "I said, how much money you think your daddy got?",
+   "jp": "「パパがいくら持ってると思う？」って聞くと"
+  },
+  {
+   "event": 7,
+   "line_id": "007",
+   "start": 17.38,
+   "end": 19.17,
+   "last_word_end": 18.87,
+   "en": "\"He got a lot of money, Grandpa.\"",
+   "en_display": "\"He got a lot of money, Grandpa.\"",
+   "jp": "「いっぱい持ってるよ おじいちゃん」"
+  },
+  {
+   "event": 8,
+   "line_id": "008",
+   "start": 19.36,
+   "end": 21.43,
+   "last_word_end": 21.130000000000003,
+   "en": "I pulled out like $10,000 and thought,",
+   "en_display": "I pulled out like $10,000 and thought,",
+   "jp": "で 1万ドルくらい出して見せたら"
+  },
+  {
+   "event": 9,
+   "line_id": "009",
+   "start": 21.5,
+   "end": 24.21,
+   "last_word_end": 23.91,
+   "en": "\"Wow, you have way more money than him.\"",
+   "en_display": "\"Wow, you have way more money than him.\"",
+   "jp": "「すごい パパよりずっとお金持ってる」"
+  },
+  {
+   "event": 10,
+   "line_id": "010",
+   "start": 24.74,
+   "end": 27.21,
+   "last_word_end": 26.91,
+   "en": "Yeah, you come holla at Grandpa when you need something.",
+   "en_display": "Yeah, you come holla at Grandpa when you need something.",
+   "jp": "だろ？ 何か欲しい時は じいちゃんに言いに来な"
+  },
+  {
+   "event": 11,
+   "line_id": "011",
+   "start": 27.28,
+   "end": 28.14,
+   "last_word_end": 28.07,
+   "en": "I know that's right.",
+   "en_display": "I know that's right.",
+   "jp": "ほんとそれ"
+  },
+  {
+   "event": 12,
+   "line_id": "012",
+   "start": 28.16,
+   "end": 29.9,
+   "last_word_end": 29.770000000000003,
+   "en": "I laid the law down with my grandbabies",
+   "en_display": "I laid the law down with my grandbabies",
+   "jp": "孫たちには ビシッと教えといたんだ"
+  },
+  {
+   "event": 13,
+   "line_id": "013",
+   "start": 29.92,
+   "end": 31.3,
+   "last_word_end": 31.0,
+   "en": "and let them know, because they",
+   "en_display": "and let them know, because they",
+   "jp": "自分のじいちゃんが何者か 知っとかなきゃいけねえからな"
+  },
+  {
+   "event": 14,
+   "line_id": "013",
+   "start": 32.2,
+   "end": 33.6,
+   "last_word_end": 33.3,
+   "en": "need to know who their grandfather is.",
+   "en_display": "need to know who their grandfather is.",
+   "jp": "自分のじいちゃんが何者か 知っとかなきゃいけねえからな"
+  },
+  {
+   "event": 15,
+   "line_id": "014",
+   "start": 34.31,
+   "end": 36.14,
+   "last_word_end": 36.01,
+   "en": "Not celebrity and none of that other stuff,",
+   "en_display": "Not celebrity and none of that other stuff,",
+   "jp": "セレブとか そういうのじゃなくて"
+  },
+  {
+   "event": 16,
+   "line_id": "015",
+   "start": 36.16,
+   "end": 39.23,
+   "last_word_end": 38.93,
+   "en": "but who he is up close and personal, with being a part of their life.",
+   "en_display": "but who he is up close and personal, with being a part of their life.",
+   "jp": "孫の人生にちゃんと関わってる 素のじいちゃんをな"
+  },
+  {
+   "event": 17,
+   "line_id": "016",
+   "start": 39.48,
+   "end": 43.17,
+   "last_word_end": 42.870000000000005,
+   "en": "My grandfather was my best friend my first 12 years on this earth.",
+   "en_display": "My grandfather was my best friend my first 12 years on this earth.",
+   "jp": "俺のじいちゃんは 生まれてから12年間 俺の親友だった"
+  },
+  {
+   "event": 18,
+   "line_id": "017",
+   "start": 43.36,
+   "end": 45.2,
+   "last_word_end": 44.97,
+   "en": "My mother could never whoop me.",
+   "en_display": "My mother could never whoop me.",
+   "jp": "おふくろは俺をシバけなかった"
+  },
+  {
+   "event": 19,
+   "line_id": "018",
+   "start": 45.22,
+   "end": 47.07,
+   "last_word_end": 46.77,
+   "en": "She could never do none of that to me,",
+   "en_display": "She could never do none of that to me,",
+   "jp": "そういうことは 一切できなかった"
+  },
+  {
+   "event": 20,
+   "line_id": "019",
+   "start": 47.28,
+   "end": 49.09,
+   "last_word_end": 48.79,
+   "en": "but when he wasn't around, I got beat.",
+   "en_display": "but when he wasn't around, I got beat.",
+   "jp": "でも じいちゃんがいない時は シバかれた"
+  },
+  {
+   "event": 21,
+   "line_id": "020",
+   "start": 49.52,
+   "end": 51.11,
+   "last_word_end": 50.81,
+   "en": "But when he was ever around...",
+   "en_display": "But when he was ever around...",
+   "jp": "でも じいちゃんがいる時は…"
+  },
+  {
+   "event": 22,
+   "line_id": "021",
+   "start": 51.76,
+   "end": 54.95,
+   "last_word_end": 54.65,
+   "en": "I got suspended from school and I knew I was gonna get beat.",
+   "en_display": "I got suspended from school and I knew I was gonna get beat.",
+   "jp": "学校で停学くらって 絶対シバかれるって わかってた"
+  },
+  {
+   "event": 23,
+   "line_id": "022",
+   "start": 55.17,
+   "end": 57.76,
+   "last_word_end": 57.63,
+   "en": "He lived right here, and my mama house was right here.",
+   "en_display": "He lived right here, and my mama house was right here.",
+   "jp": "じいちゃんちがここで おふくろの家がここ"
+  },
+  {
+   "event": 24,
+   "line_id": "023",
+   "start": 57.78,
+   "end": 60.21,
+   "last_word_end": 59.910000000000004,
+   "en": "I had to pass his house before I went home.",
+   "en_display": "I had to pass his house before I went home.",
+   "jp": "家に帰る前に じいちゃんちを通るんだよ"
+  },
+  {
+   "event": 25,
+   "line_id": "024",
+   "start": 61.08,
+   "end": 64.47,
+   "last_word_end": 64.16999999999999,
+   "en": "I went there, sat down with him, watched Rasslin' and Bonanza.",
+   "en_display": "I went there, sat down with him, watched Rasslin' and Bonanza.",
+   "jp": "そこに寄って じいちゃんと座って プロレスとBonanzaを見てた"
+  },
+  {
+   "event": 26,
+   "line_id": "025",
+   "start": 66.52,
+   "end": 70.02,
+   "last_word_end": 69.83,
+   "en": "He said, \"Why you here so early?\"",
+   "en_display": "He said, \"Why you here so early?\"",
+   "jp": "じいちゃんが「なんでこんな早えんだ？」"
+  },
+  {
+   "event": 27,
+   "line_id": "026",
+   "start": 70.04,
+   "end": 71.81,
+   "last_word_end": 71.86999999999999,
+   "en": "I said, \"Papa, I got suspended.",
+   "en_display": "I said, \"Papa, I got suspended.",
+   "jp": "俺は「じいちゃん 停学くらった"
+  },
+  {
+   "event": 28,
+   "line_id": "027",
+   "start": 71.83,
+   "end": 73.45,
+   "last_word_end": 73.14999999999999,
+   "en": "My mom gonna beat me.\"",
+   "en_display": "My mom gonna beat me.\"",
+   "jp": "ママにシバかれる」"
+  },
+  {
+   "event": 29,
+   "line_id": "028",
+   "start": 73.65,
+   "end": 75.39,
+   "last_word_end": 75.08999999999999,
+   "en": "\"Your mom ain't gonna do shit to you.",
+   "en_display": "\"Your mom ain't gonna do s**t to you.",
+   "jp": "「母ちゃんなんか 何もできやしねえよ"
+  },
+  {
+   "event": 30,
+   "line_id": "029",
+   "start": 75.84,
+   "end": 77.22,
+   "last_word_end": 76.99,
+   "en": "I'm finna tell her right now.\"",
+   "en_display": "I'm finna tell her right now.\"",
+   "jp": "今すぐ言ってやる」"
+  },
+  {
+   "event": 31,
+   "line_id": "030",
+   "start": 77.24,
+   "end": 78.59,
+   "last_word_end": 78.28999999999999,
+   "en": "\"Don't tell her, Papa. Please.\"",
+   "en_display": "\"Don't tell her, Papa. Please.\"",
+   "jp": "「言わないで じいちゃん お願い」"
+  },
+  {
+   "event": 32,
+   "line_id": "031",
+   "start": 78.7,
+   "end": 80.77,
+   "last_word_end": 80.47,
+   "en": "\"No, hell no. I'm telling her right now.\"",
+   "en_display": "\"No, hell no. I'm telling her right now.\"",
+   "jp": "「ダメだ 冗談じゃねえ 今すぐ言う」"
+  },
+  {
+   "event": 33,
+   "line_id": "032",
+   "start": 81.0,
+   "end": 84.23,
+   "last_word_end": 84.05,
+   "en": "\"Beverly, Snoopy got suspended, and you ain't doing shit.",
+   "en_display": "\"Beverly, Snoopy got suspended, and you ain't doing s**t.",
+   "jp": "「Beverly Snoopyが停学になったが お前は何もすんじゃねえぞ"
+  },
+  {
+   "event": 34,
+   "line_id": "033",
+   "start": 84.25,
+   "end": 86.43,
+   "last_word_end": 86.13,
+   "en": "He's here with me watching Rasslin' and Bonanza.\"",
+   "en_display": "He's here with me watching Rasslin' and Bonanza.\"",
+   "jp": "今 俺とプロレスとBonanza見てるからな」"
+  },
+  {
+   "event": 35,
+   "line_id": "034",
+   "start": 87.1,
+   "end": 88.65,
+   "last_word_end": 88.35,
+   "en": "\"I'm beating his ass when he get out here!\"",
+   "en_display": "\"I'm beating his ass when he get out here!\"",
+   "jp": "そしたらおふくろが「帰ってきたら ケツひっぱたいてやる！」"
+  },
+  {
+   "event": 36,
+   "line_id": "035",
+   "start": 88.98,
+   "end": 91.37,
+   "last_word_end": 91.07,
+   "en": "On the back of the phone: \"Please, mama, I ain't gonna do it, please!\"",
+   "en_display": "On the back of the phone: \"Please, mama, I ain't gonna do it, please!\"",
+   "jp": "後ろで俺が「ママ お願い もうしないから お願い！」"
+  },
+  {
+   "event": 37,
+   "line_id": "036",
+   "start": 92.42,
+   "end": 93.61,
+   "last_word_end": 93.30999999999999,
+   "en": "\"She ain't gonna do shit.",
+   "en_display": "\"She ain't gonna do s**t.",
+   "jp": "「母ちゃんは何もしやしねえ"
+  },
+  {
+   "event": 38,
+   "line_id": "037",
+   "start": 93.95,
+   "end": 95.93,
+   "last_word_end": 95.63,
+   "en": "He's spending the night with me.\"",
+   "en_display": "He's spending the night with me.\"",
+   "jp": "こいつは今夜うちに泊まる」"
+  },
+  {
+   "event": 39,
+   "line_id": "038",
+   "start": 96.89,
+   "end": 99.17,
+   "last_word_end": 98.94999999999999,
+   "en": "And so my grandpa was a G, you know what I'm saying?",
+   "en_display": "And so my grandpa was a G, you know what I'm saying?",
+   "jp": "だから じいちゃんはマジでGだったんだよ わかるだろ？"
+  },
+  {
+   "event": 40,
+   "line_id": "039",
+   "start": 99.19,
+   "end": 100.52,
+   "last_word_end": 100.63,
+   "en": "Mom couldn't break that, you know what I'm saying?",
+   "en_display": "Mom couldn't break that, you know what I'm saying?",
+   "jp": "おふくろも そこは崩せなかった わかるだろ？"
+  },
+  {
+   "event": 41,
+   "line_id": "040",
+   "start": 100.54,
+   "end": 102.95,
+   "last_word_end": 102.64999999999999,
+   "en": "Like, that protector.",
+   "en_display": "Like, that protector.",
+   "jp": "守ってくれる存在っつうかさ"
+  },
+  {
+   "event": 42,
+   "line_id": "041",
+   "start": 103.78,
+   "end": 107.25,
+   "last_word_end": 106.94999999999999,
+   "en": "But despite mama being, you know, disciplinary,",
+   "en_display": "But despite mama being, you know, disciplinary,",
+   "jp": "でも おふくろは まあ 厳しかったけど"
+  },
+  {
+   "event": 43,
+   "line_id": "042",
+   "start": 107.52,
+   "end": 109.15,
+   "last_word_end": 108.85,
+   "en": "she was an amazing protector.",
+   "en_display": "she was an amazing protector.",
+   "jp": "最高に俺らを守ってくれた"
+  },
+  {
+   "event": 44,
+   "line_id": "043",
+   "start": 109.38,
+   "end": 112.09,
+   "last_word_end": 111.78999999999999,
+   "en": "Because when you were a single mother raising men",
+   "en_display": "Because when you were a single mother raising men",
+   "jp": "シングルマザーで 男の子を育ててたんだぜ"
+  },
+  {
+   "event": 45,
+   "line_id": "044",
+   "start": 112.54,
+   "end": 113.73,
+   "last_word_end": 113.42999999999999,
+   "en": "in the '70s and the '80s,",
+   "en_display": "in the '70s and the '80s,",
+   "jp": "70年代 80年代にさ"
+  },
+  {
+   "event": 46,
+   "line_id": "045",
+   "start": 113.86,
+   "end": 116.04,
+   "last_word_end": 116.0,
+   "en": "and from what we was encountering",
+   "en_display": "and from what we was encountering",
+   "jp": "俺らが家の外で 出くわしてたことや"
+  },
+  {
+   "event": 47,
+   "line_id": "045",
+   "start": 116.06,
+   "end": 119.0,
+   "last_word_end": 118.7,
+   "en": "and the things we was seeing when we was outside of our home,",
+   "en_display": "and the things we was seeing when we was outside of our home,",
+   "jp": "見てたもんを考えたら"
+  },
+  {
+   "event": 48,
+   "line_id": "046",
+   "start": 119.14,
+   "end": 120.61,
+   "last_word_end": 120.30999999999999,
+   "en": "she did an amazing job.",
+   "en_display": "she did an amazing job.",
+   "jp": "おふくろは 本当によくやってくれたよ"
+  },
+  {
+   "event": 49,
+   "line_id": "047",
+   "start": 120.96,
+   "end": 124.19,
+   "last_word_end": 123.89,
+   "en": "And I understand now, as a father and a grandfather,",
+   "en_display": "And I understand now, as a father and a grandfather,",
+   "jp": "今 父親として じいちゃんとして わかるんだ"
+  },
+  {
+   "event": 50,
+   "line_id": "048",
+   "start": 124.32,
+   "end": 129.83,
+   "last_word_end": 129.53,
+   "en": "how hard it is to raise a kid, or kids, when it's you by yourself.",
+   "en_display": "how hard it is to raise a kid, or kids, when it's you by yourself.",
+   "jp": "1人で子供を 子供たちを育てるのが どれだけ大変か"
+  },
+  {
+   "event": 51,
+   "line_id": "049",
+   "start": 130.25,
+   "end": 133.74,
+   "last_word_end": 133.7,
+   "en": "Do you feel like there's really a big difference",
+   "en_display": "Do you feel like there's really a big difference",
+   "jp": "両親そろって育った子と… 本当に大きな違いってあると思う？"
+  },
+  {
+   "event": 52,
+   "line_id": "049",
+   "start": 133.76,
+   "end": 135.79,
+   "last_word_end": 135.79,
+   "en": "between children that grow up with both their parents...",
+   "en_display": "between children that grow up with both their parents...",
+   "jp": "両親そろって育った子と… 本当に大きな違いってあると思う？"
+  }
+ ]
+}
